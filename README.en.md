@@ -1,6 +1,6 @@
 <div align="center">
 
-# GPT Image 2.5 Prompt Gallery
+# Prompt Gallery (提示词图库)
 
 **Real GPT Image 2.5 images shared on X, each with its full prompt. Search, filter, copy in one click.**
 

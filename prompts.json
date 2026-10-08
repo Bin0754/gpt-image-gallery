@@ -1,5 +1,6 @@
 {
-  "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
+  "name": "提示词图库 / Prompt Gallery",
+  "covers": "GPT Image 2.5",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
   "generated_at": "2026-10-08T14:06:17+08:00",

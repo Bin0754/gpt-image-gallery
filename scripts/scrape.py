@@ -87,7 +87,7 @@ def main():
         final.append(it)
 
     payload = {
-        'title': 'GPT Image 2.5 提示词图库',
+        'title': '提示词图库',
         'generated_at': __import__('datetime').datetime.now().astimezone().isoformat(timespec='seconds'),
         'count': len(final),
         'queries': [q['query'] for q in json.loads((ROOT / 'scripts' / 'queries.json').read_text(encoding='utf-8'))['queries']],
