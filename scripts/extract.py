@@ -14,6 +14,7 @@ EXCLUDE_TEXT = re.compile(r'full JSON prompt 👆', re.I)
 VIDEO_ONLY = re.compile(r'^\W*(\d\W*)?(video prompt|sedance|seedance|video prompt（grok）)', re.I)
 TCO = re.compile(r'https://t\.co/\S+')
 SH = timezone(timedelta(hours=8))
+LAST_MISSING = []   # (username, conversation_id) of root posts with photos but no prompt yet -> fetch_x.py asks for self-replies
 
 def load_responses(paths):
     out = []
@@ -71,6 +72,7 @@ def build_posts(raw_glob='raw/*.txt'):
         if p.get('in_reply_to_user_id') == p['author_id']:
             replies.setdefault((conv, p['author_id']), []).append(p)
     items = []
+    LAST_MISSING.clear()
     for pid, p in posts.items():
         if p.get('conversation_id') not in (None, pid) and p.get('in_reply_to_user_id') == p['author_id']:
             # it's a self-reply; only keep as standalone if it has its own photos + inline prompt (e.g. DeepBlue reply)
@@ -114,7 +116,9 @@ def build_posts(raw_glob='raw/*.txt'):
                 parts.append(c)
             if parts:
                 prompt = '\n\n———\n\n'.join(parts); source = 'reply'
-        if not prompt: continue
+        if not prompt:
+            if is_root: LAST_MISSING.append((users.get(p['author_id'], {}).get('username', ''), pid))
+            continue
         u = users.get(p['author_id'], {})
         dt = datetime.strptime(p['created_at'], '%Y-%m-%dT%H:%M:%S.%fZ').replace(tzinfo=timezone.utc).astimezone(SH)
         items.append({

@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
-"""Build data.json + download/resize images from raw X MCP search dumps.
+"""Parse raw X API v2 responses (raw/*.txt) -> data.json, and download/resize images.
 
-Refresh workflow:
-  1. Use the `x` MCP tools (search_posts_all / get_posts_by_ids) to re-fetch posts
-     about GPT Image 2.5 that contain images + prompts. Save each JSON response
-     first-line into raw/*.txt (same format as this repo's raw dumps).
-  2. Optionally hydrate author self-replies for "prompt below" posts.
-  3. Run:  python3 scrape.py
-  4. Rebuild the site:  python3 build_site.py
+Pipeline (run from the repo root):
+  1. python3 scripts/fetch_x.py      # X API search -> raw/*.txt   (needs X_BEARER_TOKEN)
+  2. python3 scripts/scrape.py       # raw/*.txt -> data.json + images/ (<=1200px) + thumbs/ (<=480px)
+  3. python3 scripts/build_site.py   # data.json -> index.html, prompts.json, prompts.csv, gallery.html
 
-This script does NOT call X directly — it consumes raw/*.txt already collected.
+raw/*.txt: one X API JSON response per file (first JSON line is used). Images already
+downloaded are reused, so re-running is cheap.
 """
 from __future__ import annotations
 import json, os, hashlib, concurrent.futures
@@ -19,7 +17,7 @@ from PIL import Image
 from io import BytesIO
 import requests
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent   # repo root (scripts/ lives one level down)
 IMG_DIR = ROOT / 'images'
 THUMB_DIR = ROOT / 'thumbs'
 DATA = ROOT / 'data.json'
@@ -92,12 +90,7 @@ def main():
         'title': 'GPT Image 2.5 提示词图库',
         'generated_at': __import__('datetime').datetime.now().astimezone().isoformat(timespec='seconds'),
         'count': len(final),
-        'queries': [
-            '("gpt image 2.5" OR "gpt-image-2.5" OR gptimage2.5 OR gptimage25) prompt has:images -is:retweet',
-            '("gpt image 2.5" OR "gpt-image-2.5") (提示词 OR プロンプト OR "prompt:" OR "prompt below") has:images -is:retweet',
-            '("gpt image 2.5" OR "gpt-image-2.5") ("prompt:" OR "提示词：") has:images -is:retweet -is:reply',
-            'lang:zh / lang:ja variants of the above',
-        ],
+        'queries': [q['query'] for q in json.loads((ROOT / 'scripts' / 'queries.json').read_text(encoding='utf-8'))['queries']],
         'posts': final,
     }
     DATA.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')

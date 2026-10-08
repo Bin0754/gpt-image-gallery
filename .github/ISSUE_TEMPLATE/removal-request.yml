@@ -1,0 +1,34 @@
+name: 移除请求 / Removal request
+description: 作者请求从图库中移除自己的作品与提示词
+title: "[移除] "
+labels: ["removal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如果你是作品的作者并希望移除，请填写以下信息，我们会尽快处理（通常在下次更新前完成），并在之后的数据更新中排除你的内容。
+        If you are the author and want your content removed, fill in the form below. It will be removed promptly and excluded from future updates.
+  - type: textarea
+    id: post_urls
+    attributes:
+      label: 需要移除的原帖链接 / Post URL(s) to remove
+      description: 每行一个；如需移除你的全部内容，写上你的 X 用户名并注明“全部” / One per line, or your X handle + "all"
+      placeholder: https://x.com/username/status/1234567890
+    validations:
+      required: true
+  - type: input
+    id: handle
+    attributes:
+      label: 你的 X 用户名 / Your X handle
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: textarea
+    id: verify
+    attributes:
+      label: 身份说明（可选）/ How can we verify you're the author? (optional)
+      description: 例如 GitHub 主页上关联了该 X 账号，或从该 X 账号发帖提及本仓库 / e.g. your GitHub profile links the X account
+  - type: textarea
+    id: reason
+    attributes:
+      label: 其他说明（可选）/ Anything else (optional)

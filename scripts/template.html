@@ -3,13 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>GPT Image 2.5 提示词图库</title>
+<title>GPT Image 2.5 提示词图库 · 真实作品 + 完整提示词</title>
 <meta name="description" content="__DESC__">
 <meta name="theme-color" content="#0b0c10">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta property="og:type" content="website">
-<meta property="og:title" content="GPT Image 2.5 提示词图库">
+<meta property="og:title" content="GPT Image 2.5 提示词图库 · __COUNT__ 组真实作品与完整提示词">
+<meta property="og:locale" content="zh_CN">
 <meta property="og:description" content="__DESC__">
 <meta property="og:url" content="__SITE_URL__">
 <meta property="og:image" content="__OG_IMAGE__">
@@ -76,15 +77,41 @@ mark{background:rgba(124,156,255,.28);color:inherit;border-radius:3px;padding:0 
 .lb-prompt details{margin-top:14px;color:var(--muted)}
 .lb-prompt details p{white-space:pre-wrap;font-size:12.5px}
 .lb-actions{padding:14px 20px;border-top:1px solid var(--line);display:flex;gap:10px}
+.lb-actions .btn.primary{flex:1.4}
 .btn{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);color:var(--text);cursor:pointer;text-decoration:none;font-size:14px;font-weight:600}
 .btn.primary{background:linear-gradient(90deg,#5b7cff,#9a6bff);border:0}
 .btn:hover{filter:brightness(1.1)}
 footer{color:var(--muted);text-align:center;font-size:12px;padding:0 24px 40px}
+.links{display:flex;gap:8px;align-items:center;order:4}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:8px 12px;border-radius:12px;font-size:13px;text-decoration:none;cursor:pointer;white-space:nowrap;list-style:none}
+.pill::-webkit-details-marker{display:none}
+.pill:hover{border-color:#3a4050}
+.gh .star{color:#ffd76a;font-size:12px}
+.lbl-s{display:none}
+.dl{position:relative}
+.dl .menu{position:absolute;right:0;top:calc(100% + 6px);background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:6px;min-width:250px;box-shadow:0 16px 40px rgba(0,0,0,.5);z-index:30}
+.dl .menu a{display:block;padding:9px 12px;border-radius:9px;text-decoration:none;font-size:14px}
+.dl .menu a:hover{background:var(--panel2)}
+.dl .menu small{display:block;color:var(--muted);font-size:11.5px}
+.brand{order:1}.search{order:2}.controls{order:3}
+.intro{position:relative;max-width:1600px;margin:14px auto 0;padding:0 24px}
+.intro p{margin:0;padding:14px 44px 6px 16px;background:linear-gradient(90deg,rgba(124,156,255,.10),rgba(177,140,255,.06));border:1px solid var(--line);border-bottom:0;border-radius:14px 14px 0 0;color:#cfd3dd;font-size:13.5px}
+.intro p b{color:var(--text)}
+.tips{list-style:none;margin:0;padding:4px 16px 14px;display:flex;flex-wrap:wrap;gap:6px 18px;background:linear-gradient(90deg,rgba(124,156,255,.10),rgba(177,140,255,.06));border:1px solid var(--line);border-top:0;border-radius:0 0 14px 14px;color:var(--muted);font-size:12.5px}
+.tips i{font-style:normal;margin-right:5px}
+.intro-x{position:absolute;right:34px;top:8px;background:none;border:0;color:var(--muted);font-size:20px;cursor:pointer}
+.intro.hide{display:none}
+footer p{margin:4px 0}footer a{color:#aab8ff}
 @media (max-width:860px){.lb-wrap{flex-direction:column}.lb-side{width:100%;height:55%}.lb-img{height:45%;padding:10px}.lb-img img{max-height:100%}.bar{padding:12px 14px}main{padding:12px 14px 40px}.stats{padding:8px 14px 0}}
 @media (max-width:640px){
-header{position:static}
+header{position:relative}
+.lbl-s{display:inline}
 .bar{padding:10px 12px;gap:10px}
-.brand{min-width:0}.brand h1{font-size:17px}.brand small{font-size:11px}
+.brand{min-width:0;flex:1 1 0}.brand h1{font-size:16.5px;white-space:nowrap}.brand small{font-size:11px;line-height:1.4;display:block}
+.links{gap:6px;order:2}.search{order:3}.controls{order:4}.pill{padding:7px 9px;font-size:12.5px}.pill .lbl{display:none}.gh .star{font-size:11.5px}
+.dl .menu{min-width:230px}
+.intro{padding:0 10px;margin-top:10px}.intro p{padding:11px 34px 4px 12px;font-size:12.5px}.tips{padding:2px 12px 11px;gap:3px 12px;font-size:11.5px;flex-direction:column}.intro-x{right:16px;top:4px}
+.lb-actions .btn{font-size:13px;padding:12px 6px}
 .search{flex:1 1 100%;max-width:none}.search input{font-size:16px;padding:9px 12px 9px 36px}
 .controls{width:100%;justify-content:space-between;flex-wrap:nowrap;gap:6px}
 .seg button{padding:6px 7px;font-size:12px;white-space:nowrap}
@@ -113,17 +140,36 @@ main{padding:10px 10px 36px}
 <body>
 <header>
   <div class="bar">
-    <div class="brand"><h1><span>GPT Image 2.5</span> 提示词图库</h1><small>收集自 X（Twitter）的公开帖子 · 图片 + 完整提示词</small></div>
-    <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="搜索提示词关键词，例如 poster、像素、travel…" autocomplete="off"></label>
+    <div class="brand"><h1><span>GPT Image 2.5</span> 提示词图库</h1><small>精选 X 上的真实作品，每张图都附完整提示词，一键复制即可复用</small></div>
+    <div class="links">
+      <details class="dl" id="dl"><summary class="pill">⬇ <span class="lbl">下载数据</span><span class="lbl-s">下载</span></summary>
+        <div class="menu">
+          <a href="prompts.json" download>提示词 JSON<small>prompts.json · 适合程序调用</small></a>
+          <a href="prompts.csv" download>表格 CSV<small>prompts.csv · Excel 可直接打开</small></a>
+          <a href="__ZIP_URL__">全部打包 ZIP<small>网页 + 图片 + 数据 + 离线单文件版</small></a>
+          <a href="data.json" download>完整原始数据<small>data.json · 含原帖正文与互动数</small></a>
+        </div></details>
+      <a class="pill gh" href="__REPO_URL__" target="_blank" rel="noopener" title="开源项目，觉得有用就点个 Star 吧"><svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span class="lbl">GitHub</span> <span class="star">⭐<span class="lbl"> Star</span></span></a>
+    </div>
+    <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="搜索提示词或作者，例如：海报、像素、travel、cinematic" autocomplete="off" enterkeyhint="search"></label>
     <div class="controls">
       <div class="seg" id="sort"><button data-v="likes" class="on">最多点赞</button><button data-v="new">最新发布</button></div>
       <div class="seg" id="lang"><button data-v="all" class="on">全部</button><button data-v="zh">中文</button><button data-v="ja">日本語</button><button data-v="en">English</button></div>
     </div>
   </div>
 </header>
+<section class="intro" id="intro">
+  <button class="intro-x" id="introx" title="收起说明" aria-label="收起说明">×</button>
+  <p><b>这是什么？</b>这里收录了 <b id="n1"></b> 组 X（Twitter）用户公开分享的 GPT Image 2.5 作品，共 <b id="n2"></b> 张图。每组都配有作者给出的<b>完整提示词</b>，并链接回原帖。</p>
+  <ul class="tips"><li><i>🔍</i>输入关键词搜索（中/英/日都行）</li><li><i>🏷️</i>按语言筛选，按点赞或最新排序</li><li><i>📋</i>点开卡片看大图，一键复制提示词</li></ul>
+</section>
 <div class="stats" id="stats"></div>
-<main><div id="grid"></div><div class="empty" id="empty">没有匹配的提示词，换个关键词试试～</div></main>
-<footer id="foot"></footer>
+<main><div id="grid"></div><div class="empty" id="empty">没有找到匹配的作品，换个关键词试试～</div></main>
+<footer id="foot">
+  <p>图片与提示词版权归各原作者所有，每条内容均附 X 原帖链接；本站仅做整理与索引，与 OpenAI 无任何关联。</p>
+  <p>你是作者、希望移除自己的内容？请 <a href="__REMOVAL_URL__" target="_blank" rel="noopener">提交移除请求</a>，我们会尽快处理 · 发现好作品？欢迎 <a href="__SUBMIT_URL__" target="_blank" rel="noopener">推荐提示词</a></p>
+  <p>代码以 MIT 协议开源 · <a href="__REPO_URL__" target="_blank" rel="noopener">GitHub 仓库</a> · 数据更新于 __UPDATED__（北京时间）</p>
+</footer>
 
 <div id="lb" role="dialog" aria-modal="true">
   <div class="lb-wrap">
@@ -133,7 +179,7 @@ main{padding:10px 10px 36px}
       <div class="lb-stats" id="lbstats"></div>
       <div class="lb-prompt"><h3><span>提示词</span><span id="lbsrc"></span></h3><pre id="lbprompt"></pre>
         <details><summary>原帖正文</summary><p id="lbtext"></p></details></div>
-      <div class="lb-actions"><button class="btn primary" id="copy">复制提示词</button><a class="btn" id="orig" target="_blank" rel="noopener">查看原帖 ↗</a></div>
+      <div class="lb-actions"><button class="btn primary" id="copy">复制提示词</button><a class="btn" id="dlimg" download>下载图片</a><a class="btn" id="orig" target="_blank" rel="noopener">查看原帖 ↗</a></div>
     </aside>
   </div>
 </div>
@@ -171,7 +217,7 @@ function render(){
   current.forEach((p,i)=>{ const im=p.images[0]; const c = cols.reduce((a,b)=>b.h<a.h?b:a); c.html.push(cardHTML(p,i)); c.h += im.th/im.tw + 0.55; });
   grid.innerHTML = cols.map(c=>`<div class="col">${c.html.join('')}</div>`).join('');
   $('#empty').style.display = current.length? 'none':'block';
-  $('#stats').textContent = `共 ${POSTS.length} 条帖子 · 当前显示 ${current.length} 条 · 时间均为北京时间 (UTC+8) · 数据更新于 ${DATA.generated_at.replace('T',' ').slice(0,16)}`;
+  $('#stats').textContent = `共 ${POSTS.length} 组作品 · ${DATA.images} 张图 · 当前显示 ${current.length} 组 · 收录 ${DATA.first} 至 ${DATA.last} · 更新于 ${DATA.updated}（北京时间）`;
 }
 // lightbox
 let lbPost=null, lbImg=0;
@@ -182,6 +228,7 @@ function openLB(i){ lbPost = current[i]; lbImg = 0; const p=lbPost;
   $('#orig').href = p.url; $('#copy').textContent='复制提示词';
   showImg(); $('#lb').classList.add('open'); document.body.style.overflow='hidden'; }
 function showImg(){ const ims=lbPost.images; const im=ims[lbImg]; $('#lbimg').src = im.full_src; const multi=ims.length>1;
+  const dl=$('#dlimg'); dl.href = im.full_src; dl.setAttribute('download', `gpt-image-2.5_${lbPost.author}_${lbPost.id}_${lbImg+1}.jpg`); dl.textContent = multi?`下载图片 ${lbImg+1}/${ims.length}`:'下载图片';
   $('#prev').style.display=$('#next').style.display = multi?'block':'none'; $('#dots').textContent = multi?`${lbImg+1} / ${ims.length}`:''; }
 function closeLB(){ $('#lb').classList.remove('open'); document.body.style.overflow=''; }
 $('#grid').addEventListener('click', e=>{ const c=e.target.closest('.card'); if(c) openLB(+c.dataset.i); });
@@ -196,7 +243,10 @@ $('#copy').onclick = async ()=>{ const t=lbPost.prompt; let ok=false;
 let tmr; $('#q').addEventListener('input', e=>{ clearTimeout(tmr); tmr=setTimeout(()=>{ state.q=e.target.value.trim(); render(); },120); });
 for (const id of ['sort','lang']) $('#'+id).addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; $('#'+id).querySelectorAll('button').forEach(x=>x.classList.toggle('on', x===b)); state[id]=b.dataset.v; render(); });
 let rt; window.addEventListener('resize', ()=>{ clearTimeout(rt); rt=setTimeout(render,150); });
-$('#foot').innerHTML = `内容版权归原作者所有，本页仅作学习收藏索引；点击卡片查看大图与完整提示词，或前往原帖。`;
+$('#n1').textContent = POSTS.length; $('#n2').textContent = DATA.images;
+try{ if(localStorage.getItem('introHidden')==='1') $('#intro').classList.add('hide'); }catch(_){}
+$('#introx').onclick = ()=>{ $('#intro').classList.add('hide'); try{localStorage.setItem('introHidden','1');}catch(_){} };
+document.addEventListener('click', e=>{ const dl=$('#dl'); if(dl.open && !dl.contains(e.target)) dl.open=false; });
 render();
 </script>
 </body>
