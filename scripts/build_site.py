@@ -79,7 +79,7 @@ def render(d, posts, st):
     js = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
     top = max(posts, key=lambda p: p['likes'])
     og = SITE_URL + 'thumbs/' + top['images'][0]['thumb']
-    desc = (f"提示词图库：收录 {st['count']} 组 X 上公开分享的 GPT Image 2.5 作品与完整提示词：支持中/英/日搜索、按点赞或时间排序、"
+    desc = (f"提示词图库：收录 {st['count']} 组 X 上公开分享的 GPT Image 2.5 作品与完整提示词，支持中/英/日搜索、按点赞或时间排序、"
             f"一键复制，并可下载 JSON/CSV 数据。开源项目，内容版权归原作者。")
     rep = {'__DESC__': desc, '__SITE_URL__': SITE_URL, '__OG_IMAGE__': og, '__REPO_URL__': REPO_URL,
            '__ZIP_URL__': ZIP_URL, '__REMOVAL_URL__': REMOVAL_URL, '__SUBMIT_URL__': SUBMIT_URL,
