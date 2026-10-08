@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GPT Image 2.5 提示词图库</title>
+<meta name="description" content="__DESC__">
+<meta name="theme-color" content="#0b0c10">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="GPT Image 2.5 提示词图库">
+<meta property="og:description" content="__DESC__">
+<meta property="og:url" content="__SITE_URL__">
+<meta property="og:image" content="__OG_IMAGE__">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+:root{--bg:#0b0c10;--panel:#14161c;--panel2:#1b1e26;--line:#262a35;--text:#e8eaf0;--muted:#8b91a1;--accent:#7c9cff;--accent2:#b18cff;--like:#ff6b8b}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Segoe UI,Roboto,sans-serif}
+a{color:inherit}
+header{position:sticky;top:0;z-index:20;background:rgba(11,12,16,.86);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.bar{max-width:1600px;margin:0 auto;padding:14px 24px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.brand{display:flex;flex-direction:column;margin-right:auto;min-width:220px}
+.brand h1{margin:0;font-size:20px;letter-spacing:.3px;font-weight:700}
+.brand h1 span{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.brand small{color:var(--muted);font-size:12px}
+.search{position:relative;flex:1 1 320px;max-width:520px}
+.search input{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:10px 14px 10px 38px;border-radius:12px;font-size:14px;outline:none;transition:border .15s}
+.search input:focus{border-color:var(--accent)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.55}
+.controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.seg{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:3px}
+.seg button{background:none;border:0;color:var(--muted);padding:6px 12px;border-radius:9px;cursor:pointer;font-size:13px}
+.seg button.on{background:var(--panel2);color:var(--text);box-shadow:0 0 0 1px var(--line) inset}
+.stats{max-width:1600px;margin:0 auto;padding:10px 24px 0;color:var(--muted);font-size:12.5px}
+main{max-width:1600px;margin:0 auto;padding:16px 24px 60px}
+#grid{display:flex;gap:16px;align-items:flex-start}
+.col{flex:1;display:flex;flex-direction:column;gap:16px;min-width:0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .18s,border-color .18s,box-shadow .18s}
+.card:hover{transform:translateY(-2px);border-color:#3a4050;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.thumb{position:relative;background:#0f1116}
+.thumb img{display:block;width:100%;height:auto}
+.badge{position:absolute;top:10px;right:10px;background:rgba(0,0,0,.6);backdrop-filter:blur(6px);padding:2px 8px;border-radius:999px;font-size:12px}
+.src{position:absolute;top:10px;left:10px;background:rgba(0,0,0,.55);backdrop-filter:blur(6px);padding:2px 8px;border-radius:999px;font-size:11px;color:#cfd6ff}
+.body{padding:12px 14px 14px}
+.prompt{margin:0 0 10px;color:#cfd3dd;font-size:13px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-line;word-break:break-word}
+.meta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px}
+.meta img{width:22px;height:22px;border-radius:50%;background:#222}
+.meta .who{color:var(--text);font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:46%}
+.meta .likes{margin-left:auto;color:var(--like);white-space:nowrap}
+.meta .date{white-space:nowrap}
+mark{background:rgba(124,156,255,.28);color:inherit;border-radius:3px;padding:0 1px}
+.empty{color:var(--muted);text-align:center;padding:80px 0;display:none}
+/* lightbox */
+#lb{position:fixed;inset:0;z-index:50;background:rgba(5,6,9,.92);display:none;backdrop-filter:blur(6px)}
+#lb.open{display:flex}
+.lb-wrap{display:flex;width:100%;height:100%}
+.lb-img{flex:1 1 auto;display:flex;align-items:center;justify-content:center;position:relative;min-width:0;padding:24px}
+.lb-img img{max-width:100%;max-height:calc(100vh - 80px);border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+.nav{position:absolute;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:#fff;width:42px;height:42px;border-radius:50%;cursor:pointer;font-size:20px}
+.nav:hover{background:rgba(255,255,255,.16)}
+.nav.prev{left:18px}.nav.next{right:18px}
+.dots{position:absolute;bottom:22px;left:0;right:0;text-align:center;font-size:12px;color:var(--muted)}
+.lb-side{width:min(460px,40vw);background:var(--panel);border-left:1px solid var(--line);display:flex;flex-direction:column;height:100%}
+.lb-head{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center}
+.lb-head img{width:40px;height:40px;border-radius:50%}
+.lb-head .n{font-weight:700}
+.lb-head .h{color:var(--muted);font-size:12.5px}
+.close{margin-left:auto;background:none;border:0;color:var(--muted);font-size:26px;cursor:pointer;line-height:1}
+.lb-stats{display:flex;gap:14px;padding:10px 20px;color:var(--muted);font-size:12.5px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.lb-stats b{color:var(--text);font-weight:600}
+.lb-prompt{flex:1;overflow:auto;padding:16px 20px}
+.lb-prompt h3{margin:0 0 8px;font-size:13px;color:var(--muted);font-weight:600;display:flex;justify-content:space-between}
+.lb-prompt pre{white-space:pre-wrap;word-break:break-word;margin:0;font:13.5px/1.7 ui-monospace,SFMono-Regular,Menlo,Consolas,"PingFang SC","Microsoft YaHei",monospace;color:#dfe3ec;background:var(--panel2);border:1px solid var(--line);padding:14px;border-radius:12px}
+.lb-prompt details{margin-top:14px;color:var(--muted)}
+.lb-prompt details p{white-space:pre-wrap;font-size:12.5px}
+.lb-actions{padding:14px 20px;border-top:1px solid var(--line);display:flex;gap:10px}
+.btn{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);color:var(--text);cursor:pointer;text-decoration:none;font-size:14px;font-weight:600}
+.btn.primary{background:linear-gradient(90deg,#5b7cff,#9a6bff);border:0}
+.btn:hover{filter:brightness(1.1)}
+footer{color:var(--muted);text-align:center;font-size:12px;padding:0 24px 40px}
+@media (max-width:860px){.lb-wrap{flex-direction:column}.lb-side{width:100%;height:55%}.lb-img{height:45%;padding:10px}.lb-img img{max-height:100%}.bar{padding:12px 14px}main{padding:12px 14px 40px}.stats{padding:8px 14px 0}}
+@media (max-width:640px){
+header{position:static}
+.bar{padding:10px 12px;gap:10px}
+.brand{min-width:0}.brand h1{font-size:17px}.brand small{font-size:11px}
+.search{flex:1 1 100%;max-width:none}.search input{font-size:16px;padding:9px 12px 9px 36px}
+.controls{width:100%;justify-content:space-between;flex-wrap:nowrap;gap:6px}
+.seg button{padding:6px 7px;font-size:12px;white-space:nowrap}
+.stats{padding:8px 12px 0;font-size:11.5px}
+main{padding:10px 10px 36px}
+#grid,.col{gap:10px}
+.card{border-radius:12px}.card:hover{transform:none;box-shadow:none}
+.body{padding:8px 9px 9px}
+.prompt{font-size:12px;line-height:1.5;-webkit-line-clamp:3;margin-bottom:7px}
+.meta{font-size:11px;gap:6px}.meta img{width:18px;height:18px}.meta .date{display:none}.meta .who{max-width:62%}
+.badge{top:6px;right:6px;font-size:11px;padding:1px 7px}
+#lb{height:100dvh}
+.lb-img{height:42%;padding:8px 8px 22px}
+.lb-side{height:58%;border-left:0;border-top:1px solid var(--line)}
+.nav{width:36px;height:36px;font-size:18px}.nav.prev{left:8px}.nav.next{right:8px}
+.dots{bottom:4px}
+.lb-head{padding:10px 14px}.lb-head img{width:34px;height:34px}
+.close{font-size:30px;padding:4px 8px}
+.lb-stats{padding:8px 14px;gap:10px;font-size:12px}
+.lb-prompt{padding:12px 14px}.lb-prompt pre{font-size:12.5px;padding:12px}
+.lb-actions{padding:10px 14px calc(10px + env(safe-area-inset-bottom))}
+.btn{padding:12px 10px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="brand"><h1><span>GPT Image 2.5</span> 提示词图库</h1><small>收集自 X（Twitter）的公开帖子 · 图片 + 完整提示词</small></div>
+    <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="搜索提示词关键词，例如 poster、像素、travel…" autocomplete="off"></label>
+    <div class="controls">
+      <div class="seg" id="sort"><button data-v="likes" class="on">最多点赞</button><button data-v="new">最新发布</button></div>
+      <div class="seg" id="lang"><button data-v="all" class="on">全部</button><button data-v="zh">中文</button><button data-v="ja">日本語</button><button data-v="en">English</button></div>
+    </div>
+  </div>
+</header>
+<div class="stats" id="stats"></div>
+<main><div id="grid"></div><div class="empty" id="empty">没有匹配的提示词，换个关键词试试～</div></main>
+<footer id="foot"></footer>
+
+<div id="lb" role="dialog" aria-modal="true">
+  <div class="lb-wrap">
+    <div class="lb-img"><button class="nav prev" id="prev">‹</button><img id="lbimg" alt=""><button class="nav next" id="next">›</button><div class="dots" id="dots"></div></div>
+    <aside class="lb-side">
+      <div class="lb-head"><img id="lbav" alt=""><div><div class="n" id="lbname"></div><div class="h" id="lbhandle"></div></div><button class="close" id="close" title="关闭 (Esc)">×</button></div>
+      <div class="lb-stats" id="lbstats"></div>
+      <div class="lb-prompt"><h3><span>提示词</span><span id="lbsrc"></span></h3><pre id="lbprompt"></pre>
+        <details><summary>原帖正文</summary><p id="lbtext"></p></details></div>
+      <div class="lb-actions"><button class="btn primary" id="copy">复制提示词</button><a class="btn" id="orig" target="_blank" rel="noopener">查看原帖 ↗</a></div>
+    </aside>
+  </div>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const POSTS = DATA.posts;
+const SRC = {post:'来源：帖子正文', reply:'来源：作者回复', alt:'来源：图片 ALT 文本'};
+const LANG = p => p.lang==='zh'?'zh':(p.lang==='ja'?'ja':(/[\u3040-\u30ff]/.test(p.prompt)?'ja':(/[\u4e00-\u9fff]/.test(p.prompt)?'zh':'en')));
+let state = {q:'', sort:'likes', lang:'all'};
+const $ = s => document.querySelector(s);
+const esc = s => s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function hl(text, q){ let t = esc(text); if(!q) return t; const terms=q.split(/\s+/).filter(Boolean).map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')); if(!terms.length) return t; return t.replace(new RegExp('('+terms.map(esc).join('|')+')','gi'),'<mark>$1</mark>'); }
+function filtered(){
+  const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+  let list = POSTS.filter(p => (state.lang==='all'||LANG(p)===state.lang) && terms.every(t => (p.prompt+' '+p.author+' '+p.author_name).toLowerCase().includes(t)));
+  list.sort(state.sort==='likes' ? (a,b)=>b.likes-a.likes : (a,b)=>b.created_at_utc.localeCompare(a.created_at_utc));
+  return list;
+}
+function cardHTML(p, idx){
+  const im = p.images[0];
+  return `<article class="card" data-i="${idx}">
+    <div class="thumb"><img loading="lazy" src="${im.thumb_src}" width="${im.tw}" height="${im.th}" alt="">
+      ${p.images.length>1?`<span class="badge">${p.images.length} 张</span>`:''}</div>
+    <div class="body"><p class="prompt">${hl(p.prompt.slice(0,600), state.q)}</p>
+      <div class="meta"><img loading="lazy" src="${esc(p.avatar||'')}" alt="" onerror="this.style.visibility='hidden'"><span class="who">@${esc(p.author)}</span><span class="date">${p.created_at_sh.slice(0,10)}</span><span class="likes">♥ ${p.likes.toLocaleString()}</span></div></div></article>`;
+}
+let current = [];
+function render(){
+  current = filtered();
+  const grid = $('#grid'); const w = grid.clientWidth || window.innerWidth;
+  const n = w < 700 ? 2 : Math.max(1, Math.min(6, Math.floor((w+16)/(300+16))));
+  const cols = Array.from({length:n}, ()=>({h:0, html:[]}));
+  current.forEach((p,i)=>{ const im=p.images[0]; const c = cols.reduce((a,b)=>b.h<a.h?b:a); c.html.push(cardHTML(p,i)); c.h += im.th/im.tw + 0.55; });
+  grid.innerHTML = cols.map(c=>`<div class="col">${c.html.join('')}</div>`).join('');
+  $('#empty').style.display = current.length? 'none':'block';
+  $('#stats').textContent = `共 ${POSTS.length} 条帖子 · 当前显示 ${current.length} 条 · 时间均为北京时间 (UTC+8) · 数据更新于 ${DATA.generated_at.replace('T',' ').slice(0,16)}`;
+}
+// lightbox
+let lbPost=null, lbImg=0;
+function openLB(i){ lbPost = current[i]; lbImg = 0; const p=lbPost;
+  $('#lbav').src = p.avatar||''; $('#lbname').textContent = p.author_name||p.author; $('#lbhandle').textContent='@'+p.author;
+  $('#lbstats').innerHTML = `<span>♥ <b>${p.likes.toLocaleString()}</b> 赞</span><span>🔁 <b>${p.reposts}</b></span><span>🔖 <b>${p.bookmarks}</b></span><span>🕒 <b>${p.created_at_sh}</b> (UTC+8)</span>`;
+  $('#lbsrc').textContent = SRC[p.prompt_source]||''; $('#lbprompt').textContent = p.prompt; $('#lbtext').textContent = p.text;
+  $('#orig').href = p.url; $('#copy').textContent='复制提示词';
+  showImg(); $('#lb').classList.add('open'); document.body.style.overflow='hidden'; }
+function showImg(){ const ims=lbPost.images; const im=ims[lbImg]; $('#lbimg').src = im.full_src; const multi=ims.length>1;
+  $('#prev').style.display=$('#next').style.display = multi?'block':'none'; $('#dots').textContent = multi?`${lbImg+1} / ${ims.length}`:''; }
+function closeLB(){ $('#lb').classList.remove('open'); document.body.style.overflow=''; }
+$('#grid').addEventListener('click', e=>{ const c=e.target.closest('.card'); if(c) openLB(+c.dataset.i); });
+$('#close').onclick = closeLB; $('#lb').addEventListener('click', e=>{ if(e.target.id==='lb'||e.target.classList.contains('lb-img')) closeLB(); });
+$('#prev').onclick = e=>{e.stopPropagation(); lbImg=(lbImg-1+lbPost.images.length)%lbPost.images.length; showImg();};
+$('#next').onclick = e=>{e.stopPropagation(); lbImg=(lbImg+1)%lbPost.images.length; showImg();};
+document.addEventListener('keydown', e=>{ if(!$('#lb').classList.contains('open')) return; if(e.key==='Escape') closeLB(); if(e.key==='ArrowLeft') $('#prev').click(); if(e.key==='ArrowRight') $('#next').click(); });
+$('#copy').onclick = async ()=>{ const t=lbPost.prompt; let ok=false;
+  try{ await navigator.clipboard.writeText(t); ok=true; }catch(_){ const ta=document.createElement('textarea'); ta.value=t; ta.style.position='fixed'; ta.style.opacity='0'; document.body.appendChild(ta); ta.select(); try{ok=document.execCommand('copy');}catch(_){} ta.remove(); }
+  $('#copy').textContent = ok? '已复制 ✓':'复制失败，请手动选择'; setTimeout(()=>$('#copy').textContent='复制提示词', 1800); };
+// controls
+let tmr; $('#q').addEventListener('input', e=>{ clearTimeout(tmr); tmr=setTimeout(()=>{ state.q=e.target.value.trim(); render(); },120); });
+for (const id of ['sort','lang']) $('#'+id).addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; $('#'+id).querySelectorAll('button').forEach(x=>x.classList.toggle('on', x===b)); state[id]=b.dataset.v; render(); });
+let rt; window.addEventListener('resize', ()=>{ clearTimeout(rt); rt=setTimeout(render,150); });
+$('#foot').innerHTML = `内容版权归原作者所有，本页仅作学习收藏索引；点击卡片查看大图与完整提示词，或前往原帖。`;
+render();
+</script>
+</body>
+</html>
