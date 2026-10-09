@@ -3,13 +3,16 @@ import json, glob, re, html
 from datetime import datetime, timezone, timedelta
 
 GPT25 = re.compile(r'gpt[\s\-_]?image[\s\-_]?2\.?5|gptimage\s?2\.?5|gptimage25|chatgpt images? 2\.5|gpt[\s-]?2\.5', re.I)
-MARK = re.compile(r'(?:prompt|提示词|プロンプト|咒语)\s*(?:\([^)\n]{0,30}\))?\s*(?:[:：;]|-\s|\n(?=\S))\s*', re.I)
+MARK = re.compile(r'(?:prompt|提示词|プロンプト|咒语)(?:\s*here)?\s*(?:[\(（][^)）\n]{0,30}[\)）])?\s*(?:[👇⤵⬇\ufe0f\U0001F3FB-\U0001F3FF]+\s*)?(?:[:：;]|-\s|\n(?=\S))\s*', re.I)
 NSFW = re.compile(r'nsfw|breast|nipple|lustify|上围|巨乳|bikini|👙|lingerie', re.I)
-CTA = re.compile(r'see for yourself|try it|which one|which do you|评论|👇|⤵|comment|follow me|save this|下面是之前|目前，@|感谢 @', re.I)
+CTA = re.compile(r'see for yourself|try it|which one|which do you|评论|👇|⤵|comment|follow me|save this|下面是之前|続きます|目前，@|感谢 @', re.I)
 EXCLUDE_IDS = {'2097483045221917131','2102350916435288244','2101391707702964652','2105601628078543292'}
 # inline 'prompt' that is really a how-to step list / pointer ("3️⃣ Paste the prompt 4️⃣ Generate", "Prompt below 👇")
 STEP_STUB = re.compile(r'^\s*(\d+\s*\ufe0f?\u20e3|[\u2460-\u2473]|\d+\s*[\.\)、])', re.I)
-POINTER = re.compile(r'prompt\s*(below|⤵|👇|in (the )?(reply|replies|comments?|alt))|new scenes waiting below|下面|评论区', re.I)
+POINTER = re.compile(r'prompt\s*(below|⤵|👇|in (the )?(reply|replies|comments?|alt))|new scenes waiting below|下面|评论区|评论|リプ|コメント欄|>>>', re.I)
+# ALT texts that describe the image (accessibility / news captions) rather than give the prompt
+ALT_NOT_PROMPT = re.compile(r'^\s*(an? )?ai[- ]generated|^\s*diagram\b|source:|ai生成|の制作事例|^ai生成画像', re.I)
+PROMPT_WORD = re.compile(r'prompt|提示词|プロンプト|咒语|promptshare', re.I)
 EXCLUDE_TEXT = re.compile(r'full JSON prompt 👆', re.I)
 VIDEO_ONLY = re.compile(r'^\W*(\d\W*)?(video prompt|sedance|seedance|video prompt（grok）)', re.I)
 TCO = re.compile(r'https://t\.co/\S+')
@@ -34,7 +37,7 @@ def clean_prompt(s):
     s = s.replace('\r', '')
     lines = s.split('\n')
     # strip leading boilerplate lines like "1.. prompt", "..", "Prompt ⤵️", "🖼️ Image Prompt ⤵️"
-    boiler = re.compile(r'^\s*([\d\.\s、]*|\.+|[\W_]*)\s*((image|girl|boy|character sheet image)?\s*prompt\s*\d*|提示词|プロンプト)?\s*[:：]?\s*[\W_]*$', re.I)
+    boiler = re.compile(r'^\s*([\d\.\s、]*|\.+|[\W_]*)\s*((image|girl|boy|character sheet image)?\s*prompt(\s+is)?(\s+here)?\s*\d*|提示词|プロンプト)?\s*[:：]?\s*[\W_]*$', re.I)
     while lines and boiler.match(lines[0]):
         lines.pop(0)
     while lines and not lines[-1].strip():
@@ -81,7 +84,7 @@ def build_posts(raw_glob='raw/*.txt'):
         mks = (p.get('attachments') or {}).get('media_keys', [])
         photos = [media[k] for k in mks if k in media and media[k].get('type') == 'photo' and media[k].get('url')]
         if not photos or pid in EXCLUDE_IDS or EXCLUDE_TEXT.search(t): continue
-        alts = [m.get('alt_text', '') for m in photos if m.get('alt_text')]
+        alts = [m.get('alt_text', '') for m in photos if m.get('alt_text') and not ALT_NOT_PROMPT.search(m['alt_text'])]
         if not (GPT25.search(t) or any(GPT25.search(a) for a in alts)): continue
         prompt, source = '', ''
         for m in MARK.finditer(t):
@@ -90,6 +93,12 @@ def build_posts(raw_glob='raw/*.txt'):
             if '#' in word: continue          # part of a hashtag like #のぞむプロンプト
             cand = clean_prompt(t[m.end():])
             if STEP_STUB.match(cand) or (POINTER.search(cand) and len(cand) < 160): continue
+            # "Prompt 👇" / "Prompt here:" style markers point at replies unless a full prompt actually follows
+            if re.search(r'[👇⤵⬇]|here', m.group(0), re.I) and (len(cand) < 80 or CTA.match(cand) or re.fullmatch(r'\s*((#|@)\S+\s*)+', cand)): continue
+            if re.fullmatch(r'\s*((#|@)\S+\s*)+', cand): continue   # hashtag-only
+            m2 = MARK.search(cand)   # header line like "海报Prompt\n来自@x via ...\nPrompt：<real prompt>"
+            if m2 and m2.start() < 120 and re.search(r'[:：]', cand[m2.start():m2.end()]):
+                cand = clean_prompt(cand[m2.end():])
             if len(cand) >= 8: prompt, source = cand, 'post'; break
         long_alts0 = [a for a in alts if len(a) >= 40 and not a.startswith('AI生成画像')]
         if prompt and long_alts0 and max(len(a) for a in long_alts0) > 3 * len(prompt):
@@ -110,10 +119,22 @@ def build_posts(raw_glob='raw/*.txt'):
                 rt = fulltext(r)
                 if VIDEO_ONLY.match(rt) or re.search(r'video prompt', rt[:40], re.I): continue
                 c = clean_prompt(rt)
+                mm = re.search(r'-{2,}\s*以下(?:プロンプト|提示词)\s*-{2,}\s*', c)
+                if mm and mm.start() < 300: c = c[mm.end():].strip()
+                end = re.search(r'-{2,}\s*ここまで', c)   # "---ここまで、以下注意点" = end of the prompt
+                if end: c = c[:end.start()].strip()
+                ps = c.split('\n\n')   # leading "Try both models on X 👇" line
+                if len(ps) > 1 and CTA.search(ps[0]) and len(ps[0]) < 120: c = clean_prompt('\n\n'.join(ps[1:]))
+                c = re.sub(r'^\s*prompt\s*[:：]\s*', '', c, flags=re.I)
                 c2 = TCO.sub('', c).strip()
                 if len(c2) < 40: continue  # links / thanks / short chatter
                 if re.match(r'^(try it|inspired by|link)', c2, re.I) or EXCLUDE_TEXT.search(rt): continue
                 parts.append(c)
+                if end: break
+            # replies only count as a prompt when the root or the reply itself talks about a prompt
+            # (avoids picking up plain commentary threads, e.g. "続きはコメントへ")
+            if parts and not (PROMPT_WORD.search(t) or any(PROMPT_WORD.search(fulltext(r)[:30]) for r in rs)):
+                parts = []
             if parts:
                 prompt = '\n\n———\n\n'.join(parts); source = 'reply'
         if not prompt:

@@ -1,29 +1,77 @@
 {
-  "_comment": "X API v2 search queries used to build the dataset. Each entry is run against /2/tweets/search/all (full archive) or /2/tweets/search/recent (--recent). start_time defaults to the GPT Image 2.5 launch (2026-09-08).",
-  "start_time": "2026-09-08T00:00:00Z",
-  "fields": {
-    "expansions": "attachments.media_keys,author_id,referenced_tweets.id",
-    "media.fields": "url,preview_image_url,type,width,height,alt_text",
-    "post.fields": "created_at,public_metrics,note_tweet,entities,lang,conversation_id,referenced_tweets,attachments,in_reply_to_user_id,author_id",
-    "user.fields": "username,name,profile_image_url"
+ "_comment": "X API v2 search queries used to build the dataset. Each entry is run against /2/tweets/search/all (full archive) or /2/tweets/search/recent (--recent). start_time defaults to the GPT Image 2.5 launch (2026-09-08).",
+ "start_time": "2026-09-08T00:00:00Z",
+ "fields": {
+  "expansions": "attachments.media_keys,author_id,referenced_tweets.id",
+  "media.fields": "url,preview_image_url,type,width,height,alt_text",
+  "post.fields": "created_at,public_metrics,note_tweet,entities,lang,conversation_id,referenced_tweets,attachments,in_reply_to_user_id,author_id",
+  "user.fields": "username,name,profile_image_url"
+ },
+ "queries": [
+  {
+   "name": "q01_any_images",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet"
   },
-  "queries": [
-    {"name": "q01_any_images", "sort_order": "relevancy", "pages": 1,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet"},
-    {"name": "q02_prompt", "sort_order": "relevancy", "pages": 2,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet"},
-    {"name": "q04_prompt_recent", "sort_order": "recency", "pages": 4,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet"},
-    {"name": "q03_multilang", "sort_order": "relevancy", "pages": 2,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (提示词 OR プロンプト OR \"prompt:\" OR \"Prompt 👇\" OR \"prompt below\" OR \"prompt in alt\") has:images -is:retweet"},
-    {"name": "q05_inline", "sort_order": "relevancy", "pages": 3,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (\"prompt:\" OR \"提示词：\") has:images -is:retweet -is:reply"},
-    {"name": "q06_zh", "sort_order": "relevancy", "pages": 1,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (提示词 OR prompt OR 咒语) lang:zh has:images -is:retweet"},
-    {"name": "q07_ja", "sort_order": "relevancy", "pages": 1,
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (プロンプト OR prompt) lang:ja has:images -is:retweet"},
-    {"name": "q09_inline_or_below", "sort_order": "relevancy", "pages": 1, "windows": [["2026-09-08T00:00:00Z", "2026-09-20T00:00:00Z"], ["2026-09-20T00:00:00Z", "2026-10-05T00:00:00Z"]],
-     "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (\"prompt:\" OR \"prompt below\" OR \"Prompt 👇\" OR 提示词) has:images -is:retweet -is:reply"}
-  ],
-  "self_reply_query": "((from:{user} (conversation_id:{id} OR ...)) OR ...) is:reply -has:mentions   — grouped, kept under ~1000 characters, for posts whose prompt is in the author's own replies"
+  {
+   "name": "q02_prompt",
+   "sort_order": "relevancy",
+   "pages": 2,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet"
+  },
+  {
+   "name": "q04_prompt_recent",
+   "sort_order": "recency",
+   "pages": 4,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet"
+  },
+  {
+   "name": "q03_multilang",
+   "sort_order": "relevancy",
+   "pages": 2,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (提示词 OR プロンプト OR \"prompt:\" OR \"Prompt 👇\" OR \"prompt below\" OR \"prompt in alt\") has:images -is:retweet"
+  },
+  {
+   "name": "q05_inline",
+   "sort_order": "relevancy",
+   "pages": 3,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (\"prompt:\" OR \"提示词：\") has:images -is:retweet -is:reply"
+  },
+  {
+   "name": "q06_zh",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (提示词 OR prompt OR 咒语) lang:zh has:images -is:retweet"
+  },
+  {
+   "name": "q07_ja",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (プロンプト OR prompt) lang:ja has:images -is:retweet"
+  },
+  {
+   "name": "q09_inline_or_below",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "windows": [
+    [
+     "2026-09-08T00:00:00Z",
+     "2026-09-20T00:00:00Z"
+    ],
+    [
+     "2026-09-20T00:00:00Z",
+     "2026-10-05T00:00:00Z"
+    ]
+   ],
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (\"prompt:\" OR \"prompt below\" OR \"Prompt 👇\" OR 提示词) has:images -is:retweet -is:reply"
+  },
+  {
+   "name": "q10_name_variants",
+   "sort_order": "recency",
+   "pages": 2,
+   "query": "(gptimage25 OR \"gptimage 2.5\" OR \"chatgpt images 2.5\" OR \"gpt image2.5\") has:images -is:retweet"
+  }
+ ],
+ "self_reply_query": "((from:{user} (conversation_id:{id} OR ...)) OR ...) is:reply -has:mentions   — grouped, kept under ~1000 characters, for posts whose prompt is in the author's own replies"
 }

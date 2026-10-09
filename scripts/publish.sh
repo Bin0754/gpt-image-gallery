@@ -4,6 +4,8 @@
 # build_site.py mirrors the public site (index.html, data.json, prompts.json, prompts.csv, images, README, ...)
 # into ./site, which is a git checkout of the repo; this script commits and pushes it to main.
 set -euo pipefail
+# never block on a prompt when run unattended (cron / agent)
+export GH_PROMPT_DISABLED=1 GIT_TERMINAL_PROMPT=0 GIT_ASKPASS=/bin/true
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SITE="$ROOT/site"
 REPO="${GALLERY_REPO:-Bin0754/gpt-image-gallery}"
@@ -18,6 +20,7 @@ if [ ! -d .git ]; then
 fi
 git config user.name  >/dev/null || git config user.name  "$(gh api user --jq .login)"
 git config user.email >/dev/null || git config user.email "$(gh api user --jq '.id|tostring')+$(gh api user --jq .login)@users.noreply.github.com"
+gh auth status >/dev/null 2>&1 || { echo "gh is not logged in (run: gh auth login) - cannot push" >&2; exit 2; }
 gh auth setup-git >/dev/null 2>&1 || true
 git add -A
 if git diff --cached --quiet; then
@@ -25,6 +28,7 @@ if git diff --cached --quiet; then
 else
   COUNT=$(python3 -c "import json;print(json.load(open('prompts.json'))['count'])")
   git commit -q -m "${1:-数据更新：$COUNT 组作品（$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M') UTC+8）}"
+  git pull -q --rebase origin "$BRANCH"   # pick up README/issue-template edits made on github.com
   git push -q origin "$BRANCH"
   echo "Pushed $(git rev-parse --short HEAD) to $REPO ($COUNT posts)."
 fi

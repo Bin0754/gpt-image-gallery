@@ -36,11 +36,20 @@ HIDE_IDS = {
     '2098106479710441558',                         # @Hamburgerai boudoir photo
     '2107518927693611115', '2107923039229038753',  # @livybabie
     '2107525779185664150',                         # @RougeHalo_AI lingerie
+    # 2026-10-09 refresh review (contact sheet)
+    '2108194229193461879',                         # @DeepBlueX0 skin-imprint body close-ups
+    '2108228677561426262', '2108421965539094969',  # @johnAGI168 short skirt / crop top portraits
+    '2108185506643394640',                         # @liyue_ai low-rise shorts, prompt stresses neckline
+    '2108151822711988360',                         # @livybabie cosplay cleavage
+    '2108178171409621286',                         # @YUNTJP cleavage reference close-up
+    '2108290949994414098',                         # @SDDFounder bikini beach selfie
+    '2108414043396469036',                         # @Bozibozai bare-back apron series
+    '2108089762015760819',                         # @imGopalTiwari shirtless couple in water
 }
 SITE_DIR = ROOT / 'site'
 REPO_STATIC = ROOT / 'repo'
 SITE_SCRIPTS = ['fetch_x.py', 'scrape.py', 'extract.py', 'build_site.py', 'template.html', 'queries.json',
-                'publish.sh', 'requirements.txt']
+                'publish.sh', 'refresh.sh', 'requirements.txt']
 SH = timezone(timedelta(hours=8))
 LANG_NAMES = {'zh': '中文', 'ja': '日本語', 'en': 'English', 'other': '其他'}
 SRC_NAMES = {'post': '帖子正文', 'reply': '作者回复', 'alt': '图片 ALT 文本'}

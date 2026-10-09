@@ -6,3 +6,4 @@ gallery.html
 __pycache__/
 .env
 .DS_Store
+logs/
