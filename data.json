@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-09T14:36:04+08:00",
-  "count": 153,
+  "generated_at": "2026-10-10T08:09:02+08:00",
+  "count": 170,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -826,6 +826,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108458612662128684",
+      "url": "https://x.com/TaliaAariz/status/2108458612662128684",
+      "author": "TaliaAariz",
+      "author_name": "Talia",
+      "avatar": "https://pbs.twimg.com/profile_images/2072291236153573377/5aR7HSBY_normal.jpg",
+      "created_at_utc": "2026-10-09T07:24:41.000Z",
+      "created_at_sh": "2026-10-09 15:24",
+      "likes": 186,
+      "reposts": 6,
+      "bookmarks": 17,
+      "lang": "en",
+      "text": "Created with GPT Image 2.5\n\nPrompt:\n\nUltra-photorealistic candid night portrait of an adult woman with fair porcelain glass skin, luminous dewy complexion, soft natural rosy blush, softly defined brows, subtle brown eyeshadow, natural lashes, and peachy-nude glossy lips. Extremely long, thick espresso brown hair in a high messy ponytail with loose curls strands blowing across her face. Wearing a delicate white spaghetti-strap dress, backless, thick gold hoop earrings, subtle piercings and gold rings. She gently holds a huge bouquet of white daisies with yellow centers close to her face, partially covering her mouth and lower face, gazing softly toward the camera with a dreamy candid expression. Dark outdoor nighttime background with warm distant bokeh lights, direct on-camera flash, slight motion blur, subtle film grain, intimate 35mm analog-camera aesthetic, cinematic low-light atmosphere, ultra-detailed. Add a small handwriting watermark written dev at the bottom left. Ar 3:4.",
+      "prompt": "Ultra-photorealistic candid night portrait of an adult woman with fair porcelain glass skin, luminous dewy complexion, soft natural rosy blush, softly defined brows, subtle brown eyeshadow, natural lashes, and peachy-nude glossy lips. Extremely long, thick espresso brown hair in a high messy ponytail with loose curls strands blowing across her face. Wearing a delicate white spaghetti-strap dress, backless, thick gold hoop earrings, subtle piercings and gold rings. She gently holds a huge bouquet of white daisies with yellow centers close to her face, partially covering her mouth and lower face, gazing softly toward the camera with a dreamy candid expression. Dark outdoor nighttime background with warm distant bokeh lights, direct on-camera flash, slight motion blur, subtle film grain, intimate 35mm analog-camera aesthetic, cinematic low-light atmosphere, ultra-detailed. Add a small handwriting watermark written dev at the bottom left. Ar 3:4.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUK_63KXIAEKR6C.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108458593523539969",
+          "file": "2108458612662128684_0.jpg",
+          "thumb": "2108458612662128684_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUK_63iW4AAmIwC.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108458593624186880",
+          "file": "2108458612662128684_1.jpg",
+          "thumb": "2108458612662128684_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUK_63GXYAAY6bZ.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108458593506779136",
+          "file": "2108458612662128684_2.jpg",
+          "thumb": "2108458612662128684_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUK_66iXsAA5UXX.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108458594429546496",
+          "file": "2108458612662128684_3.jpg",
+          "thumb": "2108458612662128684_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2102960952266432853",
       "url": "https://x.com/Alina_with_Ai/status/2102960952266432853",
       "author": "Alina_with_Ai",
@@ -1250,6 +1309,35 @@
           "thumb": "2107542566191419650_1.jpg",
           "tw": 480,
           "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108471613536739652",
+      "url": "https://x.com/weiinberg/status/2108471613536739652",
+      "author": "weiinberg",
+      "author_name": "Weinberg",
+      "avatar": "https://pbs.twimg.com/profile_images/1945571482525941760/ukZqwg0i_normal.jpg",
+      "created_at_utc": "2026-10-09T08:16:20.000Z",
+      "created_at_sh": "2026-10-09 16:16",
+      "likes": 116,
+      "reposts": 14,
+      "bookmarks": 53,
+      "lang": "",
+      "text": "GPT Image 2.5.\n\nPrompt:\n\nCreate a sophisticated contemporary travel-art poster from the uploaded londscape photograph.\nStrict 3:4 vertical format.\nThe upper half must remain the original landscape photogroph. Preserve all important environmental structures, natural textures,",
+      "prompt": "Create a sophisticated contemporary travel-art poster from the uploaded londscape photograph.\nStrict 3:4 vertical format.\nThe upper half must remain the original landscape photogroph. Preserve all important environmental structures, natural textures,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULLa9GbkAAQglV.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108471239501385728",
+          "file": "2108471613536739652_0.jpg",
+          "thumb": "2108471613536739652_0.jpg",
+          "tw": 360,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -2143,6 +2231,55 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108532094796533952",
+      "url": "https://x.com/Shorelyn_/status/2108532094796533952",
+      "author": "Shorelyn_",
+      "author_name": "Shore Lyn",
+      "avatar": "https://pbs.twimg.com/profile_images/2097716992115666945/Xx6mgLX4_normal.jpg",
+      "created_at_utc": "2026-10-09T12:16:40.000Z",
+      "created_at_sh": "2026-10-09 20:16",
+      "likes": 70,
+      "reposts": 5,
+      "bookmarks": 45,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nCreate a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a",
+      "prompt": "Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUMCwFcbMAAZ-AC.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108532075657900032",
+          "file": "2108532094796533952_0.jpg",
+          "thumb": "2108532094796533952_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMCwFbbUAAtgVr.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108532075653713920",
+          "file": "2108532094796533952_1.jpg",
+          "thumb": "2108532094796533952_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMCwFZaYAElrj3.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108532075645263873",
+          "file": "2108532094796533952_2.jpg",
+          "thumb": "2108532094796533952_2.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2105638239394795835",
       "url": "https://x.com/joshesye/status/2105638239394795835",
       "author": "joshesye",
@@ -2818,6 +2955,163 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108558447663071286",
+      "url": "https://x.com/Naiknelofar788/status/2108558447663071286",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-09T14:01:23.000Z",
+      "created_at_sh": "2026-10-09 22:01",
+      "likes": 43,
+      "reposts": 1,
+      "bookmarks": 12,
+      "lang": "",
+      "text": "GPT image 2.5\n\nPrompt:\nCreate a breathtaking, photorealistic surrealist photograph of a giant metallic zipper partially opening the surface of an ordinary real-world environment, revealing an actual place from [COUNTRY / CITY / LANDMARK] behind it\n\nA giant, physically realistic",
+      "prompt": "Create a breathtaking, photorealistic surrealist photograph of a giant metallic zipper partially opening the surface of an ordinary real-world environment, revealing an actual place from [COUNTRY / CITY / LANDMARK] behind it\n\nA giant, physically realistic",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUMaunybwAAeYu3.jpg",
+          "w": 820,
+          "h": 1024,
+          "media_key": "3_2108558438796345344",
+          "file": "2108558447663071286_0.jpg",
+          "thumb": "2108558447663071286_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMaunrasAAuFuJ.jpg",
+          "w": 820,
+          "h": 1024,
+          "media_key": "3_2108558438766915584",
+          "file": "2108558447663071286_1.jpg",
+          "thumb": "2108558447663071286_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108488140201869772",
+      "url": "https://x.com/Goodmanprotocol/status/2108488140201869772",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-09T09:22:01.000Z",
+      "created_at_sh": "2026-10-09 17:22",
+      "likes": 42,
+      "reposts": 3,
+      "bookmarks": 15,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium 3:4 vertical “SECOND WORLD” conceptual surreal photo-collage artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY.\nGenerate the entire composition creatively from the written subject alone. Do not request, upload, use, or",
+      "prompt": "Create a premium 3:4 vertical “SECOND WORLD” conceptual surreal photo-collage artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY.\nGenerate the entire composition creatively from the written subject alone. Do not request, upload, use, or",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULavtWaMAAB_VM.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108488088725106688",
+          "file": "2108488140201869772_0.jpg",
+          "thumb": "2108488140201869772_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULawgLaYAA3_be.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108488102369189888",
+          "file": "2108488140201869772_1.jpg",
+          "thumb": "2108488140201869772_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULaxRkagAEozaC.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108488115627393025",
+          "file": "2108488140201869772_2.jpg",
+          "thumb": "2108488140201869772_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULayBubcAEvN3T.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108488128554299393",
+          "file": "2108488140201869772_3.jpg",
+          "thumb": "2108488140201869772_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108555814604812483",
+      "url": "https://x.com/Goodmanprotocol/status/2108555814604812483",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-09T13:50:55.000Z",
+      "created_at_sh": "2026-10-09 21:50",
+      "likes": 41,
+      "reposts": 7,
+      "bookmarks": 14,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].\n\nTEXT-TO-IMAGE ONLY.\nGenerate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any",
+      "prompt": "Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].\n\nTEXT-TO-IMAGE ONLY.\nGenerate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUMYSa5aEAAXmk9.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108555755276341248",
+          "file": "2108555814604812483_0.jpg",
+          "thumb": "2108555814604812483_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMYTLna4AA1SsL.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108555768354234368",
+          "file": "2108555814604812483_1.jpg",
+          "thumb": "2108555814604812483_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMYUOLacAA7Ru1.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108555786221940736",
+          "file": "2108555814604812483_2.jpg",
+          "thumb": "2108555814604812483_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMYVGjbQAAQyHF.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2108555801355042816",
+          "file": "2108555814604812483_3.jpg",
+          "thumb": "2108555814604812483_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107463388292911316",
       "url": "https://x.com/imGopalTiwari/status/2107463388292911316",
       "author": "imGopalTiwari",
@@ -3258,6 +3552,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108650680684839381",
+      "url": "https://x.com/imGopalTiwari/status/2108650680684839381",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-09T20:07:53.000Z",
+      "created_at_sh": "2026-10-10 04:07",
+      "likes": 25,
+      "reposts": 0,
+      "bookmarks": 17,
+      "lang": "",
+      "text": "Made with GPT Image 2.5\n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic moody waterfall portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic moody waterfall portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUNum-8aoAA2Guj.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108650666550009856",
+          "file": "2108650680684839381_0.jpg",
+          "thumb": "2108650680684839381_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108103958795526417",
       "url": "https://x.com/kabumira862571/status/2108103958795526417",
       "author": "kabumira862571",
@@ -3639,6 +3962,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108463144083534284",
+      "url": "https://x.com/DeepBlueX0/status/2108463144083534284",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-09T07:42:41.000Z",
+      "created_at_sh": "2026-10-09 15:42",
+      "likes": 16,
+      "reposts": 2,
+      "bookmarks": 12,
+      "lang": "",
+      "text": "图1的海棠花纹压花玻璃好有记忆点\n\n换成其他纹样压花，毫无违和感\n\n通用🔵 GPT image 2.5 Prompt:\n90年代老式压花玻璃工艺 × 主体：【XXX】  × 连续规则排列主体浮雕纹样 × iPhone 微距摄影\n\n说明：",
+      "prompt": "90年代老式压花玻璃工艺 × 主体：【XXX】  × 连续规则排列主体浮雕纹样 × iPhone 微距摄影\n\n说明：",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULEDGeakAAd8T3.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108463133119647744",
+          "file": "2108463144083534284_0.jpg",
+          "thumb": "2108463144083534284_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULEDGnagAAvVmo.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108463133157392384",
+          "file": "2108463144083534284_1.jpg",
+          "thumb": "2108463144083534284_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULEDGga4AAXiL1.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108463133128056832",
+          "file": "2108463144083534284_2.jpg",
+          "thumb": "2108463144083534284_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULEDGgbEAAZyJa.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108463133128069120",
+          "file": "2108463144083534284_3.jpg",
+          "thumb": "2108463144083534284_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2098309691877241146",
       "url": "https://x.com/xueyu1125/status/2098309691877241146",
       "author": "xueyu1125",
@@ -3789,6 +4171,45 @@
           "file": "2099515022372454882_0.jpg",
           "thumb": "2099515022372454882_0.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108505558211063900",
+      "url": "https://x.com/Arina_hoqe/status/2108505558211063900",
+      "author": "Arina_hoqe",
+      "author_name": "Arina Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2059134056806416384/W1oFb_bL_normal.jpg",
+      "created_at_utc": "2026-10-09T10:31:13.000Z",
+      "created_at_sh": "2026-10-09 18:31",
+      "likes": 10,
+      "reposts": 1,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 2",
+      "prompt": "🎨 PROMPT: “HEAVENLY SKY — CINEMATIC SUMMER PORTRAIT”\n\nCreate an ultra-realistic, high-detail cinematic fashion portrait of a beautiful young South Asian woman standing beneath a breathtaking deep-blue sky filled with enormous, fluffy white clouds. Use the uploaded reference image as the primary visual guide for facial features, hairstyle, outfit, pose, and overall composition.\n\nCharacter & Appearance: A beautiful young woman with long, voluminous, naturally wavy dark-brown hair flowing freely in the breeze. She has delicate facial features, naturally glowing skin, soft pink lips, and a calm, confident expression. She wears stylish black rectangular sunglasses with subtle reflections of the clouds and sky.\n\nOutfit & Accessories: She is dressed in a relaxed black textured short-sleeve button-up shirt paired with elegant black high-waisted trousers. A stylish black shoulder bag hangs naturally from one shoulder. She wears beautiful silver chandelier earrings and a subtle silver wristwatch. Her outfit looks effortlessly elegant, modern, and fashionable.\n\nPose & Composition: Low-angle portrait photography, captured from slightly below eye level. She stands confidently with one hand resting inside her trouser pocket, her head slightly tilted upward as she gazes toward the horizon. Her long hair flows naturally to one side, creating a dynamic and graceful silhouette. Frame the image from the waist upward with the subject positioned centrally.\n\nEnvironment & Background: A magnificent vivid-blue sky with towering, fluffy white cumulus clouds filling the entire background. Delicate white flower petals float gently through the air at different distances, creating a dreamy, magical atmosphere. Bright natural sunlight illuminates her face, hair, and clothing, producing realistic highlights and soft shadows.\n\nLighting & Photography: Professional outdoor fashion photography, natural midday sunlight, realistic skin texture, detailed hair strands, authentic fabric texture, cinematic contrast, subtle lens reflections, atmospheric depth, crisp focus on the subject, and a beautifully detailed sky.\n\nCamera & Technical Details: Shot with a full-frame professional camera, 35mm lens, slightly low-angle perspective, f/4 aperture, high dynamic range, photorealistic details, premium editorial fashion photography, 8K resolution, vertical 9:16 composition.\n\nColor Grading: Rich sky blue, luminous cloud white, deep elegant blacks, warm natural skin tones, and balanced cinematic contrast.\n\nQuality Requirements: Photorealistic, natural anatomy, realistic hands, accurate facial proportions, lifelike hair movement, physically realistic lighting, intricate clothing details, premium cinematic aesthetic.\n\nNegative Prompt: cartoon, anime, illustration, painting, CGI appearance, plastic skin, excessive beauty filters, distorted face, asymmetrical eyes, deformed hands, extra fingers, unnatural body proportions, blurry subject, oversaturated colors, artificial lighting, text, watermark, logo.\n\nAspect Ratio: 9:16 — vertical portrait.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULqm7KaEAABAby.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108505530000084992",
+          "file": "2108505558211063900_0.jpg",
+          "thumb": "2108505558211063900_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULqnx7agAA84EA.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2108505544701149184",
+          "file": "2108505558211063900_1.jpg",
+          "thumb": "2108505558211063900_1.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -4242,6 +4663,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108507207851745590",
+      "url": "https://x.com/MahnoorAi12/status/2108507207851745590",
+      "author": "MahnoorAi12",
+      "author_name": "Mahnoor Fatima",
+      "avatar": "https://pbs.twimg.com/profile_images/2058497392077594624/expO9hjT_normal.jpg",
+      "created_at_utc": "2026-10-09T10:37:47.000Z",
+      "created_at_sh": "2026-10-09 18:37",
+      "likes": 5,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT image 2.5 prompt \nCharacter reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One young woman (early 20s), fair skin, soft expressive face, light eyes, dark brown hair in a loose low bun with a few loose strands. Medieval",
+      "prompt": "Character reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One young woman (early 20s), fair skin, soft expressive face, light eyes, dark brown hair in a loose low bun with a few loose strands. Medieval",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULq9LrbQAAM3Co.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2108505912390664192",
+          "file": "2108507207851745590_0.jpg",
+          "thumb": "2108507207851745590_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097602211643883913",
       "url": "https://x.com/novalintonai/status/2097602211643883913",
       "author": "novalintonai",
@@ -4525,6 +4975,94 @@
       "nsfw_flag": false
     },
     {
+      "id": "2108544503544226211",
+      "url": "https://x.com/NoravaleAI/status/2108544503544226211",
+      "author": "NoravaleAI",
+      "author_name": "Nora Vale",
+      "avatar": "https://pbs.twimg.com/profile_images/2089346970125221888/TKD8RFIR_normal.jpg",
+      "created_at_utc": "2026-10-09T13:05:59.000Z",
+      "created_at_sh": "2026-10-09 21:05",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "A little color never hurt anybody.✨💚💗 \n① Open GPT Image 2.5 /Gemini / Grok\n② Upload your image  \n③ Paste the prompt  \n④ Generate your scene Prompt below 👇💬",
+      "prompt": "Create a vibrant high-fashion editorial photo using the provided woman as a strict identity reference. Keep her exact face, skin tone, and long dark wavy hair.\n\nShe stands confidently on hot-pink stairs wearing an orange-red sequin crop top, glossy fuchsia wide-leg satin pants, lime-green metallic heels, colorful bangles, gold hoops, and a ruched lime-green clutch.\n\nSet the scene in surreal oversized pink, coral, red, and orange architecture with stairs, large arches, geometric platforms, a red sphere, and glimpses of bright blue sky. Use strong midday sunlight with crisp shadows and sparkling highlights.\n\nCamera: slightly low-angle, full-body vertical fashion shot, 35–50mm lens.\n\nPremium photorealistic fashion campaign, bold color blocking, saturated colors, natural proportions. No text, logos, extra people, distorted limbs, or outfit changes.\n\nPROMPT 2 :\n\nCreate a photorealistic high-fashion editorial using the provided woman as a strict identity reference, keeping her exact face and long dark wavy hair.\n\nShe sits confidently on oversized hot-pink stairs, one leg extended downward and the other bent on a higher step, holding a lime-green ruched clutch. She wears an orange-red sequin crop top, glossy fuchsia wide-leg pants, lime-green heels, colorful bangles, and gold hoops.\n\nSurround her with surreal pink and coral-orange geometric architecture, a partially visible red sphere, and bright blue sky. Strong midday sunlight, crisp shadows, saturated colors, luxury magazine aesthetic.\n\nCamera: slightly low-angle, full-body vertical shot, 35–50mm lens. Keep both shoes visible.\n\nNo text, logos, extra people, distorted limbs, outfit changes, or green architecture.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUMOCv1bgAAL6IS.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2108544490902618112",
+          "file": "2108544503544226211_0.jpg",
+          "thumb": "2108544503544226211_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUMOCvrbQAACQsw.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2108544490860658688",
+          "file": "2108544503544226211_1.jpg",
+          "thumb": "2108544503544226211_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108486498312221132",
+      "url": "https://x.com/CandyTravelight/status/2108486498312221132",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-09T09:15:29.000Z",
+      "created_at_sh": "2026-10-09 17:15",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "同一条 prompt，三家 AI 画出的雨后古镇，味道各不相同。\n图1：GPT-image-2.5\n图2：nano banana2\n图3：Grok-imagine2\n\n图1暖调氛围拉满，灯笼光晕最浓；\n图2最亮最通透，游客照那味儿；\n图3蓝调最冷，电影感最强。你最吃哪一张？\n\nprompt提示词见评论区👇",
+      "prompt": "prompt 全文\n黄昏时分雨后的古镇小巷，青石板路面积水倒映着两侧暖黄色的灯光。一位约25岁的成年东亚女性站在小巷中央，黑色长发微湿自然垂落，穿简约米白色针织上衣和深蓝色牛仔裤，身体微微侧转回眸看向镜头，神情自然放松。两侧是斑驳的白墙黑瓦老屋，屋檐水珠欲滴，远处巷口有朦胧的红色灯笼光晕，空气中有薄雾。电影感构图，浅景深，皮肤保留细腻真实质感，整体色调温暖怀旧，高细节真实摄影风格。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULZMH2bkAAU1pZ.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2108486377851817984",
+          "file": "2108486498312221132_0.jpg",
+          "thumb": "2108486498312221132_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULZNlza8AAtrSF.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2108486403072126976",
+          "file": "2108486498312221132_1.jpg",
+          "thumb": "2108486498312221132_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULZQl_a4AAu5X0.jpg",
+          "w": 1200,
+          "h": 800,
+          "media_key": "3_2108486454662062080",
+          "file": "2108486498312221132_2.jpg",
+          "thumb": "2108486498312221132_2.jpg",
+          "tw": 480,
+          "th": 320
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097678119314575676",
       "url": "https://x.com/jojogh_007/status/2097678119314575676",
       "author": "jojogh_007",
@@ -4803,6 +5341,35 @@
           "thumb": "2107696323478843589_1.jpg",
           "tw": 384,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108507213446991931",
+      "url": "https://x.com/MahnoorAi12/status/2108507213446991931",
+      "author": "MahnoorAi12",
+      "author_name": "Mahnoor Fatima",
+      "avatar": "https://pbs.twimg.com/profile_images/2058497392077594624/expO9hjT_normal.jpg",
+      "created_at_utc": "2026-10-09T10:37:48.000Z",
+      "created_at_sh": "2026-10-09 18:37",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT image 2.5 prompt \nCharacter reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One large gentle young dragon, pearl-white scales with pink and magenta mottled patches, pink-tipped spikes and frills along the head and back, large",
+      "prompt": "Character reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One large gentle young dragon, pearl-white scales with pink and magenta mottled patches, pink-tipped spikes and frills along the head and back, large",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULrAy2bcAAoANm.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2108505974445404160",
+          "file": "2108507213446991931_0.jpg",
+          "thumb": "2108507213446991931_0.jpg",
+          "tw": 480,
+          "th": 270
         }
       ],
       "nsfw_flag": false
@@ -5443,6 +6010,122 @@
           "file": "2108383348641214926_0.jpg",
           "thumb": "2108383348641214926_0.jpg",
           "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108684521969487988",
+      "url": "https://x.com/lipsticksplus/status/2108684521969487988",
+      "author": "lipsticksplus",
+      "author_name": "AI Prompt",
+      "avatar": "https://pbs.twimg.com/profile_images/2071745325195198464/Y-qzUqUc_normal.jpg",
+      "created_at_utc": "2026-10-09T22:22:22.000Z",
+      "created_at_sh": "2026-10-10 06:22",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "1. Upload your photo \n 2. Open GPT Image 2.5  \n3. Paste the prompt \n4. Generate \n 5. Prompt  at ALT⤵️",
+      "prompt": "- Regal fantasy portrait of a royal figure in an opulent palace, wearing a breathtaking couture gown with intricate embroidery, gemstones, floral embellishments, crystal details, elegant crown, luxurious jewelry, grand marble hall with chandeliers, cinematic warm lighting, volumetric light, ultra-realistic textures, fashion editorial quality, photorealistic, award-winning luxury photography, highly detailed, royal elegance, dramatic depth, no empty space, masterpiece, 8k HDR.",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUONWOcXkAAsM6Z.jpg",
+          "w": 583,
+          "h": 1024,
+          "media_key": "3_2108684463513243648",
+          "file": "2108684521969487988_0.jpg",
+          "thumb": "2108684521969487988_0.jpg",
+          "tw": 273,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108681788759712199",
+      "url": "https://x.com/lipsticksplus/status/2108681788759712199",
+      "author": "lipsticksplus",
+      "author_name": "AI Prompt",
+      "avatar": "https://pbs.twimg.com/profile_images/2071745325195198464/Y-qzUqUc_normal.jpg",
+      "created_at_utc": "2026-10-09T22:11:30.000Z",
+      "created_at_sh": "2026-10-10 06:11",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "1. Upload your photo \n 2. Open GPT Image 2.5  \n3. Paste the prompt \n4. Generate \n 5. Prompt  at ALT⤵️",
+      "prompt": "- Create A detailed, hyper-realistic CGI rendering of a lone figure (image uploaded), possibly a man, with dark hair, as he looks introspectively downwards. He is in a low squatting pose, centered in the frame. He wears round sunglasses and an oversized, hooded white sweatshirt and baggy white cargo pants, both with subtle distress and faint red or pink abstract markings, paired with pristine white high-top sneakers. The setting is a minimalist, pure black void with a perfectly glossy, dark, reflective floor that mirrors the figure sharply. Dramatic low-key lighting illuminates the subject from above and slightly in front, creating soft highlights on his white attire. A powerful, vibrant neon pink and magenta rim light sharply outlines his entire form from behind and the sides, casting an intense, glowing pink aura onto the reflective floor around his reflection. The overall mood is melancholic and mysterious, blending urban streetwear with a conceptual, isolated aesthetic. Ensure shar",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUOK2eiXkAA1y4V.jpg",
+          "w": 460,
+          "h": 1024,
+          "media_key": "3_2108681719054307328",
+          "file": "2108681788759712199_0.jpg",
+          "thumb": "2108681788759712199_0.jpg",
+          "tw": 215,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108681006672937415",
+      "url": "https://x.com/lipsticksplus/status/2108681006672937415",
+      "author": "lipsticksplus",
+      "author_name": "AI Prompt",
+      "avatar": "https://pbs.twimg.com/profile_images/2071745325195198464/Y-qzUqUc_normal.jpg",
+      "created_at_utc": "2026-10-09T22:08:24.000Z",
+      "created_at_sh": "2026-10-10 06:08",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "1. Upload your photo \n 2. Open GPT Image 2.5  \n3. Paste the prompt \n4. Generate \n 5. Prompt  at ALT⤵️",
+      "prompt": "- Cute animated character duo, coordinated outfits, cozy café aesthetic, warm orange color palette, charming street scene, cinematic lighting, expressive eyes, adorable interaction, luxury 3D animation quality, ultra-detailed fur and fabric textures, professional storytelling composition, trending social media artwork, vibrant yet natural colors, no empty space, masterpiece, 8k HDR.\n-",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUOKI7CWYAAHzyg.jpg",
+          "w": 460,
+          "h": 1024,
+          "media_key": "3_2108680936430657536",
+          "file": "2108681006672937415_0.jpg",
+          "thumb": "2108681006672937415_0.jpg",
+          "tw": 215,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2108678898623959146",
+      "url": "https://x.com/lipsticksplus/status/2108678898623959146",
+      "author": "lipsticksplus",
+      "author_name": "AI Prompt",
+      "avatar": "https://pbs.twimg.com/profile_images/2071745325195198464/Y-qzUqUc_normal.jpg",
+      "created_at_utc": "2026-10-09T22:00:01.000Z",
+      "created_at_sh": "2026-10-10 06:00",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "1. Upload 2 photo \n 2. Open GPT Image 2.5  \n3. Paste the prompt \n4. Generate \n 5. Prompt  at ALT⤵️",
+      "prompt": "A stunning photorealistic portrait photograph of an adult subject, luxury lifestyle aesthetic, natural pose, direct eye contact, detailed skin pores, realistic hair strands, elegant clothing, sophisticated styling, outdoor European café setting, fountain and historic architecture in the background, warm natural daylight, shallow depth of field, creamy bokeh, professional 85mm lens photography, editorial fashion magazine quality, cinematic color grading, realistic shadows, HDR lighting, ultra-sharp eyes, exceptional realism, high detail, premium composition, no empty space, 8k masterpiece.",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUOIPb7XIAEDnoV.jpg",
+          "w": 825,
+          "h": 1024,
+          "media_key": "3_2108678849315676161",
+          "file": "2108678898623959146_0.jpg",
+          "thumb": "2108678898623959146_0.jpg",
+          "tw": 386,
           "th": 480
         }
       ],

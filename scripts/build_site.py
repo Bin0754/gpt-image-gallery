@@ -45,6 +45,11 @@ HIDE_IDS = {
     '2108290949994414098',                         # @SDDFounder bikini beach selfie
     '2108414043396469036',                         # @Bozibozai bare-back apron series
     '2108089762015760819',                         # @imGopalTiwari shirtless couple in water
+    # 2026-10-10 refresh review (contact sheet)
+    '2108523802435137614',                         # @chetaslua Epstein-island grid, bikini/intimate frames
+    '2108629489295266035',                         # @DeepBlueX0 flight-attendant cleavage / short skirt low-angle
+    '2108505251934326870',                         # @spark_chenlin short skirt / low-neckline sitting portraits
+    '2108523890393715127',                         # @lipsticksplus curvy crop-top midriff full-body
 }
 SITE_DIR = ROOT / 'site'
 REPO_STATIC = ROOT / 'repo'

@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-09T14:36:04+08:00",
-  "count": 153,
+  "generated_at": "2026-10-10T08:09:02+08:00",
+  "count": 170,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -311,6 +311,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108458612662128684",
+      "prompt": "Ultra-photorealistic candid night portrait of an adult woman with fair porcelain glass skin, luminous dewy complexion, soft natural rosy blush, softly defined brows, subtle brown eyeshadow, natural lashes, and peachy-nude glossy lips. Extremely long, thick espresso brown hair in a high messy ponytail with loose curls strands blowing across her face. Wearing a delicate white spaghetti-strap dress, backless, thick gold hoop earrings, subtle piercings and gold rings. She gently holds a huge bouquet of white daisies with yellow centers close to her face, partially covering her mouth and lower face, gazing softly toward the camera with a dreamy candid expression. Dark outdoor nighttime background with warm distant bokeh lights, direct on-camera flash, slight motion blur, subtle film grain, intimate 35mm analog-camera aesthetic, cinematic low-light atmosphere, ultra-detailed. Add a small handwriting watermark written dev at the bottom left. Ar 3:4.",
+      "author": "TaliaAariz",
+      "author_url": "https://x.com/TaliaAariz",
+      "post_url": "https://x.com/TaliaAariz/status/2108458612662128684",
+      "date": "2026-10-09T15:24:41+08:00",
+      "likes": 186,
+      "language": "en",
+      "images": [
+        "images/2108458612662128684_0.jpg",
+        "images/2108458612662128684_1.jpg",
+        "images/2108458612662128684_2.jpg",
+        "images/2108458612662128684_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2102960952266432853",
       "prompt": "Create a cinematic vertical 9:16 nighttime portrait based closely on the reference image.\n\nA young woman is sitting casually on a rustic wooden park bench at night beside an adorable small 3D animated girl. Preserve the overall composition, camera angle, poses, proportions, lighting, and atmosphere of the reference.\n\nThe young woman has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket over a black hoodie, extremely loose black cargo pants, and clean white chunky sneakers. She is seated in a relaxed pose with one knee raised, one leg extended toward the camera, one arm resting naturally on her knee, and the other hand resting on the bench. Keep her appearance photorealistic with natural facial features and realistic skin texture.\n\nBeside her is a very cute miniature 3D animated girl with a small body, oversized expressive brown eyes, rosy cheeks, a tiny face, dark brown hair tied into a messy high bun with loose strands, and an adorable playful expression. She wears an oversized black hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. Keep her clearly stylized as a high-quality cute 3D animated character, not photorealistic.\n\nThe girl is standing beside the seated woman on the bench, looking slightly toward the camera. Add a small glowing hand-drawn crown above her head, subtle glowing doodle lines, and small glowing heart doodles around her.\n\nSet the scene in a beautiful nighttime park with dark leafy trees, distant city lights, warm glowing street lamps, strong golden rim lighting around the characters, soft cinematic bokeh, realistic shadows, and a cozy magical atmosphere.\n\nPhotorealistic adult woman seamlessly combined with a cute high-quality 3D animated character, realistic textures, cinematic depth of field, warm golden nighttime color grading, detailed clothing, natural proportions, professional photography, ultra-detailed, sharp focus, vertical 9:16.\n\nKeep the cute animated girl's appearance consistent and adorable. Do not make her realistic. Do not change her outfit or facial style.\n\n———\n\nCreate a single cinematic vertical 9:16 image based closely on the uploaded reference.\n\nShow TWO characters standing side by side at night in a beautiful city park.\n\nThe adult woman is the main realistic character. Use my uploaded photo as her identity reference and preserve my facial identity, facial structure, skin tone, and recognizable appearance. She has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket, black oversized hoodie, extremely loose black cargo pants, and white chunky sneakers.\n\nThe woman is standing naturally and looking DOWN toward the little girl with a warm, genuine smile. Her body is slightly turned toward the little girl. One hand is casually inside her jacket/pants pocket, while her other hand is raised and her index finger is POINTING toward the little girl, as if proudly introducing or showing her. Make the pointing gesture very clear and natural.\n\nBeside her stands an adorable small 3D animated girl. Keep the little girl extremely cute: oversized expressive brown eyes, rosy cheeks, tiny face, brown hair in a messy high bun with loose strands, black oversized hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. She is standing upright and looking up at the woman with a sweet playful smile.\n\nIMPORTANT:\n- Both characters must be FULLY STANDING.\n- One single image only, NOT a collage or split screen.\n- The woman must be pointing toward the little girl.\n- The woman must be looking at the little girl and smiling.\n- The little girl must be looking up at the woman.\n- Keep a clear height difference between them.\n- Do not make the little girl photorealistic; keep her cute high-quality 3D animated appearance.\n- Do not change the little girl's outfit, hairstyle, facial style, or body proportions.\n\nSet them on a nighttime park walkway with leafy trees, warm glowing streetlights, distant city lights, soft bokeh, golden rim lighting around their hair and shoulders, realistic shadows, and a cozy magical atmosphere.\n\nPhotorealistic adult woman + adorable 3D animated girl, seamless integration, cinematic photography, realistic skin and clothing textures, warm golden color grading, shallow depth of field, ultra-detailed, natural proportions, professional composition, vertical 9:16.\n\nThe final composition should clearly communicate: the big girl is proudly pointing at the cute little girl while smiling at her.",
       "author": "Alina_with_Ai",
@@ -472,6 +489,20 @@
       "images": [
         "images/2107542566191419650_0.jpg",
         "images/2107542566191419650_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2108471613536739652",
+      "prompt": "Create a sophisticated contemporary travel-art poster from the uploaded londscape photograph.\nStrict 3:4 vertical format.\nThe upper half must remain the original landscape photogroph. Preserve all important environmental structures, natural textures,",
+      "author": "weiinberg",
+      "author_url": "https://x.com/weiinberg",
+      "post_url": "https://x.com/weiinberg/status/2108471613536739652",
+      "date": "2026-10-09T16:16:20+08:00",
+      "likes": 116,
+      "language": "en",
+      "images": [
+        "images/2108471613536739652_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -809,6 +840,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108532094796533952",
+      "prompt": "Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a",
+      "author": "Shorelyn_",
+      "author_url": "https://x.com/Shorelyn_",
+      "post_url": "https://x.com/Shorelyn_/status/2108532094796533952",
+      "date": "2026-10-09T20:16:40+08:00",
+      "likes": 70,
+      "language": "en",
+      "images": [
+        "images/2108532094796533952_0.jpg",
+        "images/2108532094796533952_1.jpg",
+        "images/2108532094796533952_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2105638239394795835",
       "prompt": "版3×3失败照片× ｛角色｝",
       "author": "joshesye",
@@ -1043,6 +1090,55 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108558447663071286",
+      "prompt": "Create a breathtaking, photorealistic surrealist photograph of a giant metallic zipper partially opening the surface of an ordinary real-world environment, revealing an actual place from [COUNTRY / CITY / LANDMARK] behind it\n\nA giant, physically realistic",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2108558447663071286",
+      "date": "2026-10-09T22:01:23+08:00",
+      "likes": 43,
+      "language": "en",
+      "images": [
+        "images/2108558447663071286_0.jpg",
+        "images/2108558447663071286_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2108488140201869772",
+      "prompt": "Create a premium 3:4 vertical “SECOND WORLD” conceptual surreal photo-collage artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY.\nGenerate the entire composition creatively from the written subject alone. Do not request, upload, use, or",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2108488140201869772",
+      "date": "2026-10-09T17:22:01+08:00",
+      "likes": 42,
+      "language": "en",
+      "images": [
+        "images/2108488140201869772_0.jpg",
+        "images/2108488140201869772_1.jpg",
+        "images/2108488140201869772_2.jpg",
+        "images/2108488140201869772_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2108555814604812483",
+      "prompt": "Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT].\n\nTEXT-TO-IMAGE ONLY.\nGenerate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2108555814604812483",
+      "date": "2026-10-09T21:50:55+08:00",
+      "likes": 41,
+      "language": "en",
+      "images": [
+        "images/2108555814604812483_0.jpg",
+        "images/2108555814604812483_1.jpg",
+        "images/2108555814604812483_2.jpg",
+        "images/2108555814604812483_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107463388292911316",
       "prompt": "Hyper-realistic IMAX-level Netflix-style moody cinematic rooftop night portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a black spaghetti-strap top under an oversized white button-down shirt worn loosely off both shoulders, light-colored short bottoms and a black smartwatch on her wrist; she stands in a relaxed left-facing side profile, her torso turned slightly away from the camera, her head tilted gently upward and backward, chin raised, while her left arm is bent upward holding a green glass bottle at mouth level with the bottle neck clearly entering between her parted lips as she drinks, and her right arm hangs naturally downward beside her body with the hand relaxed; her eyes are mostly lowered and partially closed while drinking, eyebrows relaxed, lips naturally parted around the bottle opening, jaw slightly lifted and facial expression calm and casual; her very long dark-brown hair is straight, smooth and naturally heavy, falling from the crown all the way down her back past the waist with a few fine strands around her cheek and neck; fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, realistic natural texture with very subtle highlights; she stands on an elevated outdoor terrace with a dark red metal railing, while a dense urban cityscape fills the background in heavy shallow focus with indistinct buildings, muted windows and scattered circular lights; soft overcast ambient light gives the scene a dim blue-gray atmosphere, with a faint cool glow outlining the hair and shoulders while the face and clothing remain gently underexposed, subtle warm bokeh lights appearing in the distant background and no harsh direct illumination; cinematic colour grading built around desaturated teal, blue-gray and charcoal tones with muted skin warmth, deep soft shadows, restrained highlights, low saturation, gentle contrast, atmospheric haze, creamy background bokeh and a subtle filmic grain, creating the same quiet rainy-evening city mood and understated cinematic depth. Negative prompt: changed identity, front-facing pose, bottle missing from mouth, bottle floating away from lips, closed mouth while drinking, incorrect hand position, bad anatomy, extra fingers, short hair, bright daylight, oversaturated colours, sharp background, text, watermark.",
       "author": "imGopalTiwari",
@@ -1198,6 +1294,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108650680684839381",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic moody waterfall portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2108650680684839381",
+      "date": "2026-10-10T04:07:53+08:00",
+      "likes": 25,
+      "language": "en",
+      "images": [
+        "images/2108650680684839381_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108103958795526417",
       "prompt": "Prompt（メモリON）：\n何もない広い展示フロアの壁に、過去に生成した画像を展示。会話履歴を参照し、主要登場キャラ全員が中央に集合して記念撮影。顔・髪型・衣装は元画像に忠実に再現。同一キャラの重複や別人化は禁止。実写風。アスペクト比は横長（5:4）で描画。",
       "author": "kabumira862571",
@@ -1336,6 +1446,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108463144083534284",
+      "prompt": "90年代老式压花玻璃工艺 × 主体：【XXX】  × 连续规则排列主体浮雕纹样 × iPhone 微距摄影\n\n说明：",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2108463144083534284",
+      "date": "2026-10-09T15:42:41+08:00",
+      "likes": 16,
+      "language": "zh",
+      "images": [
+        "images/2108463144083534284_0.jpg",
+        "images/2108463144083534284_1.jpg",
+        "images/2108463144083534284_2.jpg",
+        "images/2108463144083534284_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2098309691877241146",
       "prompt": "创作一幅受【北京】启发的精致极简艺术海报。使用【北京】的标志性历史建筑作为中心视觉元素，但将其转化为优雅的当代编辑艺术作品，而非传统的地图，背景带有现代城市建筑的剪影轮廓。\n\n动线周围开满了盛放的月季花，细节丰富细腻，灵感源自迪奥（Dior）花卉系列与 Pietro Ruffo 的艺术风格，手绘细腻的花卉在纯白背景板上梦幻般地自然交织缠绕。\n\n画面采用手绘线条，红金相间，红色花瓣搭配金色勾边轮廓，建筑主体使用金色线条勾勒，线条简约纯粹，无杂乱繁复感。纯白色背景，顶部留出大面积空白，远景上方现代建筑若隐若现，虚实结合。色彩富有层次感而不显扁平，无杂乱、无照片级真实感、无过多文字、无国旗、无泛泛的旅游拼贴、无厚重边框。\n\n垂直海报构图，9:16 纵横比，高细节但视觉极简。",
       "author": "xueyu1125",
@@ -1394,6 +1521,21 @@
         "images/2099515022372454882_0.jpg"
       ],
       "prompt_source": "alt"
+    },
+    {
+      "id": "2108505558211063900",
+      "prompt": "🎨 PROMPT: “HEAVENLY SKY — CINEMATIC SUMMER PORTRAIT”\n\nCreate an ultra-realistic, high-detail cinematic fashion portrait of a beautiful young South Asian woman standing beneath a breathtaking deep-blue sky filled with enormous, fluffy white clouds. Use the uploaded reference image as the primary visual guide for facial features, hairstyle, outfit, pose, and overall composition.\n\nCharacter & Appearance: A beautiful young woman with long, voluminous, naturally wavy dark-brown hair flowing freely in the breeze. She has delicate facial features, naturally glowing skin, soft pink lips, and a calm, confident expression. She wears stylish black rectangular sunglasses with subtle reflections of the clouds and sky.\n\nOutfit & Accessories: She is dressed in a relaxed black textured short-sleeve button-up shirt paired with elegant black high-waisted trousers. A stylish black shoulder bag hangs naturally from one shoulder. She wears beautiful silver chandelier earrings and a subtle silver wristwatch. Her outfit looks effortlessly elegant, modern, and fashionable.\n\nPose & Composition: Low-angle portrait photography, captured from slightly below eye level. She stands confidently with one hand resting inside her trouser pocket, her head slightly tilted upward as she gazes toward the horizon. Her long hair flows naturally to one side, creating a dynamic and graceful silhouette. Frame the image from the waist upward with the subject positioned centrally.\n\nEnvironment & Background: A magnificent vivid-blue sky with towering, fluffy white cumulus clouds filling the entire background. Delicate white flower petals float gently through the air at different distances, creating a dreamy, magical atmosphere. Bright natural sunlight illuminates her face, hair, and clothing, producing realistic highlights and soft shadows.\n\nLighting & Photography: Professional outdoor fashion photography, natural midday sunlight, realistic skin texture, detailed hair strands, authentic fabric texture, cinematic contrast, subtle lens reflections, atmospheric depth, crisp focus on the subject, and a beautifully detailed sky.\n\nCamera & Technical Details: Shot with a full-frame professional camera, 35mm lens, slightly low-angle perspective, f/4 aperture, high dynamic range, photorealistic details, premium editorial fashion photography, 8K resolution, vertical 9:16 composition.\n\nColor Grading: Rich sky blue, luminous cloud white, deep elegant blacks, warm natural skin tones, and balanced cinematic contrast.\n\nQuality Requirements: Photorealistic, natural anatomy, realistic hands, accurate facial proportions, lifelike hair movement, physically realistic lighting, intricate clothing details, premium cinematic aesthetic.\n\nNegative Prompt: cartoon, anime, illustration, painting, CGI appearance, plastic skin, excessive beauty filters, distorted face, asymmetrical eyes, deformed hands, extra fingers, unnatural body proportions, blurry subject, oversaturated colors, artificial lighting, text, watermark, logo.\n\nAspect Ratio: 9:16 — vertical portrait.",
+      "author": "Arina_hoqe",
+      "author_url": "https://x.com/Arina_hoqe",
+      "post_url": "https://x.com/Arina_hoqe/status/2108505558211063900",
+      "date": "2026-10-09T18:31:13+08:00",
+      "likes": 10,
+      "language": "en",
+      "images": [
+        "images/2108505558211063900_0.jpg",
+        "images/2108505558211063900_1.jpg"
+      ],
+      "prompt_source": "reply"
     },
     {
       "id": "2107793955807207567",
@@ -1585,6 +1727,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108507207851745590",
+      "prompt": "Character reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One young woman (early 20s), fair skin, soft expressive face, light eyes, dark brown hair in a loose low bun with a few loose strands. Medieval",
+      "author": "MahnoorAi12",
+      "author_url": "https://x.com/MahnoorAi12",
+      "post_url": "https://x.com/MahnoorAi12/status/2108507207851745590",
+      "date": "2026-10-09T18:37:47+08:00",
+      "likes": 5,
+      "language": "en",
+      "images": [
+        "images/2108507207851745590_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2097602211643883913",
       "prompt": "Create a transparent 4×4 pixel-art sprite sheet containing exactly 16 sequential battle-animation frames of Naruto Uzumaki.\n\nCHARACTER DESIGN\n\nCreate a recognizable chibi Naruto Uzumaki with:\n\nSpiky blond hair\nBlue eyes\nLeaf Village forehead protector\nThree whisker marks on each cheek\nOrange-and-black Shippuden-era ninja outfit\nOpen-toe shinobi sandals\nSmall utility pouch\n\nKeep his identity, proportions, outfit, colors, equipment, and sprite scale consistent across all 16 frames.\n\nANIMATION DESIGN\n\nCreate one seamless Rasengan attack loop:\n\n1–2: Ready fighting stance with subtle breathing\n3–4: Naruto crouches and pulls his right arm back\n5–6: A compact blue-cyan Rasengan forms in his right hand\n7–9: Naruto rapidly dashes forward and thrusts the Rasengan\n10: Impact peak with a controlled circular chakra burst\n11–13: Chakra particles dissipate while Naruto recoils and plants his feet\n14–15: Recovery back into the ready stance\n16: Nearly matches frame 1 for a smooth seamless loop\nAnimate real changes in the legs, hips, torso, shoulders, arms, head, hair, and clothing. Do not create movement by simply translating or rotating the same static sprite.\nPIXEL-ART STYLE\nUse crisp 16-bit console-style pixel art with:\nSharp, hard pixel edges\nA restrained color palette\nReadable silhouettes\nConsistent pixel density\n\nCompact blue-cyan chakra effects\n\nNo blur, gradients, antialiasing, photorealism, vector softness, or style drift.\n\nSPRITE SHEET\n\nExactly 4 columns × 4 rows\nExactly 16 frames\nFrames play from left to right, then top to bottom\nEqual square cells\nFixed three-quarter side-view camera facing right\n\nStable ground baseline and animation registration\n\nExactly one Naruto in each cell\n\nKeep the entire character and every chakra effect inside its cell\nLeave at least 24 pixels of transparent padding on every side\nNothing may touch or cross a cell boundary\nNo cropped elements or neighboring-frame bleed\nOUTPUT\nUse a genuinely transparent RGBA background.\nDo not add a checkerboard pattern, background scenery, ground, grid lines, borders, text, frame numbers, titles, logos, or watermarks.\nReturn only the finished transparent 4×4 PNG sprite sheet.",
       "author": "novalintonai",
@@ -1687,6 +1843,37 @@
       "language": "en",
       "images": [
         "images/2107715481939394753_0.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
+      "id": "2108544503544226211",
+      "prompt": "Create a vibrant high-fashion editorial photo using the provided woman as a strict identity reference. Keep her exact face, skin tone, and long dark wavy hair.\n\nShe stands confidently on hot-pink stairs wearing an orange-red sequin crop top, glossy fuchsia wide-leg satin pants, lime-green metallic heels, colorful bangles, gold hoops, and a ruched lime-green clutch.\n\nSet the scene in surreal oversized pink, coral, red, and orange architecture with stairs, large arches, geometric platforms, a red sphere, and glimpses of bright blue sky. Use strong midday sunlight with crisp shadows and sparkling highlights.\n\nCamera: slightly low-angle, full-body vertical fashion shot, 35–50mm lens.\n\nPremium photorealistic fashion campaign, bold color blocking, saturated colors, natural proportions. No text, logos, extra people, distorted limbs, or outfit changes.\n\nPROMPT 2 :\n\nCreate a photorealistic high-fashion editorial using the provided woman as a strict identity reference, keeping her exact face and long dark wavy hair.\n\nShe sits confidently on oversized hot-pink stairs, one leg extended downward and the other bent on a higher step, holding a lime-green ruched clutch. She wears an orange-red sequin crop top, glossy fuchsia wide-leg pants, lime-green heels, colorful bangles, and gold hoops.\n\nSurround her with surreal pink and coral-orange geometric architecture, a partially visible red sphere, and bright blue sky. Strong midday sunlight, crisp shadows, saturated colors, luxury magazine aesthetic.\n\nCamera: slightly low-angle, full-body vertical shot, 35–50mm lens. Keep both shoes visible.\n\nNo text, logos, extra people, distorted limbs, outfit changes, or green architecture.",
+      "author": "NoravaleAI",
+      "author_url": "https://x.com/NoravaleAI",
+      "post_url": "https://x.com/NoravaleAI/status/2108544503544226211",
+      "date": "2026-10-09T21:05:59+08:00",
+      "likes": 2,
+      "language": "en",
+      "images": [
+        "images/2108544503544226211_0.jpg",
+        "images/2108544503544226211_1.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
+      "id": "2108486498312221132",
+      "prompt": "prompt 全文\n黄昏时分雨后的古镇小巷，青石板路面积水倒映着两侧暖黄色的灯光。一位约25岁的成年东亚女性站在小巷中央，黑色长发微湿自然垂落，穿简约米白色针织上衣和深蓝色牛仔裤，身体微微侧转回眸看向镜头，神情自然放松。两侧是斑驳的白墙黑瓦老屋，屋檐水珠欲滴，远处巷口有朦胧的红色灯笼光晕，空气中有薄雾。电影感构图，浅景深，皮肤保留细腻真实质感，整体色调温暖怀旧，高细节真实摄影风格。",
+      "author": "CandyTravelight",
+      "author_url": "https://x.com/CandyTravelight",
+      "post_url": "https://x.com/CandyTravelight/status/2108486498312221132",
+      "date": "2026-10-09T17:15:29+08:00",
+      "likes": 2,
+      "language": "zh",
+      "images": [
+        "images/2108486498312221132_0.jpg",
+        "images/2108486498312221132_1.jpg",
+        "images/2108486498312221132_2.jpg"
       ],
       "prompt_source": "reply"
     },
@@ -1795,6 +1982,20 @@
         "images/2107696323478843589_1.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2108507213446991931",
+      "prompt": "Character reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One large gentle young dragon, pearl-white scales with pink and magenta mottled patches, pink-tipped spikes and frills along the head and back, large",
+      "author": "MahnoorAi12",
+      "author_url": "https://x.com/MahnoorAi12",
+      "post_url": "https://x.com/MahnoorAi12/status/2108507213446991931",
+      "date": "2026-10-09T18:37:48+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2108507213446991931_0.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2107636141109153812",
@@ -2070,6 +2271,62 @@
         "images/2108383348641214926_0.jpg"
       ],
       "prompt_source": "post"
+    },
+    {
+      "id": "2108684521969487988",
+      "prompt": "- Regal fantasy portrait of a royal figure in an opulent palace, wearing a breathtaking couture gown with intricate embroidery, gemstones, floral embellishments, crystal details, elegant crown, luxurious jewelry, grand marble hall with chandeliers, cinematic warm lighting, volumetric light, ultra-realistic textures, fashion editorial quality, photorealistic, award-winning luxury photography, highly detailed, royal elegance, dramatic depth, no empty space, masterpiece, 8k HDR.",
+      "author": "lipsticksplus",
+      "author_url": "https://x.com/lipsticksplus",
+      "post_url": "https://x.com/lipsticksplus/status/2108684521969487988",
+      "date": "2026-10-10T06:22:22+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2108684521969487988_0.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2108681788759712199",
+      "prompt": "- Create A detailed, hyper-realistic CGI rendering of a lone figure (image uploaded), possibly a man, with dark hair, as he looks introspectively downwards. He is in a low squatting pose, centered in the frame. He wears round sunglasses and an oversized, hooded white sweatshirt and baggy white cargo pants, both with subtle distress and faint red or pink abstract markings, paired with pristine white high-top sneakers. The setting is a minimalist, pure black void with a perfectly glossy, dark, reflective floor that mirrors the figure sharply. Dramatic low-key lighting illuminates the subject from above and slightly in front, creating soft highlights on his white attire. A powerful, vibrant neon pink and magenta rim light sharply outlines his entire form from behind and the sides, casting an intense, glowing pink aura onto the reflective floor around his reflection. The overall mood is melancholic and mysterious, blending urban streetwear with a conceptual, isolated aesthetic. Ensure shar",
+      "author": "lipsticksplus",
+      "author_url": "https://x.com/lipsticksplus",
+      "post_url": "https://x.com/lipsticksplus/status/2108681788759712199",
+      "date": "2026-10-10T06:11:30+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2108681788759712199_0.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2108681006672937415",
+      "prompt": "- Cute animated character duo, coordinated outfits, cozy café aesthetic, warm orange color palette, charming street scene, cinematic lighting, expressive eyes, adorable interaction, luxury 3D animation quality, ultra-detailed fur and fabric textures, professional storytelling composition, trending social media artwork, vibrant yet natural colors, no empty space, masterpiece, 8k HDR.\n-",
+      "author": "lipsticksplus",
+      "author_url": "https://x.com/lipsticksplus",
+      "post_url": "https://x.com/lipsticksplus/status/2108681006672937415",
+      "date": "2026-10-10T06:08:24+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2108681006672937415_0.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2108678898623959146",
+      "prompt": "A stunning photorealistic portrait photograph of an adult subject, luxury lifestyle aesthetic, natural pose, direct eye contact, detailed skin pores, realistic hair strands, elegant clothing, sophisticated styling, outdoor European café setting, fountain and historic architecture in the background, warm natural daylight, shallow depth of field, creamy bokeh, professional 85mm lens photography, editorial fashion magazine quality, cinematic color grading, realistic shadows, HDR lighting, ultra-sharp eyes, exceptional realism, high detail, premium composition, no empty space, 8k masterpiece.",
+      "author": "lipsticksplus",
+      "author_url": "https://x.com/lipsticksplus",
+      "post_url": "https://x.com/lipsticksplus/status/2108678898623959146",
+      "date": "2026-10-10T06:00:01+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2108678898623959146_0.jpg"
+      ],
+      "prompt_source": "alt"
     },
     {
       "id": "2097418434929705291",
