@@ -1,6 +1,6 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-11T21:34:53+08:00",
+  "generated_at": "2026-10-11T21:36:23+08:00",
   "count": 209,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
