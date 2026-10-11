@@ -31,10 +31,12 @@ if [ "$PUBLISH" = 1 ]; then
   [ -d site/.git ] || { echo "site/ is not a git checkout (git clone https://github.com/Bin0754/gpt-image-gallery site)"; exit 2; }
 fi
 BEFORE=$(python3 -c "import json;print(len(json.load(open('data.json'))['posts']))" 2>/dev/null || echo 0)
+VBEFORE=$(python3 -c "import json;print(len(json.load(open('video_data.json'))['posts']))" 2>/dev/null || echo 0)
 
 # ---- fetch (optional) ----
 if [ -n "${X_BEARER_TOKEN:-}" ]; then
   timeout 900 python3 scripts/fetch_x.py --recent
+  timeout 900 python3 scripts/fetch_x.py --recent --video
 else
   echo "X_BEARER_TOKEN not set: skipping fetch, using existing raw/ ($(ls raw/*.txt | wc -l) files)"
 fi
@@ -45,6 +47,9 @@ timeout 600 python3 scripts/build_site.py
 AFTER=$(python3 -c "import json;print(len(json.load(open('data.json'))['posts']))")
 SHOWN=$(python3 -c "import json;print(json.load(open('prompts.json'))['count'])")
 echo "posts: $BEFORE -> $AFTER (shown on site: $SHOWN)"
+VAFTER=$(python3 -c "import json;print(len(json.load(open('video_data.json'))['posts']))")
+VSHOWN=$(python3 -c "import json;print(json.load(open('video_prompts.json'))['count'])")
+echo "video posts: $VBEFORE -> $VAFTER (shown on site: $VSHOWN)"
 [ "$PUBLISH" = 1 ] || { echo "== done (no publish)"; exit 0; }
 
 # ---- publish + verify ----
@@ -60,4 +65,7 @@ echo "pages: $ST"
 LIVE=$(curl -fsS "https://bin0754.github.io/gpt-image-gallery/prompts.json?t=$(date +%s)" | python3 -c "import json,sys;print(json.load(sys.stdin)['count'])") || { echo "live site not reachable"; exit 5; }
 echo "live count: $LIVE (expected $SHOWN)"
 [ "$LIVE" = "$SHOWN" ] || { echo "WARNING: live count differs (CDN cache?)"; exit 6; }
+VLIVE=$(curl -fsS "https://bin0754.github.io/gpt-image-gallery/video_prompts.json?t=$(date +%s)" | python3 -c "import json,sys;print(json.load(sys.stdin)['count'])") || { echo "live video_prompts.json not reachable"; exit 5; }
+echo "live video count: $VLIVE (expected $VSHOWN)"
+[ "$VLIVE" = "$VSHOWN" ] || { echo "WARNING: live video count differs (CDN cache?)"; exit 6; }
 echo "== refresh ok $(date '+%F %T') UTC+8"

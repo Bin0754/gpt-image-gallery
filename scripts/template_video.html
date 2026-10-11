@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="no-referrer"><!-- video.twimg.com refuses hot-linked requests that carry a foreign Referer -->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Seedance 视频提示词 · GPT Image 2.5 提示词图库</title>
+<meta name="description" content="__VDESC__">
+<meta name="theme-color" content="#0b0c10">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Seedance AI 视频提示词 · __VCOUNT__ 条真实作品 · GPT Image 2.5 提示词图库">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:description" content="__VDESC__">
+<meta property="og:url" content="__SITE_URL__videos.html">
+<meta property="og:image" content="__VOG_IMAGE__">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+:root{--bg:#0b0c10;--panel:#14161c;--panel2:#1b1e26;--line:#262a35;--text:#e8eaf0;--muted:#8b91a1;--accent:#7c9cff;--accent2:#b18cff;--like:#ff6b8b}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Segoe UI,Roboto,sans-serif}
+a{color:inherit}
+header{position:sticky;top:0;z-index:20;background:rgba(11,12,16,.86);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.bar{max-width:1600px;margin:0 auto;padding:14px 24px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.brand{display:flex;flex-direction:column;margin-right:auto;min-width:220px}
+.brand h1{margin:0;font-size:20px;letter-spacing:.3px;font-weight:700}
+.brand h1 span{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.brand small{color:var(--muted);font-size:12px}
+.search{position:relative;flex:1 1 320px;max-width:520px}
+.search input{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:10px 14px 10px 38px;border-radius:12px;font-size:14px;outline:none;transition:border .15s}
+.search input:focus{border-color:var(--accent)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.55}
+.controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.seg{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:3px}
+.seg button{background:none;border:0;color:var(--muted);padding:6px 12px;border-radius:9px;cursor:pointer;font-size:13px}
+.seg button.on{background:var(--panel2);color:var(--text);box-shadow:0 0 0 1px var(--line) inset}
+.stats{max-width:1600px;margin:0 auto;padding:10px 24px 0;color:var(--muted);font-size:12.5px}
+main{max-width:1600px;margin:0 auto;padding:16px 24px 60px}
+#grid{display:flex;gap:16px;align-items:flex-start}
+.col{flex:1;display:flex;flex-direction:column;gap:16px;min-width:0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .18s,border-color .18s,box-shadow .18s}
+.card:hover{transform:translateY(-2px);border-color:#3a4050;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.thumb{position:relative;background:#0f1116}
+.thumb img{display:block;width:100%;height:auto}
+.badge{position:absolute;top:10px;right:10px;background:rgba(0,0,0,.6);backdrop-filter:blur(6px);padding:2px 8px;border-radius:999px;font-size:12px}
+.src{position:absolute;top:10px;left:10px;background:rgba(0,0,0,.55);backdrop-filter:blur(6px);padding:2px 8px;border-radius:999px;font-size:11px;color:#cfd6ff}
+.body{padding:12px 14px 14px}
+.prompt{margin:0 0 10px;color:#cfd3dd;font-size:13px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-line;word-break:break-word}
+.meta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px}
+.meta img{width:22px;height:22px;border-radius:50%;background:#222}
+.meta .who{color:var(--text);font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:46%}
+.meta .likes{margin-left:auto;color:var(--like);white-space:nowrap}
+.meta .date{white-space:nowrap}
+mark{background:rgba(124,156,255,.28);color:inherit;border-radius:3px;padding:0 1px}
+.empty{color:var(--muted);text-align:center;padding:80px 0;display:none}
+/* lightbox */
+#lb{position:fixed;inset:0;z-index:50;background:rgba(5,6,9,.92);display:none;backdrop-filter:blur(6px)}
+#lb.open{display:flex}
+.lb-wrap{display:flex;width:100%;height:100%}
+.lb-img{flex:1 1 auto;display:flex;align-items:center;justify-content:center;position:relative;min-width:0;padding:24px}
+.lb-img img{max-width:100%;max-height:calc(100vh - 80px);border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+.nav{position:absolute;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:#fff;width:42px;height:42px;border-radius:50%;cursor:pointer;font-size:20px}
+.nav:hover{background:rgba(255,255,255,.16)}
+.nav.prev{left:18px}.nav.next{right:18px}
+.dots{position:absolute;bottom:22px;left:0;right:0;text-align:center;font-size:12px;color:var(--muted)}
+.lb-side{width:min(460px,40vw);background:var(--panel);border-left:1px solid var(--line);display:flex;flex-direction:column;height:100%}
+.lb-head{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center}
+.lb-head img{width:40px;height:40px;border-radius:50%}
+.lb-head .n{font-weight:700}
+.lb-head .h{color:var(--muted);font-size:12.5px}
+.close{margin-left:auto;background:none;border:0;color:var(--muted);font-size:26px;cursor:pointer;line-height:1}
+.lb-stats{display:flex;gap:14px;padding:10px 20px;color:var(--muted);font-size:12.5px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.lb-stats b{color:var(--text);font-weight:600}
+.lb-prompt{flex:1;overflow:auto;padding:16px 20px}
+.lb-prompt h3{margin:0 0 8px;font-size:13px;color:var(--muted);font-weight:600;display:flex;justify-content:space-between}
+.lb-prompt pre{white-space:pre-wrap;word-break:break-word;margin:0;font:13.5px/1.7 ui-monospace,SFMono-Regular,Menlo,Consolas,"PingFang SC","Microsoft YaHei",monospace;color:#dfe3ec;background:var(--panel2);border:1px solid var(--line);padding:14px;border-radius:12px}
+.lb-prompt details{margin-top:14px;color:var(--muted)}
+.lb-prompt details p{white-space:pre-wrap;font-size:12.5px}
+.lb-actions{padding:14px 20px;border-top:1px solid var(--line);display:flex;gap:10px}
+.lb-actions .btn.primary{flex:1.4}
+.btn{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);color:var(--text);cursor:pointer;text-decoration:none;font-size:14px;font-weight:600}
+.btn.primary{background:linear-gradient(90deg,#5b7cff,#9a6bff);border:0}
+.btn:hover{filter:brightness(1.1)}
+footer{color:var(--muted);text-align:center;font-size:12px;padding:0 24px 40px}
+.links{display:flex;gap:8px;align-items:center;order:5}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:8px 12px;border-radius:12px;font-size:13px;text-decoration:none;cursor:pointer;white-space:nowrap;list-style:none}
+.pill::-webkit-details-marker{display:none}
+.pill:hover{border-color:#3a4050}
+.gh .star{color:#ffd76a;font-size:12px}
+.lbl-s{display:none}
+.dl{position:relative}
+.dl .menu{position:absolute;right:0;top:calc(100% + 6px);background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:6px;min-width:250px;box-shadow:0 16px 40px rgba(0,0,0,.5);z-index:30}
+.dl .menu a{display:block;padding:9px 12px;border-radius:9px;text-decoration:none;font-size:14px}
+.dl .menu a:hover{background:var(--panel2)}
+.dl .menu small{display:block;color:var(--muted);font-size:11.5px}
+.tabs{order:2;display:flex;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:3px;gap:2px}
+.tabs a{text-decoration:none;color:var(--muted);padding:6px 14px;border-radius:9px;font-size:13.5px;font-weight:600;white-space:nowrap}
+.tabs a i{font-style:normal;font-weight:400;font-size:11.5px;opacity:.75;margin-left:3px}
+.tabs a.on{background:linear-gradient(90deg,rgba(91,124,255,.35),rgba(154,107,255,.35));color:var(--text)}
+.tabs a:not(.on):hover{color:var(--text)}
+.brand{order:1}.search{order:3}.controls{order:4}
+.intro{position:relative;max-width:1600px;margin:14px auto 0;padding:0 24px}
+.intro p{margin:0;padding:14px 44px 6px 16px;background:linear-gradient(90deg,rgba(124,156,255,.10),rgba(177,140,255,.06));border:1px solid var(--line);border-bottom:0;border-radius:14px 14px 0 0;color:#cfd3dd;font-size:13.5px}
+.intro p b{color:var(--text)}
+.tips{list-style:none;margin:0;padding:4px 16px 14px;display:flex;flex-wrap:wrap;gap:6px 18px;background:linear-gradient(90deg,rgba(124,156,255,.10),rgba(177,140,255,.06));border:1px solid var(--line);border-top:0;border-radius:0 0 14px 14px;color:var(--muted);font-size:12.5px}
+.tips i{font-style:normal;margin-right:5px}
+.intro-x{position:absolute;right:34px;top:8px;background:none;border:0;color:var(--muted);font-size:20px;cursor:pointer}
+.intro.hide{display:none}
+footer p{margin:4px 0}footer a{color:#aab8ff}
+@media (max-width:860px){.lb-wrap{flex-direction:column}.lb-side{width:100%;height:55%}.lb-img{height:45%;padding:10px}.lb-img img{max-height:100%}.bar{padding:12px 14px}main{padding:12px 14px 40px}.stats{padding:8px 14px 0}}
+@media (max-width:640px){
+header{position:relative}
+.lbl-s{display:inline}
+.bar{padding:10px 12px;gap:10px}
+.brand{min-width:0;flex:1 1 0}.brand h1{font-size:16.5px;white-space:nowrap}.brand small{font-size:11px;line-height:1.4;display:block}
+.links{gap:6px;order:2}.tabs{order:3;width:100%}.tabs a{flex:1;text-align:center;padding:7px 8px}.search{order:4}.controls{order:5}.pill{padding:7px 9px;font-size:12.5px}.pill .lbl{display:none}.gh .star{font-size:11.5px}
+.dl .menu{min-width:230px}
+.intro{padding:0 10px;margin-top:10px}.intro p{padding:11px 34px 4px 12px;font-size:12.5px}.tips{padding:2px 12px 11px;gap:3px 12px;font-size:11.5px;flex-direction:column}.intro-x{right:16px;top:4px}
+.lb-actions .btn{font-size:13px;padding:12px 6px}
+.search{flex:1 1 100%;max-width:none}.search input{font-size:16px;padding:9px 12px 9px 36px}
+.controls{width:100%;justify-content:space-between;flex-wrap:nowrap;gap:6px}
+.seg button{padding:6px 7px;font-size:12px;white-space:nowrap}
+.stats{padding:8px 12px 0;font-size:11.5px}
+main{padding:10px 10px 36px}
+#grid,.col{gap:10px}
+.card{border-radius:12px}.card:hover{transform:none;box-shadow:none}
+.body{padding:8px 9px 9px}
+.prompt{font-size:12px;line-height:1.5;-webkit-line-clamp:3;margin-bottom:7px}
+.meta{font-size:11px;gap:6px}.meta img{width:18px;height:18px}.meta .date{display:none}.meta .who{max-width:62%}
+.badge{top:6px;right:6px;font-size:11px;padding:1px 7px}
+#lb{height:100dvh}
+.lb-img{height:42%;padding:8px 8px 22px}
+.lb-side{height:58%;border-left:0;border-top:1px solid var(--line)}
+.nav{width:36px;height:36px;font-size:18px}.nav.prev{left:8px}.nav.next{right:8px}
+.dots{bottom:4px}
+.lb-head{padding:10px 14px}.lb-head img{width:34px;height:34px}
+.close{font-size:30px;padding:4px 8px}
+.lb-stats{padding:8px 14px;gap:10px;font-size:12px}
+.lb-prompt{padding:12px 14px}.lb-prompt pre{font-size:12.5px;padding:12px}
+.lb-actions{padding:10px 14px calc(10px + env(safe-area-inset-bottom))}
+.btn{padding:12px 10px}
+}
+.play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:50%;background:rgba(0,0,0,.55);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,.25);pointer-events:none}
+.play:after{content:"";margin-left:4px;border-left:15px solid #fff;border-top:9px solid transparent;border-bottom:9px solid transparent}
+.dur{position:absolute;right:8px;bottom:8px;background:rgba(0,0,0,.7);padding:1px 7px;border-radius:6px;font-size:11.5px;font-variant-numeric:tabular-nums}
+.mtag{position:absolute;top:8px;left:8px;background:rgba(91,124,255,.85);color:#fff;padding:1px 8px;border-radius:999px;font-size:11px;font-weight:600}
+.mtag.other{background:rgba(120,120,135,.85)}
+.lb-img video{max-width:100%;max-height:calc(100vh - 80px);border-radius:10px;background:#000;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+.vfail{position:absolute;inset:auto 0 50px 0;text-align:center;display:none}
+.vfail a{display:inline-block;background:var(--panel);border:1px solid var(--line);padding:10px 16px;border-radius:12px;text-decoration:none}
+@media (max-width:860px){.lb-img video{max-height:100%}}
+@media (max-width:640px){.play{width:36px;height:36px}.play:after{border-left-width:12px;border-top-width:7px;border-bottom-width:7px}.mtag{font-size:10px;top:6px;left:6px}.seg#model button{padding:6px 6px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="brand"><h1><span>GPT Image 2.5</span> 提示词图库</h1><small>X 上的 Seedance AI 视频，每条都附完整提示词，点开即可播放</small></div>
+    <nav class="tabs" aria-label="内容类型"><a href="./">🖼 图片<i>__COUNT__</i></a><a href="videos.html" class="on" aria-current="page">🎬 视频<i>__VCOUNT__</i></a></nav>
+    <div class="links">
+      <details class="dl" id="dl"><summary class="pill">⬇ <span class="lbl">下载数据</span><span class="lbl-s">下载</span></summary>
+        <div class="menu">
+          <a href="video_prompts.json" download>视频提示词 JSON<small>video_prompts.json · 含 mp4 链接</small></a>
+          <a href="video_prompts.csv" download>视频提示词 CSV<small>video_prompts.csv · Excel 可直接打开</small></a>
+          <a href="prompts.json" download>图片提示词 JSON<small>prompts.json</small></a>
+          <a href="__ZIP_URL__">全部打包 ZIP<small>网页 + 图片 + 数据 + 离线单文件版</small></a>
+          <a href="data.json" download>完整原始数据<small>data.json · 含原帖正文与互动数</small></a>
+        </div></details>
+      <a class="pill gh" href="__REPO_URL__" target="_blank" rel="noopener" title="开源项目，觉得有用就点个 Star 吧"><svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span class="lbl">GitHub</span> <span class="star">⭐<span class="lbl"> Star</span></span></a>
+    </div>
+    <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="搜索视频提示词或作者，例如：cinematic、打戏、アニメ、vlog" autocomplete="off" enterkeyhint="search"></label>
+    <div class="controls">
+      <div class="seg" id="sort"><button data-v="likes" class="on">最多点赞</button><button data-v="new">最新发布</button></div>
+      <div class="seg" id="model"><button data-v="s25" class="on">Seedance 2.5</button><button data-v="other">其他 Seedance</button><button data-v="all">全部</button></div>
+    </div>
+  </div>
+</header>
+<section class="intro" id="intro">
+  <button class="intro-x" id="introx" title="收起说明" aria-label="收起说明">×</button>
+  <p><b>视频专区：</b>收录 <b id="n1"></b> 条 X 用户公开分享的 <b>Seedance</b>（字节跳动视频模型）AI 视频，其中 Seedance 2.5 共 <b id="n2"></b> 条。每条都配有作者给出的<b>完整提示词</b>，视频直接播放 X 上的原始文件，并链接回原帖。</p>
+  <ul class="tips"><li><i>🎬</i>点开卡片播放视频</li><li><i>🏷️</i>按模型版本筛选，按点赞或最新排序</li><li><i>📋</i>一键复制提示词</li></ul>
+</section>
+<div class="stats" id="stats"></div>
+<main><div id="grid"></div><div class="empty" id="empty">没有找到匹配的视频，换个关键词或切换「全部」试试～</div></main>
+<footer id="foot">
+  <p>视频与提示词版权归各原作者所有，视频直接从 X（video.twimg.com）播放，本站不存储视频文件；本站仅做整理与索引，与字节跳动 / OpenAI 无任何关联。</p>
+  <p>你是作者、希望移除自己的内容？请 <a href="__REMOVAL_URL__" target="_blank" rel="noopener">提交移除请求</a>，我们会尽快处理 · 发现好作品？欢迎 <a href="__SUBMIT_URL__" target="_blank" rel="noopener">推荐提示词</a></p>
+  <p>代码以 MIT 协议开源 · <a href="__REPO_URL__" target="_blank" rel="noopener">GitHub 仓库</a> · 数据更新于 __UPDATED__（北京时间）</p>
+</footer>
+
+<div id="lb" role="dialog" aria-modal="true">
+  <div class="lb-wrap">
+    <div class="lb-img"><button class="nav prev" id="prev">‹</button><video id="lbvid" controls playsinline preload="metadata"></video><div class="vfail" id="vfail"><a id="vfaila" target="_blank" rel="noopener">视频无法在此播放 · 在 X 上观看 ↗</a></div><button class="nav next" id="next">›</button><div class="dots" id="dots"></div></div>
+    <aside class="lb-side">
+      <div class="lb-head"><img id="lbav" alt=""><div><div class="n" id="lbname"></div><div class="h" id="lbhandle"></div></div><button class="close" id="close" title="关闭 (Esc)">×</button></div>
+      <div class="lb-stats" id="lbstats"></div>
+      <div class="lb-prompt"><h3><span>提示词</span><span id="lbsrc"></span></h3><pre id="lbprompt"></pre>
+        <details><summary>原帖正文</summary><p id="lbtext"></p></details></div>
+      <div class="lb-actions"><button class="btn primary" id="copy">复制提示词</button><a class="btn" id="orig" target="_blank" rel="noopener">在 X 上观看 ↗</a></div>
+    </aside>
+  </div>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const POSTS = DATA.posts;
+const SRC = {post:'来源：帖子正文', reply:'来源：作者回复', alt:'来源：视频 ALT 文本'};
+const IS25 = p => /^Seedance 2\.5/.test(p.model);
+let state = {q:'', sort:'likes', model: POSTS.some(IS25) ? 's25' : 'all'};
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const dur = ms => { if(!ms) return ''; const s=Math.round(ms/1000); return Math.floor(s/60)+':'+String(s%60).padStart(2,'0'); };
+function hl(text, q){ let t = esc(text); if(!q) return t; const terms=q.split(/\s+/).filter(Boolean).map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')); if(!terms.length) return t; return t.replace(new RegExp('('+terms.map(esc).join('|')+')','gi'),'<mark>$1</mark>'); }
+function filtered(){
+  const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+  let list = POSTS.filter(p => (state.model==='all' || (state.model==='s25') === IS25(p)) && terms.every(t => (p.prompt+' '+p.author+' '+p.author_name+' '+p.model).toLowerCase().includes(t)));
+  list.sort(state.sort==='likes' ? (a,b)=>b.likes-a.likes : (a,b)=>b.created_at_utc.localeCompare(a.created_at_utc));
+  return list;
+}
+function cardHTML(p, idx){
+  const v = p.videos[0];
+  return `<article class="card" data-i="${idx}">
+    <div class="thumb"><img loading="lazy" src="${v.poster_src}" width="${v.pw}" height="${v.ph}" alt="">
+      <span class="play"></span><span class="mtag${IS25(p)?'':' other'}">${esc(p.model)}</span>
+      ${v.duration_ms?`<span class="dur">${dur(v.duration_ms)}</span>`:''}
+      ${p.videos.length>1?`<span class="badge">${p.videos.length} 段</span>`:''}</div>
+    <div class="body"><p class="prompt">${hl(p.prompt.slice(0,600), state.q)}</p>
+      <div class="meta"><img loading="lazy" src="${esc(p.avatar||'')}" alt="" onerror="this.style.visibility='hidden'"><span class="who">@${esc(p.author)}</span><span class="date">${p.created_at_sh.slice(0,10)}</span><span class="likes">♥ ${p.likes.toLocaleString()}</span></div></div></article>`;
+}
+let current = [];
+function render(){
+  current = filtered();
+  const grid = $('#grid'); const w = grid.clientWidth || window.innerWidth;
+  const n = w < 700 ? 2 : Math.max(1, Math.min(6, Math.floor((w+16)/(300+16))));
+  const cols = Array.from({length:n}, ()=>({h:0, html:[]}));
+  current.forEach((p,i)=>{ const v=p.videos[0]; const c = cols.reduce((a,b)=>b.h<a.h?b:a); c.html.push(cardHTML(p,i)); c.h += v.ph/v.pw + 0.55; });
+  grid.innerHTML = cols.map(c=>`<div class="col">${c.html.join('')}</div>`).join('');
+  $('#empty').style.display = current.length? 'none':'block';
+  $('#stats').textContent = `共 ${POSTS.length} 条视频（Seedance 2.5：${DATA.n25} 条） · 当前显示 ${current.length} 条 · 发布于 ${DATA.first} 至 ${DATA.last} · 更新于 ${DATA.updated}（北京时间）`;
+}
+// lightbox
+let lbPost=null, lbI=0; const vid = $('#lbvid');
+function openLB(i){ lbPost = current[i]; lbI = 0; const p=lbPost;
+  $('#lbav').src = p.avatar||''; $('#lbname').textContent = p.author_name||p.author; $('#lbhandle').textContent='@'+p.author;
+  const v=p.videos[0];
+  $('#lbstats').innerHTML = `<span>🎬 <b>${esc(p.model)}</b></span><span>♥ <b>${p.likes.toLocaleString()}</b> 赞</span>${v.views?`<span>▶ <b>${v.views.toLocaleString()}</b> 次播放</span>`:''}<span>🕒 <b>${p.created_at_sh}</b> (UTC+8)</span>`;
+  $('#lbsrc').textContent = SRC[p.prompt_source]||''; $('#lbprompt').textContent = p.prompt; $('#lbtext').textContent = p.text;
+  $('#orig').href = p.url; $('#vfaila').href = p.url; $('#copy').textContent='复制提示词';
+  showVid(); $('#lb').classList.add('open'); document.body.style.overflow='hidden'; }
+function showVid(){ const vs=lbPost.videos; const v=vs[lbI]; const multi=vs.length>1;
+  $('#vfail').style.display='none'; vid.style.visibility='visible';
+  vid.poster = v.poster_src; vid.dataset.low = v.mp4_low||''; vid.src = v.mp4 || v.mp4_low || '';
+  if(!vid.src) onFail();
+  $('#prev').style.display=$('#next').style.display = multi?'block':'none'; $('#dots').textContent = multi?`${lbI+1} / ${vs.length}`:''; }
+function onFail(){ if(vid.dataset.low && vid.src!==vid.dataset.low){ vid.src=vid.dataset.low; vid.dataset.low=''; return; } $('#vfail').style.display='block'; }
+vid.addEventListener('error', onFail);
+function closeLB(){ vid.pause(); vid.removeAttribute('src'); vid.load(); $('#lb').classList.remove('open'); document.body.style.overflow=''; }
+$('#grid').addEventListener('click', e=>{ const c=e.target.closest('.card'); if(c) openLB(+c.dataset.i); });
+$('#close').onclick = closeLB; $('#lb').addEventListener('click', e=>{ if(e.target.id==='lb'||e.target.classList.contains('lb-img')) closeLB(); });
+$('#prev').onclick = e=>{e.stopPropagation(); lbI=(lbI-1+lbPost.videos.length)%lbPost.videos.length; showVid();};
+$('#next').onclick = e=>{e.stopPropagation(); lbI=(lbI+1)%lbPost.videos.length; showVid();};
+document.addEventListener('keydown', e=>{ if(!$('#lb').classList.contains('open')) return; if(e.key==='Escape') closeLB(); if(e.key==='ArrowLeft') $('#prev').click(); if(e.key==='ArrowRight') $('#next').click(); });
+$('#copy').onclick = async ()=>{ const t=lbPost.prompt; let ok=false;
+  try{ await navigator.clipboard.writeText(t); ok=true; }catch(_){ const ta=document.createElement('textarea'); ta.value=t; ta.style.position='fixed'; ta.style.opacity='0'; document.body.appendChild(ta); ta.select(); try{ok=document.execCommand('copy');}catch(_){} ta.remove(); }
+  $('#copy').textContent = ok? '已复制 ✓':'复制失败，请手动选择'; setTimeout(()=>$('#copy').textContent='复制提示词', 1800); };
+// controls
+let tmr; $('#q').addEventListener('input', e=>{ clearTimeout(tmr); tmr=setTimeout(()=>{ state.q=e.target.value.trim(); render(); },120); });
+for (const id of ['sort','model']) $('#'+id).addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; $('#'+id).querySelectorAll('button').forEach(x=>x.classList.toggle('on', x===b)); state[id]=b.dataset.v; render(); });
+$('#model').querySelectorAll('button').forEach(x=>x.classList.toggle('on', x.dataset.v===state.model));
+if (!POSTS.some(p=>!IS25(p))) $('#model').style.display='none';   // only shown once other Seedance versions are collected
+let rt; window.addEventListener('resize', ()=>{ clearTimeout(rt); rt=setTimeout(render,150); });
+$('#n1').textContent = POSTS.length; $('#n2').textContent = DATA.n25;
+try{ if(localStorage.getItem('vintroHidden')==='1') $('#intro').classList.add('hide'); }catch(_){}
+$('#introx').onclick = ()=>{ $('#intro').classList.add('hide'); try{localStorage.setItem('vintroHidden','1');}catch(_){} };
+document.addEventListener('click', e=>{ const dl=$('#dl'); if(dl.open && !dl.contains(e.target)) dl.open=false; });
+render();
+</script>
+</body>
+</html>

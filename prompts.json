@@ -2,7 +2,7 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-11T08:05:32+08:00",
+  "generated_at": "2026-10-11T21:34:53+08:00",
   "count": 209,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
@@ -1027,7 +1027,7 @@
     },
     {
       "id": "2107865780146893027",
-      "prompt": "雷电将军 × 【拍摄设备】 × 逆光抓拍 × 光学失控",
+      "prompt": "雷电将军 × Canon PowerShot × 逆光抓拍 × 光学失控",
       "author": "DeepBlueX0",
       "author_url": "https://x.com/DeepBlueX0",
       "post_url": "https://x.com/DeepBlueX0/status/2107865780146893027",
@@ -1040,7 +1040,7 @@
         "images/2107865780146893027_2.jpg",
         "images/2107865780146893027_3.jpg"
       ],
-      "prompt_source": "post"
+      "prompt_source": "alt"
     },
     {
       "id": "2107760212962898088",

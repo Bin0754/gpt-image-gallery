@@ -20,6 +20,7 @@ from PIL import Image
 SCRIPTS = Path(__file__).resolve().parent
 ROOT = SCRIPTS.parent
 TPL = (SCRIPTS / 'template.html').read_text(encoding='utf-8')
+TPL_V = (SCRIPTS / 'template_video.html').read_text(encoding='utf-8')
 
 REPO = 'Bin0754/gpt-image-gallery'
 REPO_URL = f'https://github.com/{REPO}'
@@ -55,10 +56,26 @@ HIDE_IDS = {
     '2108505251934326870',                         # @spark_chenlin short skirt / low-neckline sitting portraits
     '2108523890393715127',                         # @lipsticksplus curvy crop-top midriff full-body
 }
+# Video posts (video_data.json) hidden after manual review of the poster contact sheet.
+VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    # suggestive poster / outfit focus
+    '2109182343625732099',  # johnAGI168 - tight mini-dress outfit-change dance
+    '2109202785036353857',  # metabo2727 - same outfit-change prompt
+    '2103217467984101710',  # Alexneyef - bikini / shirtless close-up
+    '2099736809718829064',  # ronxxstudio - cleavage close-up poster
+    # text is not an actual video prompt
+    '2107593616893845562',  # DavidRunsAds - workflow explanation
+    '2106536299356381507',  # hxhxhx0916 - negative prompt only
+    '2106574630664257929',  # jarvis11x - workflow notes
+    '2090287713945862654',  # beginnersblog1 - process notes
+    '2108618981540000162',  # ooffooxx - A/B comparison question
+}
+VSTATS = {}
+VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page
 SITE_DIR = ROOT / 'site'
 REPO_STATIC = ROOT / 'repo'
 SITE_SCRIPTS = ['fetch_x.py', 'scrape.py', 'extract.py', 'build_site.py', 'template.html', 'queries.json',
-                'publish.sh', 'refresh.sh', 'requirements.txt']
+                'publish.sh', 'refresh.sh', 'requirements.txt', 'template_video.html']
 SH = timezone(timedelta(hours=8))
 LANG_NAMES = {'zh': '中文', 'ja': '日本語', 'en': 'English', 'other': '其他'}
 SRC_NAMES = {'post': '帖子正文', 'reply': '作者回复', 'alt': '图片 ALT 文本'}
@@ -101,7 +118,7 @@ def render(d, posts, st):
             f"一键复制，并可下载 JSON/CSV 数据。开源项目，内容版权归原作者。")
     rep = {'__DESC__': desc, '__SITE_URL__': SITE_URL, '__OG_IMAGE__': og, '__REPO_URL__': REPO_URL,
            '__ZIP_URL__': ZIP_URL, '__REMOVAL_URL__': REMOVAL_URL, '__SUBMIT_URL__': SUBMIT_URL,
-           '__COUNT__': str(st['count']), '__UPDATED__': st['updated']}
+           '__COUNT__': str(st['count']), '__VCOUNT__': str(VCOUNT), '__UPDATED__': st['updated']}
     html = TPL
     for k, v in rep.items(): html = html.replace(k, v)
     return html.replace('__DATA__', js)
@@ -168,6 +185,8 @@ def fill(text, st):
                  '{{FIRST}}': st['first'], '{{LAST}}': st['last'], '{{UPDATED}}': st['updated'],
                  '{{LANGS}}': langs, '{{LANGS_EN}}': langs_en,
                  '{{SRC_POST}}': s.get('post', 0), '{{SRC_REPLY}}': s.get('reply', 0), '{{SRC_ALT}}': s.get('alt', 0),
+                 '{{VCOUNT}}': VSTATS.get('count', 0), '{{VCOUNT25}}': VSTATS.get('n25', 0),
+                 '{{VFIRST}}': VSTATS.get('first', ''), '{{VLAST}}': VSTATS.get('last', ''),
                  '{{SITE_URL}}': SITE_URL, '{{REPO_URL}}': REPO_URL, '{{ZIP_URL}}': ZIP_URL,
                  '{{REMOVAL_URL}}': REMOVAL_URL, '{{SUBMIT_URL}}': SUBMIT_URL}.items():
         text = text.replace(k, str(v))
@@ -207,6 +226,90 @@ def export_site(d, posts, st):
     print(f"site/ exported: {st['count']} posts, {st['images']} images")
 
 
+# ------------------------------------------------------------------ videos
+def load_videos():
+    f = ROOT / 'video_data.json'
+    if not f.exists(): return None, []
+    d = json.loads(f.read_text(encoding='utf-8'))
+    posts = [p for p in d['posts'] if (INCLUDE_NSFW or not p.get('nsfw_flag')) and p['id'] not in VHIDE_IDS]
+    for p in posts: p['language'] = lang_of(p)
+    return d, posts
+
+
+def vstats(d, posts):
+    dates = sorted(p['created_at_sh'] for p in posts) or ['']
+    gen = datetime.fromisoformat(d['generated_at']).astimezone(SH)
+    return {'count': len(posts), 'n25': sum(p['model'].startswith('Seedance 2.5') for p in posts),
+            'first': dates[0][:10], 'last': dates[-1][:10], 'authors': len({p['author'] for p in posts}),
+            'models': Counter(p['model'] for p in posts), 'updated': gen.strftime('%Y-%m-%d %H:%M')}
+
+
+def site_videos(posts):
+    out = []
+    for p in posts:
+        p = json.loads(json.dumps(p))
+        for v in p['videos']: v['poster_src'] = 'posters/' + v['poster']
+        out.append(p)
+    return out
+
+
+def render_videos(d, posts, vst, st):
+    payload = {'posts': site_videos(posts), 'count': len(posts), 'n25': vst['n25'], 'first': vst['first'],
+               'last': vst['last'], 'updated': vst['updated']}
+    js = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
+    top = max(posts, key=lambda p: p['likes']) if posts else None
+    og = SITE_URL + 'posters/' + top['videos'][0]['poster'] if top else ''
+    desc = (f"收录 {vst['count']} 条 X 上公开分享的 Seedance AI 视频（其中 Seedance 2.5 {vst['n25']} 条）与完整提示词："
+            f"在线播放、搜索、一键复制，并可下载 JSON/CSV。内容版权归原作者。")
+    rep = {'__VDESC__': desc, '__SITE_URL__': SITE_URL, '__VOG_IMAGE__': og, '__REPO_URL__': REPO_URL,
+           '__ZIP_URL__': ZIP_URL, '__REMOVAL_URL__': REMOVAL_URL, '__SUBMIT_URL__': SUBMIT_URL,
+           '__COUNT__': str(st['count']), '__VCOUNT__': str(vst['count']), '__UPDATED__': vst['updated']}
+    html = TPL_V
+    for k, v in rep.items(): html = html.replace(k, v)
+    return html.replace('__DATA__', js)
+
+
+def write_video_downloads(dest: Path, d, posts):
+    recs = []
+    for p in sorted(posts, key=lambda p: -p['likes']):
+        dt = datetime.strptime(p['created_at_utc'], '%Y-%m-%dT%H:%M:%S.%fZ').replace(tzinfo=timezone.utc).astimezone(SH)
+        recs.append({'id': p['id'], 'model': p['model'], 'prompt': p['prompt'], 'author': p['author'],
+                     'author_url': f"https://x.com/{p['author']}", 'post_url': p['url'],
+                     'date': dt.isoformat(timespec='seconds'), 'likes': p['likes'], 'language': p['language'],
+                     'prompt_source': p['prompt_source'],
+                     'videos': [{'mp4': v['mp4'], 'duration_s': round((v.get('duration_ms') or 0) / 1000, 1),
+                                 'poster': 'posters/' + v['poster'], 'width': v.get('w'), 'height': v.get('h')} for v in p['videos']]})
+    meta = {'name': 'Seedance 视频提示词 / Seedance video prompts (GPT Image 2.5 提示词图库)',
+            'homepage': SITE_URL + 'videos.html', 'repository': REPO_URL,
+            'generated_at': datetime.fromisoformat(d['generated_at']).astimezone(SH).isoformat(timespec='seconds'),
+            'count': len(recs),
+            'license': 'Code: MIT. Videos and prompts belong to their original authors on X; mp4 links point to X (video.twimg.com) and may expire.',
+            'fields': {'model': 'Seedance version named in the post (Seedance 2.5 / Seedance 2.0 / ...)',
+                       'videos': 'mp4 = X-hosted file (not mirrored), duration_s, poster = local poster frame',
+                       'prompt_source': 'post = post text, reply = author\'s own reply, alt = media ALT text'},
+            'prompts': recs}
+    (dest / 'video_prompts.json').write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding='utf-8')
+    cols = ['id', 'date', 'model', 'author', 'author_url', 'post_url', 'likes', 'language', 'prompt_source', 'prompt', 'mp4', 'duration_s']
+    with open(dest / 'video_prompts.csv', 'w', encoding='utf-8-sig', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=cols); w.writeheader()
+        for r in recs:
+            w.writerow({**{c: r[c] for c in cols if c in r}, 'mp4': ' | '.join(v['mp4'] for v in r['videos']),
+                        'duration_s': ' | '.join(str(v['duration_s']) for v in r['videos'])})
+
+
+def export_videos(vd, vposts, vst, st):
+    (SITE_DIR / 'videos.html').write_text(render_videos(vd, vposts, vst, st), encoding='utf-8')
+    write_video_downloads(SITE_DIR, vd, vposts)
+    want = {v['poster'] for p in vposts for v in p['videos']}
+    (SITE_DIR / 'posters').mkdir(exist_ok=True)
+    for f in (SITE_DIR / 'posters').glob('*'):
+        if f.name not in want: f.unlink()
+    for name in want:
+        src, dst = ROOT / 'posters' / name, SITE_DIR / 'posters' / name
+        if not dst.exists() or dst.stat().st_size != src.stat().st_size: shutil.copy2(src, dst)
+    print(f"site/ exported: {vst['count']} video posts, {len(want)} posters")
+
+
 def release_zip(path: Path):
     with zipfile.ZipFile(path, 'w', zipfile.ZIP_DEFLATED) as z:
         for f in sorted(SITE_DIR.rglob('*')):
@@ -225,8 +328,17 @@ def main():
     ap.add_argument('--export', action='store_true', help='force export to site/ (default: only if site/ exists)')
     ap.add_argument('--release-zip', action='store_true', help=f'write ../{ZIP_NAME} for a GitHub Release')
     a = ap.parse_args()
+    global VCOUNT
     d, posts = load()
     st = stats(d, posts)
+    vd, vposts = load_videos()
+    vst = vstats(vd, vposts) if vd else None
+    VCOUNT = vst['count'] if vst else 0
+    VSTATS.update(vst or {})
+    if vd:
+        (ROOT / 'videos.html').write_text(render_videos(vd, vposts, vst, st), encoding='utf-8')
+        write_video_downloads(ROOT, vd, vposts)
+        print(f"videos.html + video_prompts.json/csv: {vst['count']} video posts ({vst['n25']} Seedance 2.5)")
     (ROOT / 'index.html').write_text(render(d, site_posts(posts), st), encoding='utf-8')
     write_downloads(ROOT, d, posts, st)
     print(f"index.html + prompts.json/csv: {st['count']} posts, {st['images']} images")
@@ -243,6 +355,7 @@ def main():
         print('gallery.html', round(len(html.encode()) / 1e6, 1), 'MB')
     if a.export or SITE_DIR.exists():
         export_site(d, posts, st)
+        if vd: export_videos(vd, vposts, vst, st)
         if a.release_zip: release_zip(ROOT.parent / ZIP_NAME)
 
 

@@ -21,6 +21,9 @@ ROOT = Path(__file__).resolve().parent.parent   # repo root (scripts/ lives one 
 IMG_DIR = ROOT / 'images'
 THUMB_DIR = ROOT / 'thumbs'
 DATA = ROOT / 'data.json'
+VDATA = ROOT / 'video_data.json'       # Seedance video posts (raw/*_video_*.txt)
+POSTER_DIR = ROOT / 'posters'          # small JPEG poster frames (mp4s are never downloaded)
+POSTER_SIDE = 480
 MAX_SIDE = 1200
 THUMB_SIDE = 480
 SESSION = requests.Session()
@@ -96,5 +99,38 @@ def main():
     DATA.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'Wrote {DATA} with {len(final)} posts; images in {IMG_DIR}')
 
+def main_videos():
+    items, _ = build_posts(str(ROOT / 'raw' / '*.txt'), kind='video')
+    jobs = [(it, i, v['poster_url'] + ('&' if '?' in v['poster_url'] else '?') + 'name=small', POSTER_DIR / f"{it['id']}_{i}.jpg")
+            for it in items for i, v in enumerate(it['videos'])]
+
+    def work(job):
+        it, i, url, path = job
+        if path.exists():
+            im = Image.open(path); return it['id'], i, path.name, im.width, im.height
+        meta = fetch_resize(url, path, POSTER_SIDE, 74) or fetch_resize(job[0]['videos'][i]['poster_url'], path, POSTER_SIDE, 74)
+        return (it['id'], i, path.name, meta['w'], meta['h']) if meta else None
+
+    got = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+        for res in ex.map(work, jobs):
+            if res: got[(res[0], res[1])] = res[2:]
+    final = []
+    for it in items:
+        vids = []
+        for i, v in enumerate(it['videos']):
+            r = got.get((it['id'], i))
+            if r: vids.append({**v, 'poster': r[0], 'pw': r[1], 'ph': r[2]})
+        if vids:
+            final.append({**it, 'videos': vids})
+    qs = json.loads((ROOT / 'scripts' / 'queries.json').read_text(encoding='utf-8')).get('video', {}).get('queries', [])
+    VDATA.write_text(json.dumps({
+        'title': 'Seedance 视频提示词',
+        'generated_at': __import__('datetime').datetime.now().astimezone().isoformat(timespec='seconds'),
+        'count': len(final), 'queries': [q['query'] for q in qs], 'posts': final,
+    }, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f'Wrote {VDATA} with {len(final)} video posts; posters in {POSTER_DIR}')
+
 if __name__ == '__main__':
     main()
+    main_videos()

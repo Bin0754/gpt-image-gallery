@@ -1,6 +1,6 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-11T08:05:32+08:00",
+  "generated_at": "2026-10-11T21:34:53+08:00",
   "count": 209,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
@@ -2771,8 +2771,8 @@
       "bookmarks": 26,
       "lang": "zh",
       "text": "可太喜欢这种逆光氛围了～\n\n通用🔵 GPT image 2.5 Prompt:\n\n雷电将军 × 【拍摄设备】 × 逆光抓拍 × 光学失控\n\n喜欢AI摄影的你，应该都知道用了什么设备吧？答案放评论👇",
-      "prompt": "雷电将军 × 【拍摄设备】 × 逆光抓拍 × 光学失控",
-      "prompt_source": "post",
+      "prompt": "雷电将军 × Canon PowerShot × 逆光抓拍 × 光学失控",
+      "prompt_source": "alt",
       "images": [
         {
           "url": "https://pbs.twimg.com/media/HUCkv6Za0AA6bZU.jpg",

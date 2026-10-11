@@ -10,10 +10,15 @@ EXCLUDE_IDS = {'2097483045221917131','2102350916435288244','2101391707702964652'
 # inline 'prompt' that is really a how-to step list / pointer ("3️⃣ Paste the prompt 4️⃣ Generate", "Prompt below 👇")
 STEP_STUB = re.compile(r'^\s*(\d+\s*\ufe0f?\u20e3|[\u2460-\u2473]|\d+\s*[\.\)、])', re.I)
 POINTER = re.compile(r'prompt\s*(below|⤵|👇|in (the )?(reply|replies|comments?|alt))|new scenes waiting below|下面|评论区|评论|リプ|コメント欄|>>>', re.I)
+# explicit 'the prompt is elsewhere' pointers right after a prompt marker
+PTR_NEAR = re.compile(r'prompt\s*(below|in (the )?(repl|comment|alt))|(in|see) (the )?comments|评论区|リプ|コメント欄|👇|⤵', re.I)
 # ALT texts that describe the image (accessibility / news captions) rather than give the prompt
 ALT_NOT_PROMPT = re.compile(r'^\s*(an? )?ai[- ]generated|^\s*diagram\b|source:|ai生成|の制作事例|^ai生成画像', re.I)
 PROMPT_WORD = re.compile(r'prompt|提示词|プロンプト|咒语|promptshare', re.I)
 EXCLUDE_TEXT = re.compile(r'full JSON prompt 👆', re.I)
+# --- video (Seedance) ---
+SEEDANCE = re.compile(r'seedance|即梦|jimeng|dreamina', re.I)
+SEED_VER = re.compile(r'seedance[\s\-_]?(\d(?:\.\d)?)(?:[\s\-_]?(pro|lite|fast|mini))?', re.I)
 VIDEO_ONLY = re.compile(r'^\W*(\d\W*)?(video prompt|sedance|seedance|video prompt（grok）)', re.I)
 TCO = re.compile(r'https://t\.co/\S+')
 SH = timezone(timedelta(hours=8))
@@ -54,8 +59,48 @@ def clean_prompt(s):
     s = re.sub(r'(\n\s*(#\S+\s*)+)$', '', s).strip()
     return s
 
-def build_posts(raw_glob='raw/*.txt'):
-    resp = load_responses(sorted(glob.glob(raw_glob)))
+def is_video_raw(path):
+    return '_video_' in path.replace('\\', '/').rsplit('/', 1)[-1]
+
+def seedance_model(text):
+    """'Seedance 2.5' / 'Seedance 2.5 Pro' / 'Seedance 2.0' / 'Seedance' (no version) or '' if not mentioned."""
+    vers = []
+    for m in SEED_VER.finditer(text):
+        v = m.group(1)
+        if v in ('25',): v = '2.5'
+        if '.' not in v and len(v) == 1: v = v + '.0'
+        name = 'Seedance ' + v + (' ' + m.group(2).capitalize() if m.group(2) else '')
+        if name not in vers: vers.append(name)
+    if any(v.startswith('Seedance 2.5') for v in vers):
+        return next(v for v in vers if v.startswith('Seedance 2.5'))
+    if vers: return vers[0]
+    return 'Seedance' if re.search(r'seedance', text, re.I) else ''
+
+LEAD_MENTIONS = re.compile(r'^(\s*@\w+)+\s*')
+def video_reply_parts(parts):
+    """Author self-replies under a video post: keep the prompt, drop notes/thanks/links.
+    If some reply is labelled as a prompt, start from the first labelled one."""
+    parts = [LEAD_MENTIONS.sub('', c).strip() for c in parts]
+    labelled = [i for i, c in enumerate(parts) if PROMPT_WORD.search(c[:80]) or MARK.match(c)]
+    if labelled: parts = parts[labelled[0]:]
+    keep = []
+    for i, c in enumerate(parts):
+        if re.search(r'try it here|thanks|thank you|ありがとう|感谢', c, re.I) and len(c) < 600: continue
+        if len(TCO.sub('', c).strip()) < 150 and not MARK.match(c): continue
+        keep.append(c)
+    return keep
+
+def best_mp4(m):
+    mp4 = sorted([v for v in m.get('variants', []) if v.get('content_type') == 'video/mp4'], key=lambda v: v.get('bit_rate', 0))
+    if not mp4: return '', ''
+    # mid-quality for inline playback (<= ~2.2 Mbps), lowest as fallback
+    mid = [v for v in mp4 if v.get('bit_rate', 0) <= 2300000] or mp4
+    return mid[-1]['url'], mp4[0]['url']
+
+def build_posts(raw_glob='raw/*.txt', kind='photo'):
+    files = sorted(glob.glob(raw_glob))
+    files = [f for f in files if is_video_raw(f) == (kind == 'video')]
+    resp = load_responses(files)
     posts, media, users = {}, {}, {}
     for d in resp:
         for p in d.get('data', []) or []:
@@ -82,24 +127,29 @@ def build_posts(raw_glob='raw/*.txt'):
             pass
         t = fulltext(p)
         mks = (p.get('attachments') or {}).get('media_keys', [])
-        photos = [media[k] for k in mks if k in media and media[k].get('type') == 'photo' and media[k].get('url')]
+        if kind == 'video':
+            photos = [media[k] for k in mks if k in media and media[k].get('type') == 'video' and media[k].get('preview_image_url')]
+        else:
+            photos = [media[k] for k in mks if k in media and media[k].get('type') == 'photo' and media[k].get('url')]
         if not photos or pid in EXCLUDE_IDS or EXCLUDE_TEXT.search(t): continue
         alts = [m.get('alt_text', '') for m in photos if m.get('alt_text') and not ALT_NOT_PROMPT.search(m['alt_text'])]
-        if not (GPT25.search(t) or any(GPT25.search(a) for a in alts)): continue
+        if kind == 'video':
+            if not (SEEDANCE.search(t) or any(SEEDANCE.search(a) for a in alts)): continue
+        elif not (GPT25.search(t) or any(GPT25.search(a) for a in alts)): continue
         prompt, source = '', ''
         for m in MARK.finditer(t):
             ws = t.rfind(' ', 0, m.start()); nl = t.rfind('\n', 0, m.start())
             word = t[max(ws, nl) + 1:m.start()]
             if '#' in word: continue          # part of a hashtag like #のぞむプロンプト
             cand = clean_prompt(t[m.end():])
-            if STEP_STUB.match(cand) or (POINTER.search(cand) and len(cand) < 160): continue
+            if STEP_STUB.match(cand) or ((POINTER.search(cand) or PTR_NEAR.search(t[m.end():m.end() + 400])) and len(cand) < 160): continue
             # "Prompt 👇" / "Prompt here:" style markers point at replies unless a full prompt actually follows
             if re.search(r'[👇⤵⬇]|here', m.group(0), re.I) and (len(cand) < 80 or CTA.match(cand) or re.fullmatch(r'\s*((#|@)\S+\s*)+', cand)): continue
             if re.fullmatch(r'\s*((#|@)\S+\s*)+', cand): continue   # hashtag-only
             m2 = MARK.search(cand)   # header line like "海报Prompt\n来自@x via ...\nPrompt：<real prompt>"
             if m2 and m2.start() < 120 and re.search(r'[:：]', cand[m2.start():m2.end()]):
                 cand = clean_prompt(cand[m2.end():])
-            if len(cand) >= 8: prompt, source = cand, 'post'; break
+            if len(cand) >= (40 if kind == 'video' else 8): prompt, source = cand, 'post'; break
         long_alts0 = [a for a in alts if len(a) >= 40 and not a.startswith('AI生成画像')]
         if prompt and long_alts0 and max(len(a) for a in long_alts0) > 3 * len(prompt):
             prompt = ''
@@ -117,7 +167,7 @@ def build_posts(raw_glob='raw/*.txt'):
             parts = []
             for r in rs:
                 rt = fulltext(r)
-                if VIDEO_ONLY.match(rt) or re.search(r'video prompt', rt[:40], re.I): continue
+                if kind != 'video' and (VIDEO_ONLY.match(rt) or re.search(r'video prompt', rt[:40], re.I)): continue
                 c = clean_prompt(rt)
                 mm = re.search(r'-{2,}\s*以下(?:プロンプト|提示词)\s*-{2,}\s*', c)
                 if mm and mm.start() < 300: c = c[mm.end():].strip()
@@ -133,6 +183,8 @@ def build_posts(raw_glob='raw/*.txt'):
                 if end: break
             # replies only count as a prompt when the root or the reply itself talks about a prompt
             # (avoids picking up plain commentary threads, e.g. "続きはコメントへ")
+            if kind == 'video' and parts:
+                parts = video_reply_parts(parts)
             if parts and not (PROMPT_WORD.search(t) or any(PROMPT_WORD.search(fulltext(r)[:30]) for r in rs)):
                 parts = []
             if parts:
@@ -154,7 +206,12 @@ def build_posts(raw_glob='raw/*.txt'):
             'lang': p.get('lang', ''),
             'text': TCO.sub('', t).strip(),
             'prompt': prompt, 'prompt_source': source,
-            'images': [{'url': m['url'], 'w': m.get('width'), 'h': m.get('height'), 'media_key': m['media_key']} for m in photos],
+            'images': [{'url': m['url'], 'w': m.get('width'), 'h': m.get('height'), 'media_key': m['media_key']} for m in photos] if kind != 'video' else [],
+            **({'model': seedance_model(t + ' ' + prompt),
+                'videos': [{'poster_url': m['preview_image_url'], 'w': m.get('width'), 'h': m.get('height'),
+                            'duration_ms': m.get('duration_ms'), 'views': (m.get('public_metrics') or {}).get('view_count'),
+                            'mp4': best_mp4(m)[0], 'mp4_low': best_mp4(m)[1], 'media_key': m['media_key']} for m in photos]}
+               if kind == 'video' else {}),
             'nsfw_flag': bool(NSFW.search(t + ' ' + prompt)),
         })
     # dedupe: same author + same prompt head, or identical first image
@@ -162,7 +219,7 @@ def build_posts(raw_glob='raw/*.txt'):
     seen_p, seen_img, out = set(), set(), []
     for it in items:
         kp = (it['author'], re.sub(r'\W', '', it['prompt'])[:150])
-        ki = it['images'][0]['url']
+        ki = (it['videos'][0]['poster_url'] if kind == 'video' else it['images'][0]['url'])
         if kp in seen_p or ki in seen_img: continue
         seen_p.add(kp); seen_img.add(ki); out.append(it)
     return out, posts

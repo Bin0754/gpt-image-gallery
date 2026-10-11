@@ -35,12 +35,24 @@
 | 图片 | **423** 张（最长边 1200px JPEG + 480px 缩略图） |
 | 发布时间范围 | 2026-09-09 至 2026-10-11（北京时间，GPT Image 2.5 于 2026-09-08 前后发布） |
 | 提示词语言 | English 170，中文 32，日本語 5，其他 2 |
-| 提示词来源 | 帖子正文 114 · 作者本人回复 76 · 图片 ALT 文本 19 |
-| 最近更新 | 2026-10-11 08:05（北京时间） |
+| 提示词来源 | 帖子正文 113 · 作者本人回复 76 · 图片 ALT 文本 20 |
+| 最近更新 | 2026-10-11 21:34（北京时间） |
 
 收录规则：帖子须带图片、明确提到 GPT Image 2.5，并且能拿到**作者本人公开给出的提示词**（帖子正文 / 作者在同一会话中的自回复 / 图片 ALT 文本）。提示词“只在图片里”或“在评论区/链接里”的帖子不收录；同一作者的重复提示词去重；NSFW 及过于性感的内容不在公开页面展示。
 
 注意：部分帖子是多个模型的对比图，图片中可能包含其他模型的结果；部分提示词是带 `[城市]`、`{角色}` 等占位符的模板。
+
+### 🎬 视频提示词（Seedance 2.5）
+
+[视频页](https://bin0754.github.io/gpt-image-gallery/videos.html)（页头「🎬 视频」标签）收录 X 上的 **Seedance 2.5**（字节跳动视频模型，帖子里写作 “Seedance 2.5 / Seedance2.5 / Dreamina Seedance 2.5 / Seedance 2.5 Pro”）AI 视频，每条都附作者公开的完整提示词：
+
+| 项目 | 数值 |
+| --- | --- |
+| 视频帖子 | **127** 条（其中标注 Seedance 2.5 的 127 条） |
+| 发布时间范围 | 2026-08-01 至 2026-10-11（北京时间） |
+| 数据下载 | [`video_prompts.json`](https://bin0754.github.io/gpt-image-gallery/video_prompts.json) · [`video_prompts.csv`](https://bin0754.github.io/gpt-image-gallery/video_prompts.csv)（UTF-8 带 BOM）：`id, date, model, author, post_url, likes, language, prompt_source, prompt, mp4, duration_s` |
+
+收录规则同上（须有视频 + 作者本人给出的提示词，去重，过滤性感/NSFW 内容）。仓库只保存封面图（`posters/`，最长边 480px）；视频本身不入库，点开卡片直接播放 X 的原始 mp4（`video.twimg.com`），播放失败时可点「在 X 上观看」。模型标签只按帖子原文标注，其他 Seedance 版本若收录会单独放在「其他 Seedance」筛选里。
 
 ## ⬇ 下载数据
 
@@ -89,8 +101,9 @@ python3 -m http.server 8080
 pip install -r scripts/requirements.txt          # Pillow, requests
 export X_BEARER_TOKEN=你的_X_API_Bearer_Token
 python3 scripts/fetch_x.py            # ① 搜索 → raw/*.txt（全量搜索需 Pro/Enterprise；加 --recent 只搜最近 7 天）
-python3 scripts/scrape.py             # ② 解析 + 提取提示词 + 去重 + 下载/压缩图片 → data.json, images/, thumbs/
-python3 scripts/build_site.py         # ③ 生成 index.html, prompts.json, prompts.csv, gallery.html
+python3 scripts/fetch_x.py --video    # ①b Seedance 2.5 视频查询（queries.json 的 "video" 部分）→ raw/<日期>_video_*.txt
+python3 scripts/scrape.py             # ② 解析 + 提取提示词 + 去重 + 下载/压缩图片 → data.json, images/, thumbs/；视频 → video_data.json, posters/
+python3 scripts/build_site.py         # ③ 生成 index.html, videos.html, prompts.*, video_prompts.*, gallery.html
 python3 -m http.server 8080           # ④ 本地预览
 ```
 

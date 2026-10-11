@@ -28,10 +28,14 @@
 | Images | **423** (JPEG, max 1200px, plus 480px thumbnails) |
 | Date range | 2026-09-09 to 2026-10-11 (UTC+8); GPT Image 2.5 launched around 2026-09-08 |
 | Prompt language | English 170, Chinese 32, Japanese 5, other 2 |
-| Prompt source | post text 114, author's own reply 76, image ALT text 19 |
-| Last updated | 2026-10-11 08:05 (UTC+8) |
+| Prompt source | post text 113, author's own reply 76, image ALT text 20 |
+| Last updated | 2026-10-11 21:34 (UTC+8) |
 
 Inclusion rules: the post has images, mentions GPT Image 2.5, and the **author publicly shared the prompt** (in the post, in their own reply in the same thread, or in the image ALT text). Prompts that only exist inside an image or behind a link are skipped. Duplicates are removed, and NSFW or overly suggestive posts are not shown. Some posts compare several models, so not every image is from GPT Image 2.5. Some prompts are templates with placeholders.
+
+### AI video prompts (Seedance 2.5)
+
+The [video page](https://bin0754.github.io/gpt-image-gallery/videos.html) (the 🎬 视频 tab in the header) collects **Seedance 2.5** AI videos from X (ByteDance's video model, written as "Seedance 2.5", "Seedance2.5", "Dreamina Seedance 2.5" or "Seedance 2.5 Pro"), each with the author's full prompt: **127** posts (127 tagged Seedance 2.5), 2026-08-01 to 2026-10-11 (UTC+8). Downloads: [`video_prompts.json`](https://bin0754.github.io/gpt-image-gallery/video_prompts.json) and [`video_prompts.csv`](https://bin0754.github.io/gpt-image-gallery/video_prompts.csv) (UTF-8 BOM). Same inclusion rules as above. Only small poster images are stored in the repo (`posters/`). Videos are not stored; they play straight from X (`video.twimg.com`), with an "open on X" fallback. Model tags follow the post text; any other Seedance version would appear under a separate filter.
 
 ## Download
 
@@ -57,8 +61,9 @@ The data comes from **X API v2 search** (full-archive `search/all`). With your o
 pip install -r scripts/requirements.txt
 export X_BEARER_TOKEN=...
 python3 scripts/fetch_x.py        # search -> raw/*.txt (full archive needs Pro/Enterprise; --recent = last 7 days)
+python3 scripts/fetch_x.py --video  # Seedance 2.5 video queries ("video" in queries.json) -> raw/<date>_video_*.txt
 python3 scripts/scrape.py         # extract prompts, dedupe, download/resize images -> data.json
-python3 scripts/build_site.py     # -> index.html, prompts.json, prompts.csv, gallery.html
+python3 scripts/build_site.py     # -> index.html, videos.html, prompts.*, video_prompts.*, gallery.html
 ```
 
 Queries and request fields are in [`scripts/queries.json`](scripts/queries.json). For example, `("gpt image 2.5" OR "gpt-image-2.5" OR gptimage2.5 OR gptimage25 OR "gptimage 2.5") prompt has:images -is:retweet`, plus multilingual variants (提示词 / プロンプト), `"prompt:"` inline variants, `lang:zh` / `lang:ja` variants, and author self-reply lookups: `((from:user (conversation_id:…)) OR …) is:reply -has:mentions`. Fields requested: `expansions=attachments.media_keys,author_id,referenced_tweets.id`, `media.fields=url,preview_image_url,type,width,height,alt_text`, `post.fields=created_at,public_metrics,note_tweet,entities,lang,conversation_id,referenced_tweets,attachments,in_reply_to_user_id,author_id`, `user.fields=username,name,profile_image_url`. Extraction rules: [`scripts/extract.py`](scripts/extract.py).

@@ -6,6 +6,7 @@ Usage (from the repo root):
   python3 scripts/fetch_x.py           # full-archive search  (/2/tweets/search/all, needs Pro/Enterprise access)
   python3 scripts/fetch_x.py --recent  # recent search, last 7 days (/2/tweets/search/recent, Basic tier and up)
   python3 scripts/fetch_x.py --dry-run # print the requests without calling the API
+  python3 scripts/fetch_x.py --video   # Seedance 2.5 video queries (queries.json "video") -> raw/<date>_video_*.txt
 
 Steps: 1) run every query in scripts/queries.json (pages via next_token);
        2) for posts that say "prompt below 👇" etc. and have no prompt yet, search the author's own
@@ -39,9 +40,9 @@ def call(params: dict, recent: bool, dry: bool, token: str | None):
     raise SystemExit('too many 429s')
 
 
-def run(name: str, query: str, pages: int, sort: str, start: str, end: str | None, a) -> int:
+def run(name: str, query: str, pages: int, sort: str, start: str, end: str | None, a, fields=None) -> int:
     params = {'query': query, 'max_results': 100 if not a.recent else 100, 'sort_order': sort,
-              'start_time': start, **CFG['fields']}
+              'start_time': start, **(fields or CFG['fields'])}
     if a.recent: params.pop('start_time')
     if end: params['end_time'] = end
     n = 0
@@ -77,24 +78,29 @@ def main():
     ap.add_argument('--recent', action='store_true', help='use recent search (last 7 days)')
     ap.add_argument('--dry-run', action='store_true')
     ap.add_argument('--skip-replies', action='store_true')
+    ap.add_argument('--video', action='store_true', help='run the Seedance video queries instead')
     a = ap.parse_args()
     a.token = os.environ.get('X_BEARER_TOKEN')
     if not a.token and not a.dry_run:
         sys.exit('Set X_BEARER_TOKEN (X API v2 app bearer token), or use --dry-run.')
     RAW.mkdir(exist_ok=True)
-    start = CFG['start_time']
-    for q in CFG['queries']:
+    cfg = CFG['video'] if a.video else CFG
+    fields = cfg.get('fields', CFG['fields'])
+    start = cfg['start_time']
+    day = time.strftime('%Y-%m-%d')
+    pre = f'{day}_' if a.video else ''      # video raw files must contain "_video_" in their name
+    for q in cfg['queries']:
         for wi, (s, e) in enumerate(q.get('windows') or [(start, None)]):
-            name = q['name'] + (f'_w{wi+1}' if q.get('windows') else '')
-            run(name, q['query'], q['pages'], q['sort_order'], s, e, a)
+            name = pre + q['name'] + (f'_w{wi+1}' if q.get('windows') else '')
+            run(name, q['query'], q['pages'], q['sort_order'], s, e, a, fields)
     if a.skip_replies or a.dry_run: return
     sys.path.insert(0, str(SCRIPTS))
     import extract
-    extract.build_posts(str(RAW / '*.txt'))
+    extract.build_posts(str(RAW / '*.txt'), **({'kind': 'video'} if a.video else {}))
     groups = reply_queries(extract.LAST_MISSING)
     print(f'{len(extract.LAST_MISSING)} posts without a prompt yet -> {len(groups)} self-reply queries')
     for i, q in enumerate(groups, 1):
-        run(f'replies_{i:02d}', q, 1, 'recency', start, None, a)
+        run(f'{pre}video_replies_{i:02d}' if a.video else f'replies_{i:02d}', q, 1, 'recency', start, None, a, fields)
 
 
 if __name__ == '__main__':

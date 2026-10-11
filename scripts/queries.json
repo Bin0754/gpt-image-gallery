@@ -73,5 +73,84 @@
    "query": "(gptimage25 OR \"gptimage 2.5\" OR \"chatgpt images 2.5\" OR \"gpt image2.5\") has:images -is:retweet"
   }
  ],
- "self_reply_query": "((from:{user} (conversation_id:{id} OR ...)) OR ...) is:reply -has:mentions   — grouped, kept under ~1000 characters, for posts whose prompt is in the author's own replies"
+ "self_reply_query": "((from:{user} (conversation_id:{id} OR ...)) OR ...) is:reply -has:mentions   — grouped, kept under ~1000 characters, for posts whose prompt is in the author's own replies",
+ "video": {
+  "_comment": "Seedance 2.5 AI-video prompt posts (videos.html). Run with: python3 scripts/fetch_x.py --video. Raw files are saved as raw/<date>_video_*.txt; only files whose name contains '_video_' feed the video page. Posts tagged with other Seedance versions would be shown under a separate '其他 Seedance' filter, never as 2.5.",
+  "start_time": "2026-08-01T00:00:00Z",
+  "fields": {
+   "expansions": "attachments.media_keys,author_id,referenced_tweets.id",
+   "media.fields": "url,preview_image_url,type,width,height,alt_text,duration_ms,variants,public_metrics",
+   "post.fields": "created_at,public_metrics,note_tweet,entities,lang,conversation_id,referenced_tweets,attachments,in_reply_to_user_id,author_id",
+   "user.fields": "username,name,profile_image_url"
+  },
+  "queries": [
+   {
+    "name": "video_v01_any",
+    "sort_order": "relevancy",
+    "pages": 2,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") has:videos -is:retweet"
+   },
+   {
+    "name": "video_v02_prompt",
+    "sort_order": "recency",
+    "pages": 4,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") (prompt OR 提示词 OR プロンプト OR 咒语) has:videos -is:retweet"
+   },
+   {
+    "name": "video_v03_prompt_windows",
+    "sort_order": "relevancy",
+    "pages": 2,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") (prompt OR 提示词 OR プロンプト OR 咒语) has:videos -is:retweet",
+    "windows": [
+     [
+      "2026-07-01T00:00:00Z",
+      "2026-08-20T00:00:00Z"
+     ],
+     [
+      "2026-08-20T00:00:00Z",
+      "2026-09-15T00:00:00Z"
+     ],
+     [
+      "2026-09-15T00:00:00Z",
+      "2026-10-04T00:00:00Z"
+     ],
+     [
+      "2026-10-04T00:00:00Z",
+      "2026-10-10T00:00:00Z"
+     ],
+     [
+      "2026-10-10T00:00:00Z",
+      null
+     ]
+    ]
+   },
+   {
+    "name": "video_v04_platforms",
+    "sort_order": "relevancy",
+    "pages": 1,
+    "query": "(即梦 OR jimeng OR dreamina OR 豆包 OR capcut) (\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\" OR \"seedance 2.5 pro\") has:videos -is:retweet"
+   },
+   {
+    "name": "video_v05_prompt_recent_windows",
+    "sort_order": "recency",
+    "pages": 1,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") (prompt OR 提示词 OR プロンプト OR 咒语) has:videos -is:retweet",
+    "windows": [
+     [
+      "2026-08-20T00:00:00Z",
+      "2026-09-25T00:00:00Z"
+     ],
+     [
+      "2026-09-25T00:00:00Z",
+      "2026-10-07T00:00:00Z"
+     ],
+     [
+      "2026-10-07T00:00:00Z",
+      "2026-10-10T00:00:00Z"
+     ]
+    ]
+   }
+  ],
+  "self_reply_query": "(from:<author> (conversation_id:<id> OR ...)) is:reply -has:mentions — run for video posts whose text points to the prompt in replies; the author's own replies are hydrated with GET /2/tweets?ids=..."
+ }
 }
