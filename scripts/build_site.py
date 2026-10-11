@@ -33,6 +33,10 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2108846811213660260",  # MissDelulu9 - sultry pose (2026-10-11 review)
+    "2108863558587211992",  # liyue_ai - low-cut pose (2026-10-11 review)
+    "2108942140273512735",  # Adam38363368936 - suggestive bed selfie (2026-10-11 review)
+    "2108930767342784953",  # NoravaleAI - cleavage focus (2026-10-11 review)
     '2098106479710441558',                         # @Hamburgerai boudoir photo
     '2107518927693611115', '2107923039229038753',  # @livybabie
     '2107525779185664150',                         # @RougeHalo_AI lingerie

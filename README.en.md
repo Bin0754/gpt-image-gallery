@@ -24,12 +24,12 @@
 
 | | |
 | --- | --- |
-| Posts | **170** from 87 authors |
-| Images | **347** (JPEG, max 1200px, plus 480px thumbnails) |
-| Date range | 2026-09-09 to 2026-10-10 (UTC+8); GPT Image 2.5 launched around 2026-09-08 |
-| Prompt language | English 142, Chinese 22, Japanese 4, other 2 |
-| Prompt source | post text 84, author's own reply 67, image ALT text 19 |
-| Last updated | 2026-10-10 08:09 (UTC+8) |
+| Posts | **209** from 103 authors |
+| Images | **423** (JPEG, max 1200px, plus 480px thumbnails) |
+| Date range | 2026-09-09 to 2026-10-11 (UTC+8); GPT Image 2.5 launched around 2026-09-08 |
+| Prompt language | English 170, Chinese 32, Japanese 5, other 2 |
+| Prompt source | post text 114, author's own reply 76, image ALT text 19 |
+| Last updated | 2026-10-11 08:05 (UTC+8) |
 
 Inclusion rules: the post has images, mentions GPT Image 2.5, and the **author publicly shared the prompt** (in the post, in their own reply in the same thread, or in the image ALT text). Prompts that only exist inside an image or behind a link are skipped. Duplicates are removed, and NSFW or overly suggestive posts are not shown. Some posts compare several models, so not every image is from GPT Image 2.5. Some prompts are templates with placeholders.
 
