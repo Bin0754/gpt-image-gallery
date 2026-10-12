@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-11T21:36:23+08:00",
-  "count": 209,
+  "generated_at": "2026-10-12T08:07:02+08:00",
+  "count": 226,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -634,6 +634,65 @@
           "file": "2101869345093873968_1.jpg",
           "thumb": "2101869345093873968_1.jpg",
           "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109118256045002828",
+      "url": "https://x.com/Shorelyn_/status/2109118256045002828",
+      "author": "Shorelyn_",
+      "author_name": "Shore Lyn",
+      "avatar": "https://pbs.twimg.com/profile_images/2097716992115666945/Xx6mgLX4_normal.jpg",
+      "created_at_utc": "2026-10-11T03:05:52.000Z",
+      "created_at_sh": "2026-10-11 11:05",
+      "likes": 220,
+      "reposts": 29,
+      "bookmarks": 207,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nThe image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\n\nUpper Region - Original Photo Shoot Area\n\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\n\nLower Region - Minimalist Ink Wash Reconstruction Area\n\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\n\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\n\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\n\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\n\nText Treatment\n\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\n\nOverall Presentation\n\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition",
+      "prompt": "The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\n\nUpper Region - Original Photo Shoot Area\n\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\n\nLower Region - Minimalist Ink Wash Reconstruction Area\n\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\n\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\n\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\n\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\n\nText Treatment\n\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\n\nOverall Presentation\n\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUUX2Q6aIAADh3t.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109118221513269248",
+          "file": "2109118256045002828_0.jpg",
+          "thumb": "2109118256045002828_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUX2QIaAAEK5iV.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109118221303545857",
+          "file": "2109118256045002828_1.jpg",
+          "thumb": "2109118256045002828_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUX2OLaMAA_Mp6.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109118220779270144",
+          "file": "2109118256045002828_2.jpg",
+          "thumb": "2109118256045002828_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUX2ONbMAA4Ml8.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109118220787724288",
+          "file": "2109118256045002828_3.jpg",
+          "thumb": "2109118256045002828_3.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -2554,6 +2613,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109302875629478374",
+      "url": "https://x.com/AiwithLariab/status/2109302875629478374",
+      "author": "AiwithLariab",
+      "author_name": "Laraib Fatima‎",
+      "avatar": "https://pbs.twimg.com/profile_images/2104734549347536896/0GweQS48_normal.jpg",
+      "created_at_utc": "2026-10-11T15:19:29.000Z",
+      "created_at_sh": "2026-10-11 23:19",
+      "likes": 61,
+      "reposts": 7,
+      "bookmarks": 28,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nPremium Editorial Poster Instructions\nEach uploaded photo must be transformed into a separate, independent premium editorial poster. Never combine multiple photos into one design. Use a strict 3:4 vertical canvas divided horizontally at the exact center into two equal halves, each occupying 50% of the total height and full width, without altering proportions.\n\nThe upper half must use the original photo directly without regeneration. Preserve the main subject's identity, human anatomy or architectural structure, proportions, perspective, spatial relationships, textures, natural lighting, shadows, colors, and environment exactly as shown. Only slight cropping and restrained premium color grading are permitted. Do not redraw the main subject, introduce artificial lighting, apply excessive HDR or saturation, create plastic textures, or add fictional elements. If necessary, extend only environmental areas such as the sky, water, ground, walls, plants, or background.\n\nThe lower half must reconstruct the photo's central narrative, whether it is a single primary subject or a connected group of elements representing the image's identity, scale, action, or story. Preserve realistic appearance, recognizable identity, proportions, internal structure, texture, and relative positioning. Do not remove important related elements or use a rectangular photo cutout. The reconstructed subject should occupy approximately 55%–80% of the lower half's width. Extend the subject naturally according to the scene's direction, maintaining believable ground contact, waterlines, realistic shadows, or softly fading edges. Integrate it seamlessly into the background without a sticker-like or floating appearance.\n\nPlace one narrow, low-saturation geometric color field behind or partially through the subject, creating a subtle transition between photographic realism and editorial abstraction. Extract the color from the original photo and choose a horizontal, vertical, or diagonal orientation according to the scene's narrative direction. The subject must visibly cross the color field's boundary, with part overlapping the colored area and another part extending into the open negative space. Create natural occlusion, overlap, and spatial depth. The color field must not act as a frame or card and must never completely enclose the subject. Use only one primary geometric window. Do not add multiple color blocks, thick borders, rounded corners, strong gradients, or drop shadows.\n\nUse a white, cool-white, very light gray, or near-white background in the lower half, coordinated with the original photograph. Maintain a restrained asymmetrical composition with generous negative space and a clear visual hierarchy: the reconstructed subject as the primary focus, the low-saturation geometric window as the secondary element, and the clean background as supporting space.\n\nThe final poster must look premium, refined, realistic, and editorial while preserving the original photo's visual identity, exact two-half composition, original proportions, and overall artistic direction.",
+      "prompt": "Premium Editorial Poster Instructions\nEach uploaded photo must be transformed into a separate, independent premium editorial poster. Never combine multiple photos into one design. Use a strict 3:4 vertical canvas divided horizontally at the exact center into two equal halves, each occupying 50% of the total height and full width, without altering proportions.\n\nThe upper half must use the original photo directly without regeneration. Preserve the main subject's identity, human anatomy or architectural structure, proportions, perspective, spatial relationships, textures, natural lighting, shadows, colors, and environment exactly as shown. Only slight cropping and restrained premium color grading are permitted. Do not redraw the main subject, introduce artificial lighting, apply excessive HDR or saturation, create plastic textures, or add fictional elements. If necessary, extend only environmental areas such as the sky, water, ground, walls, plants, or background.\n\nThe lower half must reconstruct the photo's central narrative, whether it is a single primary subject or a connected group of elements representing the image's identity, scale, action, or story. Preserve realistic appearance, recognizable identity, proportions, internal structure, texture, and relative positioning. Do not remove important related elements or use a rectangular photo cutout. The reconstructed subject should occupy approximately 55%–80% of the lower half's width. Extend the subject naturally according to the scene's direction, maintaining believable ground contact, waterlines, realistic shadows, or softly fading edges. Integrate it seamlessly into the background without a sticker-like or floating appearance.\n\nPlace one narrow, low-saturation geometric color field behind or partially through the subject, creating a subtle transition between photographic realism and editorial abstraction. Extract the color from the original photo and choose a horizontal, vertical, or diagonal orientation according to the scene's narrative direction. The subject must visibly cross the color field's boundary, with part overlapping the colored area and another part extending into the open negative space. Create natural occlusion, overlap, and spatial depth. The color field must not act as a frame or card and must never completely enclose the subject. Use only one primary geometric window. Do not add multiple color blocks, thick borders, rounded corners, strong gradients, or drop shadows.\n\nUse a white, cool-white, very light gray, or near-white background in the lower half, coordinated with the original photograph. Maintain a restrained asymmetrical composition with generous negative space and a clear visual hierarchy: the reconstructed subject as the primary focus, the low-saturation geometric window as the secondary element, and the clean background as supporting space.\n\nThe final poster must look premium, refined, realistic, and editorial while preserving the original photo's visual identity, exact two-half composition, original proportions, and overall artistic direction.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUW_xGCb0AAD6fT.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109302850648264704",
+          "file": "2109302875629478374_0.jpg",
+          "thumb": "2109302875629478374_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUW_xyva8AAzUXt.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109302862648111104",
+          "file": "2109302875629478374_1.jpg",
+          "thumb": "2109302875629478374_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108378068771537181",
       "url": "https://x.com/mehwishkiran07/status/2108378068771537181",
       "author": "mehwishkiran07",
@@ -2720,6 +2818,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109128907764977963",
+      "url": "https://x.com/Goodmanprotocol/status/2109128907764977963",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-11T03:48:11.000Z",
+      "created_at_sh": "2026-10-11 11:48",
+      "likes": 57,
+      "reposts": 3,
+      "bookmarks": 19,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical photo-to-illustration travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate everything from the written subject alone. No reference image required.\n\nCORE CONCEPT:\nCreate a charming vintage travel-journal poster with a precise horizontal split: the upper 50% features a realistic photographic scene, while the lower 50% transforms the SAME scene into a beautiful hand-painted travel illustration.\n\nCOMPOSITION:\nKeep the main subject consistent across both halves. The upper section features natural lighting, authentic textures, and realistic details. The lower section reimagines the scene using simplified shapes, soft watercolor and gouache, and a warm cream paper background.\n\nSTYLE:\nRetro travel postcards, hand-painted architecture, delicate botanical details, playful handwritten lettering, tiny stars and hearts, and subtle paper texture. Add a short, creative English headline and a small destination label inspired by the scene.\n\nCOLORS:\nWarm ivory, sky blue, muted teal, sunny yellow, coral, sage green, and terracotta. Use cheerful, harmonious colors with a nostalgic afternoon atmosphere.\n\nFINAL AESTHETIC:\nReal photography × illustrated travel memory × vintage editorial design × playful handwritten typography.\n\nAVOID:\nCombining unrelated scenes, changing the main subject between halves, clutter, excessive text, glossy digital art, 3D, logos, watermarks, and mockups.\n\nFORMAT:\nExact 4:5 vertical ratio, full-bleed artwork, complete canvas coverage, clean 50/50 horizontal split, high resolution.",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical photo-to-illustration travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate everything from the written subject alone. No reference image required.\n\nCORE CONCEPT:\nCreate a charming vintage travel-journal poster with a precise horizontal split: the upper 50% features a realistic photographic scene, while the lower 50% transforms the SAME scene into a beautiful hand-painted travel illustration.\n\nCOMPOSITION:\nKeep the main subject consistent across both halves. The upper section features natural lighting, authentic textures, and realistic details. The lower section reimagines the scene using simplified shapes, soft watercolor and gouache, and a warm cream paper background.\n\nSTYLE:\nRetro travel postcards, hand-painted architecture, delicate botanical details, playful handwritten lettering, tiny stars and hearts, and subtle paper texture. Add a short, creative English headline and a small destination label inspired by the scene.\n\nCOLORS:\nWarm ivory, sky blue, muted teal, sunny yellow, coral, sage green, and terracotta. Use cheerful, harmonious colors with a nostalgic afternoon atmosphere.\n\nFINAL AESTHETIC:\nReal photography × illustrated travel memory × vintage editorial design × playful handwritten typography.\n\nAVOID:\nCombining unrelated scenes, changing the main subject between halves, clutter, excessive text, glossy digital art, 3D, logos, watermarks, and mockups.\n\nFORMAT:\nExact 4:5 vertical ratio, full-bleed artwork, complete canvas coverage, clean 50/50 horizontal split, high resolution.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUUhgmaboAACJ4c.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109128844443885568",
+          "file": "2109128907764977963_0.jpg",
+          "thumb": "2109128907764977963_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUhhyCa8AAlmkZ.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109128864744271872",
+          "file": "2109128907764977963_1.jpg",
+          "thumb": "2109128907764977963_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUhim-bMAAah7w.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109128878954590208",
+          "file": "2109128907764977963_2.jpg",
+          "thumb": "2109128907764977963_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUhjngbsAAJiv5.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109128896277098496",
+          "file": "2109128907764977963_3.jpg",
+          "thumb": "2109128907764977963_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2103091620132573617",
       "url": "https://x.com/Adnan_Ai2/status/2103091620132573617",
       "author": "Adnan_Ai2",
@@ -2811,6 +2968,74 @@
           "media_key": "3_2107865768625147905",
           "file": "2107865780146893027_3.jpg",
           "thumb": "2107865780146893027_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109226850203619656",
+      "url": "https://x.com/Naiknelofar788/status/2109226850203619656",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-11T10:17:23.000Z",
+      "created_at_sh": "2026-10-11 18:17",
+      "likes": 53,
+      "reposts": 2,
+      "bookmarks": 16,
+      "lang": "en",
+      "text": "GPT image 2.5\n\nPrompt:\nA real city appears to be physically breaking free from an old paper map, with its actual streets, buildings, and famous landmark rising out of the printed geography into the real world.\n\nCreate a breathtaking, surreal-meets-realistic art composition of [CITY, COUNTRY], emerging from an enormous vintage paper map laid flat on a warm ivory surface.\n\nThe city’s REAL architecture and geography rise naturally from the map like a miniature three-dimensional world. Its famous landmark stands tall at the center, surrounded by accurately recognizable buildings, winding streets, bridges, rivers, and local architectural details. The printed roads on the map seamlessly transform into actual city streets, while tiny buildings gradually rise from flat ink illustrations into detailed miniature structures.\n\nA single delicate red thread travels across the map, following the city’s real street layout before spiraling around its most famous landmark. Tiny handwritten location coordinates appear in the margin.\n\nUse a stunning combination of architectural realism, miniature diorama photography, vintage cartography, subtle paper textures, and cinematic lighting. Warm sunlight creates long, beautiful shadows across the map. Keep the background minimal and elegant, with the city as the undeniable focal point.\n\nAt the top, display the city’s name in sophisticated vintage typography, with its country name and geographical coordinates beneath it.\n\nThe result should feel like a real city has magically escaped its map — imaginative, visually striking, geographically recognizable, and beautifully detailed.\n\nUltra-high detail, realistic materials, exceptional composition, premium art-poster aesthetic, no distorted buildings, no fictional architecture, no clutter.",
+      "prompt": "A real city appears to be physically breaking free from an old paper map, with its actual streets, buildings, and famous landmark rising out of the printed geography into the real world.\n\nCreate a breathtaking, surreal-meets-realistic art composition of [CITY, COUNTRY], emerging from an enormous vintage paper map laid flat on a warm ivory surface.\n\nThe city’s REAL architecture and geography rise naturally from the map like a miniature three-dimensional world. Its famous landmark stands tall at the center, surrounded by accurately recognizable buildings, winding streets, bridges, rivers, and local architectural details. The printed roads on the map seamlessly transform into actual city streets, while tiny buildings gradually rise from flat ink illustrations into detailed miniature structures.\n\nA single delicate red thread travels across the map, following the city’s real street layout before spiraling around its most famous landmark. Tiny handwritten location coordinates appear in the margin.\n\nUse a stunning combination of architectural realism, miniature diorama photography, vintage cartography, subtle paper textures, and cinematic lighting. Warm sunlight creates long, beautiful shadows across the map. Keep the background minimal and elegant, with the city as the undeniable focal point.\n\nAt the top, display the city’s name in sophisticated vintage typography, with its country name and geographical coordinates beneath it.\n\nThe result should feel like a real city has magically escaped its map — imaginative, visually striking, geographically recognizable, and beautifully detailed.\n\nUltra-high detail, realistic materials, exceptional composition, premium art-poster aesthetic, no distorted buildings, no fictional architecture, no clutter.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUV6opfbIAAsdDM.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109226839243956224",
+          "file": "2109226850203619656_0.jpg",
+          "thumb": "2109226850203619656_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUV6opdbUAA1Gc-.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109226839235579904",
+          "file": "2109226850203619656_1.jpg",
+          "thumb": "2109226850203619656_1.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109267428387717579",
+      "url": "https://x.com/imGopalTiwari/status/2109267428387717579",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-11T12:58:37.000Z",
+      "created_at_sh": "2026-10-11 20:58",
+      "likes": 51,
+      "reposts": 6,
+      "bookmarks": 22,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic neon close-up portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white sleeveless top with a simple scoop neckline, complemented by multiple silver rings with delicate chain details. She leans slightly toward the camera, extending her right hand directly into the foreground with fingers loosely curled and the index finger raised, creating dramatic foreshortening as the hand dominates the frame. Her face sits behind the hand, tilted slightly upward, with one eye partially obscured by shadow, relaxed brows, softly parted lips and an intense, confident gaze directed toward the lens. Her long, dark-brown hair falls loosely around her shoulders with a subtle side part and natural, slightly tousled waves. Fair luminous porcelain skin with a bright ivory to light beige tone and natural texture, tinted by the coloured lighting. Use an uncluttered pale background that falls softly out of focus. Strong red-orange light illuminates one side of her face, hair and shoulder, while saturated teal-cyan light washes across the hand, opposite side of her face and top, creating a bold two-tone contrast. Apply gritty cinematic colour grading with deep blacks, rich teal shadows, fiery red highlights, restrained background detail, shallow depth of field and visible fine film grain. Keep the foreground hand sharply dominant while the face remains softly focused behind it, preserving the moody, edgy editorial atmosphere. \nNegative prompt: distorted fingers, extra fingers, malformed rings, incorrect hand perspective, altered identity, plastic skin, flat lighting, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic neon close-up portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white sleeveless top with a simple scoop neckline, complemented by multiple silver rings with delicate chain details. She leans slightly toward the camera, extending her right hand directly into the foreground with fingers loosely curled and the index finger raised, creating dramatic foreshortening as the hand dominates the frame. Her face sits behind the hand, tilted slightly upward, with one eye partially obscured by shadow, relaxed brows, softly parted lips and an intense, confident gaze directed toward the lens. Her long, dark-brown hair falls loosely around her shoulders with a subtle side part and natural, slightly tousled waves. Fair luminous porcelain skin with a bright ivory to light beige tone and natural texture, tinted by the coloured lighting. Use an uncluttered pale background that falls softly out of focus. Strong red-orange light illuminates one side of her face, hair and shoulder, while saturated teal-cyan light washes across the hand, opposite side of her face and top, creating a bold two-tone contrast. Apply gritty cinematic colour grading with deep blacks, rich teal shadows, fiery red highlights, restrained background detail, shallow depth of field and visible fine film grain. Keep the foreground hand sharply dominant while the face remains softly focused behind it, preserving the moody, edgy editorial atmosphere. \nNegative prompt: distorted fingers, extra fingers, malformed rings, incorrect hand perspective, altered identity, plastic skin, flat lighting, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUWfeXXaoAAXb_Y.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109267344510066688",
+          "file": "2109267428387717579_0.jpg",
+          "thumb": "2109267428387717579_0.jpg",
           "tw": 270,
           "th": 480
         }
@@ -3055,6 +3280,45 @@
           "media_key": "3_2108853312091299840",
           "file": "2108868392899813387_0.jpg",
           "thumb": "2108868392899813387_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109300980500357510",
+      "url": "https://x.com/mehvishs25/status/2109300980500357510",
+      "author": "mehvishs25",
+      "author_name": "Meem",
+      "avatar": "https://pbs.twimg.com/profile_images/2012472188067278848/cp_m4VoD_normal.jpg",
+      "created_at_utc": "2026-10-11T15:11:57.000Z",
+      "created_at_sh": "2026-10-11 23:11",
+      "likes": 44,
+      "reposts": 3,
+      "bookmarks": 11,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt;\nUse the uploaded reference photo as the exact identity reference. Preserve the girl’s facial features, face shape, hairstyle, and natural appearance.\n\nCreate a photorealistic nighttime iPhone 17 Pro front-camera selfie, with no phone visible. The girl is sitting comfortably, leaning slightly to one side, with her chin gently lowered and her eyes looking directly past the camera with a calm, mysterious expression. One hand rests behind her head, loosely lifting her long, slightly messy hair. A few strands naturally frame her cheeks. Her lips are softly closed with a subtle pout.\n\nAccessories: a single black clover bracelet on her wrist, small understated earrings, and short milky-white square nails. Makeup features delicate winged eyeliner, long fluttery lashes, softly defined laminated brows, and glossy nude-pink lips.\n\nShe wears a simple black off-shoulder top. The background is almost completely dark. Soft amber light falls diagonally across one side of her face, creating deep natural shadows and subtle highlights in her hair. Close-up framing, slightly off-center composition, authentic smartphone selfie perspective, realistic pores and skin texture, subtle sensor grain, low exposure, muted colors, and imperfect candid details.\n\nThe result must look like a genuine late-night personal selfie, intimate and effortlessly beautiful, not a professional photoshoot. No HDR, beauty filters, skin smoothing, artificial shine, excessive retouching, extra jewelry, or changes to her identity. Vertical 9:16 composition.",
+      "prompt": "Use the uploaded reference photo as the exact identity reference. Preserve the girl’s facial features, face shape, hairstyle, and natural appearance.\n\nCreate a photorealistic nighttime iPhone 17 Pro front-camera selfie, with no phone visible. The girl is sitting comfortably, leaning slightly to one side, with her chin gently lowered and her eyes looking directly past the camera with a calm, mysterious expression. One hand rests behind her head, loosely lifting her long, slightly messy hair. A few strands naturally frame her cheeks. Her lips are softly closed with a subtle pout.\n\nAccessories: a single black clover bracelet on her wrist, small understated earrings, and short milky-white square nails. Makeup features delicate winged eyeliner, long fluttery lashes, softly defined laminated brows, and glossy nude-pink lips.\n\nShe wears a simple black off-shoulder top. The background is almost completely dark. Soft amber light falls diagonally across one side of her face, creating deep natural shadows and subtle highlights in her hair. Close-up framing, slightly off-center composition, authentic smartphone selfie perspective, realistic pores and skin texture, subtle sensor grain, low exposure, muted colors, and imperfect candid details.\n\nThe result must look like a genuine late-night personal selfie, intimate and effortlessly beautiful, not a professional photoshoot. No HDR, beauty filters, skin smoothing, artificial shine, excessive retouching, extra jewelry, or changes to her identity. Vertical 9:16 composition.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUW-DJGacAEOfhL.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109300961684647937",
+          "file": "2109300980500357510_0.jpg",
+          "thumb": "2109300980500357510_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUW-Ds5bcAAqJNT.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109300971293863936",
+          "file": "2109300980500357510_1.jpg",
+          "thumb": "2109300980500357510_1.jpg",
           "tw": 270,
           "th": 480
         }
@@ -3424,6 +3688,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109215948901331160",
+      "url": "https://x.com/Goodmanprotocol/status/2109215948901331160",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-11T09:34:04.000Z",
+      "created_at_sh": "2026-10-11 17:34",
+      "likes": 38,
+      "reposts": 3,
+      "bookmarks": 12,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical miniature 3D travel-poster illustration for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nA vintage travel poster transformed into a breathtaking miniature world emerging from an aged, torn-paper sheet. The upper portion features a large destination title and a warm, cinematic skyline; the lower portion becomes a highly detailed 3D miniature landscape with iconic landmarks, local architecture, streets, and authentic transportation.\n\nCOMPOSITION:\nCreate one coherent miniature scene featuring the destination’s most recognizable landmarks, realistic architectural proportions, tiny vehicles, street details, and subtle local-life elements. The paper edges curl and tear organically, revealing the miniature world beneath. Use dramatic depth, a slightly elevated perspective, and warm afternoon sunlight.\n\nSTYLE:\nPhotorealistic miniature diorama, handcrafted architectural models, intricate textures, vintage travel advertising, aged cream paper, softly weathered edges, cinematic shadows, and premium collectible-poster design.\n\nTYPOGRAPHY:\nPlace the destination name prominently at the top in bold vintage editorial lettering. Add a small geographic subtitle and a subtle circular travel-stamp emblem. Keep all text destination-specific, correctly spelled, and minimal.\n\nCOLOR PALETTE:\nWarm parchment, muted terracotta, sandstone, olive green, dusty blue, and natural architectural colors inspired by the location.\n\nAVOID:\nFlat illustrations, unrelated landmarks, oversized buildings, distorted vehicles, excessive text, logos, watermarks, and mockup framing.\n\nFORMAT:\nFull-bleed 4:5 vertical composition. Fill the entire canvas with the finished artwork, no external borders or empty margins.",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical miniature 3D travel-poster illustration for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nA vintage travel poster transformed into a breathtaking miniature world emerging from an aged, torn-paper sheet. The upper portion features a large destination title and a warm, cinematic skyline; the lower portion becomes a highly detailed 3D miniature landscape with iconic landmarks, local architecture, streets, and authentic transportation.\n\nCOMPOSITION:\nCreate one coherent miniature scene featuring the destination’s most recognizable landmarks, realistic architectural proportions, tiny vehicles, street details, and subtle local-life elements. The paper edges curl and tear organically, revealing the miniature world beneath. Use dramatic depth, a slightly elevated perspective, and warm afternoon sunlight.\n\nSTYLE:\nPhotorealistic miniature diorama, handcrafted architectural models, intricate textures, vintage travel advertising, aged cream paper, softly weathered edges, cinematic shadows, and premium collectible-poster design.\n\nTYPOGRAPHY:\nPlace the destination name prominently at the top in bold vintage editorial lettering. Add a small geographic subtitle and a subtle circular travel-stamp emblem. Keep all text destination-specific, correctly spelled, and minimal.\n\nCOLOR PALETTE:\nWarm parchment, muted terracotta, sandstone, olive green, dusty blue, and natural architectural colors inspired by the location.\n\nAVOID:\nFlat illustrations, unrelated landmarks, oversized buildings, distorted vehicles, excessive text, logos, watermarks, and mockup framing.\n\nFORMAT:\nFull-bleed 4:5 vertical composition. Fill the entire canvas with the finished artwork, no external borders or empty margins.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUVwsJdasAAZk8b.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109215904248803328",
+          "file": "2109215948901331160_0.jpg",
+          "thumb": "2109215948901331160_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUVws1dbwAAZtn4.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109215916060033024",
+          "file": "2109215948901331160_1.jpg",
+          "thumb": "2109215948901331160_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUVwtcGaoAAfKYy.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109215926432473088",
+          "file": "2109215948901331160_2.jpg",
+          "thumb": "2109215948901331160_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUVwuIja4AAB1Dh.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109215938365284352",
+          "file": "2109215948901331160_3.jpg",
+          "thumb": "2109215948901331160_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107682063591915638",
       "url": "https://x.com/Just_Anika_Here/status/2107682063591915638",
       "author": "Just_Anika_Here",
@@ -3546,6 +3869,45 @@
           "thumb": "2108207834815230156_1.jpg",
           "tw": 320,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109346094333198528",
+      "url": "https://x.com/TomLikesRobots/status/2109346094333198528",
+      "author": "TomLikesRobots",
+      "author_name": "TomLikesRobots🤖",
+      "avatar": "https://pbs.twimg.com/profile_images/2027406288808824833/ucSCbSiv_normal.jpg",
+      "created_at_utc": "2026-10-11T18:11:13.000Z",
+      "created_at_sh": "2026-10-12 02:11",
+      "likes": 36,
+      "reposts": 0,
+      "bookmarks": 17,
+      "lang": "en",
+      "text": "Midjourney 8.2 \"Thinking\" mode is very impressive and although result below isn't perfect, it makes a huge difference.\n\nIt's currently available for testing on the alpha midjourney site.\n\nAs a comparison, check out what GPT Image 2.5 Sunburst produced with the  weird textures, noise and weird people.\n\nThis is a tricky prompt: \"Surreal photorealistic street scene during an impossibly strong windstorm. Medium wide, eye level shot of a city sidewalk. Foreground: a businessman in a suit clings to a black iron lamppost, body suspended horizontally, tie and jacket whipping behind him, white knuckled hands gripping the post. Background: a woman in a vibrant red coat leans 45 degrees into the wind, her umbrella inverted and airborne. Newspapers, hats, and leaves swirl chaotically; trees bend sideways; trash cans roll. Motion blur on debris, sharp focus on figures. Shallow depth of field (f/2.8). Overcast grey green sky suggesting an approaching storm. Cinematic, desaturated color grading except for the woman's red coat. Diffuse natural lighting, no harsh shadows. Absurdist realism - physically impossible wind rendered with deadpan photographic precision.\"",
+      "prompt": "\"Surreal photorealistic street scene during an impossibly strong windstorm. Medium wide, eye level shot of a city sidewalk. Foreground: a businessman in a suit clings to a black iron lamppost, body suspended horizontally, tie and jacket whipping behind him, white knuckled hands gripping the post. Background: a woman in a vibrant red coat leans 45 degrees into the wind, her umbrella inverted and airborne. Newspapers, hats, and leaves swirl chaotically; trees bend sideways; trash cans roll. Motion blur on debris, sharp focus on figures. Shallow depth of field (f/2.8). Overcast grey green sky suggesting an approaching storm. Cinematic, desaturated color grading except for the woman's red coat. Diffuse natural lighting, no harsh shadows. Absurdist realism - physically impossible wind rendered with deadpan photographic precision.\"",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUXll_AW4AEN87E.jpg",
+          "w": 1000,
+          "h": 1125,
+          "media_key": "3_2109344441223798785",
+          "file": "2109346094333198528_0.jpg",
+          "thumb": "2109346094333198528_0.jpg",
+          "tw": 426,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUXmVWLWsAIGveO.jpg",
+          "w": 1000,
+          "h": 562,
+          "media_key": "3_2109345254897790978",
+          "file": "2109346094333198528_1.jpg",
+          "thumb": "2109346094333198528_1.jpg",
+          "tw": 480,
+          "th": 269
         }
       ],
       "nsfw_flag": false
@@ -3749,6 +4111,35 @@
           "media_key": "3_2108651194264780800",
           "file": "2108771756588630176_0.jpg",
           "thumb": "2108771756588630176_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109114765817868709",
+      "url": "https://x.com/imGopalTiwari/status/2109114765817868709",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-11T02:52:00.000Z",
+      "created_at_sh": "2026-10-11 10:52",
+      "likes": 27,
+      "reposts": 0,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic casual fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a white shirt beneath a light-wash oversized denim jacket with rolled sleeves, paired with black rectangular sunglasses and a black wristwatch with a round dial. She leans slightly forward in a relaxed seated pose, her head tilted subtly downward and turned toward the camera. One hand is raised to the bridge of her sunglasses, with her thumb and index finger gently adjusting the frame; her elbow bends naturally in front of her chest. Her lips are softly closed with muted terracotta-red lipstick, her expression calm and confident, and her gaze directed toward the camera through the dark lenses. Long, thick, dark-brown hair falls in loose, slightly tousled waves over both shoulders, with wispy, uneven curtain bangs framing her forehead. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural skin texture. Set her against a softly blurred modern outdoor café or building entrance, with pale neutral walls and subtle greenery. Soft overcast daylight, gentle shadows and restrained highlights create a clean editorial look. Apply muted cool-grey tones, natural denim blues, deep chocolate hair, balanced skin warmth, subtle contrast and a refined matte film finish.\nNegative prompt: altered identity, incorrect hand placement, distorted fingers, warped sunglasses, unnatural pose, plastic skin, excessive smoothing, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic casual fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a white shirt beneath a light-wash oversized denim jacket with rolled sleeves, paired with black rectangular sunglasses and a black wristwatch with a round dial. She leans slightly forward in a relaxed seated pose, her head tilted subtly downward and turned toward the camera. One hand is raised to the bridge of her sunglasses, with her thumb and index finger gently adjusting the frame; her elbow bends naturally in front of her chest. Her lips are softly closed with muted terracotta-red lipstick, her expression calm and confident, and her gaze directed toward the camera through the dark lenses. Long, thick, dark-brown hair falls in loose, slightly tousled waves over both shoulders, with wispy, uneven curtain bangs framing her forehead. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural skin texture. Set her against a softly blurred modern outdoor café or building entrance, with pale neutral walls and subtle greenery. Soft overcast daylight, gentle shadows and restrained highlights create a clean editorial look. Apply muted cool-grey tones, natural denim blues, deep chocolate hair, balanced skin warmth, subtle contrast and a refined matte film finish.\nNegative prompt: altered identity, incorrect hand placement, distorted fingers, warped sunglasses, unnatural pose, plastic skin, excessive smoothing, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUS0ls_aMAA979H.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109009085341511680",
+          "file": "2109114765817868709_0.jpg",
+          "thumb": "2109114765817868709_0.jpg",
           "tw": 270,
           "th": 480
         }
@@ -4370,6 +4761,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109349665670058001",
+      "url": "https://x.com/imGopalTiwari/status/2109349665670058001",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-11T18:25:24.000Z",
+      "created_at_sh": "2026-10-12 02:25",
+      "likes": 19,
+      "reposts": 0,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic billiards portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted bright-red sleeveless dress with thin shoulder straps and a delicate silver necklace with a small blue pendant. She leans forward over a green-felt pool table, her torso angled toward the camera and her shoulders lowered into a focused playing stance. Her left arm extends across the table, palm down with fingers spread to form a bridge beside the yellow cue ball, while her right hand grips the wooden cue near the opposite side, guiding it diagonally toward the ball. Her head stays slightly lowered while her eyes look directly at the camera beneath gently relaxed brows; her lips are closed with a subtle, serious expression. Her long, dark-brown hair has a centre part and falls in smooth, voluminous loose waves over both shoulders, with curved front sections framing her cheeks. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural realistic texture. A softly blurred indoor billiards hall fills the background with warm amber walls, indistinct patrons and muted green table surfaces. Warm overhead lighting creates gentle highlights on her hair and shoulders, while soft shadows shape her face and arms. Apply cinematic colour grading with rich emerald-green felt, vivid red clothing, warm amber-brown surroundings, controlled contrast, soft background bokeh and a subtle filmic finish. Keep the foreground cue ball and bridge hand prominent, with shallow depth of field drawing attention to her face and playing stance. \nNegative prompt: incorrect cue alignment, misplaced bridge hand, distorted fingers, malformed pool cue, unnatural anatomy, altered identity, plastic skin, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic billiards portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted bright-red sleeveless dress with thin shoulder straps and a delicate silver necklace with a small blue pendant. She leans forward over a green-felt pool table, her torso angled toward the camera and her shoulders lowered into a focused playing stance. Her left arm extends across the table, palm down with fingers spread to form a bridge beside the yellow cue ball, while her right hand grips the wooden cue near the opposite side, guiding it diagonally toward the ball. Her head stays slightly lowered while her eyes look directly at the camera beneath gently relaxed brows; her lips are closed with a subtle, serious expression. Her long, dark-brown hair has a centre part and falls in smooth, voluminous loose waves over both shoulders, with curved front sections framing her cheeks. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural realistic texture. A softly blurred indoor billiards hall fills the background with warm amber walls, indistinct patrons and muted green table surfaces. Warm overhead lighting creates gentle highlights on her hair and shoulders, while soft shadows shape her face and arms. Apply cinematic colour grading with rich emerald-green felt, vivid red clothing, warm amber-brown surroundings, controlled contrast, soft background bokeh and a subtle filmic finish. Keep the foreground cue ball and bridge hand prominent, with shallow depth of field drawing attention to her face and playing stance. \nNegative prompt: incorrect cue alignment, misplaced bridge hand, distorted fingers, malformed pool cue, unnatural anatomy, altered identity, plastic skin, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUXqVYAa0AEl2jK.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109349653435305985",
+          "file": "2109349665670058001_0.jpg",
+          "thumb": "2109349665670058001_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108792895138349057",
       "url": "https://x.com/imGopalTiwari/status/2108792895138349057",
       "author": "imGopalTiwari",
@@ -4392,6 +4812,74 @@
           "media_key": "3_2108657232682569728",
           "file": "2108792895138349057_0.jpg",
           "thumb": "2108792895138349057_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109302750517588450",
+      "url": "https://x.com/j_smeaton99/status/2109302750517588450",
+      "author": "j_smeaton99",
+      "author_name": "Jack",
+      "avatar": "https://pbs.twimg.com/profile_images/1982882926749429760/0QCwwcp__normal.jpg",
+      "created_at_utc": "2026-10-11T15:18:59.000Z",
+      "created_at_sh": "2026-10-11 23:18",
+      "likes": 18,
+      "reposts": 1,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt:\n\nCreate a charming, heartwarming two-panel vertical collage inspired by nostalgic childhood photography and handmade children’s crayon drawings.\n\nTOP PANEL — PHOTOREALISTIC PHOTO: Capture a candid, ultra-realistic photograph of a happy young child enjoying a simple outdoor adventure in a beautiful countryside meadow. The child wears colorful, playful everyday clothing and a cute hat or headscarf, with a natural, spontaneous pose interacting with fluffy sheep grazing nearby. Alternatively, capture the child joyfully jumping in the air against a vivid blue sky. Use bright natural sunlight, authentic skin texture, realistic fabric details, soft shadows, natural colors, and an unposed documentary photography aesthetic. The scene should feel like a genuine childhood memory captured by a professional family photographer.\n\nBOTTOM PANEL — MATCHING CRAYON DRAWING: Directly beneath the photograph, create a handmade children’s illustration of the exact same child, outfit, pose, and main subjects from the photograph. Use visible wax crayon strokes, colored-pencil scribbles, uneven hand-drawn outlines, imperfect proportions, and a warm ivory paper texture. Add small flowers, grass, clouds, a smiling sun, and playful decorative doodles. Include a few short handwritten words in colorful childlike lettering, such as “Little Moments, Big Joy” or “Jump for a Brighter Day.”\n\nCOMPOSITION: Stack both panels vertically with a clean horizontal division. The top photograph occupies approximately 60% of the image; the illustrated panel occupies the remaining 40%. Keep the child’s appearance, clothing colors, pose, and surroundings recognizable across both panels. Soft nostalgic colors, cheerful storytelling, wholesome family-album aesthetic, authentic handmade charm, high-quality photorealism in the upper panel, richly textured crayon artwork in the lower panel, portrait 4:5 composition.\n\nIMPORTANT: The two panels must depict the same moment and subject. The upper half must look like a real photograph, while the lower half must look genuinely hand-drawn by a child. Do not blend the illustration into the photograph. Avoid 3D cartoon rendering, digital vector art, overly polished illustrations, artificial skin, and excessive decorative elements.",
+      "prompt": "Create a charming, heartwarming two-panel vertical collage inspired by nostalgic childhood photography and handmade children’s crayon drawings.\n\nTOP PANEL — PHOTOREALISTIC PHOTO: Capture a candid, ultra-realistic photograph of a happy young child enjoying a simple outdoor adventure in a beautiful countryside meadow. The child wears colorful, playful everyday clothing and a cute hat or headscarf, with a natural, spontaneous pose interacting with fluffy sheep grazing nearby. Alternatively, capture the child joyfully jumping in the air against a vivid blue sky. Use bright natural sunlight, authentic skin texture, realistic fabric details, soft shadows, natural colors, and an unposed documentary photography aesthetic. The scene should feel like a genuine childhood memory captured by a professional family photographer.\n\nBOTTOM PANEL — MATCHING CRAYON DRAWING: Directly beneath the photograph, create a handmade children’s illustration of the exact same child, outfit, pose, and main subjects from the photograph. Use visible wax crayon strokes, colored-pencil scribbles, uneven hand-drawn outlines, imperfect proportions, and a warm ivory paper texture. Add small flowers, grass, clouds, a smiling sun, and playful decorative doodles. Include a few short handwritten words in colorful childlike lettering, such as “Little Moments, Big Joy” or “Jump for a Brighter Day.”\n\nCOMPOSITION: Stack both panels vertically with a clean horizontal division. The top photograph occupies approximately 60% of the image; the illustrated panel occupies the remaining 40%. Keep the child’s appearance, clothing colors, pose, and surroundings recognizable across both panels. Soft nostalgic colors, cheerful storytelling, wholesome family-album aesthetic, authentic handmade charm, high-quality photorealism in the upper panel, richly textured crayon artwork in the lower panel, portrait 4:5 composition.\n\nIMPORTANT: The two panels must depict the same moment and subject. The upper half must look like a real photograph, while the lower half must look genuinely hand-drawn by a child. Do not blend the illustration into the photograph. Avoid 3D cartoon rendering, digital vector art, overly polished illustrations, artificial skin, and excessive decorative elements.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUW_qruawAACwJs.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109302740505772032",
+          "file": "2109302750517588450_0.jpg",
+          "thumb": "2109302750517588450_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUW_qruaQAANBx_.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109302740505739264",
+          "file": "2109302750517588450_1.jpg",
+          "thumb": "2109302750517588450_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109261236022231210",
+      "url": "https://x.com/imGopalTiwari/status/2109261236022231210",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-11T12:34:01.000Z",
+      "created_at_sh": "2026-10-11 20:34",
+      "likes": 18,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5\n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic sunny street-fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing an oversized bright-orange “Good Vibes” T-shirt, loosely draped off her left shoulder to reveal a white lace-trim camisole strap, knotted at the waist into a cropped fit, paired with distressed light-blue denim shorts featuring frayed hems and ripped patches, an orange paisley bandana tied at the hip, layered black and orange bracelets, small earrings and a delicate pendant necklace. She stands facing the camera with her torso slightly angled, her right hand raised beside her shoulder making a peace sign, while her left hand rests inside her shorts pocket. Her head tilts slightly to one side, one eye playfully closed in a wink, the other looking directly at the camera, with raised cheeks, a broad toothy smile and her tongue peeking out between her teeth. Her blonde hair has dark roots and is styled in two thick, loose front braids secured with orange flower-shaped ties, with voluminous tousled crown layers and wispy flyaways framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural texture, warmed by direct sunlight. The background features a textured cream wall with handwritten “Good Vibes Only” lettering, a weathered blue metal door, rustic wooden signs and a skateboard leaning near leafy greenery. Bright directional afternoon sunlight creates crisp highlights on her hair and shoulders, defined natural shadows and a lively summer atmosphere. Apply vibrant warm colour grading with saturated orange accents, sunlit golden highlights, balanced denim blues, creamy neutrals, rich but natural skin tones and a subtle filmic contrast for a polished, cheerful editorial look. \nNegative prompt: altered identity, incorrect wink, malformed peace sign, extra fingers, distorted hands, unnatural anatomy, plastic skin, illegible text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic sunny street-fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing an oversized bright-orange “Good Vibes” T-shirt, loosely draped off her left shoulder to reveal a white lace-trim camisole strap, knotted at the waist into a cropped fit, paired with distressed light-blue denim shorts featuring frayed hems and ripped patches, an orange paisley bandana tied at the hip, layered black and orange bracelets, small earrings and a delicate pendant necklace. She stands facing the camera with her torso slightly angled, her right hand raised beside her shoulder making a peace sign, while her left hand rests inside her shorts pocket. Her head tilts slightly to one side, one eye playfully closed in a wink, the other looking directly at the camera, with raised cheeks, a broad toothy smile and her tongue peeking out between her teeth. Her blonde hair has dark roots and is styled in two thick, loose front braids secured with orange flower-shaped ties, with voluminous tousled crown layers and wispy flyaways framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural texture, warmed by direct sunlight. The background features a textured cream wall with handwritten “Good Vibes Only” lettering, a weathered blue metal door, rustic wooden signs and a skateboard leaning near leafy greenery. Bright directional afternoon sunlight creates crisp highlights on her hair and shoulders, defined natural shadows and a lively summer atmosphere. Apply vibrant warm colour grading with saturated orange accents, sunlit golden highlights, balanced denim blues, creamy neutrals, rich but natural skin tones and a subtle filmic contrast for a polished, cheerful editorial look. \nNegative prompt: altered identity, incorrect wink, malformed peace sign, extra fingers, distorted hands, unnatural anatomy, plastic skin, illegible text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUWZ53QagAAGyIK.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109261219857334272",
+          "file": "2109261236022231210_0.jpg",
+          "thumb": "2109261236022231210_0.jpg",
           "tw": 270,
           "th": 480
         }
@@ -4917,6 +5405,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109365465449631961",
+      "url": "https://x.com/imGopalTiwari/status/2109365465449631961",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-11T19:28:11.000Z",
+      "created_at_sh": "2026-10-12 03:28",
+      "likes": 10,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic double-exposure fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black crew-neck top, high-waisted black jeans with a black belt and silver buckle, and an oversized charcoal-grey textured blazer with casually rolled sleeves. She stands facing the camera with her legs slightly apart, both hands resting inside her front pockets, elbows relaxed outward and shoulders naturally squared. Her face is turned slightly to one side behind round black sunglasses, with relaxed brows, softly closed lips and a composed, confident expression. Her long chestnut-brown hair has a subtle side part and loose, voluminous waves falling over her shoulders, with warm highlights along the edges. A large, softly blended close-up of her sunglass-covered face and flowing hair fills the left background, while her full standing figure occupies the right foreground, creating a clean, intentional double-exposure composition. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural realistic texture. Use a deep warm-brown studio background with a soft amber spotlight entering from the upper right, golden rim lighting on her hair and shoulders, and gentle shadows shaping the blazer. Rich espresso browns, muted charcoal, deep blacks and honey-gold highlights create a sophisticated cinematic colour grade with controlled contrast, warm filmic glow and subtle atmospheric depth. \n\nNegative prompt: mismatched facial identity between layers, duplicated features, distorted sunglasses, deformed hands, incorrect proportions, plastic skin, harsh oversaturation, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic double-exposure fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black crew-neck top, high-waisted black jeans with a black belt and silver buckle, and an oversized charcoal-grey textured blazer with casually rolled sleeves. She stands facing the camera with her legs slightly apart, both hands resting inside her front pockets, elbows relaxed outward and shoulders naturally squared. Her face is turned slightly to one side behind round black sunglasses, with relaxed brows, softly closed lips and a composed, confident expression. Her long chestnut-brown hair has a subtle side part and loose, voluminous waves falling over her shoulders, with warm highlights along the edges. A large, softly blended close-up of her sunglass-covered face and flowing hair fills the left background, while her full standing figure occupies the right foreground, creating a clean, intentional double-exposure composition. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural realistic texture. Use a deep warm-brown studio background with a soft amber spotlight entering from the upper right, golden rim lighting on her hair and shoulders, and gentle shadows shaping the blazer. Rich espresso browns, muted charcoal, deep blacks and honey-gold highlights create a sophisticated cinematic colour grade with controlled contrast, warm filmic glow and subtle atmospheric depth. \n\nNegative prompt: mismatched facial identity between layers, duplicated features, distorted sunglasses, deformed hands, incorrect proportions, plastic skin, harsh oversaturation, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUX4sjbasAALz0q.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109365444801114112",
+          "file": "2109365465449631961_0.jpg",
+          "thumb": "2109365465449631961_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107793955807207567",
       "url": "https://x.com/Enaya_ai/status/2107793955807207567",
       "author": "Enaya_ai",
@@ -5310,6 +5827,35 @@
           "media_key": "3_2108811179393212416",
           "file": "2108814790038860233_3.jpg",
           "thumb": "2108814790038860233_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109203537037320219",
+      "url": "https://x.com/imGopalTiwari/status/2109203537037320219",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-11T08:44:44.000Z",
+      "created_at_sh": "2026-10-11 16:44",
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5\n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic neon fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black, floor-length gown with long sleeves, a high neckline and subtle sheer mesh panels across the upper chest and waist. She stands with her torso slightly angled in a three-quarter stance, her right hand resting firmly on her hip with the elbow pointing outward, while her left elbow is raised sideways and her relaxed hand rests delicately beneath her chin. Her head tilts slightly toward the raised hand as she looks directly at the camera with softly defined brows, relaxed eyes and a subtle, confident closed-lip smile. Her dark, shoulder-length hair is styled in a deep side part with smooth, loose waves tucked behind one side and softly framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural realistic texture. She stands on a low circular white platform against a minimalist wall featuring a large pale circular backdrop, with no additional props. Dramatic split-colour lighting washes the left side in vivid magenta and violet and the right side in saturated electric blue, creating contrasting coloured shadows behind her. Preserve the deep black of the gown while allowing subtle blue and purple reflections along its contours. Apply bold neon colour grading, rich saturated hues, clean tonal separation, controlled highlights, deep blue-violet shadows and a polished editorial finish, with the magenta light streak near the lower frame adding a subtle futuristic accent. \nNegative prompt: altered identity, incorrect hand placement, distorted fingers, unnatural proportions, washed-out neon colours, overexposed face, text, watermark. @Template Creator[Create image](chatgpt-system-hint://picture_v2)",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic neon fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black, floor-length gown with long sleeves, a high neckline and subtle sheer mesh panels across the upper chest and waist. She stands with her torso slightly angled in a three-quarter stance, her right hand resting firmly on her hip with the elbow pointing outward, while her left elbow is raised sideways and her relaxed hand rests delicately beneath her chin. Her head tilts slightly toward the raised hand as she looks directly at the camera with softly defined brows, relaxed eyes and a subtle, confident closed-lip smile. Her dark, shoulder-length hair is styled in a deep side part with smooth, loose waves tucked behind one side and softly framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural realistic texture. She stands on a low circular white platform against a minimalist wall featuring a large pale circular backdrop, with no additional props. Dramatic split-colour lighting washes the left side in vivid magenta and violet and the right side in saturated electric blue, creating contrasting coloured shadows behind her. Preserve the deep black of the gown while allowing subtle blue and purple reflections along its contours. Apply bold neon colour grading, rich saturated hues, clean tonal separation, controlled highlights, deep blue-violet shadows and a polished editorial finish, with the magenta light streak near the lower frame adding a subtle futuristic accent. \nNegative prompt: altered identity, incorrect hand placement, distorted fingers, unnatural proportions, washed-out neon colours, overexposed face, text, watermark. @Template Creator[Create image](chatgpt-system-hint://picture_v2)",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUVlbhabUAAw0ai.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109203523993030656",
+          "file": "2109203537037320219_0.jpg",
+          "thumb": "2109203537037320219_0.jpg",
           "tw": 270,
           "th": 480
         }
@@ -6525,6 +7071,55 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109134384905461995",
+      "url": "https://x.com/CandyTravelight/status/2109134384905461995",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-11T04:09:57.000Z",
+      "created_at_sh": "2026-10-11 12:09",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "御三家出的火山口湖，好蓝好蓝，比蓝朋友还蓝。\n图1：GPT-image-2.5\n图2：nano banana2\n图3：Grok-imagine2\n你最吃哪一张？\n\n本期 prompt\n\nPhotorealistic volcanic crater lake at dawn, cinematic vertical landscape, 8k ultra detailed. A massive caldera at blue hour just before sunrise, sky clear with fading stars. Subject details: a vivid turquoise crater lake filling the caldera floor, perfectly still water mirroring the sky; jagged black volcanic rock walls with rust-red iron oxidation streaks and patches of neon-green moss; thin wisps of geothermal steam rising from fissures along the rim. Atmosphere: low drifting mist over the water surface, fine volcanic dust glowing in the first light. Light: soft pre-dawn glow from the east at 6000K, cool blue ambient from the west, the lake surface catching pink-gold reflections; rim rocks edged with warm rim light. Depth layers: foreground dark lava rocks with moss; midground the mirror-still turquoise lake; background the far crater wall and gradient dawn sky. Camera: 24mm ultra-wide, f/11, deep depth of field, tripod at 1.2 meters above the rim. Color: teal-orange cinematic grade, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, lake occupying lower two-thirds, sky negative space above. Mood: primordial, silent, otherworldly calm. Documentary landscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "prompt": "Photorealistic volcanic crater lake at dawn, cinematic vertical landscape, 8k ultra detailed. A massive caldera at blue hour just before sunrise, sky clear with fading stars. Subject details: a vivid turquoise crater lake filling the caldera floor, perfectly still water mirroring the sky; jagged black volcanic rock walls with rust-red iron oxidation streaks and patches of neon-green moss; thin wisps of geothermal steam rising from fissures along the rim. Atmosphere: low drifting mist over the water surface, fine volcanic dust glowing in the first light. Light: soft pre-dawn glow from the east at 6000K, cool blue ambient from the west, the lake surface catching pink-gold reflections; rim rocks edged with warm rim light. Depth layers: foreground dark lava rocks with moss; midground the mirror-still turquoise lake; background the far crater wall and gradient dawn sky. Camera: 24mm ultra-wide, f/11, deep depth of field, tripod at 1.2 meters above the rim. Color: teal-orange cinematic grade, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, lake occupying lower two-thirds, sky negative space above. Mood: primordial, silent, otherworldly calm. Documentary landscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUUmTx-bMAAkFRX.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109134121767481344",
+          "file": "2109134384905461995_0.jpg",
+          "thumb": "2109134384905461995_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUmVqHaIAA19qL.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2109134154017415168",
+          "file": "2109134384905461995_1.jpg",
+          "thumb": "2109134384905461995_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUUmXiNbUAANjKr.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109134186254913536",
+          "file": "2109134384905461995_2.jpg",
+          "thumb": "2109134384905461995_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107636141109153812",
       "url": "https://x.com/jackson99ai/status/2107636141109153812",
       "author": "jackson99ai",
@@ -7627,6 +8222,84 @@
           "file": "2108759962776220028_2.jpg",
           "thumb": "2108759962776220028_2.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109276940637188116",
+      "url": "https://x.com/CandyTravelight/status/2109276940637188116",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-11T13:36:25.000Z",
+      "created_at_sh": "2026-10-11 21:36",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "晚安，一组星空送给大家，愿你梦里都是星辰大海🌌\nGPT-image-2.5/nano banana2/Grok-imagine2\nprompt:\nPhotorealistic snowy mountain campsite under a starry night sky, cinematic vertical landscape, 8k ultra detailed. A remote alpine valley at midnight, crystal-clear sky. Subject details: two glowing dome tents with warm 3000K lantern light spilling from the entrances, a small campfire with rising embers in the foreground, towering snow-capped peaks behind, a frozen stream winding past the camp. Atmosphere: fine snowflakes drifting through the firelight, thin mist over the frozen stream, the Milky Way arching overhead. Light: brilliant Milky Way core and dense starfield above at 7500K cold blue night, cool moonlight from the left rim-lighting the peaks, warm tent glow and orange firelight contrasting the blue night. Depth layers: foreground campfire and embers; midground glowing tents and frozen stream; background jagged snowy peaks; sky full of stars. Camera: 24mm ultra-wide, f/2.8, 20-second long exposure look, deep depth of field, tripod 1 meter above snow. Color: deep blue night cinematic grade, warm amber accents, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, tents at lower third intersection, Milky Way sweeping the upper two-thirds. Mood: peaceful, cozy, the quiet of a mountain night. Documentary nightscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "prompt": "Photorealistic snowy mountain campsite under a starry night sky, cinematic vertical landscape, 8k ultra detailed. A remote alpine valley at midnight, crystal-clear sky. Subject details: two glowing dome tents with warm 3000K lantern light spilling from the entrances, a small campfire with rising embers in the foreground, towering snow-capped peaks behind, a frozen stream winding past the camp. Atmosphere: fine snowflakes drifting through the firelight, thin mist over the frozen stream, the Milky Way arching overhead. Light: brilliant Milky Way core and dense starfield above at 7500K cold blue night, cool moonlight from the left rim-lighting the peaks, warm tent glow and orange firelight contrasting the blue night. Depth layers: foreground campfire and embers; midground glowing tents and frozen stream; background jagged snowy peaks; sky full of stars. Camera: 24mm ultra-wide, f/2.8, 20-second long exposure look, deep depth of field, tripod 1 meter above snow. Color: deep blue night cinematic grade, warm amber accents, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, tents at lower third intersection, Milky Way sweeping the upper two-thirds. Mood: peaceful, cozy, the quiet of a mountain night. Documentary nightscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUWoFM7bEAA2ntu.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109276807816220672",
+          "file": "2109276940637188116_0.jpg",
+          "thumb": "2109276940637188116_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUWoGGrboAAAS1E.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2109276823318405120",
+          "file": "2109276940637188116_1.jpg",
+          "thumb": "2109276940637188116_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUWoIx2a8AAPxqH.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109276869266960384",
+          "file": "2109276940637188116_2.jpg",
+          "thumb": "2109276940637188116_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109101578124689814",
+      "url": "https://x.com/theinsiderzclub/status/2109101578124689814",
+      "author": "theinsiderzclub",
+      "author_name": "Andres Franco",
+      "avatar": "https://pbs.twimg.com/profile_images/1951272936213454850/FKrfmp5r_normal.jpg",
+      "created_at_utc": "2026-10-11T01:59:36.000Z",
+      "created_at_sh": "2026-10-11 09:59",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Got a photo of your product? Here’s how to turn it into an AI ad.\n\nTried mine with a glass theme.\n\n1. Open \n2. Tap create and choose image\n3. Change the model into GPT Image 2.5 and choose your desired ratio (I chose 9:16 for this)\n4. Upload your product image as reference image\n5. Image prompt : /adstoryboard\n6. Download it and upload it to create and choose video\n7. Change the model to Google Omni\n8. Choose your desired ratio, duration, and quality\n9. Video prompt: /ultraphotorealistic /PremiumCommercialAdvertising /Macroshot /SplashReveal /SlowMotion /RealisticPhysics /Closeup /HeroProduct\n\nFollow for more tutorials like this.",
+      "prompt": "/adstoryboard\n6. Download it and upload it to create and choose video\n7. Change the model to Google Omni\n8. Choose your desired ratio, duration, and quality\n9. Video prompt: /ultraphotorealistic /PremiumCommercialAdvertising /Macroshot /SplashReveal /SlowMotion /RealisticPhysics /Closeup /HeroProduct\n\nFollow for more tutorials like this.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUUIgWoWMAAgDM9.jpg",
+          "w": 677,
+          "h": 1200,
+          "media_key": "3_2109101352416587776",
+          "file": "2109101578124689814_0.jpg",
+          "thumb": "2109101578124689814_0.jpg",
+          "tw": 271,
           "th": 480
         }
       ],

@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-11T21:36:23+08:00",
-  "count": 209,
+  "generated_at": "2026-10-12T08:07:02+08:00",
+  "count": 226,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -246,6 +246,23 @@
         "images/2101869345093873968_1.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2109118256045002828",
+      "prompt": "The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\n\nUpper Region - Original Photo Shoot Area\n\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\n\nLower Region - Minimalist Ink Wash Reconstruction Area\n\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\n\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\n\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\n\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\n\nText Treatment\n\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\n\nOverall Presentation\n\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition",
+      "author": "Shorelyn_",
+      "author_url": "https://x.com/Shorelyn_",
+      "post_url": "https://x.com/Shorelyn_/status/2109118256045002828",
+      "date": "2026-10-11T11:05:52+08:00",
+      "likes": 220,
+      "language": "en",
+      "images": [
+        "images/2109118256045002828_0.jpg",
+        "images/2109118256045002828_1.jpg",
+        "images/2109118256045002828_2.jpg",
+        "images/2109118256045002828_3.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097958941070430477",
@@ -950,6 +967,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109302875629478374",
+      "prompt": "Premium Editorial Poster Instructions\nEach uploaded photo must be transformed into a separate, independent premium editorial poster. Never combine multiple photos into one design. Use a strict 3:4 vertical canvas divided horizontally at the exact center into two equal halves, each occupying 50% of the total height and full width, without altering proportions.\n\nThe upper half must use the original photo directly without regeneration. Preserve the main subject's identity, human anatomy or architectural structure, proportions, perspective, spatial relationships, textures, natural lighting, shadows, colors, and environment exactly as shown. Only slight cropping and restrained premium color grading are permitted. Do not redraw the main subject, introduce artificial lighting, apply excessive HDR or saturation, create plastic textures, or add fictional elements. If necessary, extend only environmental areas such as the sky, water, ground, walls, plants, or background.\n\nThe lower half must reconstruct the photo's central narrative, whether it is a single primary subject or a connected group of elements representing the image's identity, scale, action, or story. Preserve realistic appearance, recognizable identity, proportions, internal structure, texture, and relative positioning. Do not remove important related elements or use a rectangular photo cutout. The reconstructed subject should occupy approximately 55%–80% of the lower half's width. Extend the subject naturally according to the scene's direction, maintaining believable ground contact, waterlines, realistic shadows, or softly fading edges. Integrate it seamlessly into the background without a sticker-like or floating appearance.\n\nPlace one narrow, low-saturation geometric color field behind or partially through the subject, creating a subtle transition between photographic realism and editorial abstraction. Extract the color from the original photo and choose a horizontal, vertical, or diagonal orientation according to the scene's narrative direction. The subject must visibly cross the color field's boundary, with part overlapping the colored area and another part extending into the open negative space. Create natural occlusion, overlap, and spatial depth. The color field must not act as a frame or card and must never completely enclose the subject. Use only one primary geometric window. Do not add multiple color blocks, thick borders, rounded corners, strong gradients, or drop shadows.\n\nUse a white, cool-white, very light gray, or near-white background in the lower half, coordinated with the original photograph. Maintain a restrained asymmetrical composition with generous negative space and a clear visual hierarchy: the reconstructed subject as the primary focus, the low-saturation geometric window as the secondary element, and the clean background as supporting space.\n\nThe final poster must look premium, refined, realistic, and editorial while preserving the original photo's visual identity, exact two-half composition, original proportions, and overall artistic direction.",
+      "author": "AiwithLariab",
+      "author_url": "https://x.com/AiwithLariab",
+      "post_url": "https://x.com/AiwithLariab/status/2109302875629478374",
+      "date": "2026-10-11T23:19:29+08:00",
+      "likes": 61,
+      "language": "en",
+      "images": [
+        "images/2109302875629478374_0.jpg",
+        "images/2109302875629478374_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108378068771537181",
       "prompt": "Create a premium, highly detailed AI character reference sheet for a young woman named “MIRA”.\n\nCharacter:\nA modern, expressive and creative young woman in her early 20s, with a natural, elegant and relatable appearance. She has long dark brown naturally wavy hair, expressive dark brown eyes, naturally defined eyebrows, soft pink natural lips, clear smooth skin, and a slim/athletic body type. Height approximately 168 cm (5'6\"). Her overall personality is confident, creative, versatile, graceful, kind and influential.\n\nMain portrait:\nShow a beautiful realistic portrait of Mira wearing a sage-green oversized knit sweater. She is sitting comfortably, resting one hand gently under her chin, looking toward the camera with a warm subtle smile. Natural soft daylight, cozy modern interior, shallow depth of field, realistic skin texture, cinematic photography, premium editorial aesthetic.\n\nCreate a complete professional CHARACTER REFERENCE SHEET with a clean luxury editorial layout, warm cream/off-white background, elegant typography, subtle beige and sage-green accents.\n\nTop section:\nLarge title:\n“MIRA”\nSubtitle:\n“Character Reference”\n\nInclude a short character description:\n“A modern, expressive and creative young woman who loves fashion, art and technology. She brings a natural charm, confidence and warmth, relatable personality to every story.”\n\nAdd a handwritten-style quote:\n“Creativity Lives in Me.”\n\nBasic Information:\nName: Mira\nRole: Content Creator / Model / AI Enthusiast\nAge: Early 20s\nHeight: 168 cm (5'6\")\nBody Type: Slim / Athletic\nPersonality: Confident, Creative, Versatile, Graceful, Kind, Influential\n\nAdd the phrase:\n“One Face, A Thousand Stories.”\n\nExpressions section:\nCreate 8 consistent head-and-shoulder portraits of the SAME woman, preserving identical facial identity, hairstyle, facial proportions and features, but showing different moods:\n\n01 Natural — Calm & relaxed\n02 Happy — Warm & cheerful\n03 Serious — Focused & composed\n04 Surprised — Natural & expressive\n05 Confident — Poised & self-assured\n06 Thoughtful — Reflective & calm\n07 Curious — Inquisitive & engaged\n08 Determined — Strong & focused\n\nAngles & Views section:\nShow the same character from:\n1. Front View\n2. 3/4 View\n3. Profile View\n\nKeep her facial identity perfectly consistent across all views.\n\nFeature Details section:\nCreate realistic close-up detail panels showing:\n- Eyes: Dark brown, expressive\n- Eyebrows: Natural & well-defined\n- Lips: Soft pink, natural\n- Hair Texture: Long, natural waves\n- Skin Texture: Clear & smooth\n- Jewelry: Simple & minimal\n- Makeup Style: Natural glam\n\nStyle References section:\nShow Mira in several different outfits and environments while maintaining the exact same face and identity:\n- Sage-green sweater\n- Burgundy hoodie\n- Burgundy hoodie with cream wide-leg pants and white sneakers\n- Black hoodie\nUse realistic fashion photography, modern streetwear, cozy lifestyle styling and elegant casual looks.\n\nColor Palette:\nBeige — Warmth / Comfort\nSage Green — Growth / Balance\nBrown — Depth / Elegance\nMaroon — Passion / Creativity\nCream — Purity / Simplicity\n\nSignature Traits:\n✓ Expressive eyes\n✓ Defined brows\n✓ Natural waves hairstyle\n✓ Elegant presence\n✓ Modern & stylish look\n✓ Versatile for any story\n\nAdd a handwritten-style closing quote:\n“Different Ideas, Same Me.”\n\nVisual style:\nPhotorealistic, cinematic, premium fashion editorial, professional character design board, realistic photography, natural skin pores and texture, soft warm lighting, subtle shadows, sophisticated composition, clean magazine layout, high-end branding, consistent facial identity, extremely detailed, sharp focus, elegant typography, balanced spacing, polished presentation.\n\nImportant:\nThe woman must be the EXACT SAME PERSON in every panel. Preserve identical face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle and overall identity across all expressions, angles, close-ups and outfit references. No duplicate faces, no distorted features, no extra fingers, no extra limbs, no text errors, no watermark.\n\n———\n\nCreate a premium, photorealistic AI Visual Production Character Reference Sheet for a male character named “FAIZAN”.\n\nOVERALL DESIGN:\nCreate a sophisticated professional character reference board with a luxury editorial / cinematic fashion aesthetic. Use a clean off-white and light gray background, black typography, subtle gold accents, structured grid layout, thin borders, balanced spacing, and high-end magazine art direction.\n\nCHARACTER:\nFaizan is a handsome male actor, model and global influencer in his mid-20s. He has a lean athletic physique, approximately 183 cm (6'0\") tall, with a sharp masculine jawline, expressive dark eyes, naturally wavy medium-length dark brown hair, light natural beard/stubble, defined eyebrows, straight nose and realistic masculine facial proportions.\n\nHis personality is:\nConfident, disciplined, ambitious, charismatic, creative and focused.\n\nSignature traits:\n- Sharp jawline\n- Wavy hairstyle\n- Expressive eyes\n- Modern sophisticated style\n- Warm and approachable presence\n- Natural masculine appearance\n\nMAIN HERO PORTRAIT:\nPlace a large cinematic black-and-white close-up portrait of Faizan at the top-right. Show him in side profile with his face turned slightly toward the camera, textured wavy hair, subtle beard, strong jawline and serious confident expression. Dramatic studio lighting, deep shadows, high contrast, luxury fashion photography.\n\nHEADER:\n“AI VISUAL PRODUCTION”\n“CHARACTER REFERENCE SHEET”\n\nLarge title:\n“FAIZAN”\n\nSubtitle:\n“ACTOR / MODEL / GLOBAL INFLUENCER”\n\nAdd a short statement:\n“CREATIVE STORIES.\nBIGGER OPPORTUNITIES.\nA BRIGHTER TOMORROW.”\n\nCHARACTER PROFILE:\nFull Name: Faizan\nRole: Actor / Model / Global Influencer\nApprox. Age: Mid 20s\nHeight: 183 cm (6'0\")\nBody Type: Athletic / Lean\n\nPersonality:\nConfident\nDisciplined\nAmbitious\nCharismatic\nCreative\nFocused\n\nSignature Traits:\nSharp jawline\nWavy hairstyle\nExpressive eyes\nModern style\nWarm and approachable\nNatural look\n\nAdd an elegant handwritten-style quote:\n“Discipline today creates a brighter tomorrow.”\n— FAIZAN\n\n01. PORTRAIT VIEWS:\nCreate three highly realistic portraits of the EXACT SAME PERSON:\n\n1. FRONT VIEW\nFaizan looking directly at the camera with a calm confident expression.\n\n2. 3/4 VIEW\nFaizan turned slightly to the side, maintaining the exact same facial identity.\n\n3. PROFILE VIEW\nClear side profile showing his sharp jawline, nose, lips, beard and wavy hairstyle.\n\nEnsure perfect facial consistency across all three views.\n\n02. EXPRESSIONS:\nCreate five portrait panels of the EXACT SAME Faizan character with different expressions:\n\n1. NEUTRAL — calm natural expression\n2. FOCUSED — concentrated and confident\n3. SERIOUS — strong composed expression\n4. THINKING — thoughtful pose with hand near chin\n5. SMILING — warm natural smile\n\nKeep the exact same face, hairstyle, beard, skin tone and proportions in every panel.\n\n03. FULL-BODY REFERENCE:\nCreate three full-body photographs of Faizan wearing the same sophisticated all-black outfit:\n\n- Black tailored blazer\n- Black button-up shirt\n- Black tailored trousers\n- Black premium leather dress shoes\n\nShow three poses:\n\n1. STANDING — relaxed confident stance with hands in pockets\n2. WALKING — natural confident walking pose\n3. SEATED — sitting elegantly on a modern leather chair\n\nShow his complete body from head to shoes. Maintain accurate anatomy, realistic proportions and identical facial identity.\n\n04. STYLE & DETAIL CLOSE-UPS:\nCreate realistic macro detail panels showing:\n\n- Jacket Detail — premium black tailored fabric\n- Shirt Fabric — elegant black shirt texture\n- Watch — sophisticated black luxury wristwatch\n- Shoes — premium black leather shoes\n- Shoe Sole — detailed textured rubber sole\n- Pant Fabric — high-quality black trouser material\n- Hair Texture — naturally wavy dark brown hair\n- Beard Detail — realistic short beard/stubble\n- Wrist Accessories — minimal black bracelets/accessories\n\n05. ENVIRONMENT REFERENCE:\nCreate three cinematic lifestyle images of the SAME Faizan character:\n\n1. URBAN CITY\nFaizan wearing his black suit outfit in a sophisticated modern city environment, cinematic natural daylight.\n\n2. BUSINESS / CONFERENCE\nFaizan in a professional business environment, seated at a modern conference table, thoughtful confident pose.\n\n3. MODERN ARCHITECTURE\nFaizan outdoors beside futuristic modern architecture, wearing black sunglasses and his black tailored outfit, stylish confident attitude.\n\n06. COLOR PALETTE:\nCreate a professional color palette with labeled swatches:\n\nCHARCOAL — Strength / Stability\nBLACK — Authority / Elegance\nSTEEL GRAY — Modern Minimalism\nWHITE — Clarity / Simplicity\nWARM BEIGE — Approachability\nEARTH TONE — Natural Versatility\n\n07. MATERIAL PALETTE:\nShow realistic material samples with labels:\n\nWOOL — Premium / Structured\nCOTTON — Comfort / Breathable\nLEATHER — Durable / Timeless\nDENIM — Casual / Modern\nMETAL — Strength / Precision\nGLASS — Modern / Transparency\n\nBOTTOM FOOTER:\n“PEOPLE. CREATIVITY. A BRIGHTER TOMORROW.”\n\n“FAIZAN | CHARACTER REFERENCE SHEET | AI VISUAL PRODUCTION”\n\nVISUAL QUALITY:\nUltra-photorealistic, cinematic photography, premium male fashion editorial, realistic skin pores, natural facial texture, detailed hair strands, realistic beard, professional studio lighting, subtle shadows, sharp focus, sophisticated composition, high-end commercial photography, luxury branding, clean typography, precise grid alignment, realistic materials, consistent character identity.\n\nIMPORTANT CHARACTER CONSISTENCY:\nThe SAME EXACT PERSON must appear in every image and every section. Preserve identical facial structure, eyes, eyebrows, nose, lips, jawline, beard, hairstyle, skin tone, body proportions and overall identity across all portraits, expressions, full-body shots, environments and close-up details.\n\nNo face changes, no different person, no distorted anatomy, no extra fingers, no extra limbs, no duplicate body parts, no unnatural skin, no cartoon appearance, no watermark, no random text, no misspelled labels.",
       "author": "mehwishkiran07",
@@ -1011,6 +1043,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109128907764977963",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical photo-to-illustration travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate everything from the written subject alone. No reference image required.\n\nCORE CONCEPT:\nCreate a charming vintage travel-journal poster with a precise horizontal split: the upper 50% features a realistic photographic scene, while the lower 50% transforms the SAME scene into a beautiful hand-painted travel illustration.\n\nCOMPOSITION:\nKeep the main subject consistent across both halves. The upper section features natural lighting, authentic textures, and realistic details. The lower section reimagines the scene using simplified shapes, soft watercolor and gouache, and a warm cream paper background.\n\nSTYLE:\nRetro travel postcards, hand-painted architecture, delicate botanical details, playful handwritten lettering, tiny stars and hearts, and subtle paper texture. Add a short, creative English headline and a small destination label inspired by the scene.\n\nCOLORS:\nWarm ivory, sky blue, muted teal, sunny yellow, coral, sage green, and terracotta. Use cheerful, harmonious colors with a nostalgic afternoon atmosphere.\n\nFINAL AESTHETIC:\nReal photography × illustrated travel memory × vintage editorial design × playful handwritten typography.\n\nAVOID:\nCombining unrelated scenes, changing the main subject between halves, clutter, excessive text, glossy digital art, 3D, logos, watermarks, and mockups.\n\nFORMAT:\nExact 4:5 vertical ratio, full-bleed artwork, complete canvas coverage, clean 50/50 horizontal split, high resolution.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2109128907764977963",
+      "date": "2026-10-11T11:48:11+08:00",
+      "likes": 57,
+      "language": "en",
+      "images": [
+        "images/2109128907764977963_0.jpg",
+        "images/2109128907764977963_1.jpg",
+        "images/2109128907764977963_2.jpg",
+        "images/2109128907764977963_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2103091620132573617",
       "prompt": "1️⃣ Ladki wali — ADnan Park\nCreate a premium professional footballer character profile sheet using the provided female reference image as the facial and appearance reference. Preserve her recognizable facial features, long dark hair, natural skin tone and overall elegant appearance, but transform her into a professional female football player named “ADNAN PARK”.\n\nDesign a highly detailed professional football scouting and character presentation board, similar to a high-end football game character sheet. Show the same female player in multiple views: full-body front view, side profile, and back view, all with consistent face, hairstyle, body proportions and identity.\n\nShe is wearing a completely WHITE professional football uniform: clean white short-sleeve jersey, white football shorts, white knee-high football socks and premium white football boots. The jersey should have a simple professional number “10” on the front and shorts. On the back, clearly display “ADNAN PARK” above the number “10”. Keep the kit elegant, realistic, modern and athletic, without unnecessary colorful patterns.\n\nInclude several realistic facial-expression portraits on the right side: focused, passionate, confident, determined and calm. Every portrait must maintain the exact same character identity and facial structure.\n\nBelow the main character views, include dynamic football action poses: dribbling with a football, sprinting, powerful kicking, jumping for the ball and celebrating after scoring. Make the movements realistic, athletic and cinematic, with natural body anatomy and consistent clothing.\n\nCreate a professional information panel with:\nADNAN PARK\nPROFESSIONAL FOOTBALLER\nPosition: Forward / Attacking Midfielder\nArchetype: Playmaker\nPersonality: Confident, Focused, Determined, Disciplined\n\nAdd material close-up panels showing white jersey fabric, breathable mesh panels, white shorts fabric, ribbed white socks and premium football boots. Add a clean white, silver-gray and black color palette.\n\nUse a sophisticated editorial sports-design layout with thin dividing lines, clean typography, subtle shadows, realistic studio lighting and a premium football academy presentation aesthetic. Add a subtle stadium photograph along the bottom section.\n\nMake the entire image photorealistic, highly detailed, sharp, realistic skin texture, realistic hair strands, realistic fabric folds, professional sports photography, consistent character identity across every panel, clean composition, high-end football video-game character concept art, ultra-detailed, 4K quality, vertical poster format.\n\nDo not include any unrelated people, no male player, no extra character, no social-media logos, no watermark, no random text, and no distorted anatomy.\n\n———\n\n2️⃣ Ronaldo वाली — ADNAN PARK\n\nCreate a premium professional footballer character profile sheet using the provided male reference image as the main appearance and facial reference. Preserve the reference player's recognizable facial structure, hairstyle, athletic build and overall appearance, and transform him into a fictional professional footballer named “ADNAN PARK”.\n\nCreate the presentation in the style of a high-end professional football scouting dossier and modern football video-game character sheet. Show the same male footballer consistently in three full-body views: front view, side profile and back view. Maintain identical facial features, hairstyle, body proportions, uniform and overall identity across every view.\n\nThe player wears a completely WHITE professional football kit: pure white short-sleeve football jersey, pure white football shorts, white knee-high football socks and premium white football boots. Keep the entire uniform clean and minimal with subtle black or silver detailing only. Put the number “7” clearly on the front and shorts. On the back of the jersey, display “ADNAN PARK” above the number “7” in large professional lettering.\n\nOn the right side, create several close-up facial-expression portraits of the same player: focused, passionate, confident, determined and calm. Each face must remain consistent with the original reference image.\n\nIn the lower section, show multiple dynamic football action poses of the same player: sprinting with the ball, close-control dribbling, powerful long-range kicking, jumping toward the ball and celebrating after scoring. Make every pose realistic and athletic, with natural anatomy, realistic muscles, accurate football movement and believable fabric motion.\n\nAdd a professional player information section:\nADNAN PARK\nPROFESSIONAL FOOTBALLER\nPosition: Forward\nArchetype: Goal Scorer\nPersonality: Focused, Ambitious, Disciplined, Confident\nPlaying Style: Powerful, Fast, Technical\n\nAdd detailed material callouts for the white performance jersey, breathable mesh panels, white stretch shorts fabric, ribbed compression socks and premium white football boots. Include a minimalist color palette consisting of white, off-white, silver-gray, charcoal and subtle black.\n\nUse a clean premium editorial layout inspired by elite football scouting boards, with fine grid lines, sophisticated typography, realistic studio photography, subtle shadows, professional lighting and a stadium image along the bottom.\n\nThe final result should look like a professionally designed football player profile card / character development board, extremely realistic, cinematic, sharp, detailed, realistic skin texture, realistic hair, realistic clothing folds, accurate football equipment, consistent identity throughout all panels, high-end sports photography, 4K detail, vertical poster composition.\n\nOnly show the single male footballer as the main character. No female player, no additional people, no social-media logos, no watermark, no unnecessary branding, no distorted face, no duplicated limbs, no extra fingers, and no random text.",
       "author": "Adnan_Ai2",
@@ -1041,6 +1090,35 @@
         "images/2107865780146893027_3.jpg"
       ],
       "prompt_source": "alt"
+    },
+    {
+      "id": "2109226850203619656",
+      "prompt": "A real city appears to be physically breaking free from an old paper map, with its actual streets, buildings, and famous landmark rising out of the printed geography into the real world.\n\nCreate a breathtaking, surreal-meets-realistic art composition of [CITY, COUNTRY], emerging from an enormous vintage paper map laid flat on a warm ivory surface.\n\nThe city’s REAL architecture and geography rise naturally from the map like a miniature three-dimensional world. Its famous landmark stands tall at the center, surrounded by accurately recognizable buildings, winding streets, bridges, rivers, and local architectural details. The printed roads on the map seamlessly transform into actual city streets, while tiny buildings gradually rise from flat ink illustrations into detailed miniature structures.\n\nA single delicate red thread travels across the map, following the city’s real street layout before spiraling around its most famous landmark. Tiny handwritten location coordinates appear in the margin.\n\nUse a stunning combination of architectural realism, miniature diorama photography, vintage cartography, subtle paper textures, and cinematic lighting. Warm sunlight creates long, beautiful shadows across the map. Keep the background minimal and elegant, with the city as the undeniable focal point.\n\nAt the top, display the city’s name in sophisticated vintage typography, with its country name and geographical coordinates beneath it.\n\nThe result should feel like a real city has magically escaped its map — imaginative, visually striking, geographically recognizable, and beautifully detailed.\n\nUltra-high detail, realistic materials, exceptional composition, premium art-poster aesthetic, no distorted buildings, no fictional architecture, no clutter.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2109226850203619656",
+      "date": "2026-10-11T18:17:23+08:00",
+      "likes": 53,
+      "language": "en",
+      "images": [
+        "images/2109226850203619656_0.jpg",
+        "images/2109226850203619656_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109267428387717579",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic neon close-up portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white sleeveless top with a simple scoop neckline, complemented by multiple silver rings with delicate chain details. She leans slightly toward the camera, extending her right hand directly into the foreground with fingers loosely curled and the index finger raised, creating dramatic foreshortening as the hand dominates the frame. Her face sits behind the hand, tilted slightly upward, with one eye partially obscured by shadow, relaxed brows, softly parted lips and an intense, confident gaze directed toward the lens. Her long, dark-brown hair falls loosely around her shoulders with a subtle side part and natural, slightly tousled waves. Fair luminous porcelain skin with a bright ivory to light beige tone and natural texture, tinted by the coloured lighting. Use an uncluttered pale background that falls softly out of focus. Strong red-orange light illuminates one side of her face, hair and shoulder, while saturated teal-cyan light washes across the hand, opposite side of her face and top, creating a bold two-tone contrast. Apply gritty cinematic colour grading with deep blacks, rich teal shadows, fiery red highlights, restrained background detail, shallow depth of field and visible fine film grain. Keep the foreground hand sharply dominant while the face remains softly focused behind it, preserving the moody, edgy editorial atmosphere. \nNegative prompt: distorted fingers, extra fingers, malformed rings, incorrect hand perspective, altered identity, plastic skin, flat lighting, text, watermark.",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109267428387717579",
+      "date": "2026-10-11T20:58:37+08:00",
+      "likes": 51,
+      "language": "en",
+      "images": [
+        "images/2109267428387717579_0.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2107760212962898088",
@@ -1130,6 +1208,21 @@
       "language": "en",
       "images": [
         "images/2108868392899813387_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109300980500357510",
+      "prompt": "Use the uploaded reference photo as the exact identity reference. Preserve the girl’s facial features, face shape, hairstyle, and natural appearance.\n\nCreate a photorealistic nighttime iPhone 17 Pro front-camera selfie, with no phone visible. The girl is sitting comfortably, leaning slightly to one side, with her chin gently lowered and her eyes looking directly past the camera with a calm, mysterious expression. One hand rests behind her head, loosely lifting her long, slightly messy hair. A few strands naturally frame her cheeks. Her lips are softly closed with a subtle pout.\n\nAccessories: a single black clover bracelet on her wrist, small understated earrings, and short milky-white square nails. Makeup features delicate winged eyeliner, long fluttery lashes, softly defined laminated brows, and glossy nude-pink lips.\n\nShe wears a simple black off-shoulder top. The background is almost completely dark. Soft amber light falls diagonally across one side of her face, creating deep natural shadows and subtle highlights in her hair. Close-up framing, slightly off-center composition, authentic smartphone selfie perspective, realistic pores and skin texture, subtle sensor grain, low exposure, muted colors, and imperfect candid details.\n\nThe result must look like a genuine late-night personal selfie, intimate and effortlessly beautiful, not a professional photoshoot. No HDR, beauty filters, skin smoothing, artificial shine, excessive retouching, extra jewelry, or changes to her identity. Vertical 9:16 composition.",
+      "author": "mehvishs25",
+      "author_url": "https://x.com/mehvishs25",
+      "post_url": "https://x.com/mehvishs25/status/2109300980500357510",
+      "date": "2026-10-11T23:11:57+08:00",
+      "likes": 44,
+      "language": "en",
+      "images": [
+        "images/2109300980500357510_0.jpg",
+        "images/2109300980500357510_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1259,6 +1352,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109215948901331160",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical miniature 3D travel-poster illustration for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nA vintage travel poster transformed into a breathtaking miniature world emerging from an aged, torn-paper sheet. The upper portion features a large destination title and a warm, cinematic skyline; the lower portion becomes a highly detailed 3D miniature landscape with iconic landmarks, local architecture, streets, and authentic transportation.\n\nCOMPOSITION:\nCreate one coherent miniature scene featuring the destination’s most recognizable landmarks, realistic architectural proportions, tiny vehicles, street details, and subtle local-life elements. The paper edges curl and tear organically, revealing the miniature world beneath. Use dramatic depth, a slightly elevated perspective, and warm afternoon sunlight.\n\nSTYLE:\nPhotorealistic miniature diorama, handcrafted architectural models, intricate textures, vintage travel advertising, aged cream paper, softly weathered edges, cinematic shadows, and premium collectible-poster design.\n\nTYPOGRAPHY:\nPlace the destination name prominently at the top in bold vintage editorial lettering. Add a small geographic subtitle and a subtle circular travel-stamp emblem. Keep all text destination-specific, correctly spelled, and minimal.\n\nCOLOR PALETTE:\nWarm parchment, muted terracotta, sandstone, olive green, dusty blue, and natural architectural colors inspired by the location.\n\nAVOID:\nFlat illustrations, unrelated landmarks, oversized buildings, distorted vehicles, excessive text, logos, watermarks, and mockup framing.\n\nFORMAT:\nFull-bleed 4:5 vertical composition. Fill the entire canvas with the finished artwork, no external borders or empty margins.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2109215948901331160",
+      "date": "2026-10-11T17:34:04+08:00",
+      "likes": 38,
+      "language": "en",
+      "images": [
+        "images/2109215948901331160_0.jpg",
+        "images/2109215948901331160_1.jpg",
+        "images/2109215948901331160_2.jpg",
+        "images/2109215948901331160_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107682063591915638",
       "prompt": "\"subject\": {\n\"type\": \"young adult woman\",\n\"appearance\": \"fair skin with subtle freckles, green-gray eyes, defined brows, full natural lips\",\n\"hair\": \"short vintage auburn hair, swept back with soft volume\",\n\"expression\": \"calm, serious, slightly mysterious\",\n\"gaze\": \"looking directly into the camera\"\n},\n\"wardrobe\": {\n\"top\": \"cream vintage blouse\",\n\"scarf\": \"rust-orange patterned neck scarf tied loosely\"\n},\n\"setting\": {\n\"location\": \"inside a classic 1950s turquoise convertible\",\n\"environment\": \"sunny rural landscape with softly blurred hills in the background\",\n\"car\": \"vintage turquoise body, chrome trim, warm brown leather interior\"\n},\n\"composition\": {\n\"aspect_ratio\": \"4:5\",\n\"framing\": \"tight portrait through the open car window\",\n\"camera_position\": \"outside the car at eye level\",\n\"foreground\": \"turquoise car door and chrome window frame partially framing the woman\",\n\"focus\": \"sharp focus on face and eyes\",\n\"background\": \"strongly blurred with shallow depth of field\"\n},\n\"lighting\": {\n\"type\": \"warm natural sunlight\",\n\"quality\": \"soft directional sunlight with gentle facial shadows\",\n\"mood\": \"warm nostalgic summer afternoon\"\n},\n\"visual_style\": {\n\"style\": \"photorealistic vintage film photography\",\n\"era\": \"1950s–1960s Americana\",\n\"color_grading\": \"warm muted tones with turquoise, amber and orange dominance\",\n\"texture\": \"subtle analog film grain, slight vintage softness\",\n\"lens\": \"cinematic portrait lens with shallow depth of field\"\n},\n\"negative_prompt\": [\n\"modern car\",\n\"modern clothing\",\n\"studio lighting\",\n\"overly polished digital skin\",\n\"plastic skin\",\n\"heavy makeup\",\n\"wide-angle distortion\",\n\"extra people\",\n\"text\",\n\"watermark\",\n\"deformed face\",\n\"extra fingers\"\n]\n}",
       "author": "Just_Anika_Here",
@@ -1301,6 +1411,21 @@
       "images": [
         "images/2108207834815230156_0.jpg",
         "images/2108207834815230156_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109346094333198528",
+      "prompt": "\"Surreal photorealistic street scene during an impossibly strong windstorm. Medium wide, eye level shot of a city sidewalk. Foreground: a businessman in a suit clings to a black iron lamppost, body suspended horizontally, tie and jacket whipping behind him, white knuckled hands gripping the post. Background: a woman in a vibrant red coat leans 45 degrees into the wind, her umbrella inverted and airborne. Newspapers, hats, and leaves swirl chaotically; trees bend sideways; trash cans roll. Motion blur on debris, sharp focus on figures. Shallow depth of field (f/2.8). Overcast grey green sky suggesting an approaching storm. Cinematic, desaturated color grading except for the woman's red coat. Diffuse natural lighting, no harsh shadows. Absurdist realism - physically impossible wind rendered with deadpan photographic precision.\"",
+      "author": "TomLikesRobots",
+      "author_url": "https://x.com/TomLikesRobots",
+      "post_url": "https://x.com/TomLikesRobots/status/2109346094333198528",
+      "date": "2026-10-12T02:11:13+08:00",
+      "likes": 36,
+      "language": "en",
+      "images": [
+        "images/2109346094333198528_0.jpg",
+        "images/2109346094333198528_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1377,6 +1502,20 @@
       "language": "en",
       "images": [
         "images/2108771756588630176_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109114765817868709",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic casual fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a white shirt beneath a light-wash oversized denim jacket with rolled sleeves, paired with black rectangular sunglasses and a black wristwatch with a round dial. She leans slightly forward in a relaxed seated pose, her head tilted subtly downward and turned toward the camera. One hand is raised to the bridge of her sunglasses, with her thumb and index finger gently adjusting the frame; her elbow bends naturally in front of her chest. Her lips are softly closed with muted terracotta-red lipstick, her expression calm and confident, and her gaze directed toward the camera through the dark lenses. Long, thick, dark-brown hair falls in loose, slightly tousled waves over both shoulders, with wispy, uneven curtain bangs framing her forehead. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural skin texture. Set her against a softly blurred modern outdoor café or building entrance, with pale neutral walls and subtle greenery. Soft overcast daylight, gentle shadows and restrained highlights create a clean editorial look. Apply muted cool-grey tones, natural denim blues, deep chocolate hair, balanced skin warmth, subtle contrast and a refined matte film finish.\nNegative prompt: altered identity, incorrect hand placement, distorted fingers, warped sunglasses, unnatural pose, plastic skin, excessive smoothing, text, watermark.",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109114765817868709",
+      "date": "2026-10-11T10:52:00+08:00",
+      "likes": 27,
+      "language": "en",
+      "images": [
+        "images/2109114765817868709_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1620,6 +1759,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109349665670058001",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic billiards portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted bright-red sleeveless dress with thin shoulder straps and a delicate silver necklace with a small blue pendant. She leans forward over a green-felt pool table, her torso angled toward the camera and her shoulders lowered into a focused playing stance. Her left arm extends across the table, palm down with fingers spread to form a bridge beside the yellow cue ball, while her right hand grips the wooden cue near the opposite side, guiding it diagonally toward the ball. Her head stays slightly lowered while her eyes look directly at the camera beneath gently relaxed brows; her lips are closed with a subtle, serious expression. Her long, dark-brown hair has a centre part and falls in smooth, voluminous loose waves over both shoulders, with curved front sections framing her cheeks. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural realistic texture. A softly blurred indoor billiards hall fills the background with warm amber walls, indistinct patrons and muted green table surfaces. Warm overhead lighting creates gentle highlights on her hair and shoulders, while soft shadows shape her face and arms. Apply cinematic colour grading with rich emerald-green felt, vivid red clothing, warm amber-brown surroundings, controlled contrast, soft background bokeh and a subtle filmic finish. Keep the foreground cue ball and bridge hand prominent, with shallow depth of field drawing attention to her face and playing stance. \nNegative prompt: incorrect cue alignment, misplaced bridge hand, distorted fingers, malformed pool cue, unnatural anatomy, altered identity, plastic skin, text, watermark.",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109349665670058001",
+      "date": "2026-10-12T02:25:24+08:00",
+      "likes": 19,
+      "language": "en",
+      "images": [
+        "images/2109349665670058001_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108792895138349057",
       "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic moody beach fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a loose white button-up shirt with a classic collar, chest pocket and casually rolled sleeves, paired with dark trousers, oversized black sunglasses, a slim gold bracelet, a gold link wristwatch and a second pair of eyeglasses hanging from her shirt. Her entire body is turned sideways in a clear three-quarter side profile toward the left, with her shoulders, torso and hips aligned in the same direction rather than facing the camera; her upper body remains naturally upright. Her right arm bends upward over her forehead, with her fingertips lightly touching her wispy bangs, while her left forearm rests diagonally across her lower torso and her hand stays relaxed near her waist. Her head faces left toward the distant horizon, chin slightly lowered, with a composed, thoughtful expression and softly closed lips. Her dark brown hair is gathered into a loose, messy high bun, with fine flyaways around the temples, loose strands beside her cheeks and delicate bangs across her forehead. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, realistic skin texture and subtle natural highlights. She stands beside the ocean as foamy waves wash across the wet shoreline, with two small boats in the distance and a faint mountain range along the horizon. The expansive sky transitions from muted peach and dusty gold near the setting sun to desaturated blue and slate grey above, with layered clouds adding a dramatic, moody atmosphere. Soft directional sunset light outlines her profile and catches the folds of her white shirt, while cool shadows shape the fabric and her silhouette. Apply cinematic moody colour grading with subdued saturation, steel-blue and charcoal shadows, muted lavender-grey clouds, restrained amber highlights and deep ocean tones. Maintain realistic photographic detail, natural skin tones, gentle atmospheric haze and balanced contrast for an elegant, contemplative editorial finish. \nNegative prompt: body facing camera, incorrect side profile, wrong hand placement, distorted fingers, bad anatomy, plastic skin, oversaturation, watercolor texture, illustration, text, watermark.",
       "author": "imGopalTiwari",
@@ -1630,6 +1783,35 @@
       "language": "en",
       "images": [
         "images/2108792895138349057_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109302750517588450",
+      "prompt": "Create a charming, heartwarming two-panel vertical collage inspired by nostalgic childhood photography and handmade children’s crayon drawings.\n\nTOP PANEL — PHOTOREALISTIC PHOTO: Capture a candid, ultra-realistic photograph of a happy young child enjoying a simple outdoor adventure in a beautiful countryside meadow. The child wears colorful, playful everyday clothing and a cute hat or headscarf, with a natural, spontaneous pose interacting with fluffy sheep grazing nearby. Alternatively, capture the child joyfully jumping in the air against a vivid blue sky. Use bright natural sunlight, authentic skin texture, realistic fabric details, soft shadows, natural colors, and an unposed documentary photography aesthetic. The scene should feel like a genuine childhood memory captured by a professional family photographer.\n\nBOTTOM PANEL — MATCHING CRAYON DRAWING: Directly beneath the photograph, create a handmade children’s illustration of the exact same child, outfit, pose, and main subjects from the photograph. Use visible wax crayon strokes, colored-pencil scribbles, uneven hand-drawn outlines, imperfect proportions, and a warm ivory paper texture. Add small flowers, grass, clouds, a smiling sun, and playful decorative doodles. Include a few short handwritten words in colorful childlike lettering, such as “Little Moments, Big Joy” or “Jump for a Brighter Day.”\n\nCOMPOSITION: Stack both panels vertically with a clean horizontal division. The top photograph occupies approximately 60% of the image; the illustrated panel occupies the remaining 40%. Keep the child’s appearance, clothing colors, pose, and surroundings recognizable across both panels. Soft nostalgic colors, cheerful storytelling, wholesome family-album aesthetic, authentic handmade charm, high-quality photorealism in the upper panel, richly textured crayon artwork in the lower panel, portrait 4:5 composition.\n\nIMPORTANT: The two panels must depict the same moment and subject. The upper half must look like a real photograph, while the lower half must look genuinely hand-drawn by a child. Do not blend the illustration into the photograph. Avoid 3D cartoon rendering, digital vector art, overly polished illustrations, artificial skin, and excessive decorative elements.",
+      "author": "j_smeaton99",
+      "author_url": "https://x.com/j_smeaton99",
+      "post_url": "https://x.com/j_smeaton99/status/2109302750517588450",
+      "date": "2026-10-11T23:18:59+08:00",
+      "likes": 18,
+      "language": "en",
+      "images": [
+        "images/2109302750517588450_0.jpg",
+        "images/2109302750517588450_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109261236022231210",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic sunny street-fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing an oversized bright-orange “Good Vibes” T-shirt, loosely draped off her left shoulder to reveal a white lace-trim camisole strap, knotted at the waist into a cropped fit, paired with distressed light-blue denim shorts featuring frayed hems and ripped patches, an orange paisley bandana tied at the hip, layered black and orange bracelets, small earrings and a delicate pendant necklace. She stands facing the camera with her torso slightly angled, her right hand raised beside her shoulder making a peace sign, while her left hand rests inside her shorts pocket. Her head tilts slightly to one side, one eye playfully closed in a wink, the other looking directly at the camera, with raised cheeks, a broad toothy smile and her tongue peeking out between her teeth. Her blonde hair has dark roots and is styled in two thick, loose front braids secured with orange flower-shaped ties, with voluminous tousled crown layers and wispy flyaways framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural texture, warmed by direct sunlight. The background features a textured cream wall with handwritten “Good Vibes Only” lettering, a weathered blue metal door, rustic wooden signs and a skateboard leaning near leafy greenery. Bright directional afternoon sunlight creates crisp highlights on her hair and shoulders, defined natural shadows and a lively summer atmosphere. Apply vibrant warm colour grading with saturated orange accents, sunlit golden highlights, balanced denim blues, creamy neutrals, rich but natural skin tones and a subtle filmic contrast for a polished, cheerful editorial look. \nNegative prompt: altered identity, incorrect wink, malformed peace sign, extra fingers, distorted hands, unnatural anatomy, plastic skin, illegible text, watermark.",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109261236022231210",
+      "date": "2026-10-11T20:34:01+08:00",
+      "likes": 18,
+      "language": "en",
+      "images": [
+        "images/2109261236022231210_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1819,6 +2001,20 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2109365465449631961",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic double-exposure fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black crew-neck top, high-waisted black jeans with a black belt and silver buckle, and an oversized charcoal-grey textured blazer with casually rolled sleeves. She stands facing the camera with her legs slightly apart, both hands resting inside her front pockets, elbows relaxed outward and shoulders naturally squared. Her face is turned slightly to one side behind round black sunglasses, with relaxed brows, softly closed lips and a composed, confident expression. Her long chestnut-brown hair has a subtle side part and loose, voluminous waves falling over her shoulders, with warm highlights along the edges. A large, softly blended close-up of her sunglass-covered face and flowing hair fills the left background, while her full standing figure occupies the right foreground, creating a clean, intentional double-exposure composition. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones and natural realistic texture. Use a deep warm-brown studio background with a soft amber spotlight entering from the upper right, golden rim lighting on her hair and shoulders, and gentle shadows shaping the blazer. Rich espresso browns, muted charcoal, deep blacks and honey-gold highlights create a sophisticated cinematic colour grade with controlled contrast, warm filmic glow and subtle atmospheric depth. \n\nNegative prompt: mismatched facial identity between layers, duplicated features, distorted sunglasses, deformed hands, incorrect proportions, plastic skin, harsh oversaturation, text, watermark.",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109365465449631961",
+      "date": "2026-10-12T03:28:11+08:00",
+      "likes": 10,
+      "language": "en",
+      "images": [
+        "images/2109365465449631961_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107793955807207567",
       "prompt": "CREATE A MASTERPIECE — “SOUL OF THE HORIZON”\nDOUBLE EXPOSURE CINEMATIC PORTRAIT\n\nGunakan gambar referensi sebagai acuan utama karakter wanita. Pertahankan identitas wajah secara konsisten dan natural: bentuk wajah, struktur tulang, mata, hidung, bibir, warna kulit, karakter rambut, dan proporsi tubuh tetap mengikuti referensi. Jangan melakukan face swap, jangan mengubah struktur wajah, jangan melakukan beautification berlebihan.\n\nSUBJECT:\nSeorang wanita dewasa muda dengan penampilan natural dan elegan, tinggi sekitar 170 cm, tubuh proporsional atletis, rambut cokelat gelap panjang bergelombang natural, kulit cerah natural, mata cokelat. Mengenakan kaus putih sederhana, celana cargo hitam longgar, dan sneakers putih.\n\nKOMPOSISI DOUBLE EXPOSURE:\nBuat komposisi artistik premium dengan tiga lapisan visual yang menyatu sempurna:\n\n1. LARGE PORTRAIT:\nClose-up wajah wanita mendominasi sisi kiri frame, ekspresi tenang, percaya diri, natural, tatapan lembut ke arah kamera. Detail mata, rambut, kulit, dan tekstur wajah sangat realistis.\n\n2. PROFILE EXPOSURE:\nSiluet/profil wajah wanita berukuran besar di sisi kanan, semi-transparan dan menyatu dengan lanskap. Di dalam siluet terdapat pegunungan vulkanik, awan, hutan, air terjun, danau, kabut pagi, serta cahaya matahari terbit.\n\n3. FULL-BODY SUBJECT:\nVersi full body wanita berdiri dengan pose elegan dan percaya diri di atas batu pada sebuah dataran tinggi. Satu tangan santai di saku celana, postur natural, kaki terlihat penuh, sneakers putih terlihat jelas.\n\nENVIRONMENT:\nLanskap sinematik spektakuler berupa pegunungan Indonesia, gunung vulkanik, hutan hijau, air terjun, danau luas, lembah berkabut, burung terbang jauh, serta golden sunrise di horizon.\n\nVISUAL FUSION:\nPastikan transisi antara wajah dan lanskap sangat halus.\nRambut berubah secara artistik menjadi kabut dan pepohonan.\nArea wajah menyatu dengan langit dan pegunungan.\nTubuh menyatu dengan lanskap tanpa terlihat seperti kolase.\nGunakan teknik professional fine-art double exposure photography.\nLayering kompleks tetapi tetap bersih dan elegan.\nTidak boleh terlihat seperti tempelan dua gambar.\n\nLIGHTING:\nGolden hour sunrise,\nsoft cinematic backlight,\nwarm rim light pada rambut,\nnatural volumetric light,\nsubtle atmospheric haze,\nrealistic shadows,\nHDR balanced exposure,\ncinematic dynamic range.\n\nCAMERA & QUALITY:\nUltra-photorealistic,\nprofessional flagship DSLR look,\n85mm portrait lens,\nf/1.8,\nshallow depth of field,\nextreme micro-detail,\nrealistic skin pores,\nnatural hair strands,\nrealistic fabric texture,\ncinematic color grading,\nHDR,\n8K ultra detailed,\nhigh dynamic range,\nprofessional fashion editorial photography,\npremium fine-art photography,\nphotorealistic,\nno CGI appearance.\n\nCOLOR PALETTE:\nWarm gold sunrise,\ndeep emerald green,\nsoft blue atmospheric shadows,\nnatural skin tones,\nsubtle cinematic contrast.\n\nBRANDING:\nTambahkan signature elegan “PUTRA AI” di bagian kiri bawah, handwritten premium signature, subtle blue-to-gold gradient, elegant swoosh, kecil namun jelas, menyatu dengan artwork dan tidak menutupi subjek.\n\nFORMAT:\nVertical 9:16,\nmasterpiece composition,\nsubject fully visible,\nbalanced visual hierarchy,\nhigh-end cinematic poster,\ngallery-quality artwork.\n\nNEGATIVE PROMPT:\nface distortion, altered identity, face swap, different person, asymmetrical eyes, distorted hands, extra fingers, extra limbs, duplicate body, duplicate face, plastic skin, excessive beauty filter, unrealistic skin, CGI, 3D render, cartoon, anime, blurry face, low resolution, oversharpening, bad anatomy, warped clothing, floating objects, harsh artifacts, obvious collage, poorly blended double exposure, text errors, watermark selain “Enaya AI”.",
       "author": "Enaya_ai",
@@ -1966,6 +2162,20 @@
         "images/2108814790038860233_1.jpg",
         "images/2108814790038860233_2.jpg",
         "images/2108814790038860233_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109203537037320219",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic neon fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black, floor-length gown with long sleeves, a high neckline and subtle sheer mesh panels across the upper chest and waist. She stands with her torso slightly angled in a three-quarter stance, her right hand resting firmly on her hip with the elbow pointing outward, while her left elbow is raised sideways and her relaxed hand rests delicately beneath her chin. Her head tilts slightly toward the raised hand as she looks directly at the camera with softly defined brows, relaxed eyes and a subtle, confident closed-lip smile. Her dark, shoulder-length hair is styled in a deep side part with smooth, loose waves tucked behind one side and softly framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone and natural realistic texture. She stands on a low circular white platform against a minimalist wall featuring a large pale circular backdrop, with no additional props. Dramatic split-colour lighting washes the left side in vivid magenta and violet and the right side in saturated electric blue, creating contrasting coloured shadows behind her. Preserve the deep black of the gown while allowing subtle blue and purple reflections along its contours. Apply bold neon colour grading, rich saturated hues, clean tonal separation, controlled highlights, deep blue-violet shadows and a polished editorial finish, with the magenta light streak near the lower frame adding a subtle futuristic accent. \nNegative prompt: altered identity, incorrect hand placement, distorted fingers, unnatural proportions, washed-out neon colours, overexposed face, text, watermark. @Template Creator[Create image](chatgpt-system-hint://picture_v2)",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109203537037320219",
+      "date": "2026-10-11T16:44:44+08:00",
+      "likes": 7,
+      "language": "en",
+      "images": [
+        "images/2109203537037320219_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2446,6 +2656,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109134384905461995",
+      "prompt": "Photorealistic volcanic crater lake at dawn, cinematic vertical landscape, 8k ultra detailed. A massive caldera at blue hour just before sunrise, sky clear with fading stars. Subject details: a vivid turquoise crater lake filling the caldera floor, perfectly still water mirroring the sky; jagged black volcanic rock walls with rust-red iron oxidation streaks and patches of neon-green moss; thin wisps of geothermal steam rising from fissures along the rim. Atmosphere: low drifting mist over the water surface, fine volcanic dust glowing in the first light. Light: soft pre-dawn glow from the east at 6000K, cool blue ambient from the west, the lake surface catching pink-gold reflections; rim rocks edged with warm rim light. Depth layers: foreground dark lava rocks with moss; midground the mirror-still turquoise lake; background the far crater wall and gradient dawn sky. Camera: 24mm ultra-wide, f/11, deep depth of field, tripod at 1.2 meters above the rim. Color: teal-orange cinematic grade, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, lake occupying lower two-thirds, sky negative space above. Mood: primordial, silent, otherworldly calm. Documentary landscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "author": "CandyTravelight",
+      "author_url": "https://x.com/CandyTravelight",
+      "post_url": "https://x.com/CandyTravelight/status/2109134384905461995",
+      "date": "2026-10-11T12:09:57+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2109134384905461995_0.jpg",
+        "images/2109134384905461995_1.jpg",
+        "images/2109134384905461995_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107636141109153812",
       "prompt": "Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional drama TV commercial. Tired warm eyes, light freckles, dark hair in a loose low bun, oversized oatmeal knit cardigan over a white tee, straight-leg jeans, bare feet. Natural daylight, true-to-life skin texture, 35mm photography.",
       "author": "jackson99ai",
@@ -2910,6 +3136,36 @@
         "images/2108759962776220028_2.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2109276940637188116",
+      "prompt": "Photorealistic snowy mountain campsite under a starry night sky, cinematic vertical landscape, 8k ultra detailed. A remote alpine valley at midnight, crystal-clear sky. Subject details: two glowing dome tents with warm 3000K lantern light spilling from the entrances, a small campfire with rising embers in the foreground, towering snow-capped peaks behind, a frozen stream winding past the camp. Atmosphere: fine snowflakes drifting through the firelight, thin mist over the frozen stream, the Milky Way arching overhead. Light: brilliant Milky Way core and dense starfield above at 7500K cold blue night, cool moonlight from the left rim-lighting the peaks, warm tent glow and orange firelight contrasting the blue night. Depth layers: foreground campfire and embers; midground glowing tents and frozen stream; background jagged snowy peaks; sky full of stars. Camera: 24mm ultra-wide, f/2.8, 20-second long exposure look, deep depth of field, tripod 1 meter above snow. Color: deep blue night cinematic grade, warm amber accents, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, tents at lower third intersection, Milky Way sweeping the upper two-thirds. Mood: peaceful, cozy, the quiet of a mountain night. Documentary nightscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "author": "CandyTravelight",
+      "author_url": "https://x.com/CandyTravelight",
+      "post_url": "https://x.com/CandyTravelight/status/2109276940637188116",
+      "date": "2026-10-11T21:36:25+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2109276940637188116_0.jpg",
+        "images/2109276940637188116_1.jpg",
+        "images/2109276940637188116_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109101578124689814",
+      "prompt": "/adstoryboard\n6. Download it and upload it to create and choose video\n7. Change the model to Google Omni\n8. Choose your desired ratio, duration, and quality\n9. Video prompt: /ultraphotorealistic /PremiumCommercialAdvertising /Macroshot /SplashReveal /SlowMotion /RealisticPhysics /Closeup /HeroProduct\n\nFollow for more tutorials like this.",
+      "author": "theinsiderzclub",
+      "author_url": "https://x.com/theinsiderzclub",
+      "post_url": "https://x.com/theinsiderzclub/status/2109101578124689814",
+      "date": "2026-10-11T09:59:36+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2109101578124689814_0.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097418434929705291",

@@ -2,8 +2,8 @@
   "name": "Seedance 视频提示词 / Seedance video prompts (GPT Image 2.5 提示词图库)",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/videos.html",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-11T21:36:24+08:00",
-  "count": 127,
+  "generated_at": "2026-10-12T08:07:02+08:00",
+  "count": 136,
   "license": "Code: MIT. Videos and prompts belong to their original authors on X; mp4 links point to X (video.twimg.com) and may expire.",
   "fields": {
     "model": "Seedance version named in the post (Seedance 2.5 / Seedance 2.0 / ...)",
@@ -428,6 +428,27 @@
           "poster": "posters/2108874985863557450_0.jpg",
           "width": 1280,
           "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2109285685505241542",
+      "model": "Seedance 2.5",
+      "prompt": "Character — Main Subject\n\nUse the uploaded reference image as the sole identity and outfit reference. Preserve her exact face, facial features, hairstyle, skin tone, body proportions, clothing, and natural expressions throughout the entire video. Authentic Southeast Asian/Korean woman in her early 20s. No appearance changes, face morphing, outfit changes, or identity inconsistencies between shots.\n\n### Scene — Cozy Apartment Kitchen\n\nA small, lived-in apartment kitchen on a peaceful Sunday morning. Pale wooden cabinets, a slightly cluttered countertop, an old-fashioned refrigerator with colorful magnets, a toaster, ceramic mugs, a bowl of bananas, a half-open bread bag, and a small vase of flowers. Soft golden sunlight filters through thin white curtains. Outside the window, distant birds chirp and occasional neighborhood traffic can be heard.\n\nVisual Style: RAW HANDHELD REALISM. Early-2000s consumer MiniDV camcorder footage, slightly washed-out colors, soft image resolution, subtle digital noise, imperfect white balance, autofocus hunting, occasional motion blur, unsteady handheld framing, spontaneous camera zooms, realistic skin texture, visible pores, natural facial imperfections. Absolutely no cinematic lighting, beauty filters, artificial skin smoothing, or polished influencer aesthetics.\n\n### Timeline & Dialogues\n\n00:00–00:04 — The Sleepy Entrance\n\nShe shuffles into the kitchen wearing her reference outfit, looking sleepy and slightly confused. She opens the refrigerator, stares inside for a moment, then looks directly at the camera.\n\nDialogue (sleepy, amused): \"Why am I awake this early? It's literally Sunday.\"\n\nShe gives a tiny laugh while closing the refrigerator.\n\n00:04–00:08 — The Breakfast Decision\n\nShe places a carton of eggs and a loaf of bread on the counter. The camera moves closer as she looks between them, pretending to make an important decision.\n\nDialogue (playfully serious): \"Okay... today we're making an actual breakfast. Wish me luck.\"\n\nShe raises her eyebrows dramatically at the camera.\n\n00:08–00:12 — The Egg Accident\n\nShe tries to crack an egg against the edge of a bowl, but the shell barely breaks. She taps it again, a little too hard, spilling a few drops of egg onto the counter.\n\nDialogue (laughing in embarrassment): \"Oh! Okay, that was definitely not the plan.\"\n\nThe friend filming chuckles quietly. She grabs a paper towel.\n\n00:12–00:16 — The Pancake Experiment\n\nA quick natural handheld cut shows her pouring pancake batter into a small frying pan. The pancake comes out oddly shaped. She points at it with a spatula, looking disappointed.\n\nDialogue (deadpan humor): \"Um... why does my pancake look like a potato?\"\n\nShe bursts into a genuine little laugh.\n\n00:16–00:21 — The Unexpected Success\n\nShe successfully flips the pancake and looks genuinely surprised. The camera zooms awkwardly toward the pan, briefly losing focus. She proudly transfers it onto a plate and adds banana slices.\n\nDialogue (excited, joking): \"Wait, wait! Did you see that? I'm actually talented!\"\n\nShe gives the camera a playful, victorious smile.\n\n00:21–00:25 — The Taste Test\n\nShe sits at the tiny kitchen table beside the window. She cuts a small piece of pancake, takes a bite, chews naturally, and pauses thoughtfully while the camera slowly drifts closer.\n\nDialogue (after swallowing, surprised): \"Hold on... why is this actually so good?\"\n\nShe smiles and takes another small bite.\n\n00:25–00:30 — The Funny Ending\n\nShe reaches for her orange juice, accidentally nudges her fork off the table, and freezes. The camera quickly tilts toward the fallen fork, then shakily returns to her face.\n\nDialogue (laughing, looking at the camera): \"You know what? We're just gonna pretend that didn't happen.\"",
+      "author": "sipteaandcoffee",
+      "author_url": "https://x.com/sipteaandcoffee",
+      "post_url": "https://x.com/sipteaandcoffee/status/2109285685505241542",
+      "date": "2026-10-11T22:11:10+08:00",
+      "likes": 149,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109285648238825472/vid/avc1/848x480/cKYXWvEPXKPrLw8r.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2109285685505241542_0.jpg",
+          "width": 848,
+          "height": 480
         }
       ]
     },
@@ -978,6 +999,27 @@
       ]
     },
     {
+      "id": "2109295099800907848",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 30-second playful, ultra-realistic gym vlog featuring Cristal, a 24-year-old American brunette with a high ponytail, wearing a cobalt-blue sports bra, matching athletic shorts, white ankle socks, and no shoes. Maintain consistent facial features, hairstyle, outfit, and natural body proportions throughout.\n\nCAMERA & VISUAL STYLE: Authentic handheld camcorder footage mixed with shots of the camera resting on a gym mat. Include natural hand shake, imperfect framing, occasional autofocus hunting, slightly awkward zooms, soft tape-like blur, subtle grain, and realistic gym lighting. The footage should feel spontaneous, funny, and genuinely recorded during a workout.\n\nSETTING: A gym mat area in the evening, with a mirror wall, water bottle, workout equipment, and soft overhead lights.\n\nSTORYBOARD — 30 SECONDS\n\n0–5s — The Introduction: Cristal holds the camera at arm’s length, breathing normally after arriving at the mat. She smiles confidently and says, “Welcome back. Today, we're training abs because apparently, I enjoy suffering.” She laughs and lowers the camera toward the mat.\n\n5–10s — The Plank: The camera rests on the mat as she gets into a plank. Her arms begin trembling slightly, and she glances at the lens. “It's been six seconds. Why am I already fighting for my life?” She tries to maintain a straight face.\n\n10–15s — Crunches: She performs several controlled crunches, pausing between repetitions. “The internet made this look so easy.” She completes another repetition, shakes her head, and mutters, “Absolutely disrespectful.”\n\n15–20s — Leg Raises: A slightly crooked low-angle shot captures her performing slow leg raises. Her hands grip the mat for support, her breathing becomes heavier, and she briefly pauses to recover. She says, “If you hear me negotiating with my abs, mind your business.”\n\n20–25s — The Collapse: She finishes the set, lowers her legs, and flops gently onto her back with a dramatic sigh. After a short pause, she starts laughing. “Great workout. Terrible personal experience.”\n\n25–30s — The Outro: Cristal picks up the camera and holds it above her face. Her ponytail is slightly messy, and she gives the lens a tired grin. “Same time tomorrow? Absolutely not. See you tomorrow.” She immediately laughs at her own contradiction as the clip ends.\n\nREALISM & AUDIO: Natural facial expressions, believable exercise mechanics, realistic breathing and muscle fatigue, precise lip-sync, subtle clothing movement, mat friction, faint gym ambience, and occasional microphone handling noise. Keep the humor conversational rather than exaggerated. No background music, subtitles, captions, logos, or watermarks. Preserve Cristal's identity and outfit throughout. The final result should feel like an authentic, imperfect gym vlog filmed casually on a consumer camcorder.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2109295099800907848",
+      "date": "2026-10-11T22:48:35+08:00",
+      "likes": 61,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109295042783531008/vid/avc1/1280x720/G-YZ9H1ThFHXPI-3.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2109295099800907848_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2109113004541554966",
       "model": "Seedance 2.5",
       "prompt": "打斗提示词⬇️\n——————————\n【全局设定】 @Image1定义场景：云海之上的天宫，飞檐宫殿与长廊建在悬浮山岩上，漂浮于无尽云海之上。全片战斗只发生在高空，天宫始终作为背景隐约可见。继承参考图中的机械巨型鸟人：黑色金属鹰首、钩状鹰喙、黑钢羽翼、外露的机械胸腔与巨大的机械爪，羽翼展开时覆盖半个天空。继承参考图的光线与云层方向。 @Image2定义男主（全片唯一形态）：亮黑漆面机甲，尖冠头盔，白色尖角面甲，白色V字发光灯带，黑色线缆长发，黑白肩甲带红色细缝，背部长刃，白色陶瓷腿甲，黑色长摆，不采用参考图背景。 @Image3定义机械方天画戟：右手主握，攻击时左手可辅助，不采用参考图背景与文字。\n\n风格：好莱坞真人特效大片质感，融合《爱，死亡和机器人》写实CG风格。UE5渲染，PBR材质，体积光，物理破坏模拟，8K HDR，16:9。冷白天光穿透云层，红色闪电与黑白水墨能量是最强烈的视觉元素，带胶片颗粒。\n\n摄影：纪实手持感，长焦压缩空间，巨物大得像墙，浅景深。男主变向时镜头会跟丢再甩回，羽片与碎片不时掠过镜头形成前景遮挡。冲击时短促震镜，带少量真实镜头光学瑕疵。\n\n【角色与特效】 男主全程空中作战，从不落地。全身缠绕红色闪电，飞行时拖出黑色水墨与红色闪电交织的尾流，加速时炸开白色音爆云。金属与漆面有真实反射。 男主招式：「墨雷斩」墨色电弧斩击；「裂羽三叠」三连斩；「墨影瞬」短距瞬移；「旋戟卸」转戟格挡；「空气制动」背部展开机械翅膀急停；终极大招「水墨破天斩」巨型水墨冲击波。 鸟人高约数百米，动作缓慢沉重，每次出手都推开整片云海、掀起巨大云浪，留下涡旋。 鸟人招式：「翼斩横扫」「换翼回扫」「钢爪擒空」「鹰喙啄击」「钢羽飞刃」「双翼合拍」「天穹嚎波」。 画面伴随多层粒子：火花、金属尘、碎羽、墨屑、云雾。\n\n【核心规则】 男主起手在画面左，鸟人在右，全程不越轴；大招由左向右劈出。双方有来有回，男主会命中也会被击飞，不做能量对顶僵持。命中要有闪光、震镜、冲击波和碎片。鸟人的伤痕与云海裂缝保留到片尾。动作密度逐段升级。全片无慢动作、无定格，零台词。\n\n【分镜（30秒）】 1｜Wide 侧面长焦跟拍：男主从左侧化作黑红轨迹冲向右侧鸟人，炸开音爆，远处天宫若隐若现。 2｜男主过肩：鸟人「翼斩横扫」，巨翼像黑色天幕横扫而来，推起云墙。 3｜贴翼急升：男主贴翼缘螺旋上升，「墨雷斩」拖出一长串火花，被气流掀偏后稳住。 4｜FPV 俯冲：「裂羽三叠」斩入翼骨关节，三片巨羽崩落坠入云海。 5｜反打 Wide：鸟人「换翼回扫」，左翼犁开云海迎向男主。 6｜急推加震镜：男主被翼缘擦中弹飞，「旋戟卸」卸力稳住。 7｜低机位仰拍：「钢爪擒空」，巨爪破云而出抓向男主。 8｜甩镜：「墨影瞬」闪到爪背，重劈指关节，钢爪被砸歪。 9｜高空俯拍：巨爪只抓住墨烟残影，男主沿鸟人胸前上冲。 10｜侧面长焦：「鹰喙啄击」，男主横戟卸开，被推着滑退。 11｜贴身环绕：男主沿鹰喙六连斩，鹰首被逐击砸偏。 12｜男主背后：「钢羽飞刃」，数十片羽刃如导弹群射来。 13｜FPV 穿梭：男主在羽刃群中急折闪避、格挡。 14｜侧面加震镜：一片羽刃擦中左肩，男主打转，踩上一片羽刃借力。 15｜仰拍急升：男主弹射越过鸟人头顶。 16｜俯瞰急推加强震：俯冲重劈右翼翼根，装甲崩飞，翅膀下沉一截。 17｜侧面 Wide：「双翼合拍」，冲击波把男主推飞，云海压出圆形凹陷。 18｜高空俯拍：波纹扩散，男主悬在边缘，鸟人残翼占据画面中央。 19｜沿躯干急升：男主沿胸甲一路斩上，切开长缝。 20｜急推加强震：迎着翼缘正面对劈，双方各自弹开，火花如雨。 21｜过肩长焦：鸟人胸腔亮起白光蓄力，云层被吸成旋涡。 22｜侧面加强震：「天穹嚎波」，可见的声波环掀飞云海，男主被击飞倒退。 23｜侧后跟拍：「空气制动」，背部展开机械翅膀急停，转身悬停在画面左侧远处。 24｜肩臂近景：黑白水墨能量从右肩涌出，沿手臂流下。 25｜握戟特写：墨流灌入掌心与戟杆。 26｜戟头仰拍急推：整柄画戟被水墨能量包裹，周围空气扭曲。 27｜侧面加强震：「水墨破天斩」，一道远超鸟人高度的水墨巨浪劈出。 28｜超长焦 Wide：冲击波由左向右劈开云海，留下巨大裂缝。 29｜高空俯拍加强震：正中鸟人，炽白爆心，球形冲击波压平云海。 30｜高空后拉：冲击环扩向远处天宫，蘑菇烟柱升起，鸟人轮廓若隐若现；渺小的男主悬在左下角，直接结束。\n\n声音：男主破风与音爆，鸟人低频伺服轰鸣与羽片摩擦，戟刃金属重击；羽刃破空呼啸，合拍气爆，带失真感的巨型嚎叫，制动板液压弹出声；蓄力时环境声压低，只剩墨流嗡鸣与毛笔沙沙声；劈出撕裂天空，最后超级爆炸与余波风声。无对白，无配乐，无字幕。\n\n保持一致：一个男主（@Image2）、一只鸟人、一柄画戟（始终在右手）。男主从不落地，天宫始终可见，不越轴，伤痕与裂缝保留到片尾。\n\n【负面提示词】 禁止文字、字幕、水印；禁止男主落地；禁止形态与参考图不符、画戟换手或复制；禁止鸟人变小或动作变快；禁止越轴；禁止命中无反馈",
@@ -1289,6 +1331,27 @@
           "poster": "posters/2106603332475425034_0.jpg",
           "width": 1920,
           "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2109303125177925896",
+      "model": "Seedance 2.5",
+      "prompt": "Create a highly photorealistic early-2000s Japanese gym day vlog featuring one consistent young Japanese woman wearing a fitted athletic crop top, high-waisted black leggings and classic training sneakers. Maintain her exact face, hairstyle and body proportions throughout.\n\nShe packs her gym bag, towel and water bottle in her Tokyo apartment, then walks through a quiet neighborhood to a small, period-accurate gym. She checks in, stores her belongings in a locker and begins warming up on an old treadmill. She performs a controlled set on a vintage weight machine, followed by simple stretches. Sweat gradually develops on her forehead, neck and arms, her hair becomes slightly damp, and her breathing naturally becomes heavier. She retrieves a chilled energy drink from an old vending machine, opens it and takes refreshing sips before wiping her face with a towel. After her workout, she collects her belongings, leaves the gym and walks home through the early-evening Tokyo streets.\n\nSTYLE: Authentic 2003–2004 Japan, raw handheld MiniDV camcorder footage, imperfect framing, autofocus hunting, slight camera shake, faded colors, digital noise, natural motion blur and realistic lighting. Old gym equipment, lockers, paper notices and period-appropriate surroundings. Natural exercise movements, realistic sweat and believable fatigue.\n\nAUDIO: Treadmill hum, weights clanking, footsteps, locker doors, vending-machine sounds, energy-drink can opening, breathing and distant Tokyo street ambience. No music or narration.\n\nNEGATIVE: Smartphones, smartwatches, modern gym equipment, wireless earbuds, cinematic polish, artificial sweat, exaggerated posing, changing outfits, identity drift, duplicated objects, subtitles, logos or watermark.",
+      "author": "AIwithSynthia",
+      "author_url": "https://x.com/AIwithSynthia",
+      "post_url": "https://x.com/AIwithSynthia/status/2109303125177925896",
+      "date": "2026-10-11T23:20:28+08:00",
+      "likes": 40,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109303062179553280/vid/avc1/1280x720/L6AfQYnJhEepp3Mv.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2109303125177925896_0.jpg",
+          "width": 1280,
+          "height": 720
         }
       ]
     },
@@ -1667,6 +1730,27 @@
           "poster": "posters/2109175737215320526_0.jpg",
           "width": 1280,
           "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2109315805078843552",
+      "model": "Seedance 2.5",
+      "prompt": "A cinematic 10-second VERTICAL 9:16 split-screen VFX breakdown video inspired by Avatar and the attached reference video.\n\nREFERENCE AND COMPOSITION:\nUse the attached video as the primary visual reference for the blue alien protagonist, luminous jungle, creature design, practical film studio, and behind-the-scenes atmosphere. Compress the concept into a coherent 10-second sequence.\nThe frame is divided horizontally into TWO equal halves by a thin, fixed line:\nTOP HALF: the finished cinematic scene in a bioluminescent alien jungle.\nBOTTOM HALF: the corresponding raw motion-capture studio footage.\n\nBoth halves show the SAME performance, camera angle, screen position, and timing, perfectly synchronised frame to frame. The human actor in the bottom half drives the blue alien character in the top half. Match their gestures, head turns, footsteps, and body orientation precisely.\nMAIN SUBJECT — TOP HALF:\nAn adult male Na’vi warrior with an athletic, lean muscular build, blue skin with darker stripes, subtle luminous freckles, yellow eyes, pointed ears, long dark braided hair, and a long expressive tail. He wears a brown woven loincloth, a diagonal leather chest strap, simple tribal arm bands, and a small beaded necklace. His appearance remains identical throughout.\nMAIN SUBJECT — BOTTOM HALF:\nThe same adult male performer with matching facial structure and long dark hair secured beneath a motion-capture head rig. He wears a fitted grey motion-capture suit with small black tracking markers, practical shoes, and a head-mounted facial camera. His human appearance remains visible. A concealed stunt harness connects to two overhead safety wires for the final dive.\n\nCREATURE — TOP HALF:\nA massive alien jungle predator matching the visual character of the attached reference: dark blue-black armoured skin, a broad angular head, ridged plates along its neck and back, bright amber eyes, sharp teeth, and orange luminous markings between its armour plates. Powerful limbs, heavy footfalls, and believable animal movement. Maintain one consistent creature design and size.\n\nCREATURE — BOTTOM HALF:\nA practical foam-and-silicone creature head and partial torso on a clearly visible mechanical support, operated by crew members wearing black. Its head position, turns, and lunges correspond exactly to the finished creature above. The support remains attached throughout. Crew stay outside the actor’s stunt path.\nLOCATION — TOP HALF:\nA dense tropical alien jungle at blue twilight. Huge tree trunks, hanging vines, moss-covered roots, broad purple leaves, glowing cyan mushrooms, and luminous magenta plants. Pale blue mist creates depth between the trees. Small floating spores drift through the air.\n\nA large moss-covered fallen tree trunk sits in the lower centre-right, creating a sheltered hiding space behind it. Keep this trunk in the same location throughout the shot.\nLOCATION — BOTTOM HALF:\nA large motion-capture studio with blue and green screen walls, tracking crosses, overhead lighting trusses, rectangular LED panels, and a visible stunt rig. Practical artificial foliage, foam roots, and a padded green obstacle reproduce the layout of the jungle and fallen trunk.\n\nFour to six crew members work around the perimeter. A cinema camera sits on a dolly at the foreground edge, with a monitor showing the finished jungle scene. A large fan moves the performer’s hair and nearby practical leaves. Equipment must not obscure the essential action.\nCAMERA AND LOOK:\nBoth halves use the same three-quarter side angle and matched framing. The protagonist travels from LEFT TO RIGHT in both halves.\n\nTOP: realistic cinematic jungle photography, gentle camera movement, textured skin, convincing creature weight, soft blue environmental light, restrained bioluminescence, subtle atmospheric haze, and natural motion blur.\nBOTTOM: candid behind-the-scenes footage, slight handheld vibration, flat practical studio lighting, muted contrast, faint sensor noise, and occasional mild autofocus adjustment. Keep this movement subtle enough to preserve the matched composition.\n\nNo cuts within either half. One continuous action sequence.\nCONTINUOUS STORY:\n\n00:00–00:02 — THE THREAT\nTOP: The Na’vi warrior is already moving cautiously toward the right. He hears something, turns his head over his left shoulder, and freezes in fear. The predator emerges from the foliage roughly one body length behind him, lowering its head.\n\nBOTTOM: The performer makes the identical steps, head turn, and frightened expression. The practical creature head moves into the matching position behind him. Its operators and mechanical support remain visible.\n00:02–00:04.5 — THE DASH\nTOP: The warrior pushes off and sprints left to right, leaning forward and pumping his arms. His braids and tail trail behind him. Leaves bend and scatter as the predator charges after him.\n\nBOTTOM: The performer runs along the same path with identical stride timing and arm movement. The creature rig advances behind him while crew operate it. The overhead safety wires follow smoothly without lifting him during the run.\n\n00:04.5–00:06 — THE CREATURE CROSSES\nTOP: The warrior exits the right edge. The predator continues across the frame in a clear three-quarter side view, heavy shoulders rolling as it moves. Its feet disturb leaves and loose soil.\nBOTTOM: The performer exits at exactly the same moment. The practical creature head and torso rig cross the corresponding area, with the mechanical support and operators visible. The foreground camera monitor displays the matching finished action.\n\n00:06–00:08 — THE TURN\nTOP: The predator slows and turns its head toward the lens, opening its jaws in a threatening roar. Its face grows large in the frame without covering the entire image. The warrior becomes visible again at the far right, crouching beside the fallen trunk and looking back.\n\nBOTTOM: The creature puppet performs the same head turn and jaw opening. The performer reappears at the matching right-side position beside the padded obstacle, reproducing the same crouch and backward glance.\n\n00:08–00:10 — THE HIDE\nTOP: As the predator lunges toward his last visible position, the warrior makes one quick sideways dive behind the moss-covered trunk. He lands low, folds his limbs close, and remains concealed. The predator rushes past on the far side of the trunk, narrowly missing him.\n\nThe final frame shows the warrior pressed low behind the trunk, eyes wide, while the predator’s hindquarters and tail disappear to the right. He is unharmed.\n\nBOTTOM: The performer executes the identical sideways dive behind the padded green obstacle, assisted by the overhead safety wires. He lands on concealed stunt padding and holds the same final crouched pose. The puppet sweeps past along a separate safe path, matching the creature’s movement above.\nSOUND:\nNatural sound only, mixed as one coherent soundtrack.\nQuiet jungle insects, rustling foliage, heavy creature footsteps, one short creature roar, and the warrior’s breath.\nFaint studio room tone, fan hum, rig movement, and one crew member quietly saying “keep going.”\nNo music, narration, or exaggerated comedy sounds.\n\nESSENTIAL CONTINUITY:\n\nFinished jungle scene stays on TOP; raw studio footage stays on BOTTOM.\nThe split line remains fixed at the exact middle for all 10 seconds.\n\nActor and Na’vi movements match frame to frame.\n\nAction occurs once in this order: notice the threat, sprint, creature crosses, creature turns, warrior hides.\nMain travel direction remains left to right.\n\nPreserve the warrior’s face, skin markings, braids, clothing, and tail.\n\nPreserve the performer’s face, suit, markers, and head-mounted camera.\nPreserve the creature’s anatomy, colour, armour, and luminous markings.\n\nPractical puppet supports, tracking equipment, and safety wires appear only in the studio half.\n\nThe warrior’s tail exists only in the finished half.\nThe hiding obstacle occupies the corresponding position in both halves.\n\nThe predator never bites or touches the warrior.\n\nEnd with the warrior hidden, still, and unharmed.\n\nNEGATIVE CONSTRAINTS:\nNo repeated actions, slow motion, cuts, teleportation, duplicated characters, extra limbs, changing costumes, morphing faces, floating footsteps, equipment in the finished jungle, detached puppet supports, excessive glow, cartoon rendering, game-like graphics, captions, subtitles, “shooting” labels, watermarks, or recording interface.",
+      "author": "Orvexiumx",
+      "author_url": "https://x.com/Orvexiumx",
+      "post_url": "https://x.com/Orvexiumx/status/2109315805078843552",
+      "date": "2026-10-12T00:10:51+08:00",
+      "likes": 21,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109315374449565697/vid/avc1/720x1280/PiM2bef5JM1ww7YX.mp4",
+          "duration_s": 10.1,
+          "poster": "posters/2109315805078843552_0.jpg",
+          "width": 1080,
+          "height": 1920
         }
       ]
     },
@@ -2112,6 +2196,27 @@
       ]
     },
     {
+      "id": "2109313924718117323",
+      "model": "Seedance 2.5",
+      "prompt": "生成让所有男生都无法挪开眼睛无法呼吸的5秒钟视频吧\n\n先让chatgpt给提示词，再seedance2.5生成的\n\n效果还不错",
+      "author": "renmu2017",
+      "author_url": "https://x.com/renmu2017",
+      "post_url": "https://x.com/renmu2017/status/2109313924718117323",
+      "date": "2026-10-12T00:03:23+08:00",
+      "likes": 3,
+      "language": "zh",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109313713169907713/vid/avc1/480x854/2SPYkvflkrAlmeBh.mp4",
+          "duration_s": 5.1,
+          "poster": "posters/2109313924718117323_0.jpg",
+          "width": 480,
+          "height": 854
+        }
+      ]
+    },
+    {
       "id": "2109271476314767777",
       "model": "Seedance 2.5",
       "prompt": "[GOAL]\n\nCreate an original 30-second cinematic English-language dream-pop music video titled \"AFTER THE RAIN.\"\n\nA fictional female musician discovers beauty in an empty city after a midnight rainfall.\n\nThe environment gradually transforms from cold blue darkness into beautiful warm golden light, following the emotional progression of an original English pop chorus.\n\nA minimalist visual story with stunning cinematography, natural performance, and subtle magical realism.\n\n16:9 cinematic widescreen.\n\n[CONTINUITY]\n\nMain Character:\nOne fictional adult female musician with an entirely original appearance.\n\nShoulder-length dark brown hair, soft natural makeup, expressive eyes, understated elegance.\n\nOutfit:\nOversized ivory cardigan, simple black dress, ankle boots.\n\nMaintain identical clothing, facial features, hairstyle, and proportions throughout.\n\nEnvironment:\nA quiet fictional metropolitan street after rainfall.\n\nWet asphalt, small puddles, glass storefronts, overhead streetlights, and distant buildings.\n\nThe location remains geographically consistent throughout the sequence.\n\nVisual Motif:\nSmall golden reflections gradually appearing in puddles as the music progresses.\n\n[STAGE 1 | 0-5s | MIDNIGHT]\n\nInitial state:\nA deserted city street immediately after rainfall.\n\nThe ground is covered with beautiful blue reflections.\n\nPrimary event:\nThe woman walks slowly into the frame beneath a glowing streetlight.\n\nThe camera gently approaches her from the front.\n\nShe begins singing in English:\n\n{The rain has washed the night away}\n\nEnd state:\nShe stops beneath the streetlight and looks toward the sky.\n\nCUT.\n\n[STAGE 2 | 5-10s | FIRST LIGHT]\n\nInitial state:\nThe woman stands beside a small puddle.\n\nPrimary event:\nA tiny golden reflection appears in the water as she looks down.\n\nShe sings:\n\n{But something beautiful remains}\n\nCamera slowly tilts downward toward the reflection.\n\nEnd state:\nOne distinct golden reflection glows inside the puddle.\n\nCUT.\n\n[STAGE 3 | 10-15s | THE CHORUS]\n\nInitial state:\nThe woman continues along the same empty street.\n\nPrimary event:\nAs the chorus begins, warm golden reflections gradually illuminate the wet pavement around her.\n\nShe sings:\n\n{We shine brighter after rain}\n\nCamera tracks backward smoothly, facing her.\n\nEnd state:\nThe street behind her is filled with delicate golden reflections.\n\nCUT.\n\n[STAGE 4 | 15-20s | EMOTIONAL MOMENT]\n\nInitial state:\nA medium close-up reveals the woman's face illuminated by soft golden light.\n\nPrimary event:\nShe gently closes her eyes, then opens them with a subtle smile.\n\nShe sings:\n\n{Every heartbeat starts again}\n\nThe background falls into beautiful cinematic bokeh.\n\nEnd state:\nShe looks directly toward the camera.\n\nCUT.\n\n[STAGE 5 | 20-25s | TRANSFORMATION]\n\nInitial state:\nThe woman stands in the center of the same street.\n\nPrimary event:\nThe camera slowly rises above her, revealing the wet street filled with warm golden reflections.\n\nThe first light of dawn appears between the distant buildings.\n\nShe sings:\n\n{Let the darkness fade away}\n\nEnd state:\nAn elegant wide overhead composition reveals the entire illuminated street.\n\nCUT.\n\n[STAGE 6 | 25-30s | FINAL FRAME]\n\nInitial state:\nThe woman stands beneath the same streetlight, now surrounded by gentle morning light.\n\nPrimary event:\nThe camera slowly pushes toward her as she sings the final line:\n\n{We're the light that chose to stay}\n\nA small breeze moves her hair naturally.\n\nShe smiles softly.\n\nEnd state:\nA breathtaking cinematic portrait against the glowing early morning city.\n\nThe music resolves naturally.\n\nFADE TO BLACK.\n\n[VISUAL STYLE]\n\nUltra-cinematic contemporary dream-pop aesthetic.\n\nOriginal artistic identity.\n\nPhotorealistic environments.\n\nMidnight blue transitioning into soft champagne gold.\n\nWet reflective surfaces.\n\nVolumetric atmospheric lighting.\n\nNatural realistic skin texture.\n\nDelicate film grain.\n\nBeautiful cinematic contrast.\n\nAnamorphic lens characteristics.\n\nSoft background bokeh.\n\nSubtle magical realism.\n\nPremium film-production quality.\n\nNo exaggerated fantasy effects.\n\n[CAMERA AND PERFORMANCE]\n\nSlow deliberate cinematic movement.\n\nSmooth tracking shots and subtle push-ins.\n\nElegant wide compositions.\n\nIntimate emotional close-ups.\n\nNo frantic editing.\n\nThe performer sings naturally with accurate English lip synchronization.\n\nMinimal body movement.\n\nEmotional expression through eye contact, controlled breathing, delicate smiles, and natural gestures.\n\nEvery shot should feel like part of the same continuous visual story.\n\n[AUDIO]\n\n(Original contemporary English dream-pop music. Approximately 108 BPM. Airy feminine lead vocals, warm synthesizers, delicate piano textures, gentle electronic percussion, shimmering atmospheric layers, emotional melodic chorus.)\n\nThe musical arrangement begins softly and gradually builds into a warm, memorable final chorus.\n\nOriginal English lyrics:\n\n0-5s:\n{The rain has washed the night away}\n\n5-10s:\n{But something beautiful remains}\n\n10-15s:\n{We shine brighter after rain}\n\n15-20s:\n{Every heartbeat starts again}\n\n20-25s:\n{Let the darkness fade away}\n\n25-30s:\n{We're the light that chose to stay}\n\nAll lyrics must be sung, not spoken.\n\n<Subtle distant city ambience>\n<Occasional gentle water droplets>\n\nMusic remains continuous throughout.\n\nNo spoken dialogue.\nNo subtitles.\nNo on-screen lyrics.\n\n[EXCLUSIONS]\n\nNo recognizable celebrity likeness.\nNo recreation of any existing music video.\nNo imitation of any specific singer's voice.\nNo existing copyrighted melodies.\nNo additional characters.\nNo outfit changes.\nNo changing facial identity.\nNo exaggerated dance choreography.\nNo excessive visual effects.\nNo unrealistic body movements.\nNo logos.\nNo captions.\nNo watermarks.\n\n[MAINTAIN CONSISTENCY]\n\nThe same fictional woman appears in every stage.\n\nPreserve her visual identity, outfit, environment, and physical proportions.\n\nThe golden reflections must develop progressively rather than appearing and disappearing randomly.\n\nMaintain continuous musical rhythm and visual continuity across all six stages.",
@@ -2434,6 +2539,27 @@
       ]
     },
     {
+      "id": "2109311424019276231",
+      "model": "Seedance 2.5",
+      "prompt": "generate.\n Credits work across text, image, and now video.  \n\nPerfect if you’re maxxing content with volume on a budget.",
+      "author": "OGZAZZAH",
+      "author_url": "https://x.com/OGZAZZAH",
+      "post_url": "https://x.com/OGZAZZAH/status/2109311424019276231",
+      "date": "2026-10-11T23:53:27+08:00",
+      "likes": 1,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109311382717931520/vid/avc1/1280x720/zLnBoLeX8vN9Yk2R.mp4",
+          "duration_s": 8.0,
+          "poster": "posters/2109311424019276231_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2109260532213821725",
       "model": "Seedance 2.5",
       "prompt": "Create a 30-second cinematic supernatural mystery using the uploaded character sheet as the exact visual reference for the young woman. Preserve her face, hairstyle, clothes, proportions, and shoulder bag in every shot.\n\nSTYLE: Atmospheric, photorealistic live-action-inspired 3D animation, realistic materials, subtle film grain, moody cinematic lighting, believable environments, restrained supernatural horror. Maintain one coherent story and consistent geography. No random montage.\n\n0–5s — MISSED TRAIN\nLate at night, a young woman runs onto a nearly empty Japanese train platform, but the last ordinary train has just departed. She stops, breathless, beneath flickering fluorescent lights. A station clock reads 12:01 AM. The platform is silent except for distant railway sounds.\n\n5–10s — THE IMPOSSIBLE PLATFORM\nShe notices a dim corridor at the far end of the platform that she does not remember seeing before. A single old lantern glows inside it. Curious but uneasy, she walks toward it. The camera follows behind her as the modern station gradually gives way to an abandoned, old-fashioned platform.\n\n10–15s — THE ARRIVAL\nA distant train bell rings. Thick mist rolls along the tracks. An old dark train emerges slowly from the fog, its warm interior lights contrasting with the cold blue station lighting. It stops directly in front of her. The doors slide open by themselves. No driver is visible.\n\n15–21s — THE PASSENGERS\nShe steps closer and peers through the open doors. Inside, motionless passengers sit in neat rows, all facing forward. The train interior is silent. She notices one passenger turn its head slightly toward her. She leans forward to see its face.\n\n21–26s — THE REVEAL\nEvery passenger has her exact face, hairstyle, and clothing. The copies remain perfectly still, staring at her with blank expressions. The woman freezes and slowly steps backward. Inside the train, every copy turns its head toward her at exactly the same time.\n\n26–30s — THE TWIST\nThe train doors begin closing. Just before they shut, one seated copy suddenly smiles at her. The doors close, and the train disappears into the fog without moving along the tracks. The woman looks down at her shoulder bag and discovers it is gone. A train bell rings behind her. She slowly turns toward the camera as the screen cuts to black.\n\nCAMERA: Smooth tracking shots, slow push-ins, restrained handheld movement during moments of fear, and clear eyelines. Build tension through pauses and visual details, not excessive cuts. Keep the woman recognizable and the sequence of events continuous.\n\nLIGHTING: Cold blue fluorescent station lighting contrasted with warm amber train interiors, realistic mist, reflections on the platform, deep but readable shadows.\n\nAUDIO: Distant train rumble, footsteps, electrical hum, a station clock ticking, one train bell, sliding doors, and low atmospheric drones. Silence briefly before the final reveal. No dialogue, subtitles, text overlays, logos, or watermarks.",
@@ -2682,6 +2808,69 @@
           "poster": "posters/2107516236737507760_0.jpg",
           "width": 640,
           "height": 360
+        }
+      ]
+    },
+    {
+      "id": "2109310680679469547",
+      "model": "Seedance 2.5",
+      "prompt": "Static front-facing camera, close-up shot. A shiny stainless steel hydraulic press with a transparent cylindrical glass chamber filled with fresh chili peppers: vibrant green chilies on the left half, bright red chilies on the right half. Clean industrial factory background, softly blurred, with white ceiling lights.\n\nThe metal press plate slowly descends and compresses the peppers with strong pressure. Golden amber pepper juice begins to flow out from a metal spout at the bottom of the chamber, streaming down into a round stainless steel bowl below. The juice splashes gently, with small visible fragments of red and green pepper floating in the liquid. The juice level in the bowl gradually rises.\n\nHyper-realistic, high detail, glossy wet textures, reflections on polished steel and glass, satisfying ASMR hydraulic press video style, smooth slow motion of the press, vertical 9:16 format.",
+      "author": "Ruslanchain",
+      "author_url": "https://x.com/Ruslanchain",
+      "post_url": "https://x.com/Ruslanchain/status/2109310680679469547",
+      "date": "2026-10-11T23:50:30+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109310660630753280/vid/avc1/720x1280/KrrqpbrO3hxVtUN6.mp4",
+          "duration_s": 12.0,
+          "poster": "posters/2109310680679469547_0.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "2109283616572178544",
+      "model": "Seedance 2.5",
+      "prompt": "Seedance 2.5, 720p, 30s, 16:9, One continuous 30-second live-action sequence on an open-air skyscraper construction floor high above a city at golden hour, following a young woman with athletic build, blonde updo hairstyle, minimal makeup, barefoot, wearing only a red leotard. Keep her exact face, hair, and red one-piece leotard outfit in every shot, no costume change, no second person, no safety harness. Exposed steel columns, hanging rebar, crane cables, concrete dust in warm sidelight, wind moving loose plastic sheeting. Photoreal cinematic sports film, sharp detail, natural motion blur only on fast limbs.\n\n0-4s: Medium close-up, locked camera. She faces the lens with a slight confident smile and says “Let’s go” with clear, short, energetic lip sync; she slaps her hands together as if dusting them off. Hard cut.\n4-11s: Low tracking shot racing beside her as she sprints across the open deck, vaults a stack of lumber, plants one hand, and aerials over a gap between floor plates. Camera dips under her and rises with her landing. Wind and foot impacts.\n11-18s: Wide crane shot swinging around a steel column. She leaps, catches an overhead scaffold bar, swings once, releases into a layout flip, catches the next bar, and drops into a roll. Camera orbits her from below while city and sky trade places behind her. Cable creak and a sharp exhale.\n18-24s: Steadicam follow from behind, then a whip-pan to her front as she runs up a slanted beam, pushes off, and twists through open air onto a big steel I-beam hanging level from the crane. She lands in a gymnast mount. Slow push-in.\n24-30s: The suspended beam becomes her balance beam, high over the deck. She does a controlled walk, a full turn, a leap, then an Olympic-style spin into a backflip off the end. She lands on a wooden pallet stacked with bags of concrete mix, sticks the landing with no extra step, and holds a clean gymnast Y pose, arms up, chin lifted. Camera orbits once and settles on a low hero angle. Final frame held.\nCity wind ambience, distant crane sounds, footsteps and impacts, cable creak, her dialogue and breathing — full sound design, no music, no subtitles, no logos.",
+      "author": "JaviRandomXI",
+      "author_url": "https://x.com/JaviRandomXI",
+      "post_url": "https://x.com/JaviRandomXI/status/2109283616572178544",
+      "date": "2026-10-11T22:02:57+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109274525263175680/vid/avc1/1280x720/9RrEerc5IbKx5p2Z.mp4",
+          "duration_s": 9.3,
+          "poster": "posters/2109283616572178544_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2109273910764048661",
+      "model": "Seedance 2.5",
+      "prompt": "VIDEO FLOW — “A LOVELY DAY TO BE UNHINGED”\n\n15 seconds, 25 shots, 16:9, 24fps, ultra-photorealistic live-action cinematic dark comedy. Extremely fast editorial cuts, rich locations, varied focal lengths, purposeful motion, impeccable visual continuity.\n\nCHARACTER LOCK:\nThe same 25-year-old blonde woman in every shot. Distinctive layered blonde wolf cut, wispy fringe, pale soft-blue eyes, realistic iris fibers, visible skin pores, fine facial hairs, subtle peach fuzz, natural skin imperfections and lifelike skin subsurface scattering. Elegant vintage pastel-blue dress. Vivid red lipstick smeared irregularly beyond her lips and onto ONE cheek only; the opposite cheek remains clean. She carries a large, tangled bouquet of fresh, vivid red roses with crushed petals, irregular stems and lush green leaves. Preserve her exact face, hairstyle, dress, lipstick pattern and bouquet throughout. No identity drift.\nVISUAL STYLE:\nWes Anderson-inspired symmetrical compositions, centered subjects, meticulously arranged production design, whimsical vintage European city, pastel pink, mint green, powder blue, butter yellow and cherry red. Rich layered backgrounds, ornate storefronts, vintage trams, patterned tiles, retro signage without readable text, practical reflections, cinematic depth. Photorealistic skin and fabric, tactile film-like texture, precise color grading, 35mm and 50mm lenses mixed with occasional 85mm macro details. Deadpan dark humor, beautiful yet unsettling atmosphere. Every shot tells a different visual beat. Fast cuts synchronized into a coherent 15-second montage.\n\n[00:00–00:00.55] SHOT 01\nPerfectly symmetrical wide shot of a pastel European street at sunrise. She stands precisely in the center, bouquet cradled in both arms, smiling innocently. A vintage tram glides behind her. Slow forward camera push.\n[00:00.55–00:01.00] SHOT 02\nExtreme macro of her pale-blue eye. Rose petals reflect in the iris; individual eyelashes, skin pores and tiny facial hairs remain visible. A quick sideways eye movement, then a sharp cut.\n\n[00:01.00–00:01.50] SHOT 03\nHigh-angle overhead shot in a pink-and-mint pedestrian crossing. She spins once with her dress flaring, bouquet held outward. Geometric street markings form a perfect symmetrical pattern.\n[00:01.50–00:02.00] SHOT 04\nTight frontal portrait outside a vintage bakery. She takes a tiny bite of a pastry, then smiles at the camera with lipstick smeared across one cheek. Completely calm, strangely delighted.\n\n[00:02.00–00:02.50] SHOT 05\nLow-angle tracking shot as she skips along an elegant arcade, swinging the tangled roses. Shop windows, brass fixtures and colorful awnings sweep past in layered parallax.\n[00:02.50–00:03.00] SHOT 06\nExtreme close-up of fresh red roses pressed against her cheek. Crushed petals, delicate thorns, green sepals and natural petal veins in exquisite detail. Her smile enters frame.\n\n[00:03.00–00:03.50] SHOT 07\nHard cut to midday. Symmetrical pastel-blue café interior. She sits alone at a tiny round table, carefully arranging roses in a teacup, then applauds her own work with delighted seriousness.\n[00:03.50–00:04.00] SHOT 08\nSide-profile 85mm close-up as she walks past a shop window. Her reflection briefly aligns with her face. She suddenly turns her eyes toward the lens without turning her head.\n\n[00:04.00–00:04.50] SHOT 09\nWide shot inside a vintage flower shop overflowing with colorful blooms. She twirls between the flower buckets, bouquet held high, smiling as loose petals drift through the frame.\n[00:04.50–00:05.00] SHOT 10\nFast push-in to her face. She opens her eyes wide in exaggerated delight, then freezes in a perfectly composed, unnervingly blank smile. Natural facial anatomy, no distortion.\n\n[00:05.00–00:05.55] SHOT 11\nAfternoon street market, centered medium-wide composition. She strolls past striped stalls, casually waving to a mannequin in a shop window as though greeting an old friend.\n[00:05.55–00:06.10] SHOT 12\nTop-down close-up of her hands twisting and untangling rose stems. Fresh petals remain vibrant. Her fingers move delicately, almost ritualistically; realistic nails and skin creases.\n\n[00:06.10–00:06.65] SHOT 13\nDynamic lateral tracking shot beside a moving vintage tram. She walks in the opposite direction, maintaining eye contact with the camera while the colorful city streaks behind her.\n[00:06.65–00:07.20] SHOT 14\nPerfectly centered shot in a retro public telephone booth. She holds the receiver to her ear, listens, then bursts into silent laughter. The bouquet fills the bottom foreground.\n\n[00:07.20–00:07.75] SHOT 15\nGolden-hour park. Symmetrical long shot framed by clipped hedges and pastel benches. She dances alone across the path, dress swaying, roses bouncing in her arms.\n[00:07.75–00:08.30] SHOT 16\nExtreme close-up of her lips and single smeared cheek. She presses her lips together, leaving the lipstick uneven and visibly imperfect. A mischievous smile follows. Preserve the exact makeup pattern.\n\n[00:08.30–00:08.85] SHOT 17\nDutch-angle medium shot in a lavish vintage hotel lobby. She rides a luggage trolley for a short distance while holding the roses triumphantly. Brass elevator doors and patterned wallpaper create rich visual layers.\n[00:08.85–00:09.40] SHOT 18\nWhip-pan into a perfectly symmetrical pastry-shop interior. She sits at the counter surrounded by colorful cakes, solemnly raises a tiny fork like a royal toast, then giggles.\n\n[00:09.40–00:10.00] SHOT 19\nBlue-hour city square. A slow-motion burst of rose petals surrounds her as she throws a handful upward, tilts her face toward the sky and laughs with carefree abandon.\n[00:10.00–00:10.55] SHOT 20\nTight handheld close-up moving backward as she walks toward the camera through a narrow neon-lit street. Her expression is joyful, eyes locked on the lens, lipstick and pores sharply detailed.\n\n[00:10.55–00:11.10] SHOT 21\nSymmetrical wide shot inside a deserted vintage cinema. She sits alone in the middle of a velvet-red row, bouquet beside her, laughing at the blank screen. Projector light beams through dust.\n[00:11.10–00:11.65] SHOT 22\nMacro insert of a single fresh rose rotating between her fingers. Rack focus from the velvety red petal to her smiling face in the background.\n\n[00:11.65–00:12.20] SHOT 23\nNighttime city fountain, deep cobalt sky and warm amber windows. Circular tracking move as she dances around the fountain, dress and hair responding naturally to movement.\n[00:12.20–00:12.75] SHOT 24\nFrontal medium close-up beneath a vintage streetlamp. She abruptly stops dancing, stares straight into the lens and gives a tiny, perfectly composed smile. Background activity continues behind her.\n\n[00:12.75–00:15.00] SHOT 25\nFinal symmetrical wide shot on a quiet pastel street at night. She stands centered beneath glowing shop windows, bouquet messy but still fresh. She performs a tiny theatrical curtsy, looks up and smiles directly at the viewer. A gentle camera dolly-in ends on her unsettlingly cheerful expression. Hold the final composition cleanly.\nCAMERA AND EDITING:\nAll 25 shots must be distinct and legible. Average shot length approximately 0.6 seconds, with deliberate variation and a longer final hold. Hard cuts, match cuts, whip-pan transitions and occasional speed ramps. Combine locked symmetrical frames, macro inserts, overheads, low angles, tracking shots, lateral movement, push-ins and controlled handheld motion. Every camera move must have a clear subject and direction. Maintain believable body mechanics and natural motion blur.\n\nLIGHTING AND TEXTURE:\nWarm morning sunlight, clean midday bounce, golden-hour highlights, blue-hour ambience and practical nighttime tungsten. Soft directional light reveals pores and facial texture without excessive sharpening. Natural skin tones, detailed hair strands, realistic fabric folds, fresh rose petals and physically plausible reflections. Rich but controlled pastel production design.\nAUDIO:\nDiegetic city ambience only: distant tram bells, footsteps, birds, café clatter, fountain water and subtle rose-stem rustling. No dialogue, no voiceover, no music.\n\nNEGATIVE CONSTRAINTS:\nNo gore, no visible injuries, no supernatural effects, no horror monster, no male lead, no extra copies of the protagonist, no face morphing, no changing eye color, no changing hairstyle, no changing dress, no lipstick switching cheeks, no lipstick suddenly disappearing, no wilted or dead roses, no bouquet teleportation, no broken anatomy, no extra fingers, no artificial plastic skin, no CGI appearance, no random slow motion, no static repetitive framing, no subtitles, no captions, no logos, no watermarks, no readable on-screen text.",
+      "author": "Nicuks_",
+      "author_url": "https://x.com/Nicuks_",
+      "post_url": "https://x.com/Nicuks_/status/2109273910764048661",
+      "date": "2026-10-11T21:24:23+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2109273720124588032/vid/avc1/1280x720/dJop6RKM0Rt5H7e0.mp4",
+          "duration_s": 15.0,
+          "poster": "posters/2109273910764048661_0.jpg",
+          "width": 1280,
+          "height": 720
         }
       ]
     }

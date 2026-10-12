@@ -34,6 +34,10 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2109204991533793520",  # suggestive selfie grid (2026-10-12 review)
+    "2109121110336008571",  # low-cut crouching pose (2026-10-12 review)
+    "2109135933539070327",  # suggestive pool-table pose (2026-10-12 review)
+    "2109266767591997675",  # swimsuit comparison (2026-10-12 review)
     "2108846811213660260",  # MissDelulu9 - sultry pose (2026-10-11 review)
     "2108863558587211992",  # liyue_ai - low-cut pose (2026-10-11 review)
     "2108942140273512735",  # Adam38363368936 - suggestive bed selfie (2026-10-11 review)
