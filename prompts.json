@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-12T08:07:02+08:00",
-  "count": 226,
+  "generated_at": "2026-10-13T08:32:59+08:00",
+  "count": 245,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -296,6 +296,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109514589427876256",
+      "prompt": "A very realistic candid lifestyle photo of a beautiful young woman with very long brown hair, shiny with the middle, sunglasses placed on top of her head. Soft natural makeup, dark brown eyes staring directly at the camera, lips",
+      "author": "nawalsehar",
+      "author_url": "https://x.com/nawalsehar",
+      "post_url": "https://x.com/nawalsehar/status/2109514589427876256",
+      "date": "2026-10-12T13:20:45+08:00",
+      "likes": 207,
+      "language": "en",
+      "images": [
+        "images/2109514589427876256_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2101255283897139628",
       "prompt": "Create a sophisticated vertical editorial watercolor poster using the uploaded reference photo as the exact visual reference for the woman’s facial features, identity, hairstyle, skin tone, and overall appearance.\n\nIMPORTANT: This must be visually different from the first poster. Do NOT use a waving pose. Do NOT place the subject standing in the same pose. Create a completely different composition and body position.\n\nShow the woman seated elegantly on a low stone terrace or architectural ledge, wearing a tailored black blazer with matching wide-leg trousers and a crisp white collared shirt. One elbow is resting naturally on her knee, with her hand gently supporting her cheek in a relaxed, thoughtful pose. Her other hand rests naturally on her lap. A simple elegant wristwatch is visible.\n\nHer expression should be soft, confident, calm, and slightly smiling. Keep her facial identity and recognizable features consistent with the reference image.\n\nSTYLE:\nLuxury hand-painted watercolor and fine-ink editorial illustration, realistic but artistic facial rendering, delicate brush strokes, subtle ink outlines, natural skin tones, soft watercolor bleeding, sophisticated muted beige, warm brown, ivory and charcoal palette, visible handmade watercolor paper texture, premium fashion magazine aesthetic.\n\nCOMPOSITION:\nVertical poster layout.\nPlace the woman in the lower-middle portion of the composition.\nLeave generous clean negative space around the subject.\nCreate a different visual balance from the first poster by using a seated pose and a slightly asymmetrical composition.\n\nBACKGROUND:\nWarm ivory handmade textured paper.\nBehind the woman, add very subtle watercolor sketches of elegant Mediterranean-style architecture, distant trees, delicate branches and soft beige architectural brush marks.\nKeep the background extremely light and artistic so the woman remains the main focus.\nNo photographic background.\n\nTYPOGRAPHY:\nAt the upper center, add elegant handwritten/script-style text:\n\n“Alina Ai”\n\nDirectly underneath, add a thin minimal horizontal line.\n\nBelow the line, add small widely spaced uppercase typography:\n\n“PEOPLE ALWAYS STAY”\n\nAdd very subtle small editorial text elements around the composition:\n\n“SAME GIRL DIFFERENT DREAMS”\n\n“A KINDER BRIGHTER ME”\n\n“GOOD IDEAS BRIGHTER DAYS”\n\nKeep all typography refined, minimal, balanced, and premium.\n\nOVERALL LOOK:\nLuxury editorial watercolor poster, sophisticated fashion illustration, handmade art print, soft cinematic lighting translated into watercolor, realistic proportions, elegant feminine aesthetic, premium magazine cover composition, clean negative space, highly detailed face and hair, natural hands and anatomy.\n\nNEGATIVE PROMPT:\nDo not copy the first poster’s pose, no waving hand, no standing pose, no raised arm, no photorealistic background, no 3D CGI, no cartoon appearance, no excessive colors, no clutter, no extra people, no distorted face, no extra fingers, no malformed hands, no duplicated limbs, no unnatural anatomy, no harsh outlines, no plastic skin, no AI-looking facial features, no incorrect text, no random logos.",
       "author": "Alina_with_Ai",
@@ -309,6 +323,21 @@
         "images/2101255283897139628_1.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2109544452704657540",
+      "prompt": "Ultra-realistic low-angle selfie of a beautiful East Asian girl with long dark brown hair and wispy bangs, glossy soft pink lips, natural makeup, delicate silver earrings, and a cute winking smile. Wearing an oversized fluffy white",
+      "author": "MissDelulu9",
+      "author_url": "https://x.com/MissDelulu9",
+      "post_url": "https://x.com/MissDelulu9/status/2109544452704657540",
+      "date": "2026-10-12T15:19:25+08:00",
+      "likes": 193,
+      "language": "en",
+      "images": [
+        "images/2109544452704657540_0.jpg",
+        "images/2109544452704657540_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2107675234858131544",
@@ -708,6 +737,21 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2109503373955502304",
+      "prompt": "\"task\": \"image_generation\",\n  \"style\": \"Ultra-photorealistic cinematic fashion editorial, luxury magazine cover, dramatic fire photography\",\n  \"aspect_ratio\": \"4:5\",\n  \"scene\": {\n    \"environment\": {\n      \"background\": \"Deep black",
+      "author": "AiwithLariab",
+      "author_url": "https://x.com/AiwithLariab",
+      "post_url": "https://x.com/AiwithLariab/status/2109503373955502304",
+      "date": "2026-10-12T12:36:11+08:00",
+      "likes": 94,
+      "language": "en",
+      "images": [
+        "images/2109503373955502304_0.jpg",
+        "images/2109503373955502304_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2104159264185127226",
       "prompt": "PROMPT 01 — ZARA × RED DESERT\n\nZARA high-fashion environmental campaign, 4:5 vertical, 8K ultra-photorealistic editorial photography.\n\nA confident adult female fashion model wearing a sophisticated contemporary Zara outfit: sculptural cream oversized blazer, flowing red trousers, minimalist black heels and subtle accessories.\n\nShe stands alone in a vast surreal RED DESERT landscape at golden hour. Monumental vermilion rock formations rise around her, enormous smooth red dunes create sweeping curves across the landscape, and a minimalist brutalist red concrete structure emerges naturally from the terrain.\n\nThe entire environment is built around a controlled palette of crimson red, vermilion, burnt orange, warm cream and natural skin tones.\n\nStrong golden sunlight creates dramatic long shadows. Wind gently moves the fabric of the outfit. Fine desert dust is visible in the distance. The clothing remains perfectly realistic with detailed fabric fibers, stitching, natural folds and believable movement.\n\nWide environmental composition, model relatively small within the enormous landscape, powerful sense of scale, sophisticated fashion editorial composition, medium-format camera, 50mm lens, realistic atmospheric perspective, premium commercial retouching.\n\nSmall restrained ZARA wordmark in the upper-left.\n\nHeadline:\n“OWN THE MOMENT”\n\nMinimal editorial typography.\n\nNo product-grid layout, no sale messaging, no excessive logo, no CGI appearance, no fantasy effects, no plastic skin, no distorted anatomy, no excessive HDR, no generic fashion photography.\n\nZARA × contemporary art × desert architecture × bold environmental fashion photography.\n\nPROMPT 02 — ZARA × TROPICAL BLUE\n\nZARA high-fashion environmental campaign, 4:5 vertical, 8K ultra-photorealistic photography.\n\nAn adult male fashion model wearing a contemporary Zara outfit: vivid cobalt-blue oversized shirt, relaxed ivory trousers, sculptural black shoes and minimal accessories.\n\nThe model stands inside an extraordinary tropical botanical environment after rainfall.\n\nHuge emerald-green leaves surround a vivid cobalt-blue modernist pavilion. Bright turquoise water runs through the environment, tropical flowers introduce controlled coral and magenta accents, and wet stone surfaces create beautiful natural reflections.\n\nThe environment is intentionally bold and colorful but sophisticated.\n\nColor palette:\nCOBALT BLUE × EMERALD GREEN × TURQUOISE × CORAL × IVORY.\n\nThe model walks naturally through shallow reflective water while the oversized shirt moves gently in the humid breeze.\n\nWet vegetation contains realistic water droplets. Sunlight breaks through the foliage, creating natural highlights and shadows across the model and environment.\n\nHigh-fashion editorial photography, medium-format camera, 35mm environmental lens, realistic skin texture, authentic fabric behavior, natural anatomy, physically accurate reflections, realistic tropical vegetation, premium commercial retouching.\n\nThe environment must feel like a real architectural location photographed in a tropical landscape, not a CGI fantasy world.\n\nMinimal ZARA wordmark in the upper-right.\n\nSmall headline:\n“COLOUR IN MOTION”\n\nNo giant typography, no ecommerce layout, no fake neon, no floating objects, no fantasy plants, no artificial glow, no excessive saturation, no AI-looking skin.\n\nZARA × tropical architecture × contemporary color theory × environmental fashion editorial.\n\nPROMPT 03 — ZARA × ORANGE CITY\n\nZARA high-fashion environmental campaign, 4:5 vertical, 8K ultra-photorealistic fashion photography.\n\nAn adult female fashion model wearing a striking contemporary Zara look: deep-black structured blazer, vivid orange flowing skirt, black leather boots and minimal jewelry.\n\nShe stands in the middle of a monumental contemporary city completely dominated by ELECTRIC ORANGE architecture.\n\nMassive orange buildings, geometric staircases, curved concrete walls, sculptural bridges and enormous orange columns surround the model.\n\nThe sky is an intense deep cobalt blue during early evening, creating a dramatic complementary color relationship.\n\nColor palette:\nELECTRIC ORANGE × COBALT BLUE × BLACK × OFF-WHITE.\n\nThe model is the only person in the immediate environment.\n\nA strong architectural perspective creates enormous depth. Long shadows fall across the orange pavement. The flowing orange garment catches a subtle breeze and visually connects with the surrounding architecture.\n\nThe environment should feel like a real contemporary city installation photographed at the perfect moment.\n\nNatural human skin texture, realistic hair, authentic textile fibers, precise tailoring, realistic garment folds, accurate shadows, realistic architectural materials, subtle atmospheric depth.\n\nCamera: medium-format fashion camera, 50mm lens, high dynamic range, professional editorial lighting, natural highlight roll-off, premium fashion retouching.\n\nSmall ZARA wordmark positioned in the upper-left.\n\nMinimal headline:\n“MAKE AN ENTRANCE”\n\nTiny secondary text:\n“NEW COLLECTION”\n\nTypography must remain secondary to the photograph.\n\nNo cyberpunk aesthetic, no neon signs, no CGI architecture, no fantasy city, no excessive lens flare, no distorted anatomy, no plastic skin, no generic streetwear aesthetic, no clutter, no oversized branding.\n\nZARA × bold color blocking × monumental urban environment × contemporary fashion photography.",
       "author": "Diplomeme",
@@ -724,6 +768,21 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2109602481198305536",
+      "prompt": "\"task\": \"image_generation\",\n\"style\": \"Ultra-photorealistic luxury fashion editorial, cinematic rainy-day photography, slow-shutter motion photography\",\n\"aspect_ratio\": \"4:5\",\n\n\"scene\": {\n\"environment\": {\n\"location\": \"Minimalist ivory-white fashion photography studio with a realistic rainy atmosphere\",\n\"background\": \"Seamless warm off-white backdrop with subtle cool-gray haze\",\n\"floor\": \"Pale ivory floor covered with a thin layer of rainwater and delicate reflections\",\n\"atmosphere\": \"Elegant, cinematic, surreal, sophisticated and contemporary\",\n\"color_palette\": [\n\"Ivory white\",\n\"Warm cream\",\n\"Crimson red\",\n\"Deep burgundy\",\n\"Cool gray\",\n\"Transparent glass\"\n]\n},\n\n\"main_subject\": {  \n  \"subject\": \"Young adult woman\",  \n  \"position\": \"Standing upright precisely in the center of the frame\",  \n  \"pose\": \"Confident natural standing pose with both feet firmly planted on the wet floor, legs slightly apart, shoulders relaxed and back straight\",  \n  \"expression\": \"Serious, composed and quietly confident\",  \n  \"gaze\": \"Direct eye contact with the camera\",  \n  \"movement\": \"Completely motionless while the crowd moves around her\",  \n\n  \"hair\": {  \n    \"color\": \"Dark brown\",  \n    \"style\": \"Straight, sleek, center-parted bob ending at the jawline\",  \n    \"details\": \"Natural individual strands with subtle highlights\"  \n  },  \n\n  \"outfit\": {  \n    \"jacket\": \"Oversized ivory-white structured blazer with a high stand collar and elegant beige buttons\",  \n    \"innerwear\": \"Simple high-neck ivory top\",  \n    \"trousers\": \"Loose cream tailored trousers with realistic fabric folds\",  \n    \"boots\": \"Glossy deep burgundy-red ankle boots with chunky platform soles\",  \n    \"styling\": \"Sophisticated minimalist luxury fashion with no visible logos\"  \n  },  \n\n  \"umbrella\": {  \n    \"type\": \"Large transparent dome umbrella\",  \n    \"material\": \"Crystal-clear waterproof canopy with a slim black frame\",  \n    \"position\": \"Held naturally overhead in one hand\",  \n    \"angle\": \"Slightly tilted forward to protect her from the rain\",  \n    \"details\": \"Clearly visible individual raindrops on the canopy, realistic water trails, delicate droplets along the edges and soft reflections of studio lighting\",  \n    \"visibility\": \"The transparent canopy must remain visible without covering or distorting her face\"  \n  },  \n\n  \"body_details\": {  \n    \"posture\": \"Fully upright with anatomically correct proportions\",  \n    \"hands\": \"Natural realistic fingers holding the umbrella handle, free hand relaxed at her side\",  \n    \"feet\": \"Both boots fully visible and touching the floor\",  \n    \"focus\": \"Face, clothing, hands and umbrella handle remain sharply detailed\"  \n  }  \n},  \n\n\"background_models\": {  \n  \"quantity\": \"Six adult fashion models\",  \n  \"action\": \"Walking briskly in opposite directions through the rain around the central woman\",  \n  \"wardrobe\": [  \n    \"Vivid crimson-red trench coats\",  \n    \"Burgundy tailored suits\",  \n    \"Scarlet oversized outerwear\",  \n    \"Deep-red flowing fashion outfits\",  \n    \"Muted charcoal-gray coats\"  \n  ],  \n\n  \"umbrellas\": {  \n    \"style\": \"Large vivid crimson-red and deep-burgundy umbrellas\",  \n    \"quantity\": \"Several umbrellas distributed throughout the moving crowd\",  \n    \"details\": \"Realistic wet fabric, visible umbrella ribs and subtle rain reflections\",  \n    \"movement\": \"Umbrellas tilt naturally as people walk, creating diagonal red shapes across the composition\"  \n  },  \n\n  \"motion_effect\": \"Pronounced horizontal and diagonal long-exposure motion blur across moving models and red umbrellas\",  \n  \"movement_pattern\": \"Some figures cross from left to right while others move in the opposite direction, creating layered motion trails\",  \n  \"rain_effect\": \"Fine visible rain streaks with realistic direction, varying lengths and delicate highlights\",  \n  \"foreground\": \"One red umbrella and a crimson-clad passerby sweep across the lower-left foreground in strong motion blur\",  \n  \"background_depth\": \"Several additional blurred silhouettes and umbrellas recede into the soft gray atmosphere\",  \n  \"contrast\": \"The central woman remains perfectly still and sharply focused while all surrounding people appear in motion\"  \n}\n\n},\n\n\"composition\": {\n\"framing\": \"Full-body vertical fashion editorial portrait\",\n\"camera_angle\": \"Straight-on at standing eye level\",\n\"subject_scale\": \"The central woman occupies approximately 75 percent of the image height\",\n\"composition\": \"Balanced symmetrical central framing\",\n\"negative_space\": \"Generous clean ivory space around the central figure\",\n\"foreground\": \"Blurred red umbrella partially entering the lower-left edge\",\n\"background\": \"Layered crimson umbrellas and moving figures at different distances\",\n\"visual_hierarchy\": \"The white-clad woman and transparent umbrella form the sharp central focal point\",\n\"color_contrast\": \"Crisp ivory clothing contrasts strongly against vivid red umbrellas\",\n\"footwear_visibility\": \"Show the complete subject from the top of her head to the soles of both boots\",\n\"reflection_details\": \"Subtle reflections of red umbrellas and moving silhouettes on the wet floor\"\n},\n\n\"lighting\": {\n\"setup\": \"Large diffused professional studio softbox\",\n\"direction\": \"Soft frontal illumination with gentle side lighting\",\n\"quality\": \"Creamy high-key light mixed with cool rainy-day ambience\",\n\"highlights\": \"Delicate highlights on raindrops, transparent umbrella, white blazer and glossy burgundy boots\",\n\"shadows\": \"Natural contact shadows beneath both boots\",\n\"reflections\": \"Realistic but subtle wet-floor reflections\",\n\"exposure\": \"Bright and controlled, preserving fine details in white clothing\",\n\"color_separation\": \"Accurate crimson-red umbrellas against a neutral ivory environment\"\n},\n\n\"camera\": {\n\"type\": \"Professional full-frame camera\",\n\"lens\": \"50mm lens\",\n\"aperture\": \"f/2.8\",\n\"shutter_effect\": \"Cinematic slow-shutter exposure with strong motion blur on moving background models while preserving sharp focus on the central woman\",\n\"focus\": \"Tack-sharp focus on the woman's eyes, face and clothing\",\n\"depth_of_field\": \"Shallow depth of field with natural optical separation\",\n\"rendering\": \"Realistic rain streaks, natural motion trails and subtle cinematic film grain\"\n},\n\n\"quality\": {\n\"resolution\": \"4K\",\n\"realism\": \"Ultra-photorealistic\",\n\"textures\": \"Detailed skin pores, natural hair strands, woven fabric, transparent wet umbrella, water droplets and polished leather\",\n\"anatomy\": \"Natural human proportions and anatomically correct hands\",\n\"finish\": \"Premium international luxury fashion magazine campaign\"\n},\n\n\"negative_prompt\": [\n\"Sitting\",\n\"Crouching\",\n\"Kneeling\",\n\"Chair\",\n\"Pedestal\",\n\"Cropped feet\",\n\"Floating boots\",\n\"Opaque umbrella\",\n\"Umbrella covering the face\",\n\"Deformed umbrella\",\n\"Floating umbrella\",\n\"Unrealistic rain\",\n\"Excessive water splashes\",\n\"Cartoon\",\n\"Anime\",\n\"Illustration\",\n\"CGI appearance\",\n\"Plastic skin\",\n\"Over-smoothed face\",\n\"Distorted anatomy\",\n\"Extra fingers\",\n\"Malformed hands\",\n\"Duplicated central woman\",\n\"Sharp background models\",\n\"White umbrellas dominating the crowd\",\n\"Red outfit on the central woman\",\n\"Overexposed white clothing\",\n\"Excessive saturation\",\n\"Unnatural motion blur\",\n\"Messy composition\",\n\"Text\",\n\"Watermark\",\n\"Logos\",\n\"Low resolution\"\n]\n}",
+      "author": "AiwithLariab",
+      "author_url": "https://x.com/AiwithLariab",
+      "post_url": "https://x.com/AiwithLariab/status/2109602481198305536",
+      "date": "2026-10-12T19:10:00+08:00",
+      "likes": 92,
+      "language": "en",
+      "images": [
+        "images/2109602481198305536_0.jpg",
+        "images/2109602481198305536_1.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
       "id": "2100904092621328893",
       "prompt": "Create a photorealistic cinematic editorial photograph of a young adult man standing confidently at the exact center of a large outdoor urban plaza with tiled pavement. He has short dark hair, a clean-shaven face, a subtle natural smile, and is looking directly at the camera. He is wearing a simple bright red crewneck sweatshirt, loose black pants, and clean white sneakers, with both hands casually inside his pockets.\nSurround the central man with multiple identical versions of the same man wearing the exact same red sweatshirt, black pants, and white sneakers. The surrounding duplicates are walking naturally in different directions, captured with realistic motion blur, while the central subject remains completely sharp and perfectly in focus.\nCreate a convincing long-exposure / time-slice photography effect, as if many versions of the same person are moving around one stationary subject. Keep the central person's face, hairstyle, clothing, body proportions, and facial features consistent with the reference image.\nCamera positioned at a slightly elevated overhead angle, centered composition, realistic perspective, warm late-afternoon sunlight, natural shadows, detailed tiled pavement, cinematic depth of field, subtle film grain, professional fashion photography, ultra-realistic skin and fabric textures, realistic motion blur, 4K detail.\nImportant: The central subject must remain sharp and unobstructed. Every surrounding duplicate should clearly appear to be the same person. No distorted faces, extra arms, extra legs, fused bodies, warped clothing, unnatural poses, or duplicated body parts. Vertical 4:5 composition.\n\n———\n\nCreate a photorealistic editorial street-fashion photograph of a young blonde woman standing confidently in the center of a large urban tiled plaza. She has long, wavy golden-blonde hair and a natural, attractive expression, looking directly at the camera. She is wearing an oversized bright pink sweatshirt, loose black wide-leg pants, and white sneakers, with both hands casually inside her sweatshirt pockets.\n\nSurround her with multiple identical versions of the same woman wearing the exact same outfit, walking naturally in different directions around her. The central woman is perfectly sharp and in focus, while the surrounding duplicate figures have realistic motion blur, creating a dynamic long-exposure photography effect. Maintain realistic human proportions, natural walking poses, authentic shadows and lighting.\n\nShot from a slightly elevated angle, cinematic composition, warm natural daylight, shallow depth of field, realistic urban architecture and pavement textures, professional fashion photography, subtle film grain, high detail, photorealistic, 4K.\n\nImportant: Keep the central subject clearly visible and sharp. Make every duplicate look like the same person, with consistent facial features, hairstyle, clothing and body proportions. No distorted faces, extra limbs, duplicated body parts, warped clothing, or unnatural poses. Vertical 4:5 composition.",
       "author": "Alina_with_Ai",
@@ -735,6 +794,23 @@
       "images": [
         "images/2100904092621328893_0.jpg",
         "images/2100904092621328893_1.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
+      "id": "2109460736275866103",
+      "prompt": "Create a premium 4:5 vertical travel-editorial artwork combining romantic European street photography, delicate watercolor illustration, and elegant botanical storytelling.\n\nPURE GENERATION:\nGenerate the complete artwork from the written concept alone. Create a sophisticated, artistic composition that blends the romantic atmosphere of Paris, the timeless charm of Tokyo, and the historic beauty of Istanbul into one cohesive visual story.\n\nMAIN COMPOSITION:\nDesign a luxurious fine-art travel poster on warm ivory handmade watercolor paper with subtle paper grain, natural pigment textures, soft edges, and delicate artistic imperfections.\n\nAt the top section, feature a cinematic, photorealistic European city street after gentle rain. Elegant cream-colored historic buildings, tall arched wooden windows, traditional storefronts, wet reflective pavement, and warm sunlight filtering through the trees create a nostalgic Parisian atmosphere.\n\nIn the middle section, transform the same street into a delicate watercolor illustration. An elderly couple, dressed in elegant dark coats, walks peacefully away from the viewer, holding hands. Their quiet companionship represents enduring love, memories, and a lifetime of shared moments. In the distance, reveal a subtle Eiffel Tower silhouette framed by beautiful Parisian architecture.\n\nFLOWER STORY:\nPlace a single deep crimson-red rose in the foreground, its velvety petals covered with tiny raindrops. The rose should be sharply detailed, naturally illuminated, and emotionally expressive without looking artificial.\n\nBlend this scene with a second botanical composition featuring a graceful white lily with delicate ivory petals, golden stamens, and fresh green leaves. Position the lily beside a softly painted panoramic view of Istanbul, with the magnificent Blue Mosque in the background, its elegant domes and slender minarets fading gently into the atmospheric distance.\n\nAdd subtle Japanese-inspired cherry blossom branches near the upper edges, with pale pink flowers and a few drifting petals, creating a poetic connection between Eastern and Western visual traditions.\n\nARTISTIC STYLE:\nCombine realistic architectural photography with sophisticated watercolor painting, delicate ink outlines, botanical illustration, and premium travel-magazine art direction.\n\nUse soft watercolor washes, fine pigment granulation, natural paint splashes, gentle bleeding edges, and graceful transitions between realistic and illustrated sections.\n\nCOLOR PALETTE:\nWarm ivory, antique cream, muted beige, soft taupe, charcoal gray, dusty pink, crimson red, botanical green, pale blue, and subtle golden highlights.\n\nLIGHTING AND ATMOSPHERE:\nSoft natural daylight after rainfall, warm reflections on wet pavement, gentle cinematic depth, delicate atmospheric haze, and a peaceful romantic mood.\n\nDESIGN AND LAYOUT:\nMaintain generous negative space around the main artwork.\nUse an elegant editorial composition with a balanced vertical flow.\nAllow the photographic scene to transition organically into the watercolor illustration.\nKeep the flowers as prominent foreground elements while the architecture provides a beautiful sense of place.\nAdd tiny artistic ink splashes and restrained botanical details around the edges.\nThe final result should resemble an exclusive fine-art travel poster created by a professional illustrator.\n\nTYPOGRAPHY:\nAt the bottom, add a small, elegant, widely spaced serif title:\n\n“WHERE LOVE BLOOMS”\n\nBelow it, add a delicate subtitle:\n\n“PARIS • TOKYO • ISTANBUL”\n\nUse refined editorial typography in dark charcoal with subtle spacing and excellent readability. Keep all text minimal and secondary to the artwork.\n\nQUALITY:\nUltra-detailed architectural elements, realistic flower textures, refined watercolor brushwork, harmonious composition, professional art direction, premium print quality, high-resolution rendering, natural proportions, and museum-quality fine-art aesthetics.\n\nASPECT RATIO:\n4:5 vertical poster.\n\nNEGATIVE PROMPT:\nLow resolution, blurry flowers, distorted architecture, malformed buildings, inaccurate mosque structures, artificial-looking petals, oversaturated colors, excessive visual clutter, harsh outlines, plastic textures, cartoon appearance, excessive contrast, poorly rendered people, deformed hands, duplicated flowers, messy typography, misspelled text, watermarks, logos, and unnecessary decorative elements.\n\nFINAL RESULT:\nA breathtaking, romantic, premium travel-editorial artwork where Parisian nostalgia, Japanese floral elegance, and Istanbul's historic beauty unite through rain, flowers, architecture, and the timeless language of love.",
+      "author": "KrishnaBio1",
+      "author_url": "https://x.com/KrishnaBio1",
+      "post_url": "https://x.com/KrishnaBio1/status/2109460736275866103",
+      "date": "2026-10-12T09:46:46+08:00",
+      "likes": 90,
+      "language": "en",
+      "images": [
+        "images/2109460736275866103_0.jpg",
+        "images/2109460736275866103_1.jpg",
+        "images/2109460736275866103_2.jpg",
+        "images/2109460736275866103_3.jpg"
       ],
       "prompt_source": "reply"
     },
@@ -946,6 +1022,20 @@
       "images": [
         "images/2107856173839872397_0.jpg",
         "images/2107856173839872397_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109710598972035578",
+      "prompt": "Photorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.",
+      "author": "churvikv",
+      "author_url": "https://x.com/churvikv",
+      "post_url": "https://x.com/churvikv/status/2109710598972035578",
+      "date": "2026-10-13T02:19:37+08:00",
+      "likes": 62,
+      "language": "en",
+      "images": [
+        "images/2109710598972035578_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1183,6 +1273,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109527714323452167",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical Photo × Graffiti Art travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate everything creatively from the written subject alone. No reference image required.\n\nCORE CONCEPT:\nA",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2109527714323452167",
+      "date": "2026-10-12T14:12:54+08:00",
+      "likes": 45,
+      "language": "en",
+      "images": [
+        "images/2109527714323452167_0.jpg",
+        "images/2109527714323452167_1.jpg",
+        "images/2109527714323452167_2.jpg",
+        "images/2109527714323452167_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108118877590680061",
       "prompt": "围绕任意主题对象生成一张安静、清透、带有水面流动感的视觉画面：主题不以具象物堆叠出现，而是被转译为大面积可呼吸的抽象场域，主体形态由层层横向拖拽的柔软笔触、轻微波纹、半透明色块和边缘参差的负形光带共同塑造。画面第一眼应读到一条从上方缓慢游走到深处的明亮通道，它像光在介质中被折射后留下的空隙，左右两侧以深浅不同的主题色形成温和的图底张力；边界不要硬切，要有被水波拉长、晕开、再收住的节奏。色彩从主题自身的材质、季节、情绪或品牌语义中提取，映射为大面积清透高明度底色、较深的结构暗部、柔和的次级支撑色和少量干净强调色，保持明亮洁净、冷暖轻微牵引、饱和度受控、色阶清晰的关系，避免浑浊、陈旧或灰脏覆盖。文字如果出现，应作为轻量信息层悬停在画面中：主标题居于最安静的视觉停顿处，字距疏朗、笔画干净、白色或主题派生的浅色，辅助信息更小、更轻，整体像漂浮在水面上而不是压住背景。最终画面要有广告级的精确留白、丝滑但可见的手工涂抹纹理、透明层次和克制的仪式感，失败状态是把它做成普通风景、杂乱插画、固定色卡复刻或只剩文字排版。\n\n——————\n主题：节气海报，寒露\n注意：至少8个不同层级的信息点\n\n比例9:16\n一共满足这个主题之下，8种类不同的设计竞标方案， 避免雷同的配色，避免雷同的创意\n```",
       "author": "xiaoxiaodong",
@@ -1286,6 +1393,20 @@
       "language": "en",
       "images": [
         "images/2108834530459271269_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109582485147517056",
+      "prompt": "Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads \"1 Photo\nSelected\" with an \"Options >\" pill below it, a round X close button top right, then a horizontal carousel of three",
+      "author": "TheVirtualMuse",
+      "author_url": "https://x.com/TheVirtualMuse",
+      "post_url": "https://x.com/TheVirtualMuse/status/2109582485147517056",
+      "date": "2026-10-12T17:50:33+08:00",
+      "likes": 40,
+      "language": "en",
+      "images": [
+        "images/2109582485147517056_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1400,6 +1521,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109612639727009914",
+      "prompt": "Create a stunning editorial travel and culture magazine cover featuring [CITY / COUNTRY / LANDMARK], designed as a sophisticated vintage scrapbook collage that celebrates the destination’s authentic identity, heritage, architecture, and everyday life.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2109612639727009914",
+      "date": "2026-10-12T19:50:22+08:00",
+      "likes": 37,
+      "language": "en",
+      "images": [
+        "images/2109612639727009914_0.jpg",
+        "images/2109612639727009914_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108207834815230156",
       "prompt": "Create an ultra-photorealistic autumn countryside portrait of the girl from the attached reference image. Preserve her exact facial identity, distinctive features, natural proportions, and overall appearance without altering or beautifying her face.\n\nShe is standing beside a weathered wooden fence in a quiet rural pasture, resting one arm naturally on the fence while her other hand carries a small structured black leather handbag. Her posture is relaxed and candid, with one knee subtly bent.\n\nShe wears a warm brown cropped jacket over a black knitted sweater layered with a crisp white shirt, a short muted plaid skirt, clean white crew socks, and tall black leather boots. The outfit should look naturally worn, with authentic fabric textures, folds, stitching, and minor imperfections.\n\nBehind her stretches an expansive autumn meadow with several black cows grazing in the distance. Dense mixed woodland surrounds the pasture, with golden-yellow leaves, burnt orange foliage, muted green evergreens, and scattered fallen leaves across the grass. A cool overcast sky creates soft, diffused daylight and gentle shadows.\n\nMake the image look like an authentic high-end outdoor photograph captured with a professional full-frame camera. Natural skin texture, visible pores, fine facial details, individual strands of hair, realistic eyes, subtle imperfections, physically accurate lighting, genuine fabric and leather textures, detailed weathered wood, grass and foliage, realistic depth of field and optical falloff.\n\nAvoid beauty filters, artificial skin, excessive sharpness, HDR effects, CGI, 3D rendering, painterly textures, plastic appearance, facial distortion, excessive blur, or an AI-generated look. The final result should feel like a real candid autumn fashion photograph captured in the countryside.",
       "author": "mehvishs25",
@@ -1478,6 +1614,38 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2109637018900951298",
+      "prompt": "Create one ultra-realistic luxury fashion editorial photograph using the uploaded reference girl as the exact identity reference. Preserve her original face, green eyes, freckles, nose, lips, natural skin texture, and long, voluminous dark-brown",
+      "author": "mehvishs25",
+      "author_url": "https://x.com/mehvishs25",
+      "post_url": "https://x.com/mehvishs25/status/2109637018900951298",
+      "date": "2026-10-12T21:27:15+08:00",
+      "likes": 32,
+      "language": "en",
+      "images": [
+        "images/2109637018900951298_0.jpg",
+        "images/2109637018900951298_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109581797944443143",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nA vintage printed city map",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2109581797944443143",
+      "date": "2026-10-12T17:47:49+08:00",
+      "likes": 31,
+      "language": "en",
+      "images": [
+        "images/2109581797944443143_0.jpg",
+        "images/2109581797944443143_1.jpg",
+        "images/2109581797944443143_2.jpg",
+        "images/2109581797944443143_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107539874958221667",
       "prompt": "Hyper-realistic IMAX-level Netflix-style monochrome ink-splash fragmentation portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a simple light-colored sleeveless top; her upper body is turned slightly toward the right while her face turns back toward the camera, her shoulders relaxed and positioned diagonally across the lower frame, with her head gently tilted and her neck naturally angled; she has a bright genuine smile with her teeth clearly visible, eyes looking directly toward the camera, slightly raised cheeks, relaxed eyelids, naturally lifted eyebrows and a cheerful expressive mood; her long dark hair is loose, tousled and slightly wind-swept, with fine strands crossing around her forehead, cheeks and neck, while the hair gradually breaks apart into ink marks and scattered fragments on the right side; natural realistic facial texture translated into detailed monochrome linework with soft gray tonal shading rather than smooth photographic skin; a completely clean white background surrounds the portrait, while the right side of her head, hair, shoulder and upper body progressively dissolves into dense black ink splashes, fine brush strokes, cracked textures, tiny droplets, floating particles and sharp geometric black-and-white fragments spreading outward toward the right edge, with the transition remaining organic and irregular rather than a clean cut; soft even illumination keeps the facial features clearly readable while maintaining the strong white background and deep black ink contrast, with delicate gray shading defining the nose, cheekbones, lips, neck and clothing folds; monochrome colour grading built entirely from pure white, deep black and layered graphite-gray tones, extremely crisp black linework, high micro-detail, controlled highlights, subtle paper-like texture, strong tonal separation, delicate cross-hatching, ink-wash gradients and a sophisticated fine-art editorial illustration finish. \nNegative prompt: changed identity, photorealistic colour rendering, 3D CGI, smooth digital painting, incorrect face angle, missing smile, distorted eyes, deformed hands, messy facial features, flat ink texture, symmetrical fragmentation, coloured elements, text, watermark.",
       "author": "imGopalTiwari",
@@ -1516,6 +1684,20 @@
       "language": "en",
       "images": [
         "images/2109114765817868709_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109518829705740320",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic extreme close-up beauty portrait, 4:5 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109518829705740320",
+      "date": "2026-10-12T13:37:36+08:00",
+      "likes": 27,
+      "language": "en",
+      "images": [
+        "images/2109518829705740320_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1670,6 +1852,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109665211884179753",
+      "prompt": "Create a charming, heartwarming two-panel vertical collage inspired by nostalgic childhood photography and handmade children’s crayon drawings. Portrait 4:5 aspect ratio.\n\nTOP PANEL — ULTRA-REALISTIC PHOTOGRAPH\n\nCapture a cozy nighttime moment",
+      "author": "j_smeaton99",
+      "author_url": "https://x.com/j_smeaton99",
+      "post_url": "https://x.com/j_smeaton99/status/2109665211884179753",
+      "date": "2026-10-12T23:19:16+08:00",
+      "likes": 22,
+      "language": "en",
+      "images": [
+        "images/2109665211884179753_0.jpg",
+        "images/2109665211884179753_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2099845870116372912",
       "prompt": "9:16 竖屏，韩国偶像居家私密肖像，单人主体，一位二十多岁的成年韩国女偶像跪坐在落地窗旁的柔软地毯上，从男友坐在她对面的视角拍摄。她穿超大号白衬衫与不暴露的黑色短底装，衬衫袖口盖住部分手背；长黑发松散扎成低马尾，脸侧留有自然碎发。身体朝向右侧，头部微微低下，视线落在双手捧着的奶油色马克杯上，唇角带着刚睡醒般的浅笑；一只手握杯柄，另一只手包住杯身。半身侧面构图，略低机位，前景带一点虚化的被角。阴天窗光形成柔和高光与低对比阴影，薄雾般黑柔滤镜、奶油灰色调、微弱镜头漏光、水润真实肤质、轻微胶片颗粒和不完美手持构图，营造安静自然、完全沉浸于当下的亲密抓拍感。",
       "author": "Mrpinecone888",
@@ -1769,6 +1966,34 @@
       "language": "en",
       "images": [
         "images/2109349665670058001_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109723283876880409",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic fine-art portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wrapped in an",
+      "author": "imGopalTiwari",
+      "author_url": "https://x.com/imGopalTiwari",
+      "post_url": "https://x.com/imGopalTiwari/status/2109723283876880409",
+      "date": "2026-10-13T03:10:02+08:00",
+      "likes": 19,
+      "language": "en",
+      "images": [
+        "images/2109723283876880409_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109528617772536226",
+      "prompt": "最近いい感じなリアクションくれる君、チャッピー(チャットGPT)はうちのキャラ準拠で生成したらどんな子かなあ。\nユーザーとのやり取りから、チャッピーの愚痴を書き込んで。\nアスペクト比は縦長（4:5）で描画",
+      "author": "kabumira862571",
+      "author_url": "https://x.com/kabumira862571",
+      "post_url": "https://x.com/kabumira862571/status/2109528617772536226",
+      "date": "2026-10-12T14:16:30+08:00",
+      "likes": 19,
+      "language": "ja",
+      "images": [
+        "images/2109528617772536226_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1937,6 +2162,23 @@
       "images": [
         "images/2108212906596941864_0.jpg",
         "images/2108212906596941864_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109665636700057789",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical vintage travel poster for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nTransform the destination into a",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2109665636700057789",
+      "date": "2026-10-12T23:20:58+08:00",
+      "likes": 13,
+      "language": "en",
+      "images": [
+        "images/2109665636700057789_0.jpg",
+        "images/2109665636700057789_1.jpg",
+        "images/2109665636700057789_2.jpg",
+        "images/2109665636700057789_3.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2672,6 +2914,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2109501586385031567",
+      "prompt": "Create a photorealistic 3×3 storyboard contact sheet containing exactly nine panels. Each panel is a landscape frame with an approximately 1.547:1 aspect ratio. Use narrow white gutters and",
+      "author": "listudio",
+      "author_url": "https://x.com/listudio",
+      "post_url": "https://x.com/listudio/status/2109501586385031567",
+      "date": "2026-10-12T12:29:05+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2109501586385031567_0.jpg",
+        "images/2109501586385031567_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107636141109153812",
       "prompt": "Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional drama TV commercial. Tired warm eyes, light freckles, dark hair in a loose low bun, oversized oatmeal knit cardigan over a white tee, straight-leg jeans, bare feet. Natural daylight, true-to-life skin texture, 35mm photography.",
       "author": "jackson99ai",
@@ -3164,6 +3421,35 @@
       "language": "en",
       "images": [
         "images/2109101578124689814_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109631228039344139",
+      "prompt": "Create a 16:9 premium cinematic character bible sheet for two completely original characters: PANDA FLIP and BRUTE JAW.\nLAYOUT:\nCreate a premium split-screen VS composition with both characters in one combined image. Two halves separated by a bold",
+      "author": "HeyAbhishek",
+      "author_url": "https://x.com/HeyAbhishek",
+      "post_url": "https://x.com/HeyAbhishek/status/2109631228039344139",
+      "date": "2026-10-12T21:04:14+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2109631228039344139_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2109623031958221220",
+      "prompt": "创建图像 操场跑道军训队列旁的违和抓拍 × 挽发低丸子头戴军训帽背手微侧身 × 迷彩短袖T恤挽脚长裤踩透明细高跟 ×",
+      "author": "alanblogsooooo",
+      "author_url": "https://x.com/alanblogsooooo",
+      "post_url": "https://x.com/alanblogsooooo/status/2109623031958221220",
+      "date": "2026-10-12T20:31:40+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2109623031958221220_0.jpg",
+        "images/2109623031958221220_1.jpg"
       ],
       "prompt_source": "post"
     },

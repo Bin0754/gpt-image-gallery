@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-12T08:07:02+08:00",
-  "count": 226,
+  "generated_at": "2026-10-13T08:32:59+08:00",
+  "count": 245,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -787,6 +787,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109514589427876256",
+      "url": "https://x.com/nawalsehar/status/2109514589427876256",
+      "author": "nawalsehar",
+      "author_name": "Nawal",
+      "avatar": "https://pbs.twimg.com/profile_images/2048058966547263488/XA_9Wzuz_normal.jpg",
+      "created_at_utc": "2026-10-12T05:20:45.000Z",
+      "created_at_sh": "2026-10-12 13:20",
+      "likes": 207,
+      "reposts": 29,
+      "bookmarks": 38,
+      "lang": "",
+      "text": "Gpt image 2.5 on chatgpt \n\nPrompt:\n                A very realistic candid lifestyle photo of a beautiful young woman with very long brown hair, shiny with the middle, sunglasses placed on top of her head. Soft natural makeup, dark brown eyes staring directly at the camera, lips",
+      "prompt": "A very realistic candid lifestyle photo of a beautiful young woman with very long brown hair, shiny with the middle, sunglasses placed on top of her head. Soft natural makeup, dark brown eyes staring directly at the camera, lips",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUaAVSYaUAAJuHb.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109514578669490176",
+          "file": "2109514589427876256_0.jpg",
+          "thumb": "2109514589427876256_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2101255283897139628",
       "url": "https://x.com/Alina_with_Ai/status/2101255283897139628",
       "author": "Alina_with_Ai",
@@ -820,6 +849,45 @@
           "file": "2101255283897139628_1.jpg",
           "thumb": "2101255283897139628_1.jpg",
           "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109544452704657540",
+      "url": "https://x.com/MissDelulu9/status/2109544452704657540",
+      "author": "MissDelulu9",
+      "author_name": "Eesha",
+      "avatar": "https://pbs.twimg.com/profile_images/2048849430724608000/YOcZikwk_normal.jpg",
+      "created_at_utc": "2026-10-12T07:19:25.000Z",
+      "created_at_sh": "2026-10-12 15:19",
+      "likes": 193,
+      "reposts": 14,
+      "bookmarks": 83,
+      "lang": "",
+      "text": "Created with GPT Image 2.5 on ChatGPT\n\nPrompt:\n\nUltra-realistic low-angle selfie of a beautiful East Asian girl with long dark brown hair and wispy bangs, glossy soft pink lips, natural makeup, delicate silver earrings, and a cute winking smile. Wearing an oversized fluffy white",
+      "prompt": "Ultra-realistic low-angle selfie of a beautiful East Asian girl with long dark brown hair and wispy bangs, glossy soft pink lips, natural makeup, delicate silver earrings, and a cute winking smile. Wearing an oversized fluffy white",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUabejQbMAA53YB.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109544424632168448",
+          "file": "2109544452704657540_0.jpg",
+          "thumb": "2109544452704657540_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUabfYZagAE73r5.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109544438896951297",
+          "file": "2109544452704657540_1.jpg",
+          "thumb": "2109544452704657540_1.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -1910,6 +1978,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109503373955502304",
+      "url": "https://x.com/AiwithLariab/status/2109503373955502304",
+      "author": "AiwithLariab",
+      "author_name": "Laraib Fatima‎",
+      "avatar": "https://pbs.twimg.com/profile_images/2104734549347536896/0GweQS48_normal.jpg",
+      "created_at_utc": "2026-10-12T04:36:11.000Z",
+      "created_at_sh": "2026-10-12 12:36",
+      "likes": 94,
+      "reposts": 6,
+      "bookmarks": 12,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\n\n    {\n  \"task\": \"image_generation\",\n  \"style\": \"Ultra-photorealistic cinematic fashion editorial, luxury magazine cover, dramatic fire photography\",\n  \"aspect_ratio\": \"4:5\",\n  \"scene\": {\n    \"environment\": {\n      \"background\": \"Deep black",
+      "prompt": "\"task\": \"image_generation\",\n  \"style\": \"Ultra-photorealistic cinematic fashion editorial, luxury magazine cover, dramatic fire photography\",\n  \"aspect_ratio\": \"4:5\",\n  \"scene\": {\n    \"environment\": {\n      \"background\": \"Deep black",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUZ1_fea8AAG8cT.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109503209110958080",
+          "file": "2109503373955502304_0.jpg",
+          "thumb": "2109503373955502304_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUZ1_fsbwAAGxE-.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109503209169731584",
+          "file": "2109503373955502304_1.jpg",
+          "thumb": "2109503373955502304_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2104159264185127226",
       "url": "https://x.com/Diplomeme/status/2104159264185127226",
       "author": "Diplomeme",
@@ -1959,6 +2066,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109602481198305536",
+      "url": "https://x.com/AiwithLariab/status/2109602481198305536",
+      "author": "AiwithLariab",
+      "author_name": "Laraib Fatima‎",
+      "avatar": "https://pbs.twimg.com/profile_images/2104734549347536896/0GweQS48_normal.jpg",
+      "created_at_utc": "2026-10-12T11:10:00.000Z",
+      "created_at_sh": "2026-10-12 19:10",
+      "likes": 92,
+      "reposts": 7,
+      "bookmarks": 18,
+      "lang": "",
+      "text": "Motion Blur Fashion in the Rain 🌧️\n\nGPT Image 2.5 via ChatGPT\n\nPrompt ↓",
+      "prompt": "\"task\": \"image_generation\",\n\"style\": \"Ultra-photorealistic luxury fashion editorial, cinematic rainy-day photography, slow-shutter motion photography\",\n\"aspect_ratio\": \"4:5\",\n\n\"scene\": {\n\"environment\": {\n\"location\": \"Minimalist ivory-white fashion photography studio with a realistic rainy atmosphere\",\n\"background\": \"Seamless warm off-white backdrop with subtle cool-gray haze\",\n\"floor\": \"Pale ivory floor covered with a thin layer of rainwater and delicate reflections\",\n\"atmosphere\": \"Elegant, cinematic, surreal, sophisticated and contemporary\",\n\"color_palette\": [\n\"Ivory white\",\n\"Warm cream\",\n\"Crimson red\",\n\"Deep burgundy\",\n\"Cool gray\",\n\"Transparent glass\"\n]\n},\n\n\"main_subject\": {  \n  \"subject\": \"Young adult woman\",  \n  \"position\": \"Standing upright precisely in the center of the frame\",  \n  \"pose\": \"Confident natural standing pose with both feet firmly planted on the wet floor, legs slightly apart, shoulders relaxed and back straight\",  \n  \"expression\": \"Serious, composed and quietly confident\",  \n  \"gaze\": \"Direct eye contact with the camera\",  \n  \"movement\": \"Completely motionless while the crowd moves around her\",  \n\n  \"hair\": {  \n    \"color\": \"Dark brown\",  \n    \"style\": \"Straight, sleek, center-parted bob ending at the jawline\",  \n    \"details\": \"Natural individual strands with subtle highlights\"  \n  },  \n\n  \"outfit\": {  \n    \"jacket\": \"Oversized ivory-white structured blazer with a high stand collar and elegant beige buttons\",  \n    \"innerwear\": \"Simple high-neck ivory top\",  \n    \"trousers\": \"Loose cream tailored trousers with realistic fabric folds\",  \n    \"boots\": \"Glossy deep burgundy-red ankle boots with chunky platform soles\",  \n    \"styling\": \"Sophisticated minimalist luxury fashion with no visible logos\"  \n  },  \n\n  \"umbrella\": {  \n    \"type\": \"Large transparent dome umbrella\",  \n    \"material\": \"Crystal-clear waterproof canopy with a slim black frame\",  \n    \"position\": \"Held naturally overhead in one hand\",  \n    \"angle\": \"Slightly tilted forward to protect her from the rain\",  \n    \"details\": \"Clearly visible individual raindrops on the canopy, realistic water trails, delicate droplets along the edges and soft reflections of studio lighting\",  \n    \"visibility\": \"The transparent canopy must remain visible without covering or distorting her face\"  \n  },  \n\n  \"body_details\": {  \n    \"posture\": \"Fully upright with anatomically correct proportions\",  \n    \"hands\": \"Natural realistic fingers holding the umbrella handle, free hand relaxed at her side\",  \n    \"feet\": \"Both boots fully visible and touching the floor\",  \n    \"focus\": \"Face, clothing, hands and umbrella handle remain sharply detailed\"  \n  }  \n},  \n\n\"background_models\": {  \n  \"quantity\": \"Six adult fashion models\",  \n  \"action\": \"Walking briskly in opposite directions through the rain around the central woman\",  \n  \"wardrobe\": [  \n    \"Vivid crimson-red trench coats\",  \n    \"Burgundy tailored suits\",  \n    \"Scarlet oversized outerwear\",  \n    \"Deep-red flowing fashion outfits\",  \n    \"Muted charcoal-gray coats\"  \n  ],  \n\n  \"umbrellas\": {  \n    \"style\": \"Large vivid crimson-red and deep-burgundy umbrellas\",  \n    \"quantity\": \"Several umbrellas distributed throughout the moving crowd\",  \n    \"details\": \"Realistic wet fabric, visible umbrella ribs and subtle rain reflections\",  \n    \"movement\": \"Umbrellas tilt naturally as people walk, creating diagonal red shapes across the composition\"  \n  },  \n\n  \"motion_effect\": \"Pronounced horizontal and diagonal long-exposure motion blur across moving models and red umbrellas\",  \n  \"movement_pattern\": \"Some figures cross from left to right while others move in the opposite direction, creating layered motion trails\",  \n  \"rain_effect\": \"Fine visible rain streaks with realistic direction, varying lengths and delicate highlights\",  \n  \"foreground\": \"One red umbrella and a crimson-clad passerby sweep across the lower-left foreground in strong motion blur\",  \n  \"background_depth\": \"Several additional blurred silhouettes and umbrellas recede into the soft gray atmosphere\",  \n  \"contrast\": \"The central woman remains perfectly still and sharply focused while all surrounding people appear in motion\"  \n}\n\n},\n\n\"composition\": {\n\"framing\": \"Full-body vertical fashion editorial portrait\",\n\"camera_angle\": \"Straight-on at standing eye level\",\n\"subject_scale\": \"The central woman occupies approximately 75 percent of the image height\",\n\"composition\": \"Balanced symmetrical central framing\",\n\"negative_space\": \"Generous clean ivory space around the central figure\",\n\"foreground\": \"Blurred red umbrella partially entering the lower-left edge\",\n\"background\": \"Layered crimson umbrellas and moving figures at different distances\",\n\"visual_hierarchy\": \"The white-clad woman and transparent umbrella form the sharp central focal point\",\n\"color_contrast\": \"Crisp ivory clothing contrasts strongly against vivid red umbrellas\",\n\"footwear_visibility\": \"Show the complete subject from the top of her head to the soles of both boots\",\n\"reflection_details\": \"Subtle reflections of red umbrellas and moving silhouettes on the wet floor\"\n},\n\n\"lighting\": {\n\"setup\": \"Large diffused professional studio softbox\",\n\"direction\": \"Soft frontal illumination with gentle side lighting\",\n\"quality\": \"Creamy high-key light mixed with cool rainy-day ambience\",\n\"highlights\": \"Delicate highlights on raindrops, transparent umbrella, white blazer and glossy burgundy boots\",\n\"shadows\": \"Natural contact shadows beneath both boots\",\n\"reflections\": \"Realistic but subtle wet-floor reflections\",\n\"exposure\": \"Bright and controlled, preserving fine details in white clothing\",\n\"color_separation\": \"Accurate crimson-red umbrellas against a neutral ivory environment\"\n},\n\n\"camera\": {\n\"type\": \"Professional full-frame camera\",\n\"lens\": \"50mm lens\",\n\"aperture\": \"f/2.8\",\n\"shutter_effect\": \"Cinematic slow-shutter exposure with strong motion blur on moving background models while preserving sharp focus on the central woman\",\n\"focus\": \"Tack-sharp focus on the woman's eyes, face and clothing\",\n\"depth_of_field\": \"Shallow depth of field with natural optical separation\",\n\"rendering\": \"Realistic rain streaks, natural motion trails and subtle cinematic film grain\"\n},\n\n\"quality\": {\n\"resolution\": \"4K\",\n\"realism\": \"Ultra-photorealistic\",\n\"textures\": \"Detailed skin pores, natural hair strands, woven fabric, transparent wet umbrella, water droplets and polished leather\",\n\"anatomy\": \"Natural human proportions and anatomically correct hands\",\n\"finish\": \"Premium international luxury fashion magazine campaign\"\n},\n\n\"negative_prompt\": [\n\"Sitting\",\n\"Crouching\",\n\"Kneeling\",\n\"Chair\",\n\"Pedestal\",\n\"Cropped feet\",\n\"Floating boots\",\n\"Opaque umbrella\",\n\"Umbrella covering the face\",\n\"Deformed umbrella\",\n\"Floating umbrella\",\n\"Unrealistic rain\",\n\"Excessive water splashes\",\n\"Cartoon\",\n\"Anime\",\n\"Illustration\",\n\"CGI appearance\",\n\"Plastic skin\",\n\"Over-smoothed face\",\n\"Distorted anatomy\",\n\"Extra fingers\",\n\"Malformed hands\",\n\"Duplicated central woman\",\n\"Sharp background models\",\n\"White umbrellas dominating the crowd\",\n\"Red outfit on the central woman\",\n\"Overexposed white clothing\",\n\"Excessive saturation\",\n\"Unnatural motion blur\",\n\"Messy composition\",\n\"Text\",\n\"Watermark\",\n\"Logos\",\n\"Low resolution\"\n]\n}",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUbOEHTaoAAbLct.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109600045544939520",
+          "file": "2109602481198305536_0.jpg",
+          "thumb": "2109602481198305536_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUbO1EWaIAE230a.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109600886565773313",
+          "file": "2109602481198305536_1.jpg",
+          "thumb": "2109602481198305536_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2100904092621328893",
       "url": "https://x.com/Alina_with_Ai/status/2100904092621328893",
       "author": "Alina_with_Ai",
@@ -1993,6 +2139,65 @@
           "thumb": "2100904092621328893_1.jpg",
           "tw": 384,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109460736275866103",
+      "url": "https://x.com/KrishnaBio1/status/2109460736275866103",
+      "author": "KrishnaBio1",
+      "author_name": "KrishnaG",
+      "avatar": "https://pbs.twimg.com/profile_images/2063930813155254272/7e089ZNZ_normal.jpg",
+      "created_at_utc": "2026-10-12T01:46:46.000Z",
+      "created_at_sh": "2026-10-12 09:46",
+      "likes": 90,
+      "reposts": 13,
+      "bookmarks": 30,
+      "lang": "",
+      "text": "1. Open Gemini / Grok / chatGpt/  GPT image 2.5\n2. Upload your photo\n3. Copy the prompt\n4. Generate\n5. Prompt ⤵️",
+      "prompt": "Create a premium 4:5 vertical travel-editorial artwork combining romantic European street photography, delicate watercolor illustration, and elegant botanical storytelling.\n\nPURE GENERATION:\nGenerate the complete artwork from the written concept alone. Create a sophisticated, artistic composition that blends the romantic atmosphere of Paris, the timeless charm of Tokyo, and the historic beauty of Istanbul into one cohesive visual story.\n\nMAIN COMPOSITION:\nDesign a luxurious fine-art travel poster on warm ivory handmade watercolor paper with subtle paper grain, natural pigment textures, soft edges, and delicate artistic imperfections.\n\nAt the top section, feature a cinematic, photorealistic European city street after gentle rain. Elegant cream-colored historic buildings, tall arched wooden windows, traditional storefronts, wet reflective pavement, and warm sunlight filtering through the trees create a nostalgic Parisian atmosphere.\n\nIn the middle section, transform the same street into a delicate watercolor illustration. An elderly couple, dressed in elegant dark coats, walks peacefully away from the viewer, holding hands. Their quiet companionship represents enduring love, memories, and a lifetime of shared moments. In the distance, reveal a subtle Eiffel Tower silhouette framed by beautiful Parisian architecture.\n\nFLOWER STORY:\nPlace a single deep crimson-red rose in the foreground, its velvety petals covered with tiny raindrops. The rose should be sharply detailed, naturally illuminated, and emotionally expressive without looking artificial.\n\nBlend this scene with a second botanical composition featuring a graceful white lily with delicate ivory petals, golden stamens, and fresh green leaves. Position the lily beside a softly painted panoramic view of Istanbul, with the magnificent Blue Mosque in the background, its elegant domes and slender minarets fading gently into the atmospheric distance.\n\nAdd subtle Japanese-inspired cherry blossom branches near the upper edges, with pale pink flowers and a few drifting petals, creating a poetic connection between Eastern and Western visual traditions.\n\nARTISTIC STYLE:\nCombine realistic architectural photography with sophisticated watercolor painting, delicate ink outlines, botanical illustration, and premium travel-magazine art direction.\n\nUse soft watercolor washes, fine pigment granulation, natural paint splashes, gentle bleeding edges, and graceful transitions between realistic and illustrated sections.\n\nCOLOR PALETTE:\nWarm ivory, antique cream, muted beige, soft taupe, charcoal gray, dusty pink, crimson red, botanical green, pale blue, and subtle golden highlights.\n\nLIGHTING AND ATMOSPHERE:\nSoft natural daylight after rainfall, warm reflections on wet pavement, gentle cinematic depth, delicate atmospheric haze, and a peaceful romantic mood.\n\nDESIGN AND LAYOUT:\nMaintain generous negative space around the main artwork.\nUse an elegant editorial composition with a balanced vertical flow.\nAllow the photographic scene to transition organically into the watercolor illustration.\nKeep the flowers as prominent foreground elements while the architecture provides a beautiful sense of place.\nAdd tiny artistic ink splashes and restrained botanical details around the edges.\nThe final result should resemble an exclusive fine-art travel poster created by a professional illustrator.\n\nTYPOGRAPHY:\nAt the bottom, add a small, elegant, widely spaced serif title:\n\n“WHERE LOVE BLOOMS”\n\nBelow it, add a delicate subtitle:\n\n“PARIS • TOKYO • ISTANBUL”\n\nUse refined editorial typography in dark charcoal with subtle spacing and excellent readability. Keep all text minimal and secondary to the artwork.\n\nQUALITY:\nUltra-detailed architectural elements, realistic flower textures, refined watercolor brushwork, harmonious composition, professional art direction, premium print quality, high-resolution rendering, natural proportions, and museum-quality fine-art aesthetics.\n\nASPECT RATIO:\n4:5 vertical poster.\n\nNEGATIVE PROMPT:\nLow resolution, blurry flowers, distorted architecture, malformed buildings, inaccurate mosque structures, artificial-looking petals, oversaturated colors, excessive visual clutter, harsh outlines, plastic textures, cartoon appearance, excessive contrast, poorly rendered people, deformed hands, duplicated flowers, messy typography, misspelled text, watermarks, logos, and unnecessary decorative elements.\n\nFINAL RESULT:\nA breathtaking, romantic, premium travel-editorial artwork where Parisian nostalgia, Japanese floral elegance, and Istanbul's historic beauty unite through rain, flowers, architecture, and the timeless language of love.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUZPNY-WQAAd1JB.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109460566930505728",
+          "file": "2109460736275866103_0.jpg",
+          "thumb": "2109460736275866103_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUZPNY9XkAE-jUX.jpg",
+          "w": 959,
+          "h": 1200,
+          "media_key": "3_2109460566926397441",
+          "file": "2109460736275866103_1.jpg",
+          "thumb": "2109460736275866103_1.jpg",
+          "tw": 384,
+          "th": 479
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUZPNZJWUAAdEPc.jpg",
+          "w": 959,
+          "h": 1200,
+          "media_key": "3_2109460566976647168",
+          "file": "2109460736275866103_2.jpg",
+          "thumb": "2109460736275866103_2.jpg",
+          "tw": 384,
+          "th": 479
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUZPNY5XcAAj0VY.jpg",
+          "w": 959,
+          "h": 1200,
+          "media_key": "3_2109460566909612032",
+          "file": "2109460736275866103_3.jpg",
+          "thumb": "2109460736275866103_3.jpg",
+          "tw": 384,
+          "th": 479
         }
       ],
       "nsfw_flag": false
@@ -2549,6 +2754,35 @@
           "thumb": "2107856173839872397_1.jpg",
           "tw": 480,
           "th": 267
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109710598972035578",
+      "url": "https://x.com/churvikv/status/2109710598972035578",
+      "author": "churvikv",
+      "author_name": "Viki",
+      "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_normal.jpg",
+      "created_at_utc": "2026-10-12T18:19:37.000Z",
+      "created_at_sh": "2026-10-13 02:19",
+      "likes": 62,
+      "reposts": 6,
+      "bookmarks": 2,
+      "lang": "",
+      "text": "Reflection \nA full moon over sleeping mountains and a neon yacht on the water\n\nCreated in @gmi_cloud \nModel: GPT Image 2.5 Sunburst\n\n🏞 Prompt:\nPhotorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.",
+      "prompt": "Photorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUcyh5PXcAAGeQf.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2109710508328710144",
+          "file": "2109710598972035578_0.jpg",
+          "thumb": "2109710598972035578_0.jpg",
+          "tw": 480,
+          "th": 270
         }
       ],
       "nsfw_flag": false
@@ -3219,6 +3453,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109527714323452167",
+      "url": "https://x.com/Goodmanprotocol/status/2109527714323452167",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-12T06:12:54.000Z",
+      "created_at_sh": "2026-10-12 14:12",
+      "likes": 45,
+      "reposts": 4,
+      "bookmarks": 16,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical Photo × Graffiti Art travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate everything creatively from the written subject alone. No reference image required.\n\nCORE CONCEPT:\nA",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical Photo × Graffiti Art travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate everything creatively from the written subject alone. No reference image required.\n\nCORE CONCEPT:\nA",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUaMOwOakAAHza6.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109527660561076224",
+          "file": "2109527714323452167_0.jpg",
+          "thumb": "2109527714323452167_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUaMPf0bMAA408L.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109527673336967168",
+          "file": "2109527714323452167_1.jpg",
+          "thumb": "2109527714323452167_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUaMQPFaoAAfp-4.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109527686024699904",
+          "file": "2109527714323452167_2.jpg",
+          "thumb": "2109527714323452167_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUaMRJeb0AAgPof.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109527701698891776",
+          "file": "2109527714323452167_3.jpg",
+          "thumb": "2109527714323452167_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108118877590680061",
       "url": "https://x.com/xiaoxiaodong/status/2108118877590680061",
       "author": "xiaoxiaodong",
@@ -3506,6 +3799,35 @@
           "file": "2108834530459271269_0.jpg",
           "thumb": "2108834530459271269_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109582485147517056",
+      "url": "https://x.com/TheVirtualMuse/status/2109582485147517056",
+      "author": "TheVirtualMuse",
+      "author_name": "Areeba",
+      "avatar": "https://pbs.twimg.com/profile_images/2108933947510194176/KSgdX0OG_normal.jpg",
+      "created_at_utc": "2026-10-12T09:50:33.000Z",
+      "created_at_sh": "2026-10-12 17:50",
+      "likes": 40,
+      "reposts": 2,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "Gpt image 2.5 on chatgpt \n\nPrompt \nUse my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads \"1 Photo\nSelected\" with an \"Options >\" pill below it, a round X close button top right, then a horizontal carousel of three",
+      "prompt": "Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads \"1 Photo\nSelected\" with an \"Options >\" pill below it, a round X close button top right, then a horizontal carousel of three",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUa-FQQaQAEFhar.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2109582472942075905",
+          "file": "2109582485147517056_0.jpg",
+          "thumb": "2109582485147517056_0.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -3835,6 +4157,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109612639727009914",
+      "url": "https://x.com/Naiknelofar788/status/2109612639727009914",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-12T11:50:22.000Z",
+      "created_at_sh": "2026-10-12 19:50",
+      "likes": 37,
+      "reposts": 4,
+      "bookmarks": 13,
+      "lang": "",
+      "text": "GPT image 2.5\n\nprompt:\n\nCreate a stunning editorial travel and culture magazine cover featuring [CITY / COUNTRY / LANDMARK], designed as a sophisticated vintage scrapbook collage that celebrates the destination’s authentic identity, heritage, architecture, and everyday life.",
+      "prompt": "Create a stunning editorial travel and culture magazine cover featuring [CITY / COUNTRY / LANDMARK], designed as a sophisticated vintage scrapbook collage that celebrates the destination’s authentic identity, heritage, architecture, and everyday life.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUbZghTbAAA3oIg.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109612628188528640",
+          "file": "2109612639727009914_0.jpg",
+          "thumb": "2109612639727009914_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUbZghCbAAA8eG2.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109612628117225472",
+          "file": "2109612639727009914_1.jpg",
+          "thumb": "2109612639727009914_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108207834815230156",
       "url": "https://x.com/mehvishs25/status/2108207834815230156",
       "author": "mehvishs25",
@@ -4060,6 +4421,104 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109637018900951298",
+      "url": "https://x.com/mehvishs25/status/2109637018900951298",
+      "author": "mehvishs25",
+      "author_name": "Meem",
+      "avatar": "https://pbs.twimg.com/profile_images/2012472188067278848/cp_m4VoD_normal.jpg",
+      "created_at_utc": "2026-10-12T13:27:15.000Z",
+      "created_at_sh": "2026-10-12 21:27",
+      "likes": 32,
+      "reposts": 0,
+      "bookmarks": 8,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt;\nCreate one ultra-realistic luxury fashion editorial photograph using the uploaded reference girl as the exact identity reference. Preserve her original face, green eyes, freckles, nose, lips, natural skin texture, and long, voluminous dark-brown",
+      "prompt": "Create one ultra-realistic luxury fashion editorial photograph using the uploaded reference girl as the exact identity reference. Preserve her original face, green eyes, freckles, nose, lips, natural skin texture, and long, voluminous dark-brown",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUbvqsWbcAEAEXJ.jpg",
+          "w": 799,
+          "h": 1200,
+          "media_key": "3_2109636992208433153",
+          "file": "2109637018900951298_0.jpg",
+          "thumb": "2109637018900951298_0.jpg",
+          "tw": 319,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUbvrckbMAEyb2Y.jpg",
+          "w": 799,
+          "h": 1200,
+          "media_key": "3_2109637005152038913",
+          "file": "2109637018900951298_1.jpg",
+          "thumb": "2109637018900951298_1.jpg",
+          "tw": 319,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109581797944443143",
+      "url": "https://x.com/Goodmanprotocol/status/2109581797944443143",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-12T09:47:49.000Z",
+      "created_at_sh": "2026-10-12 17:47",
+      "likes": 31,
+      "reposts": 0,
+      "bookmarks": 15,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nA vintage printed city map",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical miniature tilt-shift travel poster for [CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nA vintage printed city map",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUa9bJKbcAAcNWd.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109581749483433984",
+          "file": "2109581797944443143_0.jpg",
+          "thumb": "2109581797944443143_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUa9b0sacAAm3bK.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109581761168699392",
+          "file": "2109581797944443143_1.jpg",
+          "thumb": "2109581797944443143_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUa9ciLbUAEk1b1.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109581773378375681",
+          "file": "2109581797944443143_2.jpg",
+          "thumb": "2109581797944443143_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUa9dXVa8AAR_oq.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109581787647373312",
+          "file": "2109581797944443143_3.jpg",
+          "thumb": "2109581797944443143_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107539874958221667",
       "url": "https://x.com/imGopalTiwari/status/2107539874958221667",
       "author": "imGopalTiwari",
@@ -4141,6 +4600,35 @@
           "file": "2109114765817868709_0.jpg",
           "thumb": "2109114765817868709_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109518829705740320",
+      "url": "https://x.com/imGopalTiwari/status/2109518829705740320",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-12T05:37:36.000Z",
+      "created_at_sh": "2026-10-12 13:37",
+      "likes": 27,
+      "reposts": 0,
+      "bookmarks": 16,
+      "lang": "",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic extreme close-up beauty portrait, 4:5 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic extreme close-up beauty portrait, 4:5 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUaEL8GaUAA6cj3.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109518816116101120",
+          "file": "2109518829705740320_0.jpg",
+          "thumb": "2109518829705740320_0.jpg",
+          "tw": 384,
           "th": 480
         }
       ],
@@ -4537,6 +5025,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109665211884179753",
+      "url": "https://x.com/j_smeaton99/status/2109665211884179753",
+      "author": "j_smeaton99",
+      "author_name": "Jack",
+      "avatar": "https://pbs.twimg.com/profile_images/1982882926749429760/0QCwwcp__normal.jpg",
+      "created_at_utc": "2026-10-12T15:19:16.000Z",
+      "created_at_sh": "2026-10-12 23:19",
+      "likes": 22,
+      "reposts": 1,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt;\n\nCreate a charming, heartwarming two-panel vertical collage inspired by nostalgic childhood photography and handmade children’s crayon drawings. Portrait 4:5 aspect ratio.\n\nTOP PANEL — ULTRA-REALISTIC PHOTOGRAPH\n\nCapture a cozy nighttime moment",
+      "prompt": "Create a charming, heartwarming two-panel vertical collage inspired by nostalgic childhood photography and handmade children’s crayon drawings. Portrait 4:5 aspect ratio.\n\nTOP PANEL — ULTRA-REALISTIC PHOTOGRAPH\n\nCapture a cozy nighttime moment",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUcJTzvaUAAGwqW.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109665186357596160",
+          "file": "2109665211884179753_0.jpg",
+          "thumb": "2109665211884179753_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUcJTzibQAAJgjL.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109665186303131648",
+          "file": "2109665211884179753_1.jpg",
+          "thumb": "2109665211884179753_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2099845870116372912",
       "url": "https://x.com/Mrpinecone888/status/2099845870116372912",
       "author": "Mrpinecone888",
@@ -4609,7 +5136,7 @@
       "url": "https://x.com/TheVirtualMuse/status/2108392018745630805",
       "author": "TheVirtualMuse",
       "author_name": "Areeba",
-      "avatar": "https://pbs.twimg.com/profile_images/2107443473817440256/c9JzGX6k_normal.jpg",
+      "avatar": "https://pbs.twimg.com/profile_images/2108933947510194176/KSgdX0OG_normal.jpg",
       "created_at_utc": "2026-10-09T03:00:03.000Z",
       "created_at_sh": "2026-10-09 11:00",
       "likes": 21,
@@ -4784,6 +5311,64 @@
           "file": "2109349665670058001_0.jpg",
           "thumb": "2109349665670058001_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109723283876880409",
+      "url": "https://x.com/imGopalTiwari/status/2109723283876880409",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-12T19:10:02.000Z",
+      "created_at_sh": "2026-10-13 03:10",
+      "likes": 19,
+      "reposts": 0,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic fine-art portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wrapped in an",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic fine-art portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wrapped in an",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUc-IvAbUAAxOpk.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109723270224498688",
+          "file": "2109723283876880409_0.jpg",
+          "thumb": "2109723283876880409_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109528617772536226",
+      "url": "https://x.com/kabumira862571/status/2109528617772536226",
+      "author": "kabumira862571",
+      "author_name": "カーブミラー",
+      "avatar": "https://pbs.twimg.com/profile_images/1675467594609090560/WJp9rDF6_normal.jpg",
+      "created_at_utc": "2026-10-12T06:16:30.000Z",
+      "created_at_sh": "2026-10-12 14:16",
+      "likes": 19,
+      "reposts": 3,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT-Image 2.5\n\nあおいさんのPromptを使って、チャッピーの愚痴を聞いてみた😸\n\nPrompt：\n最近いい感じなリアクションくれる君、チャッピー(チャットGPT)はうちのキャラ準拠で生成したらどんな子かなあ。\nユーザーとのやり取りから、チャッピーの愚痴を書き込んで。\nアスペクト比は縦長（4:5）で描画",
+      "prompt": "最近いい感じなリアクションくれる君、チャッピー(チャットGPT)はうちのキャラ準拠で生成したらどんな子かなあ。\nユーザーとのやり取りから、チャッピーの愚痴を書き込んで。\nアスペクト比は縦長（4:5）で描画",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUaNGAhagAASUZQ.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109528609828536320",
+          "file": "2109528617772536226_0.jpg",
+          "thumb": "2109528617772536226_0.jpg",
+          "tw": 384,
           "th": 480
         }
       ],
@@ -5244,6 +5829,65 @@
           "thumb": "2108212906596941864_1.jpg",
           "tw": 480,
           "th": 402
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109665636700057789",
+      "url": "https://x.com/Goodmanprotocol/status/2109665636700057789",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-12T15:20:58.000Z",
+      "created_at_sh": "2026-10-12 23:20",
+      "likes": 13,
+      "reposts": 1,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical vintage travel poster for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nTransform the destination into a",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical vintage travel poster for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the destination name alone. No reference image required.\n\nCORE CONCEPT:\nTransform the destination into a",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUcJq1EaEAAj4Rn.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109665581851086848",
+          "file": "2109665636700057789_0.jpg",
+          "thumb": "2109665636700057789_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUcJry6agAAmFo-.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109665598452170752",
+          "file": "2109665636700057789_1.jpg",
+          "thumb": "2109665636700057789_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUcJslgbUAAPnZj.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109665612033380352",
+          "file": "2109665636700057789_2.jpg",
+          "thumb": "2109665636700057789_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUcJtYWaYAI1Z-0.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109665625681584130",
+          "file": "2109665636700057789_3.jpg",
+          "thumb": "2109665636700057789_3.jpg",
+          "tw": 384,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -7120,6 +7764,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109501586385031567",
+      "url": "https://x.com/listudio/status/2109501586385031567",
+      "author": "listudio",
+      "author_name": "leolee",
+      "avatar": "https://pbs.twimg.com/profile_images/1761198970892914689/2sVrQaS7_normal.jpg",
+      "created_at_utc": "2026-10-12T04:29:05.000Z",
+      "created_at_sh": "2026-10-12 12:29",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "1/2\n使用gpt image 2.5生成首帧图和分镜图。更多提示➡️\nPrompt⬇️：\nCreate a photorealistic 3×3 storyboard contact sheet containing exactly nine panels. Each panel is a landscape frame with an approximately 1.547:1 aspect ratio. Use narrow white gutters and",
+      "prompt": "Create a photorealistic 3×3 storyboard contact sheet containing exactly nine panels. Each panel is a landscape frame with an approximately 1.547:1 aspect ratio. Use narrow white gutters and",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUZ0XvlaAAAyvqu.jpg",
+          "w": 1200,
+          "h": 775,
+          "media_key": "3_2109501426728828928",
+          "file": "2109501586385031567_0.jpg",
+          "thumb": "2109501586385031567_0.jpg",
+          "tw": 480,
+          "th": 310
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUZ0ZVgbcAAJCbG.jpg",
+          "w": 1200,
+          "h": 772,
+          "media_key": "3_2109501454088368128",
+          "file": "2109501586385031567_1.jpg",
+          "thumb": "2109501586385031567_1.jpg",
+          "tw": 479,
+          "th": 308
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107636141109153812",
       "url": "https://x.com/jackson99ai/status/2107636141109153812",
       "author": "jackson99ai",
@@ -8301,6 +8984,74 @@
           "thumb": "2109101578124689814_0.jpg",
           "tw": 271,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109631228039344139",
+      "url": "https://x.com/HeyAbhishek/status/2109631228039344139",
+      "author": "HeyAbhishek",
+      "author_name": "Abhishek",
+      "avatar": "https://pbs.twimg.com/profile_images/1891147831425298432/5gBAODh1_normal.jpg",
+      "created_at_utc": "2026-10-12T13:04:14.000Z",
+      "created_at_sh": "2026-10-12 21:04",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 3,
+      "lang": "",
+      "text": "GPT Image 2.5 sheet\n\nPrompt:\n\nCreate a 16:9 premium cinematic character bible sheet for two completely original characters: PANDA FLIP and BRUTE JAW.\nLAYOUT:\nCreate a premium split-screen VS composition with both characters in one combined image. Two halves separated by a bold",
+      "prompt": "Create a 16:9 premium cinematic character bible sheet for two completely original characters: PANDA FLIP and BRUTE JAW.\nLAYOUT:\nCreate a premium split-screen VS composition with both characters in one combined image. Two halves separated by a bold",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUbqa24bwAAvHxz.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2109631222599368704",
+          "file": "2109631228039344139_0.jpg",
+          "thumb": "2109631228039344139_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109623031958221220",
+      "url": "https://x.com/alanblogsooooo/status/2109623031958221220",
+      "author": "alanblogsooooo",
+      "author_name": "十豆加",
+      "avatar": "https://pbs.twimg.com/profile_images/1996248161199996928/mYEaNsD6_normal.jpg",
+      "created_at_utc": "2026-10-12T12:31:40.000Z",
+      "created_at_sh": "2026-10-12 20:31",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT image 2.5-违和抓拍1\n\n最近发现一种擦边思路：\n“一本正经”里透出的“不安分”，晃眼的透明高跟，瞬间把集体叙事，拉扯成了荒诞又带点挑衅的个人秀。\n\nprompt：\n创建图像 操场跑道军训队列旁的违和抓拍 × 挽发低丸子头戴军训帽背手微侧身 × 迷彩短袖T恤挽脚长裤踩透明细高跟 ×",
+      "prompt": "创建图像 操场跑道军训队列旁的违和抓拍 × 挽发低丸子头戴军训帽背手微侧身 × 迷彩短袖T恤挽脚长裤踩透明细高跟 ×",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUbgSIDbMAAufzP.jpg",
+          "w": 1200,
+          "h": 900,
+          "media_key": "3_2109620077473771520",
+          "file": "2109623031958221220_0.jpg",
+          "thumb": "2109623031958221220_0.jpg",
+          "tw": 480,
+          "th": 360
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUbgclHaYAE9G4y.jpg",
+          "w": 1200,
+          "h": 900,
+          "media_key": "3_2109620257073815553",
+          "file": "2109623031958221220_1.jpg",
+          "thumb": "2109623031958221220_1.jpg",
+          "tw": 480,
+          "th": 360
         }
       ],
       "nsfw_flag": false

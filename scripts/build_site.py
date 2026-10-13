@@ -59,6 +59,16 @@ HIDE_IDS = {
     '2108629489295266035',                         # @DeepBlueX0 flight-attendant cleavage / short skirt low-angle
     '2108505251934326870',                         # @spark_chenlin short skirt / low-neckline sitting portraits
     '2108523890393715127',                         # @lipsticksplus curvy crop-top midriff full-body
+    # 2026-10-13 refresh review (contact sheet)
+    '2109486267586986099',                         # @johnAGI168 kneeling lingerie-style fantasy portrait
+    '2109545439452361017',                         # @imGopalTiwari loungewear cleavage full-body
+    '2109702653970383291',                         # @imGopalTiwari low-cut top / mini skirt pose
+    '2109776245227475088',                         # @livybabie anime fishnets, prompt asks legs spread
+    '2109751210118902178',                         # @hardik_lut83675 bikini model comparison
+    '2109578399228555367',                         # @veronicaahelena cleavage focus
+    '2109574354787049514',                         # @veronicaahelena cleavage focus
+    '2109573735808405851',                         # @veronicaahelena cleavage focus
+    '2109639494886731866',                         # @sequencebyalex text is a caption, not a prompt
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
@@ -73,6 +83,20 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     '2106574630664257929',  # jarvis11x - workflow notes
     '2090287713945862654',  # beginnersblog1 - process notes
     '2108618981540000162',  # ooffooxx - A/B comparison question
+    # 2026-10-13 refresh review
+    '2109561889156202577',  # arsalannazir07 - undressed sniper poster
+    '2109600808329249250',  # Tech_Apex0 - same prompt / poster
+    '2109641513588449531',  # davidsaimastery - squat poster, body/feet focus
+    '2109317520700457216',  # ScaleWthAI - giantess low-angle scale-play
+    '2109350381331353945',  # geezmedia01 - workflow explanation
+    '2109475881051628005',  # alixbuilds - text is not a prompt
+    '2109657818899067389',  # yaohui12138 - ad copy, not a prompt
+    '2109658531217703330',  # web4miko - random code string, not a prompt
+    '2109715744699437492',  # Nothingignore1 - teaser caption, not a prompt
+    '2109715239818477741',  # Nothingignore1 - teaser caption, not a prompt
+    '2109571731576750427',  # TaliaAariz - prompt cut off mid-sentence in the post
+    '2109460837043708104',  # juliaevee - one-line style tag only
+    '2109694691432337628',  # smewAI - condensed rewrite of another author's prompt
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page
