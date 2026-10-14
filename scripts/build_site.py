@@ -69,6 +69,11 @@ HIDE_IDS = {
     '2109574354787049514',                         # @veronicaahelena cleavage focus
     '2109573735808405851',                         # @veronicaahelena cleavage focus
     '2109639494886731866',                         # @sequencebyalex text is a caption, not a prompt
+    # 2026-10-14 refresh review (contact sheet)
+    '2110065031652000004',                         # @RougeHalo_AI lingerie / underwear on bed
+    '2109867780673528268',                         # @johnAGI168 high-slit Hancock mirror selfie
+    '2110038855315333503',                         # @johnAGI168 crop-top short-skirt portrait (unsure)
+    '2109923938767946139',                         # @ann_nnng reply is placeholder, not a real prompt
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
@@ -97,6 +102,11 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     '2109571731576750427',  # TaliaAariz - prompt cut off mid-sentence in the post
     '2109460837043708104',  # juliaevee - one-line style tag only
     '2109694691432337628',  # smewAI - condensed rewrite of another author's prompt
+    # 2026-10-14 refresh review (poster contact sheet)
+    '2110141995020632115',  # YourAlphaMom - bikini beach selfie poster
+    '2110084200363913570',  # sixugc - workflow tips, not a prompt
+    '2109889856793092570',  # garylau_ai - model comparison question, not a prompt
+    '2109951019706651045',  # Xanderwow_A - credits/tooling notes, not a prompt
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page

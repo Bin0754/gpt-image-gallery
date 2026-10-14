@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-13T08:32:59+08:00",
-  "count": 245,
+  "generated_at": "2026-10-14T08:21:12+08:00",
+  "count": 274,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -2281,6 +2281,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109865084071588211",
+      "url": "https://x.com/hey_am_cherry/status/2109865084071588211",
+      "author": "hey_am_cherry",
+      "author_name": "Cherry",
+      "avatar": "https://pbs.twimg.com/profile_images/2082546817833783296/USfmt9HM_normal.jpg",
+      "created_at_utc": "2026-10-13T04:33:30.000Z",
+      "created_at_sh": "2026-10-13 12:33",
+      "likes": 87,
+      "reposts": 0,
+      "bookmarks": 13,
+      "lang": "en",
+      "text": "A whole mood wrapped in winter colors.\n\nGPT Image 2.5 \n\nPrompt : \n\n{\n  \"prompt\": \"A beautiful 2D storybook illustration of a cute young cartoon woman standing in a snowy city at sunset, full body visible. She has big expressive brown eyes, rosy cheeks, dark brown windblown bob hair, a teal wide-brim hat, a vibrant mustard-yellow long coat, chunky teal knitted scarf flowing in the wind, navy trousers, burnt-orange boots, and a caramel leather handbag. Deep cobalt-blue snowy sky, glowing orange and golden sunset clouds, distant skyscrapers with warm illuminated windows, sparkling snowfall, a vintage glowing street lamp on the left, snow-covered railing, colorful river reflections. Rich vibrant colors, teal-orange contrast, magical cozy atmosphere, detailed painterly textures, soft cinematic lighting, adorable character design, sharp details, premium storybook art, 4K quality, vertical 9:16 composition, character slightly right of center.\",\n  \"negative_prompt\": \"photorealistic, 3D, dull colors, blurry face, cropped feet, extra fingers, deformed anatomy, text, watermark, logo\",\n  \"aspect_ratio\": \"9:16\",\n  \"quality\": \"high\"\n}",
+      "prompt": "\"prompt\": \"A beautiful 2D storybook illustration of a cute young cartoon woman standing in a snowy city at sunset, full body visible. She has big expressive brown eyes, rosy cheeks, dark brown windblown bob hair, a teal wide-brim hat, a vibrant mustard-yellow long coat, chunky teal knitted scarf flowing in the wind, navy trousers, burnt-orange boots, and a caramel leather handbag. Deep cobalt-blue snowy sky, glowing orange and golden sunset clouds, distant skyscrapers with warm illuminated windows, sparkling snowfall, a vintage glowing street lamp on the left, snow-covered railing, colorful river reflections. Rich vibrant colors, teal-orange contrast, magical cozy atmosphere, detailed painterly textures, soft cinematic lighting, adorable character design, sharp details, premium storybook art, 4K quality, vertical 9:16 composition, character slightly right of center.\",\n  \"negative_prompt\": \"photorealistic, 3D, dull colors, blurry face, cropped feet, extra fingers, deformed anatomy, text, watermark, logo\",\n  \"aspect_ratio\": \"9:16\",\n  \"quality\": \"high\"\n}",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUe_GRTaoAAnDDY.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109865064891326464",
+          "file": "2109865084071588211_0.jpg",
+          "thumb": "2109865084071588211_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUe_G3JasAE2a2b.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109865075049934849",
+          "file": "2109865084071588211_1.jpg",
+          "thumb": "2109865084071588211_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097571772904386607",
       "url": "https://x.com/Mayz1169/status/2097571772904386607",
       "author": "Mayz1169",
@@ -2587,6 +2626,45 @@
           "file": "2108532094796533952_2.jpg",
           "thumb": "2108532094796533952_2.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109867363743215809",
+      "url": "https://x.com/Naiknelofar788/status/2109867363743215809",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-13T04:42:33.000Z",
+      "created_at_sh": "2026-10-13 12:42",
+      "likes": 69,
+      "reposts": 0,
+      "bookmarks": 23,
+      "lang": "en",
+      "text": "A Sketch of the Place, A Memory of the Moment by GPT image 2.5\n\nprompt:\n\nCreate a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired — like a beautiful moment captured during a real trip.\n\nAspect ratio: 4:5, vertical composition.",
+      "prompt": "Create a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired — like a beautiful moment captured during a real trip.\n\nAspect ratio: 4:5, vertical composition.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUfBLkGb0AAMUnN.jpg",
+          "w": 820,
+          "h": 1024,
+          "media_key": "3_2109867354859753472",
+          "file": "2109867363743215809_0.jpg",
+          "thumb": "2109867363743215809_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUfBLkGbQAAWgKi.jpg",
+          "w": 820,
+          "h": 1024,
+          "media_key": "3_2109867354859716608",
+          "file": "2109867363743215809_1.jpg",
+          "thumb": "2109867363743215809_1.jpg",
+          "tw": 384,
           "th": 480
         }
       ],
@@ -3144,6 +3222,45 @@
           "file": "2103091620132573617_1.jpg",
           "thumb": "2103091620132573617_1.jpg",
           "tw": 427,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109930829942288624",
+      "url": "https://x.com/TheVirtualMuse/status/2109930829942288624",
+      "author": "TheVirtualMuse",
+      "author_name": "Areeba",
+      "avatar": "https://pbs.twimg.com/profile_images/2108933947510194176/KSgdX0OG_normal.jpg",
+      "created_at_utc": "2026-10-13T08:54:45.000Z",
+      "created_at_sh": "2026-10-13 16:54",
+      "likes": 54,
+      "reposts": 0,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "Gpt image 2.5 on chatgpt \n\nPrompt ⤵️\n\nUsing the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.\n\nDivide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.\n\n1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH\n\nUse the uploaded reference photograph directly in the upper 50% of the poster.\n\nPreserve its original photographic quality, sharpness, natural lighting, and color relationships.\n\nAllow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.\n\nIf required, naturally extend a small portion of the surrounding environment to fit the composition.\n\nDo not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.\n\nDo not introduce black borders, white margins, or empty edges.\n\n2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION\n\nUse a warm, near-white ivory paper background with an extremely subtle paper texture.\n\nAnalyze the main subject and visual story of the uploaded reference image.\n\nExtract only the primary subject, preserving one or two essential identifying elements.\n\nRemove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.\n\nTransform the primary subject into a sophisticated black-ink editorial illustration.\n\nILLUSTRATION STYLE:\n\nUse natural, clean pen strokes with varied line weight.\n\nPreserve an authentic hand-drawn appearance with expressive but controlled linework.\n\nAvoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.\n\nPlace a large, nearly pure-black rectangular ink block behind the illustrated subject.\n\nThe rectangular block should have subtly imperfect, handmade print-style edges.\n\nKeep the black background clean, with only fine paper grain and minimal noise.\n\nAvoid obvious hatching, scratches, architectural lines, or complex textures.\n\nILLUSTRATION SCALE AND COMPOSITION:\n\nThe illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.\n\nMaintain a clear visual focal point with generous negative space surrounding the illustration.\n\n3. COLOR RULES\n\nThe bottom illustration must follow a strictly black-and-white color palette by default.\n\nPreserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.\n\nOrdinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.\n\nAny preserved accent color must remain strictly localized to the relevant subject or area.\n\nNever allow accent colors to spread across the entire illustration.\n\n4. TYPOGRAPHY AND EDITORIAL LAYOUT\n\nAutomatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.\n\nThe typography must resemble handwritten editorial annotations from an independent art publication.\n\nTOP-LEFT CORNER:\n\nGenerate a short handwritten title consisting of 2–5 words, arranged across two lines.\n\nDirectly beneath the title, include three short English action verbs relevant to the photograph.\n\nTOP-RIGHT CORNER:\n\nDisplay only two lines of geographic coordinates:\n\nLatitude\nLongitude\n\nDo not include any additional text in this area.\n\nBOTTOM-LEFT CORNER:\n\nDisplay the location name followed by the word \"DIARY.\"\n\nDirectly beneath it, add one short descriptive English sentence inspired by the photograph.\n\nTYPOGRAPHY STYLE:\n\nUse a rough, upright, slightly irregular handwritten typeface.\n\nMaintain subtle imperfections and a natural editorial annotation aesthetic.\n\nAvoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.\n\n5. FINAL ART DIRECTION\n\nThe finished poster must combine:\n\nAuthentic, high-quality photography.\nMinimalist black-and-white editorial illustration.\nGenerous negative space.\nIndependent art publication aesthetics.\nQuiet, restrained, sophisticated visual storytelling.\nNatural handwritten typography.\nA balanced relationship between documentary realism and expressive hand-drawn artwork.\n\nThe overall result should resemble a carefully designed, collectible editorial art print.\n\n6. FINAL OUTPUT REQUIREMENTS\n\nASPECT RATIO:\n2:3 vertical.\n\nRESOLUTION:\nHigh-resolution, sharp, print-quality output.\n\nCOMPOSITION:\n\nExactly 50% original reference photography on top.\n\nExactly 50% editorial illustration on the bottom.\n\nOne perfectly straight horizontal dividing line.\n\nOne complete, standalone poster.\n\nRESTRICTIONS:\n\nNo collages.\nNo multi-poster layouts.\nNo combined images.\nNo unnecessary decorative elements.\nNo modifications to the original subject's identity or appearance.\nNo excessive illustration details.\nNo changes to the original photograph's natural color relationships.\n\nFINAL GOAL:\n\nCreate a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.",
+      "prompt": "Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.\n\nDivide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.\n\n1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH\n\nUse the uploaded reference photograph directly in the upper 50% of the poster.\n\nPreserve its original photographic quality, sharpness, natural lighting, and color relationships.\n\nAllow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.\n\nIf required, naturally extend a small portion of the surrounding environment to fit the composition.\n\nDo not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.\n\nDo not introduce black borders, white margins, or empty edges.\n\n2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION\n\nUse a warm, near-white ivory paper background with an extremely subtle paper texture.\n\nAnalyze the main subject and visual story of the uploaded reference image.\n\nExtract only the primary subject, preserving one or two essential identifying elements.\n\nRemove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.\n\nTransform the primary subject into a sophisticated black-ink editorial illustration.\n\nILLUSTRATION STYLE:\n\nUse natural, clean pen strokes with varied line weight.\n\nPreserve an authentic hand-drawn appearance with expressive but controlled linework.\n\nAvoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.\n\nPlace a large, nearly pure-black rectangular ink block behind the illustrated subject.\n\nThe rectangular block should have subtly imperfect, handmade print-style edges.\n\nKeep the black background clean, with only fine paper grain and minimal noise.\n\nAvoid obvious hatching, scratches, architectural lines, or complex textures.\n\nILLUSTRATION SCALE AND COMPOSITION:\n\nThe illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.\n\nMaintain a clear visual focal point with generous negative space surrounding the illustration.\n\n3. COLOR RULES\n\nThe bottom illustration must follow a strictly black-and-white color palette by default.\n\nPreserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.\n\nOrdinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.\n\nAny preserved accent color must remain strictly localized to the relevant subject or area.\n\nNever allow accent colors to spread across the entire illustration.\n\n4. TYPOGRAPHY AND EDITORIAL LAYOUT\n\nAutomatically generate concise, meaningful English typography based on the content of the uploaded reference photograph.\n\nThe typography must resemble handwritten editorial annotations from an independent art publication.\n\nTOP-LEFT CORNER:\n\nGenerate a short handwritten title consisting of 2–5 words, arranged across two lines.\n\nDirectly beneath the title, include three short English action verbs relevant to the photograph.\n\nTOP-RIGHT CORNER:\n\nDisplay only two lines of geographic coordinates:\n\nLatitude\nLongitude\n\nDo not include any additional text in this area.\n\nBOTTOM-LEFT CORNER:\n\nDisplay the location name followed by the word \"DIARY.\"\n\nDirectly beneath it, add one short descriptive English sentence inspired by the photograph.\n\nTYPOGRAPHY STYLE:\n\nUse a rough, upright, slightly irregular handwritten typeface.\n\nMaintain subtle imperfections and a natural editorial annotation aesthetic.\n\nAvoid elegant cursive, calligraphy, overly decorative lettering, and excessively polished typography.\n\n5. FINAL ART DIRECTION\n\nThe finished poster must combine:\n\nAuthentic, high-quality photography.\nMinimalist black-and-white editorial illustration.\nGenerous negative space.\nIndependent art publication aesthetics.\nQuiet, restrained, sophisticated visual storytelling.\nNatural handwritten typography.\nA balanced relationship between documentary realism and expressive hand-drawn artwork.\n\nThe overall result should resemble a carefully designed, collectible editorial art print.\n\n6. FINAL OUTPUT REQUIREMENTS\n\nASPECT RATIO:\n2:3 vertical.\n\nRESOLUTION:\nHigh-resolution, sharp, print-quality output.\n\nCOMPOSITION:\n\nExactly 50% original reference photography on top.\n\nExactly 50% editorial illustration on the bottom.\n\nOne perfectly straight horizontal dividing line.\n\nOne complete, standalone poster.\n\nRESTRICTIONS:\n\nNo collages.\nNo multi-poster layouts.\nNo combined images.\nNo unnecessary decorative elements.\nNo modifications to the original subject's identity or appearance.\nNo excessive illustration details.\nNo changes to the original photograph's natural color relationships.\n\nFINAL GOAL:\n\nCreate a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUf62yJaMAAHrTa.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109930769527484416",
+          "file": "2109930829942288624_0.jpg",
+          "thumb": "2109930829942288624_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUf62o7b0AAp-Oy.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109930767052951552",
+          "file": "2109930829942288624_1.jpg",
+          "thumb": "2109930829942288624_1.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -4519,6 +4636,163 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109981775661551659",
+      "url": "https://x.com/Naiknelofar788/status/2109981775661551659",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-13T12:17:11.000Z",
+      "created_at_sh": "2026-10-13 20:17",
+      "likes": 31,
+      "reposts": 0,
+      "bookmarks": 10,
+      "lang": "en",
+      "text": "Left by GPT image 2.5 and right by Gemini Nano banana pro \n\nPrompt:\nCreate a beautiful, cinematic travel photograph of a person sitting comfortably on a small wooden stool in front of a world-famous landmark, creating a detailed hand-drawn artwork of the landmark on a large sketchbook.\n\nThe person is seen from behind or at a slight side angle, holding a pencil or colored pencil and carefully sketching the landmark while looking up at the real architecture for reference. An open sketchbook, scattered colored pencils, a few wax crayons, and a small art bag rest beside them.\n\nThe landmark is the main attraction: Show the actual landmark prominently in the background, with authentic architecture, accurate proportions, original colors, and recognizable details. The artwork on the person’s sketchbook should closely resemble the real landmark, creating a beautiful visual connection between the artist’s drawing and reality.\n\nArt style: Realistic travel photography blended with a delicate colored-pencil and wax-crayon aesthetic. Visible pencil strokes, textured paper, soft hand-drawn shading, and subtle artistic imperfections.\n\nAtmosphere: Warm golden-hour sunlight, gentle shadows, a peaceful breeze, and a dreamy yet believable travel atmosphere. Include small environmental details that reflect the landmark’s real location and culture.\n\nComposition: Vertical 4:5 format, premium travel magazine cover, the seated artist in the foreground, the sketchbook clearly visible, and the magnificent landmark rising in the background.\n\nColor palette: Warm beige, muted pastels, earthy tones, and naturally vibrant colors inspired by the destination.\n\nThe final image should feel artistic, emotional, peaceful, and visually captivating, like a beautiful memory captured while travelling.\n\nAvoid distorted landmarks, fictional architecture, exaggerated fantasy elements, extra fingers, messy compositions, and artificial-looking textures. Keep the person, drawing materials, and landmark natural and realistic.",
+      "prompt": "Create a beautiful, cinematic travel photograph of a person sitting comfortably on a small wooden stool in front of a world-famous landmark, creating a detailed hand-drawn artwork of the landmark on a large sketchbook.\n\nThe person is seen from behind or at a slight side angle, holding a pencil or colored pencil and carefully sketching the landmark while looking up at the real architecture for reference. An open sketchbook, scattered colored pencils, a few wax crayons, and a small art bag rest beside them.\n\nThe landmark is the main attraction: Show the actual landmark prominently in the background, with authentic architecture, accurate proportions, original colors, and recognizable details. The artwork on the person’s sketchbook should closely resemble the real landmark, creating a beautiful visual connection between the artist’s drawing and reality.\n\nArt style: Realistic travel photography blended with a delicate colored-pencil and wax-crayon aesthetic. Visible pencil strokes, textured paper, soft hand-drawn shading, and subtle artistic imperfections.\n\nAtmosphere: Warm golden-hour sunlight, gentle shadows, a peaceful breeze, and a dreamy yet believable travel atmosphere. Include small environmental details that reflect the landmark’s real location and culture.\n\nComposition: Vertical 4:5 format, premium travel magazine cover, the seated artist in the foreground, the sketchbook clearly visible, and the magnificent landmark rising in the background.\n\nColor palette: Warm beige, muted pastels, earthy tones, and naturally vibrant colors inspired by the destination.\n\nThe final image should feel artistic, emotional, peaceful, and visually captivating, like a beautiful memory captured while travelling.\n\nAvoid distorted landmarks, fictional architecture, exaggerated fantasy elements, extra fingers, messy compositions, and artificial-looking textures. Keep the person, drawing materials, and landmark natural and realistic.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUgpPJHaIAI-Y_d.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109981765544845314",
+          "file": "2109981775661551659_0.jpg",
+          "thumb": "2109981775661551659_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUgpPJHagAAfg_E.jpg",
+          "w": 928,
+          "h": 1152,
+          "media_key": "3_2109981765544869888",
+          "file": "2109981775661551659_1.jpg",
+          "thumb": "2109981775661551659_1.jpg",
+          "tw": 386,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109953193170145441",
+      "url": "https://x.com/Goodmanprotocol/status/2109953193170145441",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-13T10:23:36.000Z",
+      "created_at_sh": "2026-10-13 18:23",
+      "likes": 31,
+      "reposts": 0,
+      "bookmarks": 14,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical cinematic 3D travel artwork for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene from the location name alone. No reference image required.\n\nCORE CONCEPT:\nA monumental photorealistic 3D miniature world rises from a translucent parchment scroll laid diagonally across a seamless, weathered antique blueprint surface. Feature the location’s most iconic architecture, authentic landmarks, local vegetation, and distinctive natural scenery as one cohesive sculptural diorama.\n\nCOMPOSITION:\nThe parchment scroll runs diagonally from the upper-left toward the lower-right, ending in a tightly rolled cylinder. Fill the frame with aged paper texture, delicate historical ink drawings, architectural sketches, and cultural motifs associated with the destination. The raised miniature world dominates approximately 80% of the composition, with soft clouds drifting around distant structures. Use a low, location-level cinematic viewpoint, never a bird’s-eye view.\n\nSTYLE & LIGHTING:\nHyper-realistic 3D miniature diorama, intricate architectural detail, translucent parchment, expressive black ink brushwork, warm antique textures, epic golden-hour illumination, cinematic shadows, ambient occlusion, atmospheric depth, and shallow depth of field.\n\nFINAL AESTHETIC:\nA grand historical travel illustration combining ancient cartography, cultural heritage, and monumental miniature architecture.\n\nAVOID:\nGeneric landmarks, inaccurate architecture, unrelated cultural symbols, flat illustrations, excessive ornamentation, visible outer paper edges, text overlays, logos, and watermarks.\n\nFORMAT:\nFull-bleed 4:5 vertical composition, 8K-quality detail, Unreal Engine 5 rendering aesthetic.",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical cinematic 3D travel artwork for [COUNTRY / CITY / LOCATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene from the location name alone. No reference image required.\n\nCORE CONCEPT:\nA monumental photorealistic 3D miniature world rises from a translucent parchment scroll laid diagonally across a seamless, weathered antique blueprint surface. Feature the location’s most iconic architecture, authentic landmarks, local vegetation, and distinctive natural scenery as one cohesive sculptural diorama.\n\nCOMPOSITION:\nThe parchment scroll runs diagonally from the upper-left toward the lower-right, ending in a tightly rolled cylinder. Fill the frame with aged paper texture, delicate historical ink drawings, architectural sketches, and cultural motifs associated with the destination. The raised miniature world dominates approximately 80% of the composition, with soft clouds drifting around distant structures. Use a low, location-level cinematic viewpoint, never a bird’s-eye view.\n\nSTYLE & LIGHTING:\nHyper-realistic 3D miniature diorama, intricate architectural detail, translucent parchment, expressive black ink brushwork, warm antique textures, epic golden-hour illumination, cinematic shadows, ambient occlusion, atmospheric depth, and shallow depth of field.\n\nFINAL AESTHETIC:\nA grand historical travel illustration combining ancient cartography, cultural heritage, and monumental miniature architecture.\n\nAVOID:\nGeneric landmarks, inaccurate architecture, unrelated cultural symbols, flat illustrations, excessive ornamentation, visible outer paper edges, text overlays, logos, and watermarks.\n\nFORMAT:\nFull-bleed 4:5 vertical composition, 8K-quality detail, Unreal Engine 5 rendering aesthetic.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUgPM4Ia0AAX9bm.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109953139323621376",
+          "file": "2109953193170145441_0.jpg",
+          "thumb": "2109953193170145441_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUgPN05aIAAkLAs.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109953155635224576",
+          "file": "2109953193170145441_1.jpg",
+          "thumb": "2109953193170145441_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUgPOozbcAAAR1b.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109953169568788480",
+          "file": "2109953193170145441_2.jpg",
+          "thumb": "2109953193170145441_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUgPPZ5b0AEcq0N.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109953182747316225",
+          "file": "2109953193170145441_3.jpg",
+          "thumb": "2109953193170145441_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110050994847690849",
+      "url": "https://x.com/xiaoxiaodong/status/2110050994847690849",
+      "author": "xiaoxiaodong",
+      "author_name": "小小东",
+      "avatar": "https://pbs.twimg.com/profile_images/2046072820095176704/QBve47KI_normal.jpg",
+      "created_at_utc": "2026-10-13T16:52:14.000Z",
+      "created_at_sh": "2026-10-14 00:52",
+      "likes": 30,
+      "reposts": 1,
+      "bookmarks": 20,
+      "lang": "zh",
+      "text": "GPT2 x 回魂了 \n\n从提示词库倒腾出一些适合AI的提示词\n\n发现GPT-image2.5字体有进步哦，比如第一张！\n\n没有做过多强调哦。\n\n还有一个进步：\n一轮对话中， 后续轮次可以多轮都要求一次输出10张。\n\n原来chatGPT的算力，划分不少到图形了哦。\n\n有意思有意思。",
+      "prompt": "发现GPT-image2.5字体有进步哦，比如第一张！\n\n没有做过多强调哦。\n\n还有一个进步：\n一轮对话中， 后续轮次可以多轮都要求一次输出10张。\n\n原来chatGPT的算力，划分不少到图形了哦。\n\n有意思有意思。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhnpeoaEAASaT4.jpg",
+          "w": 849,
+          "h": 1200,
+          "media_key": "3_2110050387717918720",
+          "file": "2110050994847690849_0.jpg",
+          "thumb": "2110050994847690849_0.jpg",
+          "tw": 339,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhntfwaQAAcLR0.jpg",
+          "w": 849,
+          "h": 1200,
+          "media_key": "3_2110050456739397632",
+          "file": "2110050994847690849_1.jpg",
+          "thumb": "2110050994847690849_1.jpg",
+          "tw": 339,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhnyG_b0AIgRBJ.jpg",
+          "w": 849,
+          "h": 1200,
+          "media_key": "3_2110050535990874114",
+          "file": "2110050994847690849_2.jpg",
+          "thumb": "2110050994847690849_2.jpg",
+          "tw": 339,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhn47WaQAAWwjG.jpg",
+          "w": 849,
+          "h": 1200,
+          "media_key": "3_2110050653125099520",
+          "file": "2110050994847690849_3.jpg",
+          "thumb": "2110050994847690849_3.jpg",
+          "tw": 339,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107539874958221667",
       "url": "https://x.com/imGopalTiwari/status/2107539874958221667",
       "author": "imGopalTiwari",
@@ -4542,6 +4816,64 @@
           "file": "2107539874958221667_0.jpg",
           "thumb": "2107539874958221667_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110114825082945740",
+      "url": "https://x.com/churvikv/status/2110114825082945740",
+      "author": "churvikv",
+      "author_name": "Viki",
+      "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_normal.jpg",
+      "created_at_utc": "2026-10-13T21:05:52.000Z",
+      "created_at_sh": "2026-10-14 05:05",
+      "likes": 29,
+      "reposts": 0,
+      "bookmarks": 2,
+      "lang": "en",
+      "text": "We build higher.The sun returns lower.And between them - something that never moved.\n\nModel: GPT Image 2.5 Sunburst  \n\n🏞 Prompt:\nPhotorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.\n\nSKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.\n\nSUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.\n\nTREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.\n\nCITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.\n\nWATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.\n\nREFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.\n\nPALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.\n\ntext, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition",
+      "prompt": "Photorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.\n\nSKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.\n\nSUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.\n\nTREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.\n\nCITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.\n\nWATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.\n\nREFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.\n\nPALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.\n\ntext, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUiiLaRXkAAI34K.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2110114742337507328",
+          "file": "2110114825082945740_0.jpg",
+          "thumb": "2110114825082945740_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110015285323559093",
+      "url": "https://x.com/TheVirtualMuse/status/2110015285323559093",
+      "author": "TheVirtualMuse",
+      "author_name": "Areeba",
+      "avatar": "https://pbs.twimg.com/profile_images/2108933947510194176/KSgdX0OG_normal.jpg",
+      "created_at_utc": "2026-10-13T14:30:20.000Z",
+      "created_at_sh": "2026-10-13 22:30",
+      "likes": 28,
+      "reposts": 0,
+      "bookmarks": 10,
+      "lang": "en",
+      "text": "Gpt image 2.5 on chatgpt \n\nPrompt ⤵️\n\nUse my uploaded photo as the face reference. 3:4 vertical. Point-of-view shot from inside a grey fleece-lined bag looking up. The soft\nfuzzy lining frames every edge of the image. the person in reference, keeping her exact face, hairstyle and identity, reaches down into the\nbag toward the camera, her fingers foreshortened in the foreground and stacked with chunky silver rings. She wears a black ribbed beanie,\nblack oval sunglasses, a navy blazer and a blue-and-white striped shirt: a white London\ntownhouse with a dark grey-green front door numbered 27, black iron railings and a small olive tree. Overlaid iOS incoming call interface\nin white system font: a \"Message\" button on the left and a \"Voicemail\" button on the right as frosted round icons, and at the bottom a\nfrosted glass pill slider reading \"slide to answer\" with a white circle holding a green phone icon. Natural daylight, candid street-style\nfashion photography, realistic skin texture.\nMake it realistic\nImprove its colour grading",
+      "prompt": "Use my uploaded photo as the face reference. 3:4 vertical. Point-of-view shot from inside a grey fleece-lined bag looking up. The soft\nfuzzy lining frames every edge of the image. the person in reference, keeping her exact face, hairstyle and identity, reaches down into the\nbag toward the camera, her fingers foreshortened in the foreground and stacked with chunky silver rings. She wears a black ribbed beanie,\nblack oval sunglasses, a navy blazer and a blue-and-white striped shirt: a white London\ntownhouse with a dark grey-green front door numbered 27, black iron railings and a small olive tree. Overlaid iOS incoming call interface\nin white system font: a \"Message\" button on the left and a \"Voicemail\" button on the right as frosted round icons, and at the bottom a\nfrosted glass pill slider reading \"slide to answer\" with a white circle holding a green phone icon. Natural daylight, candid street-style\nfashion photography, realistic skin texture.\nMake it realistic\nImprove its colour grading",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhHttHaIAAyDQ-.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110015275953430528",
+          "file": "2110015285323559093_0.jpg",
+          "thumb": "2110015285323559093_0.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -4723,6 +5055,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109879320550490347",
+      "url": "https://x.com/Goodmanprotocol/status/2109879320550490347",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-13T05:30:04.000Z",
+      "created_at_sh": "2026-10-13 13:30",
+      "likes": 26,
+      "reposts": 0,
+      "bookmarks": 3,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium FULL-FRAME 4:5 vertical “Tiny Worlds” travel poster for [DESTINATION], featuring [ICONIC OBJECT ASSOCIATED WITH DESTINATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the written inputs alone. No reference image required.\n\nCORE CONCEPT:\nTransform the iconic object into a whimsical 3D miniature world, seamlessly incorporating authentic local architecture, landscape, vegetation, and cultural details. Make the object the single dominant focal point, with imaginative sculptural storytelling rather than a generic landmark collage.\n\nCOMPOSITION:\nUse a strong foreground, middle ground, and background, with diagonal visual flow, atmospheric depth, soft foreground bokeh, and generous space for the headline.\n\nSIGNATURE STYLE:\nHighly detailed handcrafted miniature diorama, rounded sculptural forms, tactile materials, glossy water, realistic ambient occlusion, cinematic sunlight, and polished commercial illustration.\n\nBRAND IDENTITY:\nCobalt blue and turquoise foundation, warm cream highlights, and a distinctive coral-pink accent. Place oversized white hand-painted destination lettering in the upper-left, with a recurring coral brushstroke and a small handwritten subtitle.\n\nCREATIVE RULE:\nAdapt the miniature world, cultural details, and accent colors to the destination. Maintain consistent lighting, typography, rendering quality, and layout across the collection while ensuring every concept feels original.\n\nAVOID:\nGeneric landmark collages, clutter, flat vector art, photorealistic-only scenes, excessive text, logos, watermarks, and external framing.\n\nFORMAT:\nFull-bleed 4:5 vertical composition. Entire artwork fills the canvas.",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical “Tiny Worlds” travel poster for [DESTINATION], featuring [ICONIC OBJECT ASSOCIATED WITH DESTINATION].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from the written inputs alone. No reference image required.\n\nCORE CONCEPT:\nTransform the iconic object into a whimsical 3D miniature world, seamlessly incorporating authentic local architecture, landscape, vegetation, and cultural details. Make the object the single dominant focal point, with imaginative sculptural storytelling rather than a generic landmark collage.\n\nCOMPOSITION:\nUse a strong foreground, middle ground, and background, with diagonal visual flow, atmospheric depth, soft foreground bokeh, and generous space for the headline.\n\nSIGNATURE STYLE:\nHighly detailed handcrafted miniature diorama, rounded sculptural forms, tactile materials, glossy water, realistic ambient occlusion, cinematic sunlight, and polished commercial illustration.\n\nBRAND IDENTITY:\nCobalt blue and turquoise foundation, warm cream highlights, and a distinctive coral-pink accent. Place oversized white hand-painted destination lettering in the upper-left, with a recurring coral brushstroke and a small handwritten subtitle.\n\nCREATIVE RULE:\nAdapt the miniature world, cultural details, and accent colors to the destination. Maintain consistent lighting, typography, rendering quality, and layout across the collection while ensuring every concept feels original.\n\nAVOID:\nGeneric landmark collages, clutter, flat vector art, photorealistic-only scenes, excessive text, logos, watermarks, and external framing.\n\nFORMAT:\nFull-bleed 4:5 vertical composition. Entire artwork fills the canvas.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUfMBCGacAACrnc.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109879268562071552",
+          "file": "2109879320550490347_0.jpg",
+          "thumb": "2109879320550490347_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUfMB06awAAnUCy.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109879282201968640",
+          "file": "2109879320550490347_1.jpg",
+          "thumb": "2109879320550490347_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUfMCiDbMAAH4jX.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109879294319341568",
+          "file": "2109879320550490347_2.jpg",
+          "thumb": "2109879320550490347_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUfMDU7a4AAt-Ns.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109879307975974912",
+          "file": "2109879320550490347_3.jpg",
+          "thumb": "2109879320550490347_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108650680684839381",
       "url": "https://x.com/imGopalTiwari/status/2108650680684839381",
       "author": "imGopalTiwari",
@@ -4863,6 +5254,35 @@
           "file": "2108916884460704238_0.jpg",
           "thumb": "2108916884460704238_0.jpg",
           "tw": 319,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110026202903888256",
+      "url": "https://x.com/mehvishs25/status/2110026202903888256",
+      "author": "mehvishs25",
+      "author_name": "Meem",
+      "avatar": "https://pbs.twimg.com/profile_images/2012472188067278848/cp_m4VoD_normal.jpg",
+      "created_at_utc": "2026-10-13T15:13:43.000Z",
+      "created_at_sh": "2026-10-13 23:13",
+      "likes": 24,
+      "reposts": 0,
+      "bookmarks": 8,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt:\nUltra-Realistic Nostalgic Portrait — Preserve the Exact Girl from the Reference Photo\n\nUse the uploaded reference photo as the exact identity reference for the girl. Preserve her original face, facial structure, eye shape and color, eyebrows, nose, lips, skin tone, freckles (if present), natural skin texture, and all distinctive facial features. Keep her instantly recognizable as the same person. Do not change her identity, beautify her into a different person, or replace her face with a generic East Asian model. Adapt only the hairstyle, outfit, pose, lighting, and photographic aesthetic described below.\n\nCreate an ultra-realistic candid portrait of the same girl photographed indoors with a nostalgic early-2000s digital-camera aesthetic. She stands against a simple, warm off-white wall, looking slightly downward and toward the camera with a calm, soft, dreamy expression.\n\nHAIRSTYLE\n\nStyle her hair into an elegant, traditional-inspired high updo, with voluminous hair gathered at the back and secured with two simple dark hair sticks extending horizontally. Add loose, softly curled tendrils framing both sides of her face, along with delicate flyaways around the crown and temples. Preserve her recognizable hairline and natural facial proportions. Render individual strands, realistic shine, and slight imperfections for an authentic personal-photograph appearance.\n\nMAKEUP\n\nUse refined, feminine makeup with softly defined brows, subtle warm-brown eyeshadow, delicate eyeliner, naturally flushed cheeks, and glossy muted-rose lips. Keep the girl's original eye shape, eye color, facial features, and skin tone unchanged. Retain realistic pores, natural texture, and subtle imperfections. Avoid excessive smoothing or artificial beauty filters.\n\nOUTFIT\n\nDress her in a beautifully tailored, vintage-inspired Chinese floral qipao (cheongsam) in muted dusty blue-gray. The dress should feature:\n\n- A delicate Mandarin collar and modest curved neckline.\n- Short, fitted sleeves and a flattering, elegant silhouette.\n- Traditional diagonal front closure with subtle decorative frog buttons.\n- Soft satin-like fabric with realistic folds and gentle flash reflections.\n- An intricate multicolored floral pattern featuring peonies, roses, and smaller blossoms in dusty pink, burgundy, cream, pale yellow, sage green, and muted coral.\n\nThe garment should feel authentic, sophisticated, and vintage-inspired, with realistic fabric construction rather than a theatrical costume.\n\nPOSE AND EXPRESSION\n\nShe stands naturally with both arms relaxed alongside her body. Her shoulders are slightly angled away from the camera, while her head tilts subtly downward and to one side. Her gaze meets the camera with a quiet, composed, introspective expression. Her lips remain naturally relaxed, without an exaggerated smile.\n\nKeep her posture anatomically natural and believable, with realistic shoulders, arms, hands, and body proportions.\n\nLIGHTING AND ENVIRONMENT\n\nRecreate the appearance of a compact digital camera using direct on-camera flash in a dim indoor environment. The flash softly illuminates her face, creates natural catchlights in her eyes, highlights the satin fabric, and casts a subtle shadow onto the plain wall behind her. Use slightly cool flash illumination against the warmer ivory background, with gentle light falloff toward the edges.\n\nAvoid professional studio lighting, dramatic cinematic spotlights, or overly polished fashion photography.\n\nPHOTOGRAPHIC AESTHETIC\n\nAuthentic early-2000s personal digital-camera photography, 35mm-equivalent lens, slight wide-angle perspective, direct flash, subtle digital noise, mild highlight bloom, gentle lens softness, slightly muted colors, modest chromatic aberration, and imperfect exposure. Maintain crisp facial identity and convincing anatomical detail while preserving the imperfect, nostalgic quality of an old personal photograph.\n\nCOMPOSITION\n\nVertical 4:5 portrait, framed from approximately the hips upward. Position her slightly off-center, leaving generous negative space around her head and shoulders. Keep the simple warm off-white wall visible, allowing the colorful floral dress and elegant dark hairstyle to stand out naturally.\n\nCOLOR PALETTE\n\nDusty blue-gray, muted burgundy, faded rose pink, cream, sage green, pale yellow, deep black hair, and warm ivory.\n\nFINAL RESULT\n\nAn incredibly realistic, candid portrait of the exact same girl from the uploaded reference photo, styled in an elegant traditional-inspired floral qipao with a graceful updo. The image should feel like a genuine photograph discovered in a personal photo archive from the early 2000s: feminine, romantic, nostalgic, quietly mysterious, and naturally imperfect.\n\nSTRICT NEGATIVE CONSTRAINTS: Do not change the girl's identity or facial features. No face replacement, no different person, no artificial facial reconstruction, no plastic skin, no excessive retouching, no exaggerated makeup, no distorted hands, no extra fingers, no malformed limbs, no unrealistic fabric, no cartoon effects, no CGI appearance, no studio-campaign aesthetic, and no artificial AI-generated look.",
+      "prompt": "Ultra-Realistic Nostalgic Portrait — Preserve the Exact Girl from the Reference Photo\n\nUse the uploaded reference photo as the exact identity reference for the girl. Preserve her original face, facial structure, eye shape and color, eyebrows, nose, lips, skin tone, freckles (if present), natural skin texture, and all distinctive facial features. Keep her instantly recognizable as the same person. Do not change her identity, beautify her into a different person, or replace her face with a generic East Asian model. Adapt only the hairstyle, outfit, pose, lighting, and photographic aesthetic described below.\n\nCreate an ultra-realistic candid portrait of the same girl photographed indoors with a nostalgic early-2000s digital-camera aesthetic. She stands against a simple, warm off-white wall, looking slightly downward and toward the camera with a calm, soft, dreamy expression.\n\nHAIRSTYLE\n\nStyle her hair into an elegant, traditional-inspired high updo, with voluminous hair gathered at the back and secured with two simple dark hair sticks extending horizontally. Add loose, softly curled tendrils framing both sides of her face, along with delicate flyaways around the crown and temples. Preserve her recognizable hairline and natural facial proportions. Render individual strands, realistic shine, and slight imperfections for an authentic personal-photograph appearance.\n\nMAKEUP\n\nUse refined, feminine makeup with softly defined brows, subtle warm-brown eyeshadow, delicate eyeliner, naturally flushed cheeks, and glossy muted-rose lips. Keep the girl's original eye shape, eye color, facial features, and skin tone unchanged. Retain realistic pores, natural texture, and subtle imperfections. Avoid excessive smoothing or artificial beauty filters.\n\nOUTFIT\n\nDress her in a beautifully tailored, vintage-inspired Chinese floral qipao (cheongsam) in muted dusty blue-gray. The dress should feature:\n\n- A delicate Mandarin collar and modest curved neckline.\n- Short, fitted sleeves and a flattering, elegant silhouette.\n- Traditional diagonal front closure with subtle decorative frog buttons.\n- Soft satin-like fabric with realistic folds and gentle flash reflections.\n- An intricate multicolored floral pattern featuring peonies, roses, and smaller blossoms in dusty pink, burgundy, cream, pale yellow, sage green, and muted coral.\n\nThe garment should feel authentic, sophisticated, and vintage-inspired, with realistic fabric construction rather than a theatrical costume.\n\nPOSE AND EXPRESSION\n\nShe stands naturally with both arms relaxed alongside her body. Her shoulders are slightly angled away from the camera, while her head tilts subtly downward and to one side. Her gaze meets the camera with a quiet, composed, introspective expression. Her lips remain naturally relaxed, without an exaggerated smile.\n\nKeep her posture anatomically natural and believable, with realistic shoulders, arms, hands, and body proportions.\n\nLIGHTING AND ENVIRONMENT\n\nRecreate the appearance of a compact digital camera using direct on-camera flash in a dim indoor environment. The flash softly illuminates her face, creates natural catchlights in her eyes, highlights the satin fabric, and casts a subtle shadow onto the plain wall behind her. Use slightly cool flash illumination against the warmer ivory background, with gentle light falloff toward the edges.\n\nAvoid professional studio lighting, dramatic cinematic spotlights, or overly polished fashion photography.\n\nPHOTOGRAPHIC AESTHETIC\n\nAuthentic early-2000s personal digital-camera photography, 35mm-equivalent lens, slight wide-angle perspective, direct flash, subtle digital noise, mild highlight bloom, gentle lens softness, slightly muted colors, modest chromatic aberration, and imperfect exposure. Maintain crisp facial identity and convincing anatomical detail while preserving the imperfect, nostalgic quality of an old personal photograph.\n\nCOMPOSITION\n\nVertical 4:5 portrait, framed from approximately the hips upward. Position her slightly off-center, leaving generous negative space around her head and shoulders. Keep the simple warm off-white wall visible, allowing the colorful floral dress and elegant dark hairstyle to stand out naturally.\n\nCOLOR PALETTE\n\nDusty blue-gray, muted burgundy, faded rose pink, cream, sage green, pale yellow, deep black hair, and warm ivory.\n\nFINAL RESULT\n\nAn incredibly realistic, candid portrait of the exact same girl from the uploaded reference photo, styled in an elegant traditional-inspired floral qipao with a graceful updo. The image should feel like a genuine photograph discovered in a personal photo archive from the early 2000s: feminine, romantic, nostalgic, quietly mysterious, and naturally imperfect.\n\nSTRICT NEGATIVE CONSTRAINTS: Do not change the girl's identity or facial features. No face replacement, no different person, no artificial facial reconstruction, no plastic skin, no excessive retouching, no exaggerated makeup, no distorted hands, no extra fingers, no malformed limbs, no unrealistic fabric, no cartoon effects, no CGI appearance, no studio-campaign aesthetic, and no artificial AI-generated look.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhRnEOaMAAaPZ0.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2110026157014003712",
+          "file": "2110026202903888256_0.jpg",
+          "thumb": "2110026202903888256_0.jpg",
+          "tw": 384,
           "th": 480
         }
       ],
@@ -5171,6 +5591,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109890649973727309",
+      "url": "https://x.com/imGopalTiwari/status/2109890649973727309",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-13T06:15:05.000Z",
+      "created_at_sh": "2026-10-13 14:15",
+      "likes": 21,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic shattered-screen action portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black glossy leather top with short sleeves and a deep rounded neckline. Her torso leans forward at a three-quarter angle toward the camera, one arm thrust dramatically toward the lens with fingers spread wide, creating strong foreground perspective, while her other hand braces against the lower-right edge of the shattered smartphone screen. Her face shows intense surprise and shock, with eyes widened noticeably, upper eyelids raised, eyebrows lifted and slightly arched, lips parted in a startled expression, and subtle tension around her mouth as she looks directly into the camera. Her long, voluminous chestnut-brown hair with caramel highlights streams dynamically toward the right, with loose windswept strands framing her face and flying around her shoulders. Use natural warm beige skin tones with realistic texture and subtle highlights. Surround her with a giant black smartphone frame and suspended glass shards bursting outward, against a dark teal and cyan-lit background. Apply dramatic cinematic rim lighting, icy cyan reflections on the glass, warm amber highlights in her hair, deep inky shadows and bright specular glints. Use a rich teal-and-orange colour grade, high contrast, controlled skin tones, crisp glass details and shallow depth of field, keeping her shocked eyes sharp while the outstretched hand has natural perspective blur. \n\nNegative prompt: altered identity, weak expression, misaligned eyes, deformed hands, extra fingers, distorted face, unrealistic glass, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic shattered-screen action portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black glossy leather top with short sleeves and a deep rounded neckline. Her torso leans forward at a three-quarter angle toward the camera, one arm thrust dramatically toward the lens with fingers spread wide, creating strong foreground perspective, while her other hand braces against the lower-right edge of the shattered smartphone screen. Her face shows intense surprise and shock, with eyes widened noticeably, upper eyelids raised, eyebrows lifted and slightly arched, lips parted in a startled expression, and subtle tension around her mouth as she looks directly into the camera. Her long, voluminous chestnut-brown hair with caramel highlights streams dynamically toward the right, with loose windswept strands framing her face and flying around her shoulders. Use natural warm beige skin tones with realistic texture and subtle highlights. Surround her with a giant black smartphone frame and suspended glass shards bursting outward, against a dark teal and cyan-lit background. Apply dramatic cinematic rim lighting, icy cyan reflections on the glass, warm amber highlights in her hair, deep inky shadows and bright specular glints. Use a rich teal-and-orange colour grade, high contrast, controlled skin tones, crisp glass details and shallow depth of field, keeping her shocked eyes sharp while the outstretched hand has natural perspective blur. \n\nNegative prompt: altered identity, weak expression, misaligned eyes, deformed hands, extra fingers, distorted face, unrealistic glass, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUfWWqibsAArv-O.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109890635310542848",
+          "file": "2109890649973727309_0.jpg",
+          "thumb": "2109890649973727309_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108741556920287235",
       "url": "https://x.com/imGopalTiwari/status/2108741556920287235",
       "author": "imGopalTiwari",
@@ -5375,6 +5824,55 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110042171890184485",
+      "url": "https://x.com/KrishnaBio1/status/2110042171890184485",
+      "author": "KrishnaBio1",
+      "author_name": "KrishnaG",
+      "avatar": "https://pbs.twimg.com/profile_images/2063930813155254272/7e089ZNZ_normal.jpg",
+      "created_at_utc": "2026-10-13T16:17:11.000Z",
+      "created_at_sh": "2026-10-14 00:17",
+      "likes": 19,
+      "reposts": 0,
+      "bookmarks": 8,
+      "lang": "en",
+      "text": "1. Open Gemini / Grok / chatGpt/  GPT image 2.5\n2. Upload your photo\n3. Copy the prompt\n4. Generate\n5. Prompt ⤵️",
+      "prompt": "Create a premium 4:5 vertical travel-editorial artwork titled “TOKYO SOFT TULIP GLOW,” combining all three visual concepts into one cohesive, elegant, artistic composition.\n\nMAIN CONCEPT:\nBlend the magical nighttime atmosphere of Tokyo's illuminated streets, delicate white lilies, and a graceful young Japanese woman holding a tulip into a single sophisticated editorial poster. The artwork should combine photorealistic photography with delicate watercolor illustration on warm ivory handmade paper.\n\nTOP SECTION — CINEMATIC PHOTOGRAPHY:\nShow a stunning white lily in the foreground, its delicate petals illuminated by warm golden streetlights, with tiny water droplets adding realistic detail. Behind the flower, create a softly blurred Tokyo street at night, filled with glowing shop windows, colorful city lights, and beautiful golden bokeh. Use cinematic depth of field, realistic textures, and a peaceful Japanese urban atmosphere.\n\nCENTER SECTION — JAPANESE BEAUTY:\nFeature a graceful young Japanese woman with natural East Asian facial features, delicate skin texture, expressive dark eyes, and long, softly wavy black hair. She wears an elegant cream-white knitted sweater or a refined white blouse with subtle lace details. She gently holds a soft pink tulip close to her face, looking at it with a peaceful, thoughtful expression.\n\nHer pose should feel candid, natural, and emotionally subtle rather than overly posed. Warm golden city lights illuminate her face while the background remains softly blurred. Maintain realistic hands, natural proportions, delicate makeup, and authentic photographic details.\n\nLOWER SECTION — WATERCOLOR TRANSFORMATION:\nGradually transform the photographic scene into a beautiful hand-painted watercolor illustration. Recreate the same woman holding the tulip, surrounded by flowing watercolor washes in soft ivory, dusty blue, blush pink, lavender, and warm golden tones.\n\nBlend delicate floral details, translucent watercolor layers, subtle ink outlines, and scattered pigment splashes into the composition. Add a few elegant white lilies and tiny floral accents around the main illustration without overcrowding the design.\n\nARTISTIC BACKGROUND:\nUse textured cream-colored handmade paper with subtle grain, softly aged edges, delicate imperfections, and a premium fine-art print appearance. The transition between realistic photography and watercolor painting should feel seamless and artistic.\n\nCOLOR PALETTE:\nWarm ivory, pearl white, soft blush pink, muted lavender, midnight blue, champagne gold, and gentle amber. Maintain a harmonious balance between the glowing nighttime city and the soft romantic floral atmosphere.\n\nLIGHTING AND MOOD:\nCinematic nighttime lighting, warm golden bokeh, soft facial illumination, delicate highlights on flower petals, realistic shadows, and a peaceful Tokyo evening atmosphere. The overall feeling should be elegant, dreamy, romantic, calm, and sophisticated.\n\nCOMPOSITION:\nCreate a visually balanced vertical poster with a strong central focal point, carefully layered photographic and watercolor elements, generous negative space, refined editorial spacing, and premium art-book aesthetics.\n\nTYPOGRAPHY:\nAt the bottom, elegantly write:\n“TOKYO SOFT TULIP GLOW”\n\nUse refined, delicate, handwritten-style lettering in muted dark brown or soft charcoal. Keep the typography minimal, readable, and beautifully integrated into the paper texture.\n\nQUALITY:\nUltra-detailed, premium editorial artwork, photorealistic floral photography, sophisticated watercolor illustration, realistic human anatomy, natural facial features, delicate botanical details, cinematic depth of field, professional art direction, museum-quality paper texture, and exceptional visual harmony.\n\nASPECT RATIO:\n4:5 vertical composition.\n\nNEGATIVE PROMPT:\nLow resolution, blurry main subject, distorted face, unnatural eyes, deformed hands, extra fingers, duplicate flowers, malformed petals, plastic skin, oversaturated colors, harsh lighting, cluttered composition, excessive decorative elements, illegible typography, misspelled title, artificial-looking watercolor effects, cartoonish facial features, and poor-quality textures.\n\nFINAL RESULT:\nA luxurious Tokyo-inspired editorial poster that seamlessly combines a glowing white lily, a graceful Japanese woman holding a tulip, magical nighttime city lights, and delicate watercolor artistry into one unified masterpiece.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhgICcXgAAt4zG.jpg",
+          "w": 959,
+          "h": 1200,
+          "media_key": "3_2110042116634148864",
+          "file": "2110042171890184485_0.jpg",
+          "thumb": "2110042171890184485_0.jpg",
+          "tw": 384,
+          "th": 479
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhgICdWgAAHtt_.jpg",
+          "w": 959,
+          "h": 1200,
+          "media_key": "3_2110042116638277632",
+          "file": "2110042171890184485_1.jpg",
+          "thumb": "2110042171890184485_1.jpg",
+          "tw": 384,
+          "th": 479
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhgICfWoAAxpNr.jpg",
+          "w": 959,
+          "h": 1200,
+          "media_key": "3_2110042116646674432",
+          "file": "2110042171890184485_2.jpg",
+          "thumb": "2110042171890184485_2.jpg",
+          "tw": 384,
+          "th": 479
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108792895138349057",
       "url": "https://x.com/imGopalTiwari/status/2108792895138349057",
       "author": "imGopalTiwari",
@@ -5494,6 +5992,35 @@
           "media_key": "3_2108758417292865536",
           "file": "2108833915360481778_0.jpg",
           "thumb": "2108833915360481778_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109915097380409713",
+      "url": "https://x.com/kabumira862571/status/2109915097380409713",
+      "author": "kabumira862571",
+      "author_name": "カーブミラー",
+      "avatar": "https://pbs.twimg.com/profile_images/1675467594609090560/WJp9rDF6_normal.jpg",
+      "created_at_utc": "2026-10-13T07:52:14.000Z",
+      "created_at_sh": "2026-10-13 15:52",
+      "likes": 17,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "ja",
+      "text": "ChatGPT GPT-Image 2.5\n#PromptShare\n楽しもう😸\nイジってもOK。\n\n『チャッピーから見た自分の姿』\n\n注意：\nChatGPTのメモリ機能をONにしてください。\n\nPrompt：\nこれまでのチャットをもとに、私のキャライメージを作成して。\nイメージを詩のように語って。\nアスペクト比は縦長（4:5）で描画",
+      "prompt": "これまでのチャットをもとに、私のキャライメージを作成して。\nイメージを詩のように語って。\nアスペクト比は縦長（4:5）で描画",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUfsmF8aAAAi7cT.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2109915089621090304",
+          "file": "2109915097380409713_0.jpg",
+          "thumb": "2109915097380409713_0.jpg",
           "tw": 384,
           "th": 480
         }
@@ -5766,6 +6293,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110030676481482994",
+      "url": "https://x.com/imGopalTiwari/status/2110030676481482994",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-13T15:31:30.000Z",
+      "created_at_sh": "2026-10-13 23:31",
+      "likes": 15,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic dark fantasy survival portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a soaked light-grey fitted tank top with thin straps and matching shorts, a delicate gold necklace with small pendants and subtle earrings. She lies prone in shallow, turbulent water, her chest slightly lifted on bent elbows, torso angled diagonally toward the right and hips and legs trailing behind her. Both arms stretch forward toward the camera, palms pressing against the wet rocky ground and fingers spread naturally; her shoulders are tense as she struggles forward through the water. Her face is lifted toward the camera, with wide grey-green eyes, slightly raised and drawn-together brows, and softly parted lips conveying fear, exhaustion and urgent alertness. Her long, dark chestnut-brown hair is completely wet, tangled into separated strands that cling across her forehead, cheeks, neck and shoulders, with loose sections trailing along the water. Use fair natural skin with realistic pores, damp highlights and tiny water droplets across her face, arms and shoulders. Behind her, create a vast moonlit alien shoreline with jagged black rocks, crashing silver waves, dense rolling fog and an enormous skeletal, spider-like creature looming through the distant mountains, its tiny cyan eyes glowing through the darkness beneath a bright full moon. Use cold moonlight from the upper right, icy blue rim lighting, silver reflections across the water and faint cyan illumination from the creature. Apply a desaturated steel-blue and charcoal colour grade with deep blacks, cool highlights, restrained saturation and subtle cinematic grain, contrasted by natural skin tones and sharp wet-surface reflections. Maintain realistic water physics, with ripples and foam surrounding her body and reflections following the moonlight. \nNegative prompt: altered identity, incorrect body alignment, floating limbs, distorted hands, extra fingers, dry hair, artificial water, excessive glow, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic dark fantasy survival portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a soaked light-grey fitted tank top with thin straps and matching shorts, a delicate gold necklace with small pendants and subtle earrings. She lies prone in shallow, turbulent water, her chest slightly lifted on bent elbows, torso angled diagonally toward the right and hips and legs trailing behind her. Both arms stretch forward toward the camera, palms pressing against the wet rocky ground and fingers spread naturally; her shoulders are tense as she struggles forward through the water. Her face is lifted toward the camera, with wide grey-green eyes, slightly raised and drawn-together brows, and softly parted lips conveying fear, exhaustion and urgent alertness. Her long, dark chestnut-brown hair is completely wet, tangled into separated strands that cling across her forehead, cheeks, neck and shoulders, with loose sections trailing along the water. Use fair natural skin with realistic pores, damp highlights and tiny water droplets across her face, arms and shoulders. Behind her, create a vast moonlit alien shoreline with jagged black rocks, crashing silver waves, dense rolling fog and an enormous skeletal, spider-like creature looming through the distant mountains, its tiny cyan eyes glowing through the darkness beneath a bright full moon. Use cold moonlight from the upper right, icy blue rim lighting, silver reflections across the water and faint cyan illumination from the creature. Apply a desaturated steel-blue and charcoal colour grade with deep blacks, cool highlights, restrained saturation and subtle cinematic grain, contrasted by natural skin tones and sharp wet-surface reflections. Maintain realistic water physics, with ripples and foam surrounding her body and reflections following the moonlight. \nNegative prompt: altered identity, incorrect body alignment, floating limbs, distorted hands, extra fingers, dry hair, artificial water, excessive glow, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhVtRzbsAAmm8i.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110030661784678400",
+          "file": "2110030676481482994_0.jpg",
+          "thumb": "2110030676481482994_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2098309691877241146",
       "url": "https://x.com/xueyu1125/status/2098309691877241146",
       "author": "xueyu1125",
@@ -5834,6 +6390,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110001107246203292",
+      "url": "https://x.com/Gdgtify/status/2110001107246203292",
+      "author": "Gdgtify",
+      "author_name": "Gadgetify",
+      "avatar": "https://pbs.twimg.com/profile_images/499964793130741761/ob9oRmW6_normal.png",
+      "created_at_utc": "2026-10-13T13:34:00.000Z",
+      "created_at_sh": "2026-10-13 21:34",
+      "likes": 14,
+      "reposts": 0,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "Another prompt for landing page design, done with GPT Image 2.5. I just feed these to Opus or Sol and ask it to turn them into an interactive website. \n\nPrompt: 16:9, 2x2 grid, do this for an unusual but real classic motorcycles INPUT = [ TOPIC / HERO_OBJECT / BRAND_TEMPERAMENT / VIEWPORT / GRAVITY_LAW ] \n\nRun HERO_PRODUCT_GRAVITY:\n\nTOPIC_DNA      := infer the category from TOPIC alone — what's sold, who buys it,\n                  what its shelf looks like\nHERO_DNA       := ONE photographic hero object, cut out, oversized, 30–40% of frame;\n                  real material response — specular on foil, matte on paper,\n                  subsurface scatter on skin or fruit\nBRAND_DNA      := derive the palette FROM the object — 1 dominant, 1 accent pulled\n                  from a hue the object actually contains, 1 near-neutral ground\nLIGHT_ANCHOR   := decide key light position ONCE (upper-left or upper-right); every\n                  shadow — object, cards, pills, floating confetti — falls the same\n                  direction at the same angle and softness\nGRAVITY_LAW    := the hero is either GROUNDED (contact shadow touching a visible\n                  surface plane) or SUSPENDED (ambient occlusion beneath, blur growing\n                  with height) — never both, never floating with a hard cast shadow\n                  and no plane to cast it onto\nDEPTH_ORDER    := ground wash < decorative rays/confetti < hero object < UI chrome.\n                  Nav, cart and buttons are ALWAYS in front, never occluded\nTYPE_LOGIC     := one display face for the headline (heavy — pick condensed OR wide,\n                  not both), one neutral for everything else; headline ≤ 6 words,\n                  body renders as legible micro-type, never enlarged gibberish\nIMPERFECTION   := exactly one element breaks its bounding box — a badge rotated 4–7°,\n                  a sticker overlapping the product silhouette, a stray mark in the gutter\nFRAME          := desktop 16:10, 64–80px outer gutter; the bottom edge reveals the top\n                  15% of the next section so the page reads as scrollable\nMOOD           := appetite, immediacy, one unmistakable action\n\nRender: one screen where the product's own light governs every pixel of interface around it.\n\nForbidden — objects: stock-photo humans, lorem blocks at display size, a second competing hero\nForbidden — look: conflicting shadow directions, cut-out halo or chewed edges, cast shadows\non flat 2D illustration, palette colors absent from the object, three type families,\nnav bar sitting behind the product",
+      "prompt": "16:9, 2x2 grid, do this for an unusual but real classic motorcycles INPUT = [ TOPIC / HERO_OBJECT / BRAND_TEMPERAMENT / VIEWPORT / GRAVITY_LAW ] \n\nRun HERO_PRODUCT_GRAVITY:\n\nTOPIC_DNA      := infer the category from TOPIC alone — what's sold, who buys it,\n                  what its shelf looks like\nHERO_DNA       := ONE photographic hero object, cut out, oversized, 30–40% of frame;\n                  real material response — specular on foil, matte on paper,\n                  subsurface scatter on skin or fruit\nBRAND_DNA      := derive the palette FROM the object — 1 dominant, 1 accent pulled\n                  from a hue the object actually contains, 1 near-neutral ground\nLIGHT_ANCHOR   := decide key light position ONCE (upper-left or upper-right); every\n                  shadow — object, cards, pills, floating confetti — falls the same\n                  direction at the same angle and softness\nGRAVITY_LAW    := the hero is either GROUNDED (contact shadow touching a visible\n                  surface plane) or SUSPENDED (ambient occlusion beneath, blur growing\n                  with height) — never both, never floating with a hard cast shadow\n                  and no plane to cast it onto\nDEPTH_ORDER    := ground wash < decorative rays/confetti < hero object < UI chrome.\n                  Nav, cart and buttons are ALWAYS in front, never occluded\nTYPE_LOGIC     := one display face for the headline (heavy — pick condensed OR wide,\n                  not both), one neutral for everything else; headline ≤ 6 words,\n                  body renders as legible micro-type, never enlarged gibberish\nIMPERFECTION   := exactly one element breaks its bounding box — a badge rotated 4–7°,\n                  a sticker overlapping the product silhouette, a stray mark in the gutter\nFRAME          := desktop 16:10, 64–80px outer gutter; the bottom edge reveals the top\n                  15% of the next section so the page reads as scrollable\nMOOD           := appetite, immediacy, one unmistakable action\n\nRender: one screen where the product's own light governs every pixel of interface around it.\n\nForbidden — objects: stock-photo humans, lorem blocks at display size, a second competing hero\nForbidden — look: conflicting shadow directions, cut-out halo or chewed edges, cast shadows\non flat 2D illustration, palette colors absent from the object, three type families,\nnav bar sitting behind the product",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUZCPBCWMAEzHLD.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2109446301213405185",
+          "file": "2110001107246203292_0.jpg",
+          "thumb": "2110001107246203292_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2109665636700057789",
       "url": "https://x.com/Goodmanprotocol/status/2109665636700057789",
       "author": "Goodmanprotocol",
@@ -5887,6 +6472,35 @@
           "file": "2109665636700057789_3.jpg",
           "thumb": "2109665636700057789_3.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110043764215644622",
+      "url": "https://x.com/imGopalTiwari/status/2110043764215644622",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-13T16:23:30.000Z",
+      "created_at_sh": "2026-10-14 00:23",
+      "likes": 13,
+      "reposts": 0,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic upside-down sunset portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a dark olive-green sleeveless fitted top with thin straps and matching shorts. She is lying on her back diagonally across a large, uneven rock beside the water, with her upper body extending toward the distant shoreline and her head positioned closest to the camera, hanging backward over the near edge of the rock. Her face is naturally upside down from the viewer’s perspective, with her neck gently extended and her head tilted slightly to one side, maintaining a believable connection between her head, neck and shoulders. Her long hair spreads beneath her head, flowing over the rock and into the dark grass at the bottom of the frame. Her left arm reaches dramatically toward the lens, extending from the shoulder with the elbow slightly bent; her hand fills much of the left foreground, palm angled toward the camera, fingers loosely separated and naturally curved, appearing oversized through strong close-range perspective and noticeably blurred by shallow depth of field. Her right arm bends upward beside her head, with the elbow resting on the rock and her hand touching the hair near her forehead. Her brown eyes are wide and clearly focused directly on the camera despite her inverted position, with dark eyeliner, defined lashes and precisely shaped eyebrows. Her brows are gently raised, her eyelids open and alert, and her softly pursed pink lips create a subtle, playful, self-assured expression without a broad smile. Her long, thick chestnut-brown hair has a centre part, abundant loose S-shaped waves, distinct caramel-brown highlights and naturally separated strands, fanning outward around her head and cascading down the rock into the foreground. Her fair, luminous skin has realistic pores, subtle tonal variation and warm reflected sunset highlights. The setting includes rough grey-brown rock beneath her, dark teal grass framing the lower edges, calm blue-green water across the middle background and a softly blurred tree-lined shoreline at the horizon. The low sun peeks through the trees just behind her raised arm and head, creating a concentrated amber flare and a fine golden rim along the edges of her hair and shoulder. Use a low, close camera angle near the rock surface, with the face and reaching hand dominating the foreground and the shoreline remaining softly defocused. Apply a distinctive cinematic film look with warm peach, copper and amber highlights on the skin, rich chestnut hair, subdued turquoise water, deep desaturated teal-green shadows and earthy rock browns. Add gentle halation around the setting sun, subtle lens bloom, fine organic film grain, softly lifted shadow detail, restrained saturation and smooth highlight roll-off, while preserving natural skin colour and strong separation between the warm subject and cool surroundings. Keep the eyes and facial features crisp, the foreground hand softly blurred by realistic depth of field, and the distant background hazy with atmospheric sunset softness. \n\nNegative prompt: altered identity, twisted neck, misaligned head, distorted eyes, deformed fingers, extra limbs, bad anatomy, plastic skin, excessive sharpening, text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic upside-down sunset portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a dark olive-green sleeveless fitted top with thin straps and matching shorts. She is lying on her back diagonally across a large, uneven rock beside the water, with her upper body extending toward the distant shoreline and her head positioned closest to the camera, hanging backward over the near edge of the rock. Her face is naturally upside down from the viewer’s perspective, with her neck gently extended and her head tilted slightly to one side, maintaining a believable connection between her head, neck and shoulders. Her long hair spreads beneath her head, flowing over the rock and into the dark grass at the bottom of the frame. Her left arm reaches dramatically toward the lens, extending from the shoulder with the elbow slightly bent; her hand fills much of the left foreground, palm angled toward the camera, fingers loosely separated and naturally curved, appearing oversized through strong close-range perspective and noticeably blurred by shallow depth of field. Her right arm bends upward beside her head, with the elbow resting on the rock and her hand touching the hair near her forehead. Her brown eyes are wide and clearly focused directly on the camera despite her inverted position, with dark eyeliner, defined lashes and precisely shaped eyebrows. Her brows are gently raised, her eyelids open and alert, and her softly pursed pink lips create a subtle, playful, self-assured expression without a broad smile. Her long, thick chestnut-brown hair has a centre part, abundant loose S-shaped waves, distinct caramel-brown highlights and naturally separated strands, fanning outward around her head and cascading down the rock into the foreground. Her fair, luminous skin has realistic pores, subtle tonal variation and warm reflected sunset highlights. The setting includes rough grey-brown rock beneath her, dark teal grass framing the lower edges, calm blue-green water across the middle background and a softly blurred tree-lined shoreline at the horizon. The low sun peeks through the trees just behind her raised arm and head, creating a concentrated amber flare and a fine golden rim along the edges of her hair and shoulder. Use a low, close camera angle near the rock surface, with the face and reaching hand dominating the foreground and the shoreline remaining softly defocused. Apply a distinctive cinematic film look with warm peach, copper and amber highlights on the skin, rich chestnut hair, subdued turquoise water, deep desaturated teal-green shadows and earthy rock browns. Add gentle halation around the setting sun, subtle lens bloom, fine organic film grain, softly lifted shadow detail, restrained saturation and smooth highlight roll-off, while preserving natural skin colour and strong separation between the warm subject and cool surroundings. Keep the eyes and facial features crisp, the foreground hand softly blurred by realistic depth of field, and the distant background hazy with atmospheric sunset softness. \n\nNegative prompt: altered identity, twisted neck, misaligned head, distorted eyes, deformed fingers, extra limbs, bad anatomy, plastic skin, excessive sharpening, text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhhm96awAAr5Ct.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2110043747505586176",
+          "file": "2110043764215644622_0.jpg",
+          "thumb": "2110043764215644622_0.jpg",
+          "tw": 269,
           "th": 480
         }
       ],
@@ -6322,6 +6936,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110029931828932952",
+      "url": "https://x.com/MrDasCreates/status/2110029931828932952",
+      "author": "MrDasCreates",
+      "author_name": "Mr Das",
+      "avatar": "https://pbs.twimg.com/profile_images/2099489608006582272/UunROOIJ_normal.jpg",
+      "created_at_utc": "2026-10-13T15:28:32.000Z",
+      "created_at_sh": "2026-10-13 23:28",
+      "likes": 8,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt:\n{\n  \"type\": \"image_generation_prompt\",\n  \"title\": \"Midnight Glass — Cinematic Night Portrait (Female)\",\n  \"style\": \"cinematic film noir, contemporary fashion, cool-toned, high contrast\",\n  \"concept\": {\n    \"description\": \"A moody night portrait of a woman standing on a rain-slicked city sidewalk, lit by a single cool streetlight and distant neon reflections. The image emphasizes atmosphere, silhouette, and quiet confidence.\",\n    \"mood\": \"mysterious, composed, cinematic\",\n    \"color_palette\": [\"deep navy\", \"black\", \"silver\", \"cool white\", \"muted amber\"]\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"identity_preservation\": {\n      \"use_reference_image\": true,\n      \"alter_face\": false,\n      \"notes\": \"Keep the woman’s facial features and physical appearance consistent with the reference image.\"\n    },\n    \"pose\": {\n      \"name\": \"Still Glance\",\n      \"posture\": \"standing with one shoulder slightly turned toward the camera\",\n      \"hand_action\": \"one hand lightly holding the edge of her coat collar\",\n      \"expression\": \"calm, direct, restrained\"\n    },\n    \"appearance\": {\n      \"hair\": {\n        \"length\": \"shoulder-length\",\n        \"texture\": \"straight with slight movement\"\n      },\n      \"makeup\": {\n        \"style\": \"minimal, natural skin, defined eyes\"\n      }\n    }\n  },\n  \"wardrobe\": {\n    \"coat\": \"long black tailored coat with a subtle sheen\",\n    \"top\": \"dark silk blouse\",\n    \"pants\": \"slim black trousers\",\n    \"shoes\": \"black leather boots\",\n    \"accessories\": \"thin silver hoop earrings\"\n  },\n  \"environment\": {\n    \"background\": {\n      \"setting\": \"wet urban street at night\",\n      \"details\": \"soft bokeh lights, reflective pavement, distant blurred buildings\",\n      \"style\": \"atmospheric, uncluttered\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"single cool key light from above and slightly to the side\",\n    \"shadows\": \"soft but defined shadows\",\n    \"effect\": \"creates depth and a quiet cinematic mood\"\n  },\n  \"camera\": {\n    \"camera_model\": \"Sony A7R V\",\n    \"lens\": \"50mm f/1.2\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 400,\n    \"shutter_speed\": \"1/160s\",\n    \"angle\": \"eye-level, slight three-quarter view\",\n    \"framing\": \"vertical 4:5, head and torso with some environmental context\",\n    \"resolution\": \"Ultra-HD\"\n  },\n  \"visual_effects\": {\n    \"film_grain\": \"fine cinematic grain\",\n    \"vignette\": \"gentle darkening at the edges\",\n    \"texture_focus\": [\"coat fabric\", \"wet pavement reflections\", \"skin\"]\n  },\n  \"quality\": {\n    \"realism\": \"photorealistic\",\n    \"detail_level\": \"high editorial detail with natural skin texture\"\n  },\n  \"output_goal\": \"Create a realistic, cool-toned night portrait with a restrained film-noir atmosphere, strong composition, and convincing light and reflections.\"\n}",
+      "prompt": "\"type\": \"image_generation_prompt\",\n  \"title\": \"Midnight Glass — Cinematic Night Portrait (Female)\",\n  \"style\": \"cinematic film noir, contemporary fashion, cool-toned, high contrast\",\n  \"concept\": {\n    \"description\": \"A moody night portrait of a woman standing on a rain-slicked city sidewalk, lit by a single cool streetlight and distant neon reflections. The image emphasizes atmosphere, silhouette, and quiet confidence.\",\n    \"mood\": \"mysterious, composed, cinematic\",\n    \"color_palette\": [\"deep navy\", \"black\", \"silver\", \"cool white\", \"muted amber\"]\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"identity_preservation\": {\n      \"use_reference_image\": true,\n      \"alter_face\": false,\n      \"notes\": \"Keep the woman’s facial features and physical appearance consistent with the reference image.\"\n    },\n    \"pose\": {\n      \"name\": \"Still Glance\",\n      \"posture\": \"standing with one shoulder slightly turned toward the camera\",\n      \"hand_action\": \"one hand lightly holding the edge of her coat collar\",\n      \"expression\": \"calm, direct, restrained\"\n    },\n    \"appearance\": {\n      \"hair\": {\n        \"length\": \"shoulder-length\",\n        \"texture\": \"straight with slight movement\"\n      },\n      \"makeup\": {\n        \"style\": \"minimal, natural skin, defined eyes\"\n      }\n    }\n  },\n  \"wardrobe\": {\n    \"coat\": \"long black tailored coat with a subtle sheen\",\n    \"top\": \"dark silk blouse\",\n    \"pants\": \"slim black trousers\",\n    \"shoes\": \"black leather boots\",\n    \"accessories\": \"thin silver hoop earrings\"\n  },\n  \"environment\": {\n    \"background\": {\n      \"setting\": \"wet urban street at night\",\n      \"details\": \"soft bokeh lights, reflective pavement, distant blurred buildings\",\n      \"style\": \"atmospheric, uncluttered\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"single cool key light from above and slightly to the side\",\n    \"shadows\": \"soft but defined shadows\",\n    \"effect\": \"creates depth and a quiet cinematic mood\"\n  },\n  \"camera\": {\n    \"camera_model\": \"Sony A7R V\",\n    \"lens\": \"50mm f/1.2\",\n    \"aperture\": \"f/1.8\",\n    \"iso\": 400,\n    \"shutter_speed\": \"1/160s\",\n    \"angle\": \"eye-level, slight three-quarter view\",\n    \"framing\": \"vertical 4:5, head and torso with some environmental context\",\n    \"resolution\": \"Ultra-HD\"\n  },\n  \"visual_effects\": {\n    \"film_grain\": \"fine cinematic grain\",\n    \"vignette\": \"gentle darkening at the edges\",\n    \"texture_focus\": [\"coat fabric\", \"wet pavement reflections\", \"skin\"]\n  },\n  \"quality\": {\n    \"realism\": \"photorealistic\",\n    \"detail_level\": \"high editorial detail with natural skin texture\"\n  },\n  \"output_goal\": \"Create a realistic, cool-toned night portrait with a restrained film-noir atmosphere, strong composition, and convincing light and reflections.\"\n}",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhVCK3aUAAdm3u.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2110029921187942400",
+          "file": "2110029931828932952_0.jpg",
+          "thumb": "2110029931828932952_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097435771959488885",
       "url": "https://x.com/nouryyildiz/status/2097435771959488885",
       "author": "nouryyildiz",
@@ -6710,6 +7353,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110013444472635903",
+      "url": "https://x.com/Tech_Apex0/status/2110013444472635903",
+      "author": "Tech_Apex0",
+      "author_name": "Apex AI",
+      "avatar": "https://pbs.twimg.com/profile_images/2107710629985566720/-cG3g3f1_normal.jpg",
+      "created_at_utc": "2026-10-13T14:23:01.000Z",
+      "created_at_sh": "2026-10-13 22:23",
+      "likes": 6,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "A whole mood wrapped in winter colors.\n\nGPT Image 2.5 \n\nPrompt : \n\n{\n  \"prompt\": \"A beautiful 2D storybook illustration of a cute young cartoon woman standing in a snowy city at sunset, full body visible. She has big expressive brown eyes, rosy cheeks, dark brown windblown bob hair, a teal wide-brim hat, a vibrant mustard-yellow long coat, chunky teal knitted scarf flowing in the wind, navy trousers, burnt-orange boots, and a caramel leather handbag. Deep cobalt-blue snowy sky, glowing orange and golden sunset clouds, distant skyscrapers with warm illuminated windows, sparkling snowfall, a vintage glowing street lamp on the left, snow-covered railing, colorful river reflections. Rich vibrant colors, teal-orange contrast, magical cozy atmosphere, detailed painterly textures, soft cinematic lighting, adorable character design, sharp details, premium storybook art, 4K quality, vertical 9:16 composition, character slightly right of center.\",\n  \"negative_prompt\": \"photorealistic, 3D, dull colors, blurry face, cropped feet, extra fingers, deformed anatomy, text, watermark, logo\",\n  \"aspect_ratio\": \"9:16\",\n  \"quality\": \"high\"",
+      "prompt": "\"prompt\": \"A beautiful 2D storybook illustration of a cute young cartoon woman standing in a snowy city at sunset, full body visible. She has big expressive brown eyes, rosy cheeks, dark brown windblown bob hair, a teal wide-brim hat, a vibrant mustard-yellow long coat, chunky teal knitted scarf flowing in the wind, navy trousers, burnt-orange boots, and a caramel leather handbag. Deep cobalt-blue snowy sky, glowing orange and golden sunset clouds, distant skyscrapers with warm illuminated windows, sparkling snowfall, a vintage glowing street lamp on the left, snow-covered railing, colorful river reflections. Rich vibrant colors, teal-orange contrast, magical cozy atmosphere, detailed painterly textures, soft cinematic lighting, adorable character design, sharp details, premium storybook art, 4K quality, vertical 9:16 composition, character slightly right of center.\",\n  \"negative_prompt\": \"photorealistic, 3D, dull colors, blurry face, cropped feet, extra fingers, deformed anatomy, text, watermark, logo\",\n  \"aspect_ratio\": \"9:16\",\n  \"quality\": \"high\"",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhGCV0WYAAI7rw.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110013431453474816",
+          "file": "2110013444472635903_0.jpg",
+          "thumb": "2110013444472635903_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhGCVvWEAAn2jo.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110013431432482816",
+          "file": "2110013444472635903_1.jpg",
+          "thumb": "2110013444472635903_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108507207851745590",
       "url": "https://x.com/MahnoorAi12/status/2108507207851745590",
       "author": "MahnoorAi12",
@@ -6768,6 +7450,84 @@
       "nsfw_flag": false
     },
     {
+      "id": "2109910471717601369",
+      "url": "https://x.com/imGopalTiwari/status/2109910471717601369",
+      "author": "imGopalTiwari",
+      "author_name": "Gopal Tiwari",
+      "avatar": "https://pbs.twimg.com/profile_images/2005518104529645568/vTXrGHgr_normal.jpg",
+      "created_at_utc": "2026-10-13T07:33:51.000Z",
+      "created_at_sh": "2026-10-13 15:33",
+      "likes": 5,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "Made with GPT Image 2.5 \n\nPrompt: Hyper-realistic IMAX-level Netflix-style cinematic fashion editorial portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white cropped tank top, high-waisted blue straight-leg jeans and beige open-toe block-heel sandals, accessorized with round blue mirrored sunglasses with thin gold frames. She stands with her torso facing mostly forward and her hips subtly shifted to one side, her left hand tucked into her front jeans pocket while her right arm hangs naturally beside her thigh; her legs are relaxed, with one knee slightly bent and one foot positioned forward. Her head faces the camera, chin level, with a composed, confident expression, relaxed brows, and softly closed lips behind the sunglasses. Her long honey-blonde hair has a center part, soft volume at the crown and loose flowing waves falling over both shoulders. Use natural fair skin with realistic texture and soft highlights. Create a clean modern studio composition with a large monochrome portrait of the woman wearing blue sunglasses on the left, a vivid cobalt-blue rectangular panel behind the full-body subject, and a pale cool-grey background. Apply balanced soft studio lighting, subtle shadows and a polished fashion-campaign colour grade featuring cobalt blue, cool grey, crisp white and natural denim tones, with controlled contrast and clean, sharp details. \nNegative prompt: altered identity, incorrect sunglasses, distorted hands, extra fingers, bad anatomy, unnatural pose, illegible text, watermark.",
+      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic fashion editorial portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white cropped tank top, high-waisted blue straight-leg jeans and beige open-toe block-heel sandals, accessorized with round blue mirrored sunglasses with thin gold frames. She stands with her torso facing mostly forward and her hips subtly shifted to one side, her left hand tucked into her front jeans pocket while her right arm hangs naturally beside her thigh; her legs are relaxed, with one knee slightly bent and one foot positioned forward. Her head faces the camera, chin level, with a composed, confident expression, relaxed brows, and softly closed lips behind the sunglasses. Her long honey-blonde hair has a center part, soft volume at the crown and loose flowing waves falling over both shoulders. Use natural fair skin with realistic texture and soft highlights. Create a clean modern studio composition with a large monochrome portrait of the woman wearing blue sunglasses on the left, a vivid cobalt-blue rectangular panel behind the full-body subject, and a pale cool-grey background. Apply balanced soft studio lighting, subtle shadows and a polished fashion-campaign colour grade featuring cobalt blue, cool grey, crisp white and natural denim tones, with controlled contrast and clean, sharp details. \nNegative prompt: altered identity, incorrect sunglasses, distorted hands, extra fingers, bad anatomy, unnatural pose, illegible text, watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUfoYNAbsAAnpkS.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2109910452952346624",
+          "file": "2109910471717601369_0.jpg",
+          "thumb": "2109910471717601369_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109826460269597080",
+      "url": "https://x.com/CandyTravelight/status/2109826460269597080",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-13T02:00:01.000Z",
+      "created_at_sh": "2026-10-13 10:00",
+      "likes": 5,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "赛博风女佣兵，你喜欢哪个？\n图1：GPT-image-2.5\n图2：nano banana2\n图3：Grok-imagine2\n\nprompt\ncinematic ultra realistic portrait, cyberpunk aesthetic, 8k sharp details. A 25-year-old East Asian woman, a cybernetically augmented street mercenary, athletic build. Shaved-side haircut with long neon-blue dyed top swept back, faint glowing circuit tattoos tracing her temple and neck, natural skin with visible fine texture and pores, no plastic smoothing, subtle dark eye makeup. Defiant direct gaze into the camera, chin slightly raised. She wears a black techwear jacket with glowing orange seam lines, a carbon-fiber chest plate with scratches and wear marks, fingerless gloves. Leaning one shoulder against a rain-slicked neon wall, arms crossed, a holographic katana hilt clipped at her hip. Foreground: diagonal rain streaks catching neon light; midground: the figure; background: a neon-drenched alley with holographic billboards, steam rising from vents, a flying vehicle blurred overhead. Neon pink and cyan rim lighting from signage on both sides, 6500K key with deep shadows, wet reflections on the ground. Eye-level medium shot, 35mm lens, f/1.8, shallow depth of field, rule of thirds. Teal-magenta cyberpunk color grading, subtle film grain, Eastmancolor feel. Rebellious, electric, rain-soaked noir mood. Photorealistic style, sharp focus, high detail. No oil painting, no anime, no 3D render, no deformed hands, no extra fingers, no plastic skin, no oversaturated flat colors.",
+      "prompt": "cinematic ultra realistic portrait, cyberpunk aesthetic, 8k sharp details. A 25-year-old East Asian woman, a cybernetically augmented street mercenary, athletic build. Shaved-side haircut with long neon-blue dyed top swept back, faint glowing circuit tattoos tracing her temple and neck, natural skin with visible fine texture and pores, no plastic smoothing, subtle dark eye makeup. Defiant direct gaze into the camera, chin slightly raised. She wears a black techwear jacket with glowing orange seam lines, a carbon-fiber chest plate with scratches and wear marks, fingerless gloves. Leaning one shoulder against a rain-slicked neon wall, arms crossed, a holographic katana hilt clipped at her hip. Foreground: diagonal rain streaks catching neon light; midground: the figure; background: a neon-drenched alley with holographic billboards, steam rising from vents, a flying vehicle blurred overhead. Neon pink and cyan rim lighting from signage on both sides, 6500K key with deep shadows, wet reflections on the ground. Eye-level medium shot, 35mm lens, f/1.8, shallow depth of field, rule of thirds. Teal-magenta cyberpunk color grading, subtle film grain, Eastmancolor feel. Rebellious, electric, rain-soaked noir mood. Photorealistic style, sharp focus, high detail. No oil painting, no anime, no 3D render, no deformed hands, no extra fingers, no plastic skin, no oversaturated flat colors.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUd6Xo7a4AAEVbs.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109789496988590080",
+          "file": "2109826460269597080_0.jpg",
+          "thumb": "2109826460269597080_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUd6ZRraUAAZ5Fu.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2109789525107167232",
+          "file": "2109826460269597080_1.jpg",
+          "thumb": "2109826460269597080_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUd6bCvbkAAP3b2.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109789555457232896",
+          "file": "2109826460269597080_2.jpg",
+          "thumb": "2109826460269597080_2.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097602211643883913",
       "url": "https://x.com/novalintonai/status/2097602211643883913",
       "author": "novalintonai",
@@ -6820,6 +7580,94 @@
           "file": "2108379392246255934_0.jpg",
           "thumb": "2108379392246255934_0.jpg",
           "tw": 383,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110004296125436339",
+      "url": "https://x.com/CandyTravelight/status/2110004296125436339",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-13T13:46:40.000Z",
+      "created_at_sh": "2026-10-13 21:46",
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "晚安，今晚把银河寄存在沙漠的石拱门里🌌🏜️\n图1：GPT-image-2.5\n图2：nano banana2\n图3：Grok-imagine2\nprompt\nPhotorealistic desert rock arch under the Milky Way at night, cinematic vertical landscape, 8k ultra detailed. A vast desert at midnight, air dry and perfectly clear. Subject details: a massive natural sandstone arch framing the night sky, wind-sculpted red rock formations around it, fine desert sand with ripple patterns in the foreground, a few drought-resistant shrubs. Atmosphere: absolute stillness, no wind, the desert asleep. Light: the Milky Way core blazing directly through the arch opening at 7500K cold blue night, dense starfield, faint airglow on the horizon, subtle moonlight from the left edging the rock. Depth layers: foreground rippled sand; midground the towering arch; background distant mesas; sky full of stars. Camera: 20mm ultra-wide, f/2.8, 25-second long exposure look, deep depth of field, tripod 1 meter above the sand. Color: deep blue night cinematic grade, warm amber rock tones under starlight, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, arch centered framing the galactic core. Mood: silent, timeless, the desert asleep under the cosmos. Documentary nightscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "prompt": "Photorealistic desert rock arch under the Milky Way at night, cinematic vertical landscape, 8k ultra detailed. A vast desert at midnight, air dry and perfectly clear. Subject details: a massive natural sandstone arch framing the night sky, wind-sculpted red rock formations around it, fine desert sand with ripple patterns in the foreground, a few drought-resistant shrubs. Atmosphere: absolute stillness, no wind, the desert asleep. Light: the Milky Way core blazing directly through the arch opening at 7500K cold blue night, dense starfield, faint airglow on the horizon, subtle moonlight from the left edging the rock. Depth layers: foreground rippled sand; midground the towering arch; background distant mesas; sky full of stars. Camera: 20mm ultra-wide, f/2.8, 25-second long exposure look, deep depth of field, tripod 1 meter above the sand. Color: deep blue night cinematic grade, warm amber rock tones under starlight, Eastmancolor film simulation, fine film grain. Composition: rule of thirds, arch centered framing the galactic core. Mood: silent, timeless, the desert asleep under the cosmos. Documentary nightscape photography style. Ultra-detailed, 8K quality. No people, no text, no watermark, no oil painting, no anime, no 3D render.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUg9g6SbcAAwpg_.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2110004061034737664",
+          "file": "2110004296125436339_0.jpg",
+          "thumb": "2110004296125436339_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUg9honaAAAdUu3.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2110004073470754816",
+          "file": "2110004296125436339_1.jpg",
+          "thumb": "2110004296125436339_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUg9j06a4AAYQCt.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110004111131467776",
+          "file": "2110004296125436339_2.jpg",
+          "thumb": "2110004296125436339_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2109995151213076729",
+      "url": "https://x.com/Enaya_ai/status/2109995151213076729",
+      "author": "Enaya_ai",
+      "author_name": "Enaya Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2101771715655454720/g2lAbvj-_normal.jpg",
+      "created_at_utc": "2026-10-13T13:10:20.000Z",
+      "created_at_sh": "2026-10-13 21:10",
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 4,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 5 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 1",
+      "prompt": "CINEMATIC DOUBLE PORTRAIT COLLAGE — ULTRA-REALISTIC MALE & FEMALE EDITORIAL PHOTOSHOOT\n\nCreate an ultra-realistic, high-end cinematic portrait collage featuring a handsome young man or a beautiful young woman as the main subject, with a large monochromatic pencil-sketch-style portrait of the exact same person filling the background. The composition must look like a luxury fashion magazine photoshoot.\n\n1. FACE & CHARACTER CONSISTENCY\n\nUse the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial proportions, eye shape, nose, lips, jawline, skin tone, hairstyle, and natural features. The foreground subject and oversized background portrait must clearly depict the same person.\n\n2. FOREGROUND POSE & COMPOSITION\n\nThe subject is sitting casually on a studio floor with one leg crossed and the other knee slightly raised. One arm rests naturally on the raised knee, while the other hand rests elegantly near the crossed leg. The body is slightly angled, and the subject gazes thoughtfully toward the right side of the frame with a calm, confident, sophisticated expression.\n\nFor the male version, dress him in a fitted black button-up shirt with rolled-up sleeves, slim-fit black trousers, clean white minimalist sneakers, and a premium silver wristwatch with a dark dial.\n\nFor the female version, dress her in a luxurious deep-crimson red blazer over a fitted black top, elegant black trousers, clean white minimalist sneakers, gold hoop earrings, and a premium wristwatch. Her long, voluminous dark brown hair falls in soft waves, styled half-up with loose strands framing her face.\n\n3. OVERSIZED BACKGROUND PORTRAIT\n\nBehind the seated subject, create an enormous, ultra-detailed monochromatic grayscale portrait of the same person. The face should occupy most of the upper and right portions of the frame, with the head turned slightly toward the right and a thoughtful editorial expression.\n\nRender the background portrait in realistic graphite pencil and charcoal textures, with delicate sketch marks, fine hair details, natural facial shading, and subtle artistic imperfections. Blend it seamlessly into a textured charcoal-gray studio wall.\n\n4. BACKGROUND & ENVIRONMENT\n\nUse a dark charcoal-gray textured wall with artistic scratches, subtle abstract brushstrokes, smoky gradients, and a matching studio floor. Create a cinematic, sophisticated atmosphere with depth and a premium editorial aesthetic.\n\nFor the female version, preserve the deep-crimson red blazer as the dominant accent color against the monochromatic background. For the male version, use an elegant black outfit with natural skin tones and subtle neutral highlights.\n\n5. LIGHTING & CAMERA\n\nProfessional softbox lighting, soft directional key light, gentle rim lighting around the hair and shoulders, realistic skin texture, natural shadows, detailed fabric folds, accurate hands, anatomically correct proportions, and cinematic depth.\n\nShot on a professional full-frame camera with a 50mm portrait lens, shallow depth of field, premium fashion photography, balanced exposure, and realistic perspective.\n\n6. VISUAL STYLE\n\nUltra-photorealistic, luxury fashion editorial, cinematic double-exposure-inspired composition, oversized grayscale pencil portrait, full-color foreground subject, sophisticated neutral grading, highly detailed hair, realistic skin pores, natural anatomy, 8K-quality detail, professional magazine-cover aesthetic.\n\n7. COMPOSITION RULES\n\n- Vertical 2:3 portrait composition.\n- The seated subject occupies the lower-left and central portion of the frame.\n- The oversized monochromatic portrait dominates the upper and right background.\n- Keep the foreground subject in full natural color.\n- Keep the background portrait strictly grayscale.\n- Maintain consistent facial identity between both portraits.\n- Ensure the face, hands, legs, and footwear are anatomically correct.\n- Create a seamless, artistic blend between the two portraits.\n- No text, no typography, no watermark, and no logo.\n\nNEGATIVE PROMPT: Cartoon, anime, plastic skin, excessive retouching, distorted face, inconsistent facial identity, asymmetrical eyes, extra fingers, missing fingers, deformed hands, incorrect anatomy, unnatural pose, duplicate foreground subject, blurry face, low resolution, oversaturated colors, messy composition, text, watermark, logo.\n\nFINAL RESULT: A premium, photorealistic cinematic portrait collage featuring one seated full-color subject and one enormous grayscale artistic portrait of the same person, with dramatic visual depth and luxury editorial quality.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUg1MyRawAAosLk.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109994919192608768",
+          "file": "2109995151213076729_0.jpg",
+          "thumb": "2109995151213076729_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUg1MyPbsAAgF9w.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2109994919184281600",
+          "file": "2109995151213076729_1.jpg",
+          "thumb": "2109995151213076729_1.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -7798,6 +8646,171 @@
           "thumb": "2109501586385031567_1.jpg",
           "tw": 479,
           "th": 308
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110049244501639490",
+      "url": "https://x.com/MayorKingAI/status/2110049244501639490",
+      "author": "MayorKingAI",
+      "author_name": "MayorkingAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2049554719119716352/htQ5PmLh_normal.jpg",
+      "created_at_utc": "2026-10-13T16:45:17.000Z",
+      "created_at_sh": "2026-10-14 00:45",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "RAKSHASA SOLDIER\n\nGPT IMAGE 2.5 PROMPT:\nUltra-photorealistic character sheet of a Rakshasa soldier from the Ramayana, a terrifying demonic warrior serving Ravana's army. Tall, imposing, extremely muscular humanoid physique, dark charcoal-gray skin with subtle bluish undertones, realistic rough skin texture, powerful jaw, prominent brow ridge, slightly pointed ears, small lower fangs, intense amber eyes, long messy black hair, thick beard, intimidating but anatomically realistic facial features. No extra heads or limbs.\n\nWearing heavy ancient Indian-inspired blackened steel armor with intricate gold engravings, aggressive shoulder guards, ornate bronze armbands, leather straps, dark crimson waistcloth, black dhoti, armored greaves and leather sandals. Carrying a massive brutal curved sword with a dark steel blade and engraved golden hilt.\n\nClean symmetrical three-panel character sheet layout: detailed frontal face and upper-body close-up on the left, full-body strictly frontal standing view in the center holding the sword, full-body direct back view on the right. Consistent character identity, identical armor, anatomy and proportions across all views.\n\nPlain seamless neutral gray studio background, soft professional three-point studio lighting, realistic contact shadows, extremely detailed natural skin, hair, fabric, leather and metal textures. Cinematic live-action photorealism, realistic anatomy, dark mythological fantasy aesthetic, no CGI appearance, no 3D render look, no illustration, no text. 16:9 aspect ratio.",
+      "prompt": "Ultra-photorealistic character sheet of a Rakshasa soldier from the Ramayana, a terrifying demonic warrior serving Ravana's army. Tall, imposing, extremely muscular humanoid physique, dark charcoal-gray skin with subtle bluish undertones, realistic rough skin texture, powerful jaw, prominent brow ridge, slightly pointed ears, small lower fangs, intense amber eyes, long messy black hair, thick beard, intimidating but anatomically realistic facial features. No extra heads or limbs.\n\nWearing heavy ancient Indian-inspired blackened steel armor with intricate gold engravings, aggressive shoulder guards, ornate bronze armbands, leather straps, dark crimson waistcloth, black dhoti, armored greaves and leather sandals. Carrying a massive brutal curved sword with a dark steel blade and engraved golden hilt.\n\nClean symmetrical three-panel character sheet layout: detailed frontal face and upper-body close-up on the left, full-body strictly frontal standing view in the center holding the sword, full-body direct back view on the right. Consistent character identity, identical armor, anatomy and proportions across all views.\n\nPlain seamless neutral gray studio background, soft professional three-point studio lighting, realistic contact shadows, extremely detailed natural skin, hair, fabric, leather and metal textures. Cinematic live-action photorealism, realistic anatomy, dark mythological fantasy aesthetic, no CGI appearance, no 3D render look, no illustration, no text. 16:9 aspect ratio.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhmmvWaAAAkmPg.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2110049241154584576",
+          "file": "2110049244501639490_0.jpg",
+          "thumb": "2110049244501639490_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110049228043190397",
+      "url": "https://x.com/MayorKingAI/status/2110049228043190397",
+      "author": "MayorKingAI",
+      "author_name": "MayorkingAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2049554719119716352/htQ5PmLh_normal.jpg",
+      "created_at_utc": "2026-10-13T16:45:13.000Z",
+      "created_at_sh": "2026-10-14 00:45",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "VANARA WARRIOR\n\nGPT IMAGE 2.5 PROMPT:\nUltra-photorealistic character sheet of a Vanara warrior from the Ramayana, a powerful humanoid monkey warrior with a muscular athletic build, broad shoulders, strong arms, realistic primate facial anatomy, expressive amber eyes, short dense dark brown fur covering his body, and a long muscular monkey tail. Fierce but intelligent appearance, strong jaw, natural simian features, realistic proportions, no cartoonish elements.\n\nWearing ancient Indian-inspired warrior attire, weathered bronze and gold chest armor, ornate golden armbands, leather straps, decorative waist belt, dark saffron dhoti, and traditional leather sandals. Carrying a massive traditional Indian gada mace, made of dark metal with intricate golden engravings, heavy spherical head and long handle.\n\nClean symmetrical three-panel character sheet layout: detailed frontal face and upper-body close-up on the left, full-body strictly frontal standing view in the center holding the mace, full-body direct back view on the right showing his tail, armor and equipment. Consistent character identity, identical clothing and proportions across all views.\n\nPlain seamless neutral gray studio background, soft professional three-point studio lighting, realistic contact shadows, extremely detailed natural fur, skin, fabric, leather and metal textures. Cinematic live-action photorealism, realistic creature anatomy, no CGI appearance, no 3D render look, no illustration, no text. 16:9 aspect ratio.",
+      "prompt": "Ultra-photorealistic character sheet of a Vanara warrior from the Ramayana, a powerful humanoid monkey warrior with a muscular athletic build, broad shoulders, strong arms, realistic primate facial anatomy, expressive amber eyes, short dense dark brown fur covering his body, and a long muscular monkey tail. Fierce but intelligent appearance, strong jaw, natural simian features, realistic proportions, no cartoonish elements.\n\nWearing ancient Indian-inspired warrior attire, weathered bronze and gold chest armor, ornate golden armbands, leather straps, decorative waist belt, dark saffron dhoti, and traditional leather sandals. Carrying a massive traditional Indian gada mace, made of dark metal with intricate golden engravings, heavy spherical head and long handle.\n\nClean symmetrical three-panel character sheet layout: detailed frontal face and upper-body close-up on the left, full-body strictly frontal standing view in the center holding the mace, full-body direct back view on the right showing his tail, armor and equipment. Consistent character identity, identical clothing and proportions across all views.\n\nPlain seamless neutral gray studio background, soft professional three-point studio lighting, realistic contact shadows, extremely detailed natural fur, skin, fabric, leather and metal textures. Cinematic live-action photorealism, realistic creature anatomy, no CGI appearance, no 3D render look, no illustration, no text. 16:9 aspect ratio.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhmlv8aAAEVEzg.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2110049224134098945",
+          "file": "2110049228043190397_0.jpg",
+          "thumb": "2110049228043190397_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110049210636918849",
+      "url": "https://x.com/MayorKingAI/status/2110049210636918849",
+      "author": "MayorKingAI",
+      "author_name": "MayorkingAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2049554719119716352/htQ5PmLh_normal.jpg",
+      "created_at_utc": "2026-10-13T16:45:09.000Z",
+      "created_at_sh": "2026-10-14 00:45",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "RAVANA\n\nGPT IMAGE 2.5 PROMPT:\nPhotorealistic character sheet of Ravana, an enormous and imposing mythological warrior king with very dark skin, almost black, with subtle cool bluish undertones, rendered in a natural human tone. He has a thick black beard, long dark hair, and a powerful, intimidating presence. He wears elaborate black and gold armor with rich ornamental detail, layered royal jewelry, and a large curved sword. Instead of ten real heads, he wears a majestic golden crown carved with ten faces integrated into the design, to avoid anatomical deformities while preserving the symbolic look. Clean, symmetrical character sheet layout: frontal face close-up on the left, full-body front view in the center, and full-body back view on the right. Plain neutral gray background, soft professional studio lighting, highly photorealistic style, realistic skin, fabric, metal, and weapon textures, no 3D, no CGI, no text.",
+      "prompt": "Photorealistic character sheet of Ravana, an enormous and imposing mythological warrior king with very dark skin, almost black, with subtle cool bluish undertones, rendered in a natural human tone. He has a thick black beard, long dark hair, and a powerful, intimidating presence. He wears elaborate black and gold armor with rich ornamental detail, layered royal jewelry, and a large curved sword. Instead of ten real heads, he wears a majestic golden crown carved with ten faces integrated into the design, to avoid anatomical deformities while preserving the symbolic look. Clean, symmetrical character sheet layout: frontal face close-up on the left, full-body front view in the center, and full-body back view on the right. Plain neutral gray background, soft professional studio lighting, highly photorealistic style, realistic skin, fabric, metal, and weapon textures, no 3D, no CGI, no text.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhmku3bQAARW9c.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2110049206664904704",
+          "file": "2110049210636918849_0.jpg",
+          "thumb": "2110049210636918849_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110049193188524472",
+      "url": "https://x.com/MayorKingAI/status/2110049193188524472",
+      "author": "MayorKingAI",
+      "author_name": "MayorkingAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2049554719119716352/htQ5PmLh_normal.jpg",
+      "created_at_utc": "2026-10-13T16:45:05.000Z",
+      "created_at_sh": "2026-10-14 00:45",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "RAMA\n\nGPT IMAGE 2.5 PROMPT:\nPhotorealistic character sheet of Rama, a young athletic warrior with subtly dark blue skin in a natural human tone, not bright blue or cartoonish. He has long black hair tied in a bun, a tall ornate golden crown, a bare chest adorned with layered gold necklaces and armbands, a saffron dhoti, a long wooden bow with gold details, and a quiver on his back. Clean, symmetrical character sheet layout: frontal face close-up on the left, full-body front view in the center, and full-body back view on the right. Plain neutral gray background, soft professional studio lighting, highly photorealistic style, realistic skin, fabric, wood, and metal textures, no 3D, no CGI.",
+      "prompt": "Photorealistic character sheet of Rama, a young athletic warrior with subtly dark blue skin in a natural human tone, not bright blue or cartoonish. He has long black hair tied in a bun, a tall ornate golden crown, a bare chest adorned with layered gold necklaces and armbands, a saffron dhoti, a long wooden bow with gold details, and a quiver on his back. Clean, symmetrical character sheet layout: frontal face close-up on the left, full-body front view in the center, and full-body back view on the right. Plain neutral gray background, soft professional studio lighting, highly photorealistic style, realistic skin, fabric, wood, and metal textures, no 3D, no CGI.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhmjwPbEAAaxVQ.jpg",
+          "w": 1200,
+          "h": 900,
+          "media_key": "3_2110049189854121984",
+          "file": "2110049193188524472_0.jpg",
+          "thumb": "2110049193188524472_0.jpg",
+          "tw": 480,
+          "th": 360
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110031356382052629",
+      "url": "https://x.com/FastMoroAI/status/2110031356382052629",
+      "author": "FastMoroAI",
+      "author_name": "FastMoroAI",
+      "avatar": "https://pbs.twimg.com/profile_images/2063648106173112320/J1s1ptsf_normal.jpg",
+      "created_at_utc": "2026-10-13T15:34:12.000Z",
+      "created_at_sh": "2026-10-13 23:34",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "the line doing all the work in this prompt: \"The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version.\"\n\nthe rest is set dressing. swap [LANDMARK] and you get a new trip every time. I wrote the city after the name (\"Tower Bridge in London\") for all three.\n\nran it on GPT Image 2.5 in FastMoro. didn't ask for French, but the Paris page wrote its notes in French anyway.\n\ntemplate by @Naiknelofar788, copy it from here:\n\nCreate a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired — like a beautiful moment captured during a real trip.\n\nAspect ratio: 4:5, vertical composition.",
+      "prompt": "\"The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version.\"\n\nthe rest is set dressing. swap [LANDMARK] and you get a new trip every time. I wrote the city after the name (\"Tower Bridge in London\") for all three.\n\nran it on GPT Image 2.5 in FastMoro. didn't ask for French, but the Paris page wrote its notes in French anyway.\n\ntemplate by @Naiknelofar788, copy it from here:\n\nCreate a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired — like a beautiful moment captured during a real trip.\n\nAspect ratio: 4:5, vertical composition.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhWLEiXIAA3dGj.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110031173619490816",
+          "file": "2110031356382052629_0.jpg",
+          "thumb": "2110031356382052629_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhWLEoXkAEcgiE.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110031173644685313",
+          "file": "2110031356382052629_1.jpg",
+          "thumb": "2110031356382052629_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhWLEgXUAA7bmk.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110031173611114496",
+          "file": "2110031356382052629_2.jpg",
+          "thumb": "2110031356382052629_2.jpg",
+          "tw": 360,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -9052,6 +10065,84 @@
           "thumb": "2109623031958221220_1.jpg",
           "tw": 480,
           "th": 360
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110062637115736089",
+      "url": "https://x.com/Kurt_Rousey466/status/2110062637115736089",
+      "author": "Kurt_Rousey466",
+      "author_name": "Peng",
+      "avatar": "https://pbs.twimg.com/profile_images/2046449854868774912/47p_OP8L_normal.jpg",
+      "created_at_utc": "2026-10-13T17:38:30.000Z",
+      "created_at_sh": "2026-10-14 01:38",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "尝试用 MJ生成图片的第一天\n\n实在被 GPT Image 2.5 和 Nano banana 整疯了, 不是噪点就是油光满面，之前一直觉得 Midjourney 美术风格很顶，但是一致性和控图比较难。随着最近的一致性和控制有所提升，我也要尝试学习和使用起来。\n\nprompt:\ncinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, youthful relaxed energy, effortlessly casual, bright global illumination, soft light, high dynamic range, luminous rim light, creamy Cooke lens rendering, large aperture, glowing bokeh, medium shot, sitting on a rustic wooden chair under a leafy tree, holding a warm coffee cup with both hands and sipping gently, oversized knit cardigan over a light dress, a steaming coffee cup, soft smile, gazing into the distance, early morning sunlight filtering through the leaves with dappled shadows and glowing background bokeh",
+      "prompt": "cinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, youthful relaxed energy, effortlessly casual, bright global illumination, soft light, high dynamic range, luminous rim light, creamy Cooke lens rendering, large aperture, glowing bokeh, medium shot, sitting on a rustic wooden chair under a leafy tree, holding a warm coffee cup with both hands and sipping gently, oversized knit cardigan over a light dress, a steaming coffee cup, soft smile, gazing into the distance, early morning sunlight filtering through the leaves with dappled shadows and glowing background bokeh",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhyo20aQAApvtH.jpg",
+          "w": 1200,
+          "h": 671,
+          "media_key": "3_2110062471658749952",
+          "file": "2110062637115736089_0.jpg",
+          "thumb": "2110062637115736089_0.jpg",
+          "tw": 480,
+          "th": 268
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhyo27akAApsU3.jpg",
+          "w": 1200,
+          "h": 671,
+          "media_key": "3_2110062471688130560",
+          "file": "2110062637115736089_1.jpg",
+          "thumb": "2110062637115736089_1.jpg",
+          "tw": 480,
+          "th": 268
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110055030057541774",
+      "url": "https://x.com/mdrakibhasan905/status/2110055030057541774",
+      "author": "mdrakibhasan905",
+      "author_name": "AI Edit Lab",
+      "avatar": "https://pbs.twimg.com/profile_images/2098049976391909376/HWToIM3X_normal.jpg",
+      "created_at_utc": "2026-10-13T17:08:16.000Z",
+      "created_at_sh": "2026-10-14 01:08",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "yoo Guysss A Sketch of the Place, A Memory of the Moment by GPT image 2.5 Made with\n@Imagvio_AI\n\nprompt:\n\nCreate a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired  like a beautiful moment captured during a real trip.",
+      "prompt": "Create a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired  like a beautiful moment captured during a real trip.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUhrsdNbkAAJa3C.png",
+          "w": 719,
+          "h": 896,
+          "media_key": "3_2110054836922454016",
+          "file": "2110055030057541774_0.jpg",
+          "thumb": "2110055030057541774_0.jpg",
+          "tw": 385,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUhrucGacAANbcD.png",
+          "w": 716,
+          "h": 893,
+          "media_key": "3_2110054870984323072",
+          "file": "2110055030057541774_1.jpg",
+          "thumb": "2110055030057541774_1.jpg",
+          "tw": 384,
+          "th": 480
         }
       ],
       "nsfw_flag": false
