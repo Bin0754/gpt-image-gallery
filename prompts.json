@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-15T08:12:09+08:00",
-  "count": 291,
+  "generated_at": "2026-10-16T08:21:37+08:00",
+  "count": 323,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -1072,6 +1072,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2110714603965726893",
+      "prompt": "Create Photorealistic editorial 4:5 portrait of a young man standing mostly straight in a relaxed, stylish pose, body turned slightly sideways so his chest is not directly facing the camera, with one shoulder subtly angled forward. He\n\nis not",
+      "author": "harboriis",
+      "author_url": "https://x.com/harboriis",
+      "post_url": "https://x.com/harboriis/status/2110714603965726893",
+      "date": "2026-10-15T20:49:11+08:00",
+      "likes": 65,
+      "language": "en",
+      "images": [
+        "images/2110714603965726893_0.jpg",
+        "images/2110714603965726893_1.jpg",
+        "images/2110714603965726893_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2109710598972035578",
       "prompt": "Photorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.",
       "author": "churvikv",
@@ -1209,6 +1225,20 @@
         "images/2109128907764977963_1.jpg",
         "images/2109128907764977963_2.jpg",
         "images/2109128907764977963_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110706890376401210",
+      "prompt": "1/2\nUsing my uploaded photo as the primary facial reference, transform me into an outrageously exaggerated, hyper-realistic, classic children’s TV puppet-inspired trash-can creature while keeping my identity and recognizable facial features unmistakably intact.\n\nCHARACTER DESIGN: Enormous head, tiny upper body, narrow shoulders, short, skinny puppet-like arms, huge expressive eyes, heavy downward-slanting brown eyebrows, long bulbous green nose, and a pronounced grouchy frown. Cover my entire visible head, face, eyebrows, neck, and exposed upper body in vibrant, thick, shaggy green fur with individually defined strands, wild spiky tufts, unruly hair, and tactile, messy texture. Preserve my underlying facial structure and recognizable identity. Expression: comically irritated, judgmental, sarcastic, mischievous, and lovable—not frightening or monstrous. Slightly hunch my shoulders and lean my oversized head forward as if preparing a hilarious sarcastic one-liner.\n\nTRASH CAN AND ANATOMY: My upper torso, shoulders, and arms emerge directly from a classic, battered, open-topped cylindrical galvanized-steel trash can with a thick rolled rim. My entire lower body remains concealed inside. The can is upright, intact, separate from my body, and firmly resting directly on the sidewalk. Show its complete structure from rim to bottom base, including realistic dents, scratches, worn edges, subtle rust, metallic reflections, and a clear contact shadow. Absolutely no visible legs, feet, shoes, or body parts beneath, through, or outside the can. I am sitting inside it, not wearing it as a costume. No floating, hovering, sinking, or hidden visible limb support.\n\nENVIRONMENT: A richly detailed residential neighborhood at nighttime on Halloween. Include charming suburban houses, glowing jack-o’-lanterns along the sidewalk and on porches, spooky decorations, artificial cobwebs, skeletons, bare tree branches, scattered autumn leaves, warm orange window and porch lights, purple and orange string lights, distant trick-or-treater silhouettes, and subtle drifting nighttime mist. Deep midnight-blue sky, soft moonlight, balanced warm pumpkin illumination and cool blue ambient lighting. Festive, quaint, whimsical, playfully spooky—not genuine horror. Keep the background softly focused and subordinate to my face.\n\nCOMPOSITION: Vertical 2:3 portrait, three-quarter camera angle, slightly low perspective. Show the complete trash can from its upper rim to its fully grounded base, my entire visible upper body, oversized head, face, shoulders, and visible arms without cropping. Position the can prominently in the lower and central frame, with my expressive face as the primary focal point. Maintain a strong silhouette, clear separation between green fur, metal rim, and dark background, and enough surrounding scenery to establish the Halloween neighborhood.\n\nRENDERING: Premium cinematic CGI combining practical puppet craftsmanship with photorealistic 3D character artistry. Extraordinary tactile fur detail, layered shaggy eyebrows, realistic eye reflections, convincing facial and mouth anatomy, physically accurate weathered metal, and natural material textures. Use cinematic moonlight, warm pumpkin glow, subtle purple accents, global illumination, physically based materials, ambient occlusion, volumetric mist, delicate rim lighting, realistic contact shadows, and cinematic depth of field. Sharp facial details; softly blurred background.",
+      "author": "SethCritchley",
+      "author_url": "https://x.com/SethCritchley",
+      "post_url": "https://x.com/SethCritchley/status/2110706890376401210",
+      "date": "2026-10-15T20:18:32+08:00",
+      "likes": 57,
+      "language": "en",
+      "images": [
+        "images/2110706890376401210_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1365,6 +1395,23 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2110616578589102506",
+      "prompt": "Create a whimsical 4:5 vertical travel illustration of [COUNTRY / CITY / LOCATION], inspired by mid-century European storybook art.\n\nFeature one iconic local landmark with slightly crooked architecture, playful proportions, and recognizable details. Add two or three authentic local elements, loosely connected into one charming scene.\n\nUse lively black ink, scratchy pencil lines, rough charcoal shading, grainy colored pencil, and small opaque gouache accents. Let lines wobble, overlap, and remain imperfect.\n\nPalette: Turquoise, vermilion red, charcoal black, and pure white. Keep the background completely white with generous irregular negative space.\n\nInclude one small animal traveler near the bottom, wearing a simple outfit and making a playful, location-inspired gesture. Keep it secondary to the architecture.\n\nCreate a spontaneous, asymmetrical composition with sparse local plants, expressive scale, and unmistakably handmade textures.\n\nAvoid: Multiple landmark collages, beige or aged-paper backgrounds, polished vector art, glossy 3D, gradients, excessive detail, lettering, borders, and watermarks.\n\nFORMAT: Full-frame 4:5 portrait, pure white background, tactile mid-century picture-book illustration.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2110616578589102506",
+      "date": "2026-10-15T14:19:40+08:00",
+      "likes": 47,
+      "language": "en",
+      "images": [
+        "images/2110616578589102506_0.jpg",
+        "images/2110616578589102506_1.jpg",
+        "images/2110616578589102506_2.jpg",
+        "images/2110616578589102506_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108165803338277063",
       "prompt": "Create a charming children’s storybook-style illustration of [LANDMARK], inspired by vintage activity-book artwork. Place the landmark in a bright, dreamy countryside or natural setting with soft hand-drawn black outlines, rounded illustrated elements, gentle watercolor textures, and cheerful pastel colors.\n\nThe landmark itself must be highly accurate and realistically depicted, closely matching its real-world architecture, proportions, shape, colors, windows, towers, rooftops, and distinctive details. Do not cartoonize, distort, simplify, or redesign the landmark. It should look like a faithful miniature representation of the actual landmark, while the surrounding environment remains whimsical and illustrated.\n\nAdd a cute little child exploring or looking toward the landmark. Include green rolling grass, a large leafy tree, tiny wildflowers, soft clouds, warm sunlight, and a simple blue sky. No sheep, lambs, or other oversized animals.\n\nKeep the contrast intentional: realistic, instantly recognizable landmark + charming hand-drawn children’s-book surroundings. The child should have expressive innocent features and slightly exaggerated storybook proportions.\n\nVisual style: vintage preschool activity book, soft hand-drawn outlines, watercolor + subtle crayon textures, slightly imperfect printed texture, nostalgic children’s illustration, cheerful and wholesome, detailed environmental elements, realistic landmark architecture, natural lighting, no photorealistic background.\n\nComposition: portrait 4:5, full-page storybook illustration, landmark as the central visual element, child in the foreground, lots of colorful negative space, clean composition, no modern text, no sheep or lambs, no distorted architecture.",
       "author": "Naiknelofar788",
@@ -1437,6 +1484,20 @@
       "images": [
         "images/2109300980500357510_0.jpg",
         "images/2109300980500357510_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110575533981593858",
+      "prompt": "Using the uploaded reference image, create an ultra-photorealistic, premium high-fashion street editorial photograph. Preserve the woman's exact facial identity, natural skin texture, facial proportions, eye shape, nose, lips, and hairstyle. No facial modifications, artificial beautification, or AI-generated appearance.\n\nCOMPOSITION:\nVertical 2:3 full-body editorial portrait. A beautiful young woman stands confidently in the center of a bustling Parisian street, directly in front of a charming vintage dark-green European newsstand. Straight-on camera angle, entire body visible from head to polished shoes, comfortable headroom, perfectly balanced composition.\n\nMODEL & STYLING:\nShe wears a luxurious sage-green leather jacket over a crisp white button-down shirt, a neatly tied charcoal-black necktie, elegant high-waisted pleated gray wool trousers, polished black leather loafers, narrow rectangular black sunglasses, and a structured chocolate-brown leather shoulder bag with gold hardware.\n\nHer dark hair is styled into a sleek, naturally textured high ponytail. Minimal sophisticated makeup, realistic skin pores, soft natural lips, subtle rosy cheeks, and an effortlessly elegant expression.\n\nPOSE:\nStanding naturally with relaxed shoulders, both hands gently adjusting her necktie. Her head faces slightly toward the camera, maintaining a calm, confident, sophisticated fashion-editorial attitude.\n\nENVIRONMENT:\nA richly detailed vintage Parisian newsstand overflowing with newspapers, fashion magazines, travel postcards, and stacked publications. Warm tungsten bulbs illuminate the interior.\n\nOne large vintage newspaper hangs prominently above the model's left shoulder, displaying the perfectly readable headline \"Areeba\" in elegant black serif typography.\n\nA second newspaper on the upper right displays the bold headline \"REPOST\".\n\nSeveral loose newspaper pages flutter naturally through the air, creating dynamic movement.\n\nMOTION & ATMOSPHERE:\nA young woman wearing a dark top, gray skirt, white socks, and chunky white sneakers walks briskly across the left foreground. Another pedestrian wearing a brown jacket crosses the right foreground.\n\nBoth pedestrians appear naturally motion-blurred through realistic long-exposure photography, while the central model remains perfectly sharp and detailed.\n\nLIGHTING & COLOR:\nBeautiful golden-hour daylight mixed with warm tungsten newsstand lighting. Sophisticated cinematic color grading featuring muted sage green, warm champagne beige, charcoal gray, rich chocolate brown, and soft golden highlights.\n\nNatural skin tones, realistic shadows, gentle film grain, subtle atmospheric depth, and beautifully controlled contrast.\n\nPHOTOGRAPHY:\nShot on a professional full-frame camera, 50mm editorial lens, f/2.8, natural perspective, realistic depth of field, exceptionally detailed clothing textures, authentic leather reflections, and magazine-quality sharpness.\n\nPremium European fashion campaign aesthetic, timeless street-style photography, authentic urban atmosphere, sophisticated visual storytelling.\n\nFINAL REQUIREMENTS:\n100% photorealistic live-action photography.\nExact reference facial identity.\nNatural human anatomy and realistic proportions.\nCorrect hands and fingers.\nPerfectly readable \"Areeba\" and \"REPOST\" headlines.\nSharp central subject with naturally blurred pedestrians.\nFull body visible, no cropped head or feet.\nNo CGI, no illustration, no plastic skin, no excessive smoothing, no artificial AI glow, no distorted objects, no unnatural lighting.\n\nAspect ratio: 2:3 vertical.\nQuality: Ultra-high-resolution, premium luxury fashion editorial.",
+      "author": "TheVirtualMuse",
+      "author_url": "https://x.com/TheVirtualMuse",
+      "post_url": "https://x.com/TheVirtualMuse/status/2110575533981593858",
+      "date": "2026-10-15T11:36:34+08:00",
+      "likes": 44,
+      "language": "en",
+      "images": [
+        "images/2110575533981593858_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2069,6 +2130,23 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2110701903009263756",
+      "prompt": "Create a premium 2:3 vertical vintage-modern travel poster of [COUNTRY / CITY / LOCATION], combining painterly realism, elegant geometric framing, and sophisticated editorial design.\n\nCORE CONCEPT: Celebrate the unique identity of the destination through one beautifully composed architectural landscape, blending vintage travel-poster charm with contemporary graphic design.\n\nCOMPOSITION: Place the main scene inside a large, elegant geometric arch occupying most of the poster. Surround it with overlapping circles, curved shapes, and abstract color blocks that frame the landscape without overwhelming it. Create a balanced composition with generous negative space and a clear visual hierarchy.\n\nLANDMARKS & SCENERY: Automatically identify the destination’s most recognizable landmark, authentic architecture, characteristic skyline, and two or three complementary local details. Preserve distinctive architectural silhouettes and believable proportions. Integrate foreground, middle ground, and background naturally into one cohesive panoramic scene rather than creating a collage of unrelated attractions.\n\nART STYLE: Painterly realism with the warmth of traditional travel illustrations. Render buildings, landscapes, and landmarks with refined detail, soft brushwork, atmospheric depth, and gently simplified forms. Combine realistic architectural character with clean geometric shapes and a polished modern editorial finish.\n\nCOLOR PALETTE: Develop a destination-specific palette using harmonious pastels, warm ivory, muted coral, dusty rose, soft turquoise, sage green, or powder blue wherever appropriate. Let the selected colors reflect the location’s architecture, landscape, and atmosphere rather than forcing every destination into an identical palette.\n\nLIGHTING & TEXTURE: Use warm, diffused sunlight, a luminous pastel sky, delicate atmospheric haze, and subtle natural shadows. Add fine paper grain and a restrained printed-art texture to create the tactile quality of a premium collectible poster.\n\nTYPOGRAPHY: Place [DESTINATION NAME] prominently near the upper center, using elegant, thin uppercase lettering with generous tracking. Keep the title refined and legible. Add a small, understated emblem inspired by the destination’s cultural identity, positioned harmoniously within the geometric layout.\n\nDESIGN BALANCE: Maintain a clear distinction between the illustrated landscape and the surrounding abstract shapes. Use overlapping geometry to guide the eye toward the landmark, while preserving breathing room, balanced proportions, and an uncluttered editorial composition.\n\nFINAL AESTHETIC: Vintage-modern travel art, painterly architectural realism, Japanese-inspired pastel elegance, sophisticated geometric framing, warm sunlight, and premium art-print craftsmanship.\n\nAVOID: Photographic images, generic landmark collages, inaccurate architecture, distorted buildings, excessive decorative elements, harsh colors, heavy digital effects, cluttered typography, illegible lettering, logos, and watermarks.\n\nFORMAT: Full-bleed 2:3 vertical composition, high resolution, crisp architectural details, elegant typography, and a polished collectible travel-poster finish.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2110701903009263756",
+      "date": "2026-10-15T19:58:43+08:00",
+      "likes": 23,
+      "language": "en",
+      "images": [
+        "images/2110701903009263756_0.jpg",
+        "images/2110701903009263756_1.jpg",
+        "images/2110701903009263756_2.jpg",
+        "images/2110701903009263756_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2097819439106510993",
       "prompt": "このキャラクターのボカロmvの様々なカットを3x3で出力して。16:9\n\n・gpt-image-2.5-flare\nLandscape (1536 × 1024)\nHigh\n8秒\n\n・gpt-image-2.5-sunbrust\nLandscape (1536 × 1024)\nHigh\n30秒\n\n・最初の2枚 flare\n・最後の2枚 sunbrust",
       "author": "npaka123",
@@ -2188,6 +2266,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2110732426553237547",
+      "prompt": "固定视觉DNA：\n9:16，成年韩系甜酷美女，CCD硬闪，亮片贴纸、星星贴和反光装饰贴在脸上，近距离夜间抓拍，Y2K派对氛围强烈。  \n\n随机池： \n场景[夜间派对/街机厅/电梯/卧室/地下通道]",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110732426553237547",
+      "date": "2026-10-15T22:00:00+08:00",
+      "likes": 21,
+      "language": "zh",
+      "images": [
+        "images/2110732426553237547_0.jpg",
+        "images/2110732426553237547_1.jpg",
+        "images/2110732426553237547_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108741556920287235",
       "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic surrealist rainbow-paint photography, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a white cropped T-shirt printed with a pastel rainbow, distressed blue jeans with large frayed knee openings and colourful paint splatters, and grey lace-up sneakers marked with traces of paint. She lies diagonally across the asphalt road, her upper body resting comfortably on the ground and her long hair spread widely around her head. One knee is raised prominently toward the camera, making the sneaker appear large in the foreground, while her other leg extends diagonally toward the lower edge. Her left arm bends above her head with the hand resting behind her hair, while her right hand holds a small paintbrush upright beside her face. Her face turns slightly upward toward the left, her blue eyes gazing dreamily toward the sunset, eyebrows relaxed and lips forming a gentle, playful smile. Her long, voluminous chestnut-brown hair fans out across the road, with loose waves and individual strands scattered naturally over the painted surface. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, natural skin texture and soft rosy highlights. A long, straight desert highway stretches toward the distant horizon, where the setting sun sits directly above the vanishing point beneath dramatic dark storm clouds. A thick, glossy rainbow-coloured paint trail curves along the road behind and around her, transitioning through red, orange, yellow, green, blue, and violet. Paintbrushes of different sizes, colourful splashes, a paint-covered bucket and a smartphone with a vivid rainbow screen are scattered across the foreground. Warm golden sunbeams break through the clouds, illuminating the paint and creating a striking contrast against the dark asphalt and stormy sky. Apply rich cinematic colour grading with fiery amber highlights, deep charcoal shadows, vivid saturated rainbow pigments, subtle teal-blue atmospheric tones and controlled contrast. Emphasize the wet, glossy paint, realistic road texture, dimensional clouds, glowing sunset rays and crisp foreground details, with a polished surreal editorial finish. \nNegative prompt: changed identity, incorrect pose, misplaced props, distorted hands, extra fingers, bad anatomy, plastic skin, flat lighting, dull colours, text, watermark.",
       "author": "imGopalTiwari",
@@ -2198,6 +2292,22 @@
       "language": "en",
       "images": [
         "images/2108741556920287235_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110674543534575938",
+      "prompt": "韩系不完美美女，ccd彩色柔焦，风俗小姐，杂志海报",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110674543534575938",
+      "date": "2026-10-15T18:10:00+08:00",
+      "likes": 20,
+      "language": "zh",
+      "images": [
+        "images/2110674543534575938_0.jpg",
+        "images/2110674543534575938_1.jpg",
+        "images/2110674543534575938_2.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2291,6 +2401,23 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2110596265675550805",
+      "prompt": "日系颜文字 × 超现实视觉重构 × 实验性平面设计 × 自由创意海报\n\n以指定颜文字为唯一核心创意种子，将字符结构、表情特征与情绪隐喻转化为夸张奇特的视觉作品。自由探索尺度反差、形态变异、空间错位、材质转译与意外构图，每张采用不同的视觉机制，形成完整且具有独特识别度的设计作品。\n\n日系颜文字种子：每次任选一个\n(◕ᴗ◕✿) / (╯°□°)╯︵ ┻━┻ / ʕ•ᴥ•ʔ / (⁄ ⁄•⁄ω⁄•⁄ ⁄) / ಠ_ಠ / ༼ つ ◕_◕ ༽つ\n\n每次只使用一个种子，独立构思，单张成图，不拼图，不继承前次的具体视觉元素。\n\nn=4",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2110596265675550805",
+      "date": "2026-10-15T12:58:57+08:00",
+      "likes": 19,
+      "language": "zh",
+      "images": [
+        "images/2110596265675550805_0.jpg",
+        "images/2110596265675550805_1.jpg",
+        "images/2110596265675550805_2.jpg",
+        "images/2110596265675550805_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108792895138349057",
       "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic moody beach fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a loose white button-up shirt with a classic collar, chest pocket and casually rolled sleeves, paired with dark trousers, oversized black sunglasses, a slim gold bracelet, a gold link wristwatch and a second pair of eyeglasses hanging from her shirt. Her entire body is turned sideways in a clear three-quarter side profile toward the left, with her shoulders, torso and hips aligned in the same direction rather than facing the camera; her upper body remains naturally upright. Her right arm bends upward over her forehead, with her fingertips lightly touching her wispy bangs, while her left forearm rests diagonally across her lower torso and her hand stays relaxed near her waist. Her head faces left toward the distant horizon, chin slightly lowered, with a composed, thoughtful expression and softly closed lips. Her dark brown hair is gathered into a loose, messy high bun, with fine flyaways around the temples, loose strands beside her cheeks and delicate bangs across her forehead. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, realistic skin texture and subtle natural highlights. She stands beside the ocean as foamy waves wash across the wet shoreline, with two small boats in the distance and a faint mountain range along the horizon. The expansive sky transitions from muted peach and dusty gold near the setting sun to desaturated blue and slate grey above, with layered clouds adding a dramatic, moody atmosphere. Soft directional sunset light outlines her profile and catches the folds of her white shirt, while cool shadows shape the fabric and her silhouette. Apply cinematic moody colour grading with subdued saturation, steel-blue and charcoal shadows, muted lavender-grey clouds, restrained amber highlights and deep ocean tones. Maintain realistic photographic detail, natural skin tones, gentle atmospheric haze and balanced contrast for an elegant, contemplative editorial finish. \nNegative prompt: body facing camera, incorrect side profile, wrong hand placement, distorted fingers, bad anatomy, plastic skin, oversaturation, watercolor texture, illustration, text, watermark.",
       "author": "imGopalTiwari",
@@ -2344,6 +2471,20 @@
       "language": "zh",
       "images": [
         "images/2110382348869214343_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110601388224864720",
+      "prompt": "Full-body, slightly high-angle cinematic vacation portrait of an early-20s East Asian woman relaxing on a seaside wooden boardwalk in the golden afternoon sun. She sits comfortably cross-legged barefoot on the rustic wooden planks, her right arm",
+      "author": "johnAGI168",
+      "author_url": "https://x.com/johnAGI168",
+      "post_url": "https://x.com/johnAGI168/status/2110601388224864720",
+      "date": "2026-10-15T13:19:18+08:00",
+      "likes": 18,
+      "language": "en",
+      "images": [
+        "images/2110601388224864720_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2560,6 +2701,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2110588981666554240",
+      "prompt": "成年韩系瑕疵美女，奶油色浴袍，温泉酒店休息区，刚结束泡汤，湿发自然披散，人物坐在木质长椅喝冰饮，柔暖环境光与ccd直闪混合，肩颈线条柔和，前景蒸汽虚化，安静私密的旅行写真感",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110588981666554240",
+      "date": "2026-10-15T12:30:00+08:00",
+      "likes": 13,
+      "language": "zh",
+      "images": [
+        "images/2110588981666554240_0.jpg",
+        "images/2110588981666554240_1.jpg",
+        "images/2110588981666554240_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107818993813950746",
       "prompt": "【游戏名】 × PSP第一人称掌机视角 × 屏幕内16位战场 × 复古掌机UI",
       "author": "DeepBlueX0",
@@ -2587,6 +2744,52 @@
       "language": "en",
       "images": [
         "images/2108777407498830312_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110654410682478987",
+      "prompt": "古风妖冶感，数码直闪颗粒，强情绪视觉张力，85mm近景，半脸裁切，红唇轻启、眼神勾人，国风时尚海报",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110654410682478987",
+      "date": "2026-10-15T16:50:00+08:00",
+      "likes": 11,
+      "language": "zh",
+      "images": [
+        "images/2110654410682478987_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110620436899717141",
+      "prompt": "古风妖冶感，ccd直闪柔焦，戏剧性表现力，中画幅近景，局部裁切，俏皮反差，未来感杂志封面",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110620436899717141",
+      "date": "2026-10-15T14:35:00+08:00",
+      "likes": 11,
+      "language": "zh",
+      "images": [
+        "images/2110620436899717141_0.jpg",
+        "images/2110620436899717141_1.jpg",
+        "images/2110620436899717141_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110577403055735224",
+      "prompt": "宋式美学女神 × 吃泡面 × CCTV × 宿舍 × 俏皮暧昧张力 × iPhone抓拍，中画幅近景，局部裁切",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110577403055735224",
+      "date": "2026-10-15T11:44:00+08:00",
+      "likes": 11,
+      "language": "zh",
+      "images": [
+        "images/2110577403055735224_0.jpg",
+        "images/2110577403055735224_1.jpg",
+        "images/2110577403055735224_2.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2630,6 +2833,38 @@
       "language": "en",
       "images": [
         "images/2109365465449631961_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110634026268754049",
+      "prompt": "派大星配色女孩，亲密恋人，中画幅近景，局部裁切，潮流杂志封面，鲜明撞色与俏皮反差",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110634026268754049",
+      "date": "2026-10-15T15:29:00+08:00",
+      "likes": 10,
+      "language": "zh",
+      "images": [
+        "images/2110634026268754049_0.jpg",
+        "images/2110634026268754049_1.jpg",
+        "images/2110634026268754049_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110546197496614964",
+      "prompt": "聊斋妖魅感，ccd直闪柔焦，戏剧性表现力，颓废奢靡，时尚泳装，近距离局部构图，中画幅，反差",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110546197496614964",
+      "date": "2026-10-15T09:40:00+08:00",
+      "likes": 10,
+      "language": "zh",
+      "images": [
+        "images/2110546197496614964_0.jpg",
+        "images/2110546197496614964_1.jpg",
+        "images/2110546197496614964_2.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2753,6 +2988,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2110623786295079368",
+      "prompt": "Transform the main subject into a small full-body anime/cartoon version of themselves, matching their hairstyle, outfit, accessories, colors, and recognizable details. Use the reference's clean modern anime aesthetic sharp linework slightly oversized head, compact proportions, cel shading, and expressive details. Position the anime character directly behind the real subject, holding a flashlight aimed forward at their back. Create an intense realistic white beam that fully illuminates the subject from behind, producing bright rim light, glow, and natural shadows. Dim the surrounding outdoor light for dramatic contrast. Preserve the original scene, camera angle, composition, and realism. Ratio 4:5.",
+      "author": "Shorelyn_",
+      "author_url": "https://x.com/Shorelyn_",
+      "post_url": "https://x.com/Shorelyn_/status/2110623786295079368",
+      "date": "2026-10-15T14:48:18+08:00",
+      "likes": 8,
+      "language": "en",
+      "images": [
+        "images/2110623786295079368_0.jpg",
+        "images/2110623786295079368_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2097435771959488885",
       "prompt": "Use my uploaded photo as reference. Create a photorealistic early-1990s candid selfie with ALF on the sitcom set. Keep my face recognizable. No camera visible. Warm vintage TV lighting, natural smiles, slight 35mm grain, imperfect snapshot framing, 4:3.",
       "author": "nouryyildiz",
@@ -2827,6 +3077,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2110533614723117263",
+      "prompt": "韩系，埃及艳后 × 现代美妆广告 × 金色包装设计",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110533614723117263",
+      "date": "2026-10-15T08:50:00+08:00",
+      "likes": 7,
+      "language": "zh",
+      "images": [
+        "images/2110533614723117263_0.jpg",
+        "images/2110533614723117263_1.jpg",
+        "images/2110533614723117263_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2097720524113580184",
       "prompt": "Prompt template: \"What would I look like if I were a character from [ ] Outfit: change it completely to something a character from this world\"\n\nLink:",
       "author": "shirawiggles",
@@ -2879,20 +3145,6 @@
       "language": "en",
       "images": [
         "images/2107847875250274784_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2108421292734980125",
-      "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic studio fashion portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white scoop-neck crop top, an open oversized grey button-up shirt with loose sleeves casually pushed toward her elbows, and light-blue high-waisted jeans with prominent distressed rips and frayed edges across the thighs and knees, accessorized with delicate gold bracelets and subtle earrings. She is reclining sideways on a smooth studio floor, her body extending diagonally from the lower left toward the upper right of the frame; her hips and legs rest on the floor with both legs bent naturally at different angles, the upper leg slightly forward, while her lower arm extends along the floor toward the right with her palm resting down and fingers relaxed. Her other arm curves over her head, elbow raised, hand resting against the crown of her head and gathering her high ponytail. Her head tilts downward toward her shoulder, eyes lowered toward the floor, eyebrows relaxed and lips slightly parted, creating a calm, composed fashion-editorial expression. Her long dark brown hair is styled in a high ponytail with loose strands falling over her shoulder and down behind her head. Fair luminous skin with a natural ivory-beige tone, realistic texture and soft highlights. A seamless matte grey studio backdrop and matching floor create a clean, minimal setting with generous empty space above and around her. Large softbox lighting from the upper left creates gentle highlights on her face, exposed midriff and denim, with smooth shadows beneath her body and subtle contouring along the grey shirt. Cool-neutral colour grading with slate-grey tones, muted blue denim, crisp white fabric, balanced skin warmth, restrained saturation and soft cinematic contrast, finished with realistic fabric texture and shallow, controlled depth of field. \nNegative prompt: changed identity, incorrect body position, misplaced arms, extra fingers, deformed hands, unnatural joints, distorted face, excessive skin smoothing, text, watermark.",
-      "author": "imGopalTiwari",
-      "author_url": "https://x.com/imGopalTiwari",
-      "post_url": "https://x.com/imGopalTiwari/status/2108421292734980125",
-      "date": "2026-10-09T12:56:23+08:00",
-      "likes": 6,
-      "language": "en",
-      "images": [
-        "images/2108421292734980125_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2957,6 +3209,22 @@
       "prompt_source": "alt"
     },
     {
+      "id": "2110603323858436363",
+      "prompt": "女儿国风长发女孩，主动示好对象，CCD直闪，对坐近景，东方奇幻恋爱写真，直白眼神与暧昧停顿",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110603323858436363",
+      "date": "2026-10-15T13:27:00+08:00",
+      "likes": 6,
+      "language": "zh",
+      "images": [
+        "images/2110603323858436363_0.jpg",
+        "images/2110603323858436363_1.jpg",
+        "images/2110603323858436363_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108507207851745590",
       "prompt": "Character reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One young woman (early 20s), fair skin, soft expressive face, light eyes, dark brown hair in a loose low bun with a few loose strands. Medieval",
       "author": "MahnoorAi12",
@@ -3011,6 +3279,34 @@
         "images/2109826460269597080_0.jpg",
         "images/2109826460269597080_1.jpg",
         "images/2109826460269597080_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110704543256428795",
+      "prompt": "9:16纵向超写实宫廷人像，主题为盛唐夜宴后的静谧余韵。场景更换为宫苑内封闭的牡丹书画亭，深木框架、金线屏风、帘幕、散射宫灯和远处模糊庭院共同构成安全私密的空间。一位成年东亚女性，清秀瓜子脸、柔和高颧骨、微圆小下巴与慵懒凤眼，皮肤细腻真实，朱砂唇色鲜明，脸颊带淡淡暖红。乌黑头发编成环绕式皇冠辫并收成高髻，长发尾从一侧垂落，搭配白玉发簪、珍珠流苏和花瓣形额饰。她穿轻薄浅茶金、雾粉紫与象牙白配色的唐风宫廷长裙，保留齐胸高腰结构、层叠半透明纱料、宽幅丝质披帛和精美金线刺绣。人物靠坐在具有厚软靠垫的雕漆罗汉椅上，一侧身体陷入靠垫，一腿从裙摆下向前延展，另一腿轻微屈起；一手沿靠背自然垂落，另一手握着一支细长玉簪，正在缓慢松开发髻，几缕头发随动作滑落肩头。她低头注视玉簪，神态倦懒含蓄。35mm稍低机位全身构图，前景纱帘与灯穗虚化遮挡，烛光营造强烈柔晕、细颗粒和轻微CCD失焦。不要勺子、饮酒器具、现代用品、文字、水印、塑料皮肤或错误解剖。",
+      "author": "Mrpinecone888",
+      "author_url": "https://x.com/Mrpinecone888",
+      "post_url": "https://x.com/Mrpinecone888/status/2110704543256428795",
+      "date": "2026-10-15T20:09:12+08:00",
+      "likes": 5,
+      "language": "zh",
+      "images": [
+        "images/2110704543256428795_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110703773941440789",
+      "prompt": "一张 2:3 竖版蓝鲸生态百科信息卡，融合自然历史博物馆、海洋保护设计与极简编辑美学。顶部展示一头成年蓝鲸的完整侧面科学摄影式图像，以白色背景突出巨大流线身体、背鳍、胸鳍、尾鳍和腹部褶沟，同时以极小的人类剪影作为比例参照；配超大标题“蓝鲸”、斜体学名“Balaenoptera musculus”、分类标签“哺乳纲／须鲸科”、全球海域分布地图和迁徙路径。\n\n中部通过视觉层级强化海洋生态知识，完整包含九大模块：体长与体重范围；与人类、公交车等尺度比较；鲸须与滤食机制；主要食物磷虾；呼吸与潜水方式；鲸歌与声音传播；繁殖与幼鲸成长；全球分布及季节迁徙；历史捕鲸、船只碰撞、水下噪声、渔具缠绕等威胁及保护措施。\n\n加入“鲸尾识别”“潜水剖面”“食物链”“迁徙路线”和“保护威胁占比表达”，但所有比例必须有真实来源才能显示。整体采用深海蓝、鲸体蓝灰、冰川白和石墨灰，警示区域用小面积橙红；背景为极浅冷灰，配0.5pt分割线和低透明色块。底部标示数据年份、物种保护等级、地域范围和来源，禁止脱离年份展示种群数量或虚构环保结论。",
+      "author": "Mrpinecone888",
+      "author_url": "https://x.com/Mrpinecone888",
+      "post_url": "https://x.com/Mrpinecone888/status/2110703773941440789",
+      "date": "2026-10-15T20:06:09+08:00",
+      "likes": 5,
+      "language": "zh",
+      "images": [
+        "images/2110703773941440789_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -3137,6 +3433,67 @@
       "prompt_source": "post"
     },
     {
+      "id": "2110733172489220217",
+      "prompt": "パソコンの前で考え込むパンダのぬいぐるみぷむぷむ、画面にChatGPTとNano、GPT Image 2.5 vs Nano Banana 2.1 比較 #AIイラスト #画像生成AI",
+      "author": "purompu_dou",
+      "author_url": "https://x.com/purompu_dou",
+      "post_url": "https://x.com/purompu_dou/status/2110733172489220217",
+      "date": "2026-10-15T22:02:58+08:00",
+      "likes": 3,
+      "language": "ja",
+      "images": [
+        "images/2110733172489220217_0.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2110557522130329796",
+      "prompt": "敦煌飞天 × 便利店 × 巴洛克光影 × Y2K 杂志 × 透明小票 × 霓虹浮雕字",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110557522130329796",
+      "date": "2026-10-15T10:25:00+08:00",
+      "likes": 3,
+      "language": "zh",
+      "images": [
+        "images/2110557522130329796_0.jpg",
+        "images/2110557522130329796_1.jpg",
+        "images/2110557522130329796_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110678569873731795",
+      "prompt": "9:16竖版，东方超现实仙境，电影级写实质感。高耸山体悬于云海，两侧青灰瓦顶、朱红廊柱的仙宫依崖层叠，巨型石拱桥跨越深渊，白色花树沿宫墙盛开，细长瀑布垂入云层，远景宫阙隐入淡蓝薄雾，空间纵深震撼。",
+      "author": "krienknight",
+      "author_url": "https://x.com/krienknight",
+      "post_url": "https://x.com/krienknight/status/2110678569873731795",
+      "date": "2026-10-15T18:26:00+08:00",
+      "likes": 3,
+      "language": "zh",
+      "images": [
+        "images/2110678569873731795_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110603939368571321",
+      "prompt": "GPT Image2.5 Sun burst だけ、しっかりと『サンシャイン池崎』を学習していることがよくわかりますね😆",
+      "author": "goro_noda23327",
+      "author_url": "https://x.com/goro_noda23327",
+      "post_url": "https://x.com/goro_noda23327/status/2110603939368571321",
+      "date": "2026-10-15T13:29:26+08:00",
+      "likes": 3,
+      "language": "ja",
+      "images": [
+        "images/2110603939368571321_0.jpg",
+        "images/2110603939368571321_1.jpg",
+        "images/2110603939368571321_2.jpg",
+        "images/2110603939368571321_3.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
       "id": "2107487152187589002",
       "prompt": "Professional anime character design illustration. One single character, full body, standing in a relaxed three-quarter front view on a pure flat white background, the entire figure visible from the top of the head to the soles of the boots with generous white margins. Front-facing enough that the face reads clearly.\n\nOriginal character \"Rivet\": a 19-year-old scrapyard mechanic and robot builder, tomboyish, confident, with a big crooked grin.\n\nHEAD: a messy short wolf-cut in bright mint green with a darker teal underlayer and a few spiky flyaway strands; oversized chunky welding goggles with round amber lenses and a thick black strap pushed up on her forehead; big over-ear headphones in hazard yellow resting around her neck.\nFACE: warm light skin, a constellation of freckles across the nose, a small white band-aid on the bridge of her nose, large sharp eyes with hot-pink irises, thick confident eyebrows, a wide toothy grin with one small fang, a little grease smudge on one cheek.\nOUTFIT: a huge boxy padded work jacket in hazard yellow, worn slipping off her left shoulder, two horizontal black-and-silver reflective tape stripes around each sleeve, chunky utility pockets, a round mint patch with a simple gear icon on the chest; underneath a white ribbed tank top; charcoal-grey cargo shorts with yellow webbing straps and a tool belt with a few small tools; her right forearm and hand are a sleek mechanical prosthetic in glossy white ceramic panels with thin mint seam lines and black joints; a black fingerless glove on the left hand; mismatched knee socks, one mint and one hot pink; very chunky white high-top work boots with thick yellow treaded soles and fat yellow laces.\nPOSE: weight on one leg, left hand on hip, the white mechanical right hand resting a big oversized steel wrench on her shoulder, a slight lean toward the viewer, cocky and friendly.\n\nSTYLE: top-tier professional character designer's key illustration, the quality of a premium action game's character reveal art. Bold graphic urban anime style: thick confident black ink outlines with varied weight, flat cel colours with crisp two-tone shading, small halftone dot accents inside the shadows, sharp angular shape language, a very strong readable silhouette. Strict limited palette: hazard yellow, mint green, clean white and charcoal grey, with hot pink as the single accent. Clean, crisp, high resolution. No text, no letters, no logo, no brand marks, no signature, no watermark, no background objects, only a faint soft contact shadow under the boots.\n\n2. Redesign\nPrompt (GPT Image 2.5 Sunburst, image 1 = the design, image 2 = a Krea 2 Medium version for style):\nFinal redesign pass by a top professional character designer. Image 1 is the design and anatomy of Rivet: keep her pose, proportions, mint wolf-cut, amber goggles, yellow headphones, boxy hazard-yellow work jacket with reflective sleeve stripes and mint gear patch, white tank top, charcoal cargo shorts with yellow straps and tool belt, white mechanical right arm with mint seams, fingerless glove, mismatched mint and pink socks, chunky white work boots with yellow soles and laces, the big wrench on her shoulder. Image 2 is the rendering style to adopt: thick confident black ink outlines, flat bold colour fills, crisp two-tone cel shadows, small halftone dot accents, graphic poster-like shapes.\n\nRedraw image 1 in the style of image 2. One single full-body character on a pure flat white background, three-quarter front view, the whole figure visible with white margins.\n\nImprovements:\n- Warm, saturated hazard yellow on the jacket (not neon lime), clean flat fills, no dirt texture on clothes; only one small grease smudge on her cheek.\n- Face: extremely appealing and charismatic, large sharp hot-pink eyes with bright highlights, freckles, the white band-aid across her nose, a big confident toothy grin with one fang.\n- Slightly stylized proportions: a touch larger head and hands, chunky boots, strong readable silhouette.\n- Lineart with real weight variation, like a professional illustrator's finished character reveal art.\n\nStrict palette: hazard yellow, mint green, clean white, charcoal grey, hot pink accent. No text, no letters, no logos, no brand marks, no watermark, only a faint contact shadow.\n\n3. Close-up\nPrompt (GPT Image 2.5 Sunburst, image 1 = the redesign):\nUsing image 1 as the exact character design and art style, draw a waist-up portrait of the same character, Rivet, as an animation close-up reference sheet. Front view, facing the viewer directly and making eye contact, centered, on a pure flat white background. Landscape framing: the top of her messy mint hair and the amber goggles near the top edge, cut at the waist at the bottom. Both hands held open in front of her chest, palms up, as if about to offer something: the glossy white mechanical right hand with mint seams and the left hand in a black fingerless glove; nothing in them. No wrench.\n\nThe face is large, clear and extremely charismatic: big sharp hot-pink eyes with bright highlights, thick expressive eyebrows, freckles, the white band-aid across her nose, a big confident toothy grin with one fang, a single small grease smudge on her cheek. Mint wolf-cut with teal underlayer, amber goggles pushed up on her forehead, hazard-yellow headphones around her neck, boxy hazard-yellow work jacket slipping off one shoulder with black-and-silver reflective sleeve stripes and the mint gear patch, white ribbed tank top.\n\nSame thick black ink outlines, flat bold colour fills, crisp two-tone cel shadows and small halftone accents as image 1, professional illustrator quality. No text, no letters, no logos, no watermark.",
       "author": "Scenario_gg",
@@ -3241,6 +3598,38 @@
         "images/2110374721288352095_3.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2110639411218006055",
+      "prompt": "Create a deeply emotional cinematic film about Earth's escalating climate crisis, synchronized to the lyrics of an environmental anthem. The film begins with the silent beauty of the Arctic, reveals the devastating effects of global warming, melting polar ice, ocean plastic pollution, and catastrophic forest fires, then transitions into a powerful message of hope, restoration, and collective action.\n\nEvery scene must feel like a frame from a premium nature documentary mixed with a dramatic Hollywood environmental film. Use realistic wildlife behavior, physically accurate water and fire, natural atmospheric conditions, detailed textures, dramatic wide shots, intimate animal close-ups, and seamless cinematic transitions.\n\nThe emotional progression moves from fragile beauty to fear, destruction, grief, and finally hope. Use a cold blue and desaturated color palette during the crisis, transitioning into warm golden sunlight and lush natural greens toward the ending.\n\nSCENE 1 — THE FROZEN WORLD\n\n00:00–00:12 | Intro and opening lyrics\n\nOpen with a breathtaking aerial shot of the Arctic at dawn. Vast white glaciers stretch toward the horizon beneath a cold, overcast sky. The camera slowly descends toward a solitary polar bear standing on a fractured ice shelf.\nCut to an intimate close-up of the bear's face. Its wet fur moves gently in the icy wind. It looks across the empty frozen landscape.\nShow cracks spreading through ancient ice, followed by a massive glacier breaking apart and crashing into the dark ocean. Water erupts into the air in slow motion. Tiny ice fragments drift across the surface.\n\nCamera: slow aerial drone descent, cinematic close-up, wide establishing shot, controlled slow motion.\n\nLighting: cold blue daylight, muted whites, atmospheric mist.\n\nEmotion: fragile beauty, loneliness, impending danger.\n\nSCENE 2 — WHERE THE ICE IS TOO OLD\n\n00:12–00:24 | Lyrics about melting ice and the changing Earth\n\nA polar bear walks cautiously across a narrowing strip of floating ice. The camera tracks alongside it at water level.\n\nReveal enormous fractures separating the ice into isolated pieces. The bear pauses as another section breaks away. Transition into an overhead shot showing the animal surrounded by an immense dark ocean.\nCut to a wide shot of a glacier collapsing into the sea. Towering ice walls crumble, and waves ripple across the water.\nUse a slow match cut from white ice disappearing beneath blue water to sunlight penetrating the ocean depths.\n\nEmotion: vulnerability, environmental loss, urgency.\n\nSCENE 3 — DEEP BENEATH THE BLUE\n\n00:24–00:36 | Lyrics: “Deep beneath the blue” and “Life is calling you”\n\nThe camera descends beneath the ocean surface into a beautiful blue underwater world. Sunbeams penetrate the water, illuminating a sea turtle swimming peacefully through the deep.\n\nThe beauty is interrupted by floating plastic bags, discarded bottles, fishing lines, and tiny particles suspended in the water.\n\nA translucent plastic bag drifts directly in front of the turtle, briefly obscuring its face. The turtle changes direction and continues swimming through the polluted water.\nCut to a close-up of plastic waste moving with the current, followed by a wide underwater shot revealing pollution spreading through the ocean.\nCamera: smooth underwater tracking, slow push-in, close-up of drifting debris, wide cinematic underwater composition.\n\nLighting: beautiful blue caustics gradually becoming darker and more desaturated.\n\nEmotion: wonder turning into sadness and concern.\n\nSCENE 4 — WHERE THE OCEANS RISE\n\n00:36–00:48 | Lyrics about rising oceans and keeping hope alive\n\nShow powerful ocean waves crashing against a vulnerable coastline. Dark storm clouds gather above a coastal settlement. Water surges over the shore, flooding low-lying land.\n\nCut to a wide aerial view of muddy water carrying plastic waste toward the open sea.\n\nUnderwater, the turtle swims through suspended particles as distant sunlight struggles to reach the seabed.\n\nAs the lyric suggests that hope remains alive, a narrow shaft of sunlight breaks through the clouds and illuminates the ocean surface.\nTransition from the dark ocean to a glowing orange horizon, foreshadowing the coming wildfire.\nEmotion: danger, uncertainty, a fragile glimpse of hope.\n\nSCENE 5 — FIRE THROUGH THE NIGHT\n\n00:48–01:03 | Lyrics: “Fire through the night” and “From the ashes below”\n\nA vast forest burns beneath a smoke-filled sky. Towering orange flames climb the trunks of trees while glowing embers drift through the air.\n\nThe camera moves through the forest at a low tracking angle as a deer runs desperately between the trees, escaping the approaching fire.\n\nShow blackened branches silhouetted against an intense orange sky. Aerial footage reveals the enormous scale of the wildfire spreading across the landscape.\n\nCut to a close-up of charred earth and falling ash. The sound and visual intensity peak with the music.\n\nAt the lyric about ashes, a single ember lands on the dark ground. The camera slowly pushes toward it.\nThe flames gradually fade into drifting gray smoke.\nColor palette: fiery orange, deep charcoal, smoky gray, dramatic highlights.\n\nEmotion: panic, devastation, grief, irreversible loss.\n\nSCENE 6 — SEEDS OF LIFE WILL GROW\n\n01:03–01:16 | Lyrics about new life, the sea, and carrying life forward\n\nThe ash-covered forest becomes quiet. Gentle rain falls onto the blackened earth.\n\nIn a cinematic macro shot, a tiny green shoot emerges through the soil. Water droplets cling to its fresh leaves.\n\nTransition to a young deer standing in a recovering forest as warm morning sunlight filters between the trees.\n\nCut to a sea turtle swimming freely through clear blue water. Sunlight illuminates its shell as it glides toward the surface.\n\nShow birds soaring above a green forest canopy. The camera follows them into a bright, open sky.\n\nUse visual match cuts between the new green shoot, the turtle's movement, and the birds in flight to connect land, sea, and air as one living ecosystem.\nColor palette: natural greens, clean ocean blues, warm gold highlights.\nEmotion: renewal, resilience, the possibility of recovery.\n\nSCENE 7 — TIME TO MAKE A CHANGE\n\n01:16–01:29 | Lyrics: “Time to make a change” and “Let tomorrow bloom”\n\nShow a breathtaking sunrise illuminating a thriving forest. The camera slowly rises above the canopy as golden sunlight spreads across the landscape.\n\nCut to clean waves rolling onto a beautiful coastline, followed by wildlife moving freely through a healthy natural habitat.\n\nIntroduce subtle human presence through a cinematic wide shot of people planting young trees together and restoring a damaged landscape. Keep the people small within the composition so the environment remains the central subject.\n\nShow hands gently pressing soil around a young sapling. A close-up reveals sunlight passing through its delicate new leaves.\n\nThe music builds emotionally as the camera rises toward a radiant sky.\n\nEmotion: responsibility, unity, optimism, determination.\n\nSCENE 8 — HAND IN HAND, UNDER BRIGHTER SKIES\n01:29–01:41 | Final lyrics and musical climax\nReturn to the polar bear, now standing on a broad Arctic landscape beneath a softly illuminated sky. The animal looks toward the distant horizon.\n\nCut to a sea turtle swimming through brilliant blue water. Sunbeams shimmer around it.\n\nShow a young deer standing peacefully in a lush green forest. Golden sunlight streams through the trees as birds fly across the background.\n\nFinish with an expansive aerial shot of a thriving green forest meeting a clean blue ocean beneath a glowing sunrise.\n\nThe camera rises slowly toward the sky, revealing a vast, beautiful Earth filled with life.\n\nEnd on a calm, luminous horizon. Hold the final composition for two seconds before fading to black.\n\nFinal emotion: unity, hope, renewal, and the urgency of protecting our shared home.\n\nCAMERA AND EDITING RULES\nUse smooth cinematic dolly movements, aerial establishing shots, controlled tracking shots, selective slow motion, shallow depth of field for emotional close-ups, and wide compositions for environmental scale. Synchronize scene changes with the musical phrases and emotional peaks.\nUse natural transitions through drifting smoke, underwater bubbles, passing clouds, sunlight flares, falling ash, and match cuts between similar shapes or movements.\n\nMaintain consistent photorealistic wildlife, believable environmental physics, natural anatomy, and cinematic color grading.\n\nNEGATIVE PROMPT\n\nNo cartoon visuals, no anime, no artificial-looking CGI, no oversaturated colors, no distorted wildlife anatomy, no duplicated animals, no unnatural animal behavior, no flickering, no jittery camera, no abrupt random transitions, no excessive motion blur, no fake environmental effects, no visible watermarks, no logos, no generated subtitles, no on-screen text, no artificial branding.\n\nThe final film should feel like an emotionally powerful environmental campaign made for a global climate awareness event.",
+      "author": "apaajadesainin",
+      "author_url": "https://x.com/apaajadesainin",
+      "post_url": "https://x.com/apaajadesainin/status/2110639411218006055",
+      "date": "2026-10-15T15:50:24+08:00",
+      "likes": 2,
+      "language": "en",
+      "images": [
+        "images/2110639411218006055_0.jpg",
+        "images/2110639411218006055_1.jpg",
+        "images/2110639411218006055_2.jpg",
+        "images/2110639411218006055_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110634773232366067",
+      "prompt": "9:16竖画幅，数码相机柔焦人像写真质感，呈低饱和暖金、米白与栗棕交织的秋日色调，带唯美柔光漫射效果。平视中近景构图，兼具大姐姐与弱娇气质的冷白皮少女居画面偏右侧，无前景遮挡。她身体微向左侧倾，后背与左肩慵懒倚靠在画面右侧边缘粗糙的深棕树干上，头颈微向树干侧倾并正对镜头。双臂自然相拢垂于身前，双手藏于宽松的米白色毛衣长袖口内，指尖在左下角边缘轻轻捏着一片金黄落叶。栗棕色微卷长发配轻薄刘海，鼻梁上架着纤细的金属圆框眼镜，颈间层叠缠绕带有细闪亮丝的咖色格纹粗花呢围巾，身穿软糯的米白色竖条纹针织开衫，粗糙树皮、蓬松针织与微闪围巾形成鲜明材质反差。她透过镜片眼神迷离温润地凝视镜头，上眼睑松弛微垂，下巴轻轻埋入厚实的围巾褶皱中，粉润的双唇想要微启倾诉却在秋日微凉的空气中轻轻抿住 🥺✨。左上方温暖的秋日阳光呈顶逆光穿透枝叶倾洒，在发顶绒毛与肩线勾勒出琥珀色高光勾边，树荫下的漫射天光令冷白面部肌肤透出蜜桃粉次表面漫反射与温润薄瓷光泽。画面交织出微醺幻觉与浮生空灵的秋日氛围，背景为大光圈奶油虚化的金黄秋叶树冠与柔和林间光斑。",
+      "author": "alanblogsooooo",
+      "author_url": "https://x.com/alanblogsooooo",
+      "post_url": "https://x.com/alanblogsooooo/status/2110634773232366067",
+      "date": "2026-10-15T15:31:58+08:00",
+      "likes": 2,
+      "language": "zh",
+      "images": [
+        "images/2110634773232366067_0.jpg",
+        "images/2110634773232366067_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097678119314575676",
@@ -3558,6 +3947,50 @@
         "images/2110323414367961499_1.jpg",
         "images/2110323414367961499_2.jpg",
         "images/2110323414367961499_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110716767677096293",
+      "prompt": "Using the uploaded reference photo, create an ultra-realistic, high-resolution 9:16 vertical Korean-inspired kawaii editorial portrait collage featuring",
+      "author": "NoravaleAI",
+      "author_url": "https://x.com/NoravaleAI",
+      "post_url": "https://x.com/NoravaleAI/status/2110716767677096293",
+      "date": "2026-10-15T20:57:47+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2110716767677096293_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110645099772227979",
+      "prompt": "EVA绫波感清冷真人女孩，若即若离恋人，数码长焦，面部近景，极简海报风，疏离神性与安静暧昧",
+      "author": "spark_chenlin",
+      "author_url": "https://x.com/spark_chenlin",
+      "post_url": "https://x.com/spark_chenlin/status/2110645099772227979",
+      "date": "2026-10-15T16:13:00+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2110645099772227979_0.jpg",
+        "images/2110645099772227979_1.jpg",
+        "images/2110645099772227979_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110533344329179491",
+      "prompt": "Photo and Ink Wash Diptych \nwith GPT-Image-2.5",
+      "author": "OimiAIStudio",
+      "author_url": "https://x.com/OimiAIStudio",
+      "post_url": "https://x.com/OimiAIStudio/status/2110533344329179491",
+      "date": "2026-10-15T08:48:55+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2110533344329179491_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -4143,6 +4576,68 @@
         "images/2110345002471792983_0.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2110880454132052211",
+      "prompt": "Autochrome × Pictorialist Soft Focus × 【主体】\n早期彩色摄影质感，自然光学漫射，柔和色彩过渡，克制的复古色调。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2110880454132052211",
+      "date": "2026-10-16T07:48:13+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2110880454132052211_0.jpg",
+        "images/2110880454132052211_1.jpg",
+        "images/2110880454132052211_2.jpg",
+        "images/2110880454132052211_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110718598222385329",
+      "prompt": "Character Style Comparison 3d 2d (GPT Image 2.5)\n\n\"Create a high-resolution, three-panel horizontal image showcasing the…\"\n\nFull prompt:",
+      "author": "neroallinai",
+      "author_url": "https://x.com/neroallinai",
+      "post_url": "https://x.com/neroallinai/status/2110718598222385329",
+      "date": "2026-10-15T21:05:03+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2110718598222385329_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110700661868499219",
+      "prompt": "独立艺术赛事海报 × [赛车品牌与车型] × [举办国家及对应赛段] × WRC Editorial 摄影 × 东方美学留白 × 实验性字体设计\n\n赛车为核心主体，赛车动态与赛事环境须符合指定车型、国家及赛段特征。实验性赛事字标与赛车形成视觉张力，赛事名称、赛段、年份与编号精简排布。非对称构图，克制用色，疏密有致，大面积留白，避免信息与装饰过载。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2110700661868499219",
+      "date": "2026-10-15T19:53:47+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2110700661868499219_0.jpg",
+        "images/2110700661868499219_1.jpg",
+        "images/2110700661868499219_2.jpg",
+        "images/2110700661868499219_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2110661039402492043",
+      "prompt": "gpt-image-2.5\n\n竖版9:16，韩国Instagram风格女偶像酒店私密写真拍摄。明显是成年女性，23–27岁，夸张身材，柔顺的长黑发，冷艳白皙自然肤色，清新粉色闪光妆容。\n她穿着浅米色轻薄衬衫，袖子随意卷起，深灰色高腰修身铅笔裙，以及透明肉色丝袜。一件黑色西装外套滑落下来，堆在床边。整体造型是成熟、干净的都市办公室女郎装扮。\n她侧跪在凌乱的白色酒店床上，身体转向远离镜头约四分之三，上身轻轻扭回，自然地看着镜头。双手放在腰间，调整衬衫下摆。强调肩颈线条、腰背轮廓、腿部比例，以及衬衫和裙子上的自然布料褶皱。姿势放松自然，仿佛摄影师偶然捕捉到的瞬间。\n柔和CCD风格，黑扩散滤镜，轻微柔焦，35–40mm，低角度，从身后和侧面近距离抓拍。自然构图，不刻意强调孤立的肢体部位。\n35mm胶片质感，柔和高光溢出，温暖绽放，轻微雾气和眩光，低对比度，低饱和度，细腻颗粒，富士负片空灵色调，保留真实皮肤纹理。\n整体氛围：私密、安静、成熟、自然，带有韩国杂志写真和生活化编辑感的风格。\n避免湿发、毛巾、暴露造型、过于性感姿势、正面对坐姿势、商业工作室灯光、HDR、塑料皮肤、CG效果、过度修图、生硬姿势，以及不正确的解剖结构。",
+      "author": "supereasyit",
+      "author_url": "https://x.com/supereasyit",
+      "post_url": "https://x.com/supereasyit/status/2110661039402492043",
+      "date": "2026-10-15T17:16:20+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2110661039402492043_0.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097418434929705291",
