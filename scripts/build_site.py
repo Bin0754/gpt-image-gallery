@@ -85,6 +85,17 @@ HIDE_IDS = {
     '2110702477779866100',                         # @spark_chenlin bikini mirror selfie
     '2110718938145292295',                         # @livybabie school-uniform cosplay (unsure)
     '2110851139356758051',                         # @RougeHalo_AI crop-top short-shorts sitting (unsure)
+    # 2026-10-18 refresh review (contact sheet)
+    '2111223815900381534',                         # @livybabie lingerie / strappy cosplay
+    '2111177608058851782',                         # @lishishen7i sheer lace on bed
+    '2111343846487437606',                         # @lishishen7i wet sheer gown in pool
+    '2110895499318313251',                         # @alanblogsooooo bikini checkered-flag beach
+    '2110943314312614262',                         # @alanblogsooooo swimsuit beach POV
+    '2111164093847552466',                         # @chatgptpaglu short black dress (unsure)
+    '2111128031926632682',                         # @johnAGI168 tight tank / leggings pose (unsure)
+    '2111078947144565023',                         # @mehvishs25 crop-top mirror selfie (unsure)
+    '2111469082557993258',                         # @johnAGI168 cleavage-focus selfie (unsure)
+    '2111452170210136408',                         # @mehvishs25 mini-skirt crop fashion (unsure)
 
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
@@ -127,6 +138,10 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     # 2026-10-16 refresh review (poster contact sheet)
     '2110774943294070795',  # rewind02 - workflow how-to, not a prompt
     '2110884467015307593',  # VibeCaesar - model comparison pricing, not a prompt
+    # 2026-10-18 refresh review (poster contact sheet)
+    '2111512551578026319',  # voyzai - explicit body / deep-cleavage gym prompt
+    '2111072967652212813',  # KeyoAPI - commentary about a prompt, not a usable prompt
+    '2111321354964521468',  # AIwithSynthia - fitted crop-top revenge comedy (unsure)
 
 }
 VSTATS = {}

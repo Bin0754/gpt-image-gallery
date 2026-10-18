@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-16T08:21:37+08:00",
-  "count": 323,
+  "generated_at": "2026-10-18T08:20:21+08:00",
+  "count": 361,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -1285,6 +1285,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2111082882315755584",
+      "url": "https://x.com/churvikv/status/2111082882315755584",
+      "author": "churvikv",
+      "author_name": "Viki",
+      "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_normal.jpg",
+      "created_at_utc": "2026-10-16T13:12:35.000Z",
+      "created_at_sh": "2026-10-16 21:12",
+      "likes": 127,
+      "reposts": 13,
+      "bookmarks": 2,
+      "lang": "",
+      "text": "Autumn lake in texture painting\n\nCreated in @gmi_cloud\nModel: GPT Image 2.5 Sunburst  \n\n🏞 Prompt:\nExtremely thick impasto oil painting on rough grainy ground, sculptural palette-knife paint standing up in real three-dimensional petals and slabs, wide 16:9 panoramic composition.",
+      "prompt": "Extremely thick impasto oil painting on rough grainy ground, sculptural palette-knife paint standing up in real three-dimensional petals and slabs, wide 16:9 panoramic composition.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUwSNOtWsAAnLi2.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2111082343825846272",
+          "file": "2111082882315755584_0.jpg",
+          "thumb": "2111082882315755584_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2101991375806038065",
       "url": "https://x.com/Alina_with_Ai/status/2101991375806038065",
       "author": "Alina_with_Ai",
@@ -1656,6 +1685,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2111408437963694264",
+      "url": "https://x.com/churvikv/status/2111408437963694264",
+      "author": "churvikv",
+      "author_name": "Viki",
+      "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_normal.jpg",
+      "created_at_utc": "2026-10-17T10:46:14.000Z",
+      "created_at_sh": "2026-10-17 18:46",
+      "likes": 110,
+      "reposts": 10,
+      "bookmarks": 7,
+      "lang": "",
+      "text": "Even the long road ends\n\nCreated in @dreamina_ai\nModel: GPT Image 2.5 Sunburst   \n#DreaminaCPP \n\n🏞 Prompt:\nTextured impasto oil painting on coarse canvas, thick sculptural palette-knife strokes standing in real ridges, wide 16:9 panoramic composition. Edge to edge, no frame and",
+      "prompt": "Textured impasto oil painting on coarse canvas, thick sculptural palette-knife strokes standing in real ridges, wide 16:9 panoramic composition. Edge to edge, no frame and",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU06cQLWsAAg_Y4.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2111408057359970304",
+          "file": "2111408437963694264_0.jpg",
+          "thumb": "2111408437963694264_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107784613708136595",
       "url": "https://x.com/Diplomeme/status/2107784613708136595",
       "author": "Diplomeme",
@@ -1978,6 +2036,94 @@
       "nsfw_flag": false
     },
     {
+      "id": "2111324127378416005",
+      "url": "https://x.com/hey_am_cherry/status/2111324127378416005",
+      "author": "hey_am_cherry",
+      "author_name": "Cherry",
+      "avatar": "https://pbs.twimg.com/profile_images/2082546817833783296/USfmt9HM_normal.jpg",
+      "created_at_utc": "2026-10-17T05:11:13.000Z",
+      "created_at_sh": "2026-10-17 13:11",
+      "likes": 99,
+      "reposts": 7,
+      "bookmarks": 7,
+      "lang": "",
+      "text": "Some feelings look better in black and white\n\nGPT Image 2.5 \n\nPrompt : \n\n{\n  \"aspect_ratio\": \"9:16\",\n  \"prompt\": \"A beautiful young woman with long, messy black hair blowing dramatically across her face, eyes closed, lips slightly parted, head tilted back, elegant elongated neck,",
+      "prompt": "\"aspect_ratio\": \"9:16\",\n  \"prompt\": \"A beautiful young woman with long, messy black hair blowing dramatically across her face, eyes closed, lips slightly parted, head tilted back, elegant elongated neck,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUzuFuzaoAALxpS.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2111324107560361984",
+          "file": "2111324127378416005_0.jpg",
+          "thumb": "2111324127378416005_0.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzuGROaEAA-JB_.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2111324116800376832",
+          "file": "2111324127378416005_1.jpg",
+          "thumb": "2111324127378416005_1.jpg",
+          "tw": 269,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111086883505848551",
+      "url": "https://x.com/harboriis/status/2111086883505848551",
+      "author": "harboriis",
+      "author_name": "Harboris",
+      "avatar": "https://pbs.twimg.com/profile_images/2110394532336668673/2R7s3kh-_normal.jpg",
+      "created_at_utc": "2026-10-16T13:28:29.000Z",
+      "created_at_sh": "2026-10-16 21:28",
+      "likes": 97,
+      "reposts": 13,
+      "bookmarks": 60,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nCreate a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a",
+      "prompt": "Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUwWTz-bIAE6AQx.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111086854955278337",
+          "file": "2111086883505848551_0.jpg",
+          "thumb": "2111086883505848551_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwWUbObsAAL_sC.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111086865491406848",
+          "file": "2111086883505848551_1.jpg",
+          "thumb": "2111086883505848551_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwWU_-akAAtSYQ.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111086875356336128",
+          "file": "2111086883505848551_2.jpg",
+          "thumb": "2111086883505848551_2.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2102691221764477093",
       "url": "https://x.com/KrishnaBio1/status/2102691221764477093",
       "author": "KrishnaBio1",
@@ -2148,6 +2294,45 @@
           "file": "2109602481198305536_1.jpg",
           "thumb": "2109602481198305536_1.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110952509217140779",
+      "url": "https://x.com/hey_am_cherry/status/2110952509217140779",
+      "author": "hey_am_cherry",
+      "author_name": "Cherry",
+      "avatar": "https://pbs.twimg.com/profile_images/2082546817833783296/USfmt9HM_normal.jpg",
+      "created_at_utc": "2026-10-16T04:34:32.000Z",
+      "created_at_sh": "2026-10-16 12:34",
+      "likes": 92,
+      "reposts": 7,
+      "bookmarks": 13,
+      "lang": "en",
+      "text": "She looked up once… and forgot where she was going. \n\nGPT Image 2.5 \n\nPrompt : \n\n{\n  \"prompt\": \"Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion of the composition, peacefully looking upward at a magnificent flowering jacaranda tree. The enormous dark branches sweep diagonally across the upper half of the image, covered in clusters of vivid violet, electric purple, and magenta blossoms. Tiny purple petals float gently through the air. The woman wears a flowing coral-red coat, a bright turquoise scarf, dark plum leggings, and elegant black ankle boots. A small mustard-yellow shoulder bag adds a warm accent. The background features a rich turquoise-blue sky blending into soft lavender mountains, with subtle painterly textures and a few delicate wildflowers along the ground. Use a bold, highly saturated color palette with striking contrasts between violet flowers, turquoise surroundings, coral clothing, and golden highlights. Artistic hand-painted brushstrokes, delicate ink outlines, textured paper finish, atmospheric depth, beautiful natural lighting, poetic and peaceful mood. The tree canopy fills the upper third and spreads across the frame, while generous open space in the middle emphasizes the woman and creates a balanced composition. Full-body character visible, elegant natural pose, visually rich details, polished high-quality illustration, beautiful color harmony, 9:16 portrait composition.\",\n  \"negative_prompt\": \"photorealistic, 3D render, dull colors, washed-out palette, blurry details, low resolution, distorted anatomy, extra limbs, extra fingers, malformed hands, duplicate people, oversized head, cropped feet, cut-off body, text, watermark, logo, copied composition, yellow autumn leaves, orange trench coat, plain empty background\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"vibrant painterly storybook illustration\",\n  \"quality\": \"high\"\n}",
+      "prompt": "\"prompt\": \"Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion of the composition, peacefully looking upward at a magnificent flowering jacaranda tree. The enormous dark branches sweep diagonally across the upper half of the image, covered in clusters of vivid violet, electric purple, and magenta blossoms. Tiny purple petals float gently through the air. The woman wears a flowing coral-red coat, a bright turquoise scarf, dark plum leggings, and elegant black ankle boots. A small mustard-yellow shoulder bag adds a warm accent. The background features a rich turquoise-blue sky blending into soft lavender mountains, with subtle painterly textures and a few delicate wildflowers along the ground. Use a bold, highly saturated color palette with striking contrasts between violet flowers, turquoise surroundings, coral clothing, and golden highlights. Artistic hand-painted brushstrokes, delicate ink outlines, textured paper finish, atmospheric depth, beautiful natural lighting, poetic and peaceful mood. The tree canopy fills the upper third and spreads across the frame, while generous open space in the middle emphasizes the woman and creates a balanced composition. Full-body character visible, elegant natural pose, visually rich details, polished high-quality illustration, beautiful color harmony, 9:16 portrait composition.\",\n  \"negative_prompt\": \"photorealistic, 3D render, dull colors, washed-out palette, blurry details, low resolution, distorted anatomy, extra limbs, extra fingers, malformed hands, duplicate people, oversized head, cropped feet, cut-off body, text, watermark, logo, copied composition, yellow autumn leaves, orange trench coat, plain empty background\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"vibrant painterly storybook illustration\",\n  \"quality\": \"high\"\n}",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUucGlSb0AAh23T.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110952487255789568",
+          "file": "2110952509217140779_0.jpg",
+          "thumb": "2110952509217140779_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUucHSIbcAA28c6.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110952499293417472",
+          "file": "2110952509217140779_1.jpg",
+          "thumb": "2110952509217140779_1.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -2402,6 +2587,45 @@
           "file": "2097571772904386607_1.jpg",
           "thumb": "2097571772904386607_1.jpg",
           "tw": 359,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111374785079103515",
+      "url": "https://x.com/Shorelyn_/status/2111374785079103515",
+      "author": "Shorelyn_",
+      "author_name": "Shore Lyn",
+      "avatar": "https://pbs.twimg.com/profile_images/2097716992115666945/Xx6mgLX4_normal.jpg",
+      "created_at_utc": "2026-10-17T08:32:30.000Z",
+      "created_at_sh": "2026-10-17 16:32",
+      "likes": 83,
+      "reposts": 12,
+      "bookmarks": 58,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nCreate a vertical 3:4 before-and-after image split into two stacked panels of equal height.\n\nTOP PANEL (before): the original photograph exactly as provided, completely unedited — same subject, pose, background, colors and lighting. Full bleed",
+      "prompt": "Create a vertical 3:4 before-and-after image split into two stacked panels of equal height.\n\nTOP PANEL (before): the original photograph exactly as provided, completely unedited — same subject, pose, background, colors and lighting. Full bleed",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU0cKhaa8AEj5sG.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111374767400087553",
+          "file": "2111374785079103515_0.jpg",
+          "thumb": "2111374785079103515_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0cKhRbIAAEPj2.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111374767362351104",
+          "file": "2111374785079103515_1.jpg",
+          "thumb": "2111374785079103515_1.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -2675,6 +2899,35 @@
           "file": "2108532094796533952_2.jpg",
           "thumb": "2108532094796533952_2.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111304903557886070",
+      "url": "https://x.com/krienknight/status/2111304903557886070",
+      "author": "krienknight",
+      "author_name": "cyberkk",
+      "avatar": "https://pbs.twimg.com/profile_images/2065077377785577472/OPNI9LBa_normal.jpg",
+      "created_at_utc": "2026-10-17T03:54:49.000Z",
+      "created_at_sh": "2026-10-17 11:54",
+      "likes": 70,
+      "reposts": 4,
+      "bookmarks": 34,
+      "lang": "zh",
+      "text": "GPT-Image2.5 生图\n\n活在现实的游戏人物\n\nPrompt：\n写实摄影风格，一位年轻的东方成年女性，背身回眸，右手轻抬，神情温柔清冷。银灰色长发挽成精致盘发，佩戴白色花朵、青绿玉饰与金色流苏发簪，几缕碎发自然垂落脸侧。五官精致自然，眼睛比例真实，淡雅妆容，嘴唇呈柔和豆沙色。\n\n皮肤白皙、光滑、细腻、透亮，柔光下呈现温润光泽，保留自然肌理。身穿黑白花卉刺绣的新中式露背礼服，丝绸衣料自然垂坠，腰后系青绿色蝴蝶结，搭配精美金属坠饰。保留参考图的回眸姿态、服装配色与花饰细节。\n\n纯净浅灰背景，柔和侧逆光，细腻明暗层次，高级时尚人像摄影，竖版三分之二身构图，发丝、刺绣、丝绸纹理清晰。\n\n避免：动漫感、塑料皮肤、过度磨皮、夸张大眼、五官失真、手指畸形、多余肢体、文字、水印、手机界面。",
+      "prompt": "写实摄影风格，一位年轻的东方成年女性，背身回眸，右手轻抬，神情温柔清冷。银灰色长发挽成精致盘发，佩戴白色花朵、青绿玉饰与金色流苏发簪，几缕碎发自然垂落脸侧。五官精致自然，眼睛比例真实，淡雅妆容，嘴唇呈柔和豆沙色。\n\n皮肤白皙、光滑、细腻、透亮，柔光下呈现温润光泽，保留自然肌理。身穿黑白花卉刺绣的新中式露背礼服，丝绸衣料自然垂坠，腰后系青绿色蝴蝶结，搭配精美金属坠饰。保留参考图的回眸姿态、服装配色与花饰细节。\n\n纯净浅灰背景，柔和侧逆光，细腻明暗层次，高级时尚人像摄影，竖版三分之二身构图，发丝、刺绣、丝绸纹理清晰。\n\n避免：动漫感、塑料皮肤、过度磨皮、夸张大眼、五官失真、手指畸形、多余肢体、文字、水印、手机界面。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUzcm6-aAAA_Ph_.jpg",
+          "w": 683,
+          "h": 1024,
+          "media_key": "3_2111304886554066944",
+          "file": "2111304903557886070_0.jpg",
+          "thumb": "2111304903557886070_0.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -3844,6 +4097,124 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110939679407427733",
+      "url": "https://x.com/Goodmanprotocol/status/2110939679407427733",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-16T03:43:33.000Z",
+      "created_at_sh": "2026-10-16 11:43",
+      "likes": 47,
+      "reposts": 4,
+      "bookmarks": 16,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a cute, playful 3:4 vertical illustrated poster of [COUNTRY / CITY / LOCATION / SUBJECT], featuring bold bubble lettering, charming hand-painted illustrations, and a colorful stationery-brand aesthetic.\n\nMAIN SUBJECT: Make the main subject large and instantly recognizable, preserving its defining shape, colors, patterns, and distinctive details. Automatically adapt the illustration to the subject, whether it is food, a product, an animal, a person, a character, or a landscape.\n\nTYPOGRAPHY: Place a huge, chunky, rounded English title across the top, filled with one vibrant accent color. Add a small rounded label and a short playful caption near the bottom. Keep all lettering bold, readable, and naturally arranged.\n\nILLUSTRATION STYLE: Soft opaque gouache and oil-pastel textures, rounded shapes, expressive details, gentle painted highlights, and subtle handmade imperfections. Keep the main subject beautifully illustrated rather than photorealistic.\n\nDECORATIONS: Add 4–6 small, subject-specific doodles around the main illustration. Choose meaningful objects, symbols, plants, or accessories that complement the subject. Include a small speech bubble only when appropriate.\n\nCOLOR & LAYOUT: Use a bright, warm cream background with a vibrant title color and 2–3 complementary accent colors. Keep the composition full and lively but balanced, with generous spacing and no overlapping elements that obscure the subject.\n\nFINAL AESTHETIC: Whimsical collectible art print, bold hand-drawn bubble typography, tactile painted textures, playful editorial design, and cohesive color harmony.\n\nAVOID: White sticker outlines, double borders, excessive doodles, rough scribbling, glossy 3D rendering, vector-flat graphics, clutter, illegible text, logos, and watermarks.\n\nFORMAT: Full-frame 3:4 portrait. Text-to-image only; generate the entire artwork creatively from the subject description, without requiring a reference image.",
+      "prompt": "Create a cute, playful 3:4 vertical illustrated poster of [COUNTRY / CITY / LOCATION / SUBJECT], featuring bold bubble lettering, charming hand-painted illustrations, and a colorful stationery-brand aesthetic.\n\nMAIN SUBJECT: Make the main subject large and instantly recognizable, preserving its defining shape, colors, patterns, and distinctive details. Automatically adapt the illustration to the subject, whether it is food, a product, an animal, a person, a character, or a landscape.\n\nTYPOGRAPHY: Place a huge, chunky, rounded English title across the top, filled with one vibrant accent color. Add a small rounded label and a short playful caption near the bottom. Keep all lettering bold, readable, and naturally arranged.\n\nILLUSTRATION STYLE: Soft opaque gouache and oil-pastel textures, rounded shapes, expressive details, gentle painted highlights, and subtle handmade imperfections. Keep the main subject beautifully illustrated rather than photorealistic.\n\nDECORATIONS: Add 4–6 small, subject-specific doodles around the main illustration. Choose meaningful objects, symbols, plants, or accessories that complement the subject. Include a small speech bubble only when appropriate.\n\nCOLOR & LAYOUT: Use a bright, warm cream background with a vibrant title color and 2–3 complementary accent colors. Keep the composition full and lively but balanced, with generous spacing and no overlapping elements that obscure the subject.\n\nFINAL AESTHETIC: Whimsical collectible art print, bold hand-drawn bubble typography, tactile painted textures, playful editorial design, and cohesive color harmony.\n\nAVOID: White sticker outlines, double borders, excessive doodles, rough scribbling, glossy 3D rendering, vector-flat graphics, clutter, illegible text, logos, and watermarks.\n\nFORMAT: Full-frame 3:4 portrait. Text-to-image only; generate the entire artwork creatively from the subject description, without requiring a reference image.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUuQaHmawAAa2wJ.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110939628744392704",
+          "file": "2110939679407427733_0.jpg",
+          "thumb": "2110939679407427733_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUuQa5SakAA7-fR.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110939642082267136",
+          "file": "2110939679407427733_1.jpg",
+          "thumb": "2110939679407427733_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUuQbrFaYAAv_v1.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110939655449501696",
+          "file": "2110939679407427733_2.jpg",
+          "thumb": "2110939679407427733_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUuQcWNbgAAJYlm.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110939667025854464",
+          "file": "2110939679407427733_3.jpg",
+          "thumb": "2110939679407427733_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111319572859249042",
+      "url": "https://x.com/Naiknelofar788/status/2111319572859249042",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-17T04:53:07.000Z",
+      "created_at_sh": "2026-10-17 12:53",
+      "likes": 47,
+      "reposts": 1,
+      "bookmarks": 7,
+      "lang": "",
+      "text": "GPT image 2.5 \n\nPrompt:\nUse the selected landmark as the only source of architectural reference. Create a realistic, printable papercraft cube model of [LANDMARK NAME, CITY, COUNTRY], preserving its recognizable identity and unique architectural features: original silhouette,",
+      "prompt": "Use the selected landmark as the only source of architectural reference. Create a realistic, printable papercraft cube model of [LANDMARK NAME, CITY, COUNTRY], preserving its recognizable identity and unique architectural features: original silhouette,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUzp8_paEAAKON2.jpg",
+          "w": 640,
+          "h": 420,
+          "media_key": "3_2111319559416451072",
+          "file": "2111319572859249042_0.jpg",
+          "thumb": "2111319572859249042_0.jpg",
+          "tw": 480,
+          "th": 315
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzp8_qbEAAvhVB.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2111319559420710912",
+          "file": "2111319572859249042_1.jpg",
+          "thumb": "2111319572859249042_1.jpg",
+          "tw": 480,
+          "th": 270
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzp8_uaQAApRcn.jpg",
+          "w": 640,
+          "h": 420,
+          "media_key": "3_2111319559437434880",
+          "file": "2111319572859249042_2.jpg",
+          "thumb": "2111319572859249042_2.jpg",
+          "tw": 480,
+          "th": 315
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzp8_taAAArbG3.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2111319559433224192",
+          "file": "2111319572859249042_3.jpg",
+          "thumb": "2111319572859249042_3.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108165803338277063",
       "url": "https://x.com/Naiknelofar788/status/2108165803338277063",
       "author": "Naiknelofar788",
@@ -5007,6 +5378,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110958934144217161",
+      "url": "https://x.com/Naiknelofar788/status/2110958934144217161",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-16T05:00:04.000Z",
+      "created_at_sh": "2026-10-16 13:00",
+      "likes": 32,
+      "reposts": 0,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "GPT image 2.5\n\nPrompt:\nCreate a stunning vintage travel magazine cover featuring [LANDMARK], [CITY], [COUNTRY], photographed as if captured on a forgotten 35mm film roll in the 1970s.\n\nShow the landmark in its authentic real-world setting, preserving its exact architectural design, proportions, original colors, and historical details. Capture an unposed, natural moment with warm afternoon sunlight, gently weathered walls, old streets, subtle greenery, and a few locals in the distance. The atmosphere should feel like a genuine memory from another era, not a staged tourist photograph.\n\nVISUAL AESTHETIC:\nAuthentic 1970s analog film photography, faded olive green, warm sepia, dusty terracotta, muted golden yellow, natural shadows, subtle film grain, slight light leaks, imperfect exposure, and beautifully aged photographic textures. Add delicate imperfections that make the image feel real, nostalgic, and timeless.\n\nMAGAZINE COVER DESIGN:\nPlace the landmark as the main visual, with elegant, understated vintage editorial typography.\n\nAt the top, write:\n“THE FORGOTTEN FILM ROLL”\n\nBelow it, display the location in refined uppercase typography:\n“[CITY], [COUNTRY]”\n\nAdd the landmark’s name in a smaller, sophisticated typeface:\n“[LANDMARK]”\n\nAt the bottom, include a poetic historical tagline:\n“Some places never leave the past. They carry it into forever.”\n\nAdd a small archival-style date stamp reading “A MEMORY PRESERVED IN TIME” and subtle photographic numbering to evoke an authentic vintage print.\n\nKeep the layout artistic, minimal, sophisticated, and beautifully balanced. Typography must be clean and legible, with correct spelling. Avoid excessive text, fantasy elements, oversaturated colors, artificial architecture, and overly polished AI aesthetics.\n\nOverall feeling: A forgotten travel photograph rediscovered decades later—where history, architecture, and memory exist in a single frame.\n\nAspect ratio: 4:5 vertical. High-detail, photorealistic, timeless editorial photography.",
+      "prompt": "Create a stunning vintage travel magazine cover featuring [LANDMARK], [CITY], [COUNTRY], photographed as if captured on a forgotten 35mm film roll in the 1970s.\n\nShow the landmark in its authentic real-world setting, preserving its exact architectural design, proportions, original colors, and historical details. Capture an unposed, natural moment with warm afternoon sunlight, gently weathered walls, old streets, subtle greenery, and a few locals in the distance. The atmosphere should feel like a genuine memory from another era, not a staged tourist photograph.\n\nVISUAL AESTHETIC:\nAuthentic 1970s analog film photography, faded olive green, warm sepia, dusty terracotta, muted golden yellow, natural shadows, subtle film grain, slight light leaks, imperfect exposure, and beautifully aged photographic textures. Add delicate imperfections that make the image feel real, nostalgic, and timeless.\n\nMAGAZINE COVER DESIGN:\nPlace the landmark as the main visual, with elegant, understated vintage editorial typography.\n\nAt the top, write:\n“THE FORGOTTEN FILM ROLL”\n\nBelow it, display the location in refined uppercase typography:\n“[CITY], [COUNTRY]”\n\nAdd the landmark’s name in a smaller, sophisticated typeface:\n“[LANDMARK]”\n\nAt the bottom, include a poetic historical tagline:\n“Some places never leave the past. They carry it into forever.”\n\nAdd a small archival-style date stamp reading “A MEMORY PRESERVED IN TIME” and subtle photographic numbering to evoke an authentic vintage print.\n\nKeep the layout artistic, minimal, sophisticated, and beautifully balanced. Typography must be clean and legible, with correct spelling. Avoid excessive text, fantasy elements, oversaturated colors, artificial architecture, and overly polished AI aesthetics.\n\nOverall feeling: A forgotten travel photograph rediscovered decades later—where history, architecture, and memory exist in a single frame.\n\nAspect ratio: 4:5 vertical. High-detail, photorealistic, timeless editorial photography.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUuh9Kna8AA4hu3.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2110958922546999296",
+          "file": "2110958934144217161_0.jpg",
+          "thumb": "2110958934144217161_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUuh9KYaIAA0tyc.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2110958922484031488",
+          "file": "2110958934144217161_1.jpg",
+          "thumb": "2110958934144217161_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2109581797944443143",
       "url": "https://x.com/Goodmanprotocol/status/2109581797944443143",
       "author": "Goodmanprotocol",
@@ -5164,6 +5574,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2111012395904901572",
+      "url": "https://x.com/j_smeaton99/status/2111012395904901572",
+      "author": "j_smeaton99",
+      "author_name": "Jack",
+      "avatar": "https://pbs.twimg.com/profile_images/1982882926749429760/0QCwwcp__normal.jpg",
+      "created_at_utc": "2026-10-16T08:32:30.000Z",
+      "created_at_sh": "2026-10-16 16:32",
+      "likes": 31,
+      "reposts": 1,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt;\n\nUltra-realistic professional studio photoshoot of a beautiful young adult Korean woman posing confidently against a seamless pure black studio background. She has long, naturally flowing black hair, delicate East Asian facial features, realistic",
+      "prompt": "Ultra-realistic professional studio photoshoot of a beautiful young adult Korean woman posing confidently against a seamless pure black studio background. She has long, naturally flowing black hair, delicate East Asian facial features, realistic",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUvSkmvbkAA1dTj.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2111012376669818880",
+          "file": "2111012395904901572_0.jpg",
+          "thumb": "2111012395904901572_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUvSkmubUAAtNqk.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2111012376665608192",
+          "file": "2111012395904901572_1.jpg",
+          "thumb": "2111012395904901572_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2110050994847690849",
       "url": "https://x.com/xiaoxiaodong/status/2110050994847690849",
       "author": "xiaoxiaodong",
@@ -5304,6 +5753,65 @@
           "file": "2110015285323559093_0.jpg",
           "thumb": "2110015285323559093_0.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111039997210186212",
+      "url": "https://x.com/Goodmanprotocol/status/2111039997210186212",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-16T10:22:11.000Z",
+      "created_at_sh": "2026-10-16 18:22",
+      "likes": 28,
+      "reposts": 3,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a distinctive 2:3 vertical hand-painted illustration of [COUNTRY / CITY / LOCATION / SUBJECT], inspired by whimsical contemporary storybook art and lively sunlit gouache.\n\nCOMPOSITION:\nFeature one recognizable local setting with playfully elongated",
+      "prompt": "Create a distinctive 2:3 vertical hand-painted illustration of [COUNTRY / CITY / LOCATION / SUBJECT], inspired by whimsical contemporary storybook art and lively sunlit gouache.\n\nCOMPOSITION:\nFeature one recognizable local setting with playfully elongated",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUvroINbsAA3WBJ.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111039924984328192",
+          "file": "2111039997210186212_0.jpg",
+          "thumb": "2111039997210186212_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUvrpiKbgAACYEC.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111039949130924032",
+          "file": "2111039997210186212_1.jpg",
+          "thumb": "2111039997210186212_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUvrqjKawAAcElK.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111039966579179520",
+          "file": "2111039997210186212_2.jpg",
+          "thumb": "2111039997210186212_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUvrrmzbwAAqW7s.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111039984736387072",
+          "file": "2111039997210186212_3.jpg",
+          "thumb": "2111039997210186212_3.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -6733,6 +7241,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2111372178461540580",
+      "url": "https://x.com/Goodmanprotocol/status/2111372178461540580",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-17T08:22:09.000Z",
+      "created_at_sh": "2026-10-17 16:22",
+      "likes": 18,
+      "reposts": 3,
+      "bookmarks": 3,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a charming 3:4 vertical vintage travel poster of [COUNTRY / CITY / DESTINATION], illustrated in a colorful, storybook-inspired style.\n\nSCENE:\nShow one iconic location with instantly recognizable landmarks, distinctive architecture, beautiful scenery,",
+      "prompt": "Create a charming 3:4 vertical vintage travel poster of [COUNTRY / CITY / DESTINATION], illustrated in a colorful, storybook-inspired style.\n\nSCENE:\nShow one iconic location with instantly recognizable landmarks, distinctive architecture, beautiful scenery,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU0ZybobsAAkkyg.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111372154508128256",
+          "file": "2111372178461540580_0.jpg",
+          "thumb": "2111372178461540580_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0ZzJHaoAAEqIU.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111372166717677568",
+          "file": "2111372178461540580_1.jpg",
+          "thumb": "2111372178461540580_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108833915360481778",
       "url": "https://x.com/bmx_ai13/status/2108833915360481778",
       "author": "bmx_ai13",
@@ -7563,6 +8110,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2111072485198229941",
+      "url": "https://x.com/ksa8Turky/status/2111072485198229941",
+      "author": "ksa8Turky",
+      "author_name": "‏Turky",
+      "avatar": "https://pbs.twimg.com/profile_images/2067295826871762944/knT_qoee_normal.jpg",
+      "created_at_utc": "2026-10-16T12:31:16.000Z",
+      "created_at_sh": "2026-10-16 20:31",
+      "likes": 11,
+      "reposts": 1,
+      "bookmarks": 4,
+      "lang": "",
+      "text": "GPT Image 2.5 \n\nPrompt ⤵️\nCreate a square premium surreal editorial photograph of [EVERYDAY OBJECT] casting a shadow that seamlessly folds upward into a three-dimensional origami [SYMBOL]. Keep a clear connection between the flat shadow and folded form. One object, one",
+      "prompt": "Create a square premium surreal editorial photograph of [EVERYDAY OBJECT] casting a shadow that seamlessly folds upward into a three-dimensional origami [SYMBOL]. Keep a clear connection between the flat shadow and folded form. One object, one",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUwJNhZWUAAZFnu.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111072453237559296",
+          "file": "2111072485198229941_0.jpg",
+          "thumb": "2111072485198229941_0.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwJOAfWgAEs_HE.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111072461584236545",
+          "file": "2111072485198229941_1.jpg",
+          "thumb": "2111072485198229941_1.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwJOeWXAAAn3WR.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111072469599584256",
+          "file": "2111072485198229941_2.jpg",
+          "thumb": "2111072485198229941_2.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwJO9-XAAAcssk.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111072478088855552",
+          "file": "2111072485198229941_3.jpg",
+          "thumb": "2111072485198229941_3.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2099515022372454882",
       "url": "https://x.com/HarunagaMutsuki/status/2099515022372454882",
       "author": "HarunagaMutsuki",
@@ -7752,6 +8358,74 @@
           "file": "2110546197496614964_2.jpg",
           "thumb": "2110546197496614964_2.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111111712514400451",
+      "url": "https://x.com/liyue_ai/status/2111111712514400451",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-16T15:07:09.000Z",
+      "created_at_sh": "2026-10-16 23:07",
+      "likes": 10,
+      "reposts": 0,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "GPT Image 2.5生成东方幻想人物原型：金鱼灯魄姬 · 灯影游霞。\n\n提示词：\n9:16竖版，高精度风格化3D东方幻想女性角色原型，电影级CG角色美术，东方节庆意象与高级幻想服装雕塑融合。",
+      "prompt": "9:16竖版，高精度风格化3D东方幻想女性角色原型，电影级CG角色美术，东方节庆意象与高级幻想服装雕塑融合。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUws3oXaYAEEfZL.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111111659569963009",
+          "file": "2111111712514400451_0.jpg",
+          "thumb": "2111111712514400451_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111442541400949157",
+      "url": "https://x.com/lishishen7i/status/2111442541400949157",
+      "author": "lishishen7i",
+      "author_name": "lyshen",
+      "avatar": "https://pbs.twimg.com/profile_images/2059312602300522497/lLQRTn2K_normal.jpg",
+      "created_at_utc": "2026-10-17T13:01:45.000Z",
+      "created_at_sh": "2026-10-17 21:01",
+      "likes": 10,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "zh",
+      "text": "甜甜圈 小甜妹\n用的GPT Image2.5 还不知道Seedream效果如何\n大家更喜欢那个呢？\n\n提示词在下方回复中哦~",
+      "prompt": "参考提示词：\n2:3竖幅，甜甜圈主题的甜美时尚人像写真，取景从头顶至上胸，人物头部占据画面大部分，背景为平滑、自然失焦的浅灰白色。一位年轻成年东亚女性，上身基本朝向镜头，头轻轻向画面左侧倾斜，脸略朝画面右侧，眼睛看向右上方，双唇自然微张，神态带一点好奇与出神。\n\n双手分别抬在两侧下脸颊旁，手指弯曲托住甜甜圈道具，糖霜面朝向镜头：画面左侧是一枚深巧克力色爱心甜甜圈，表面点缀金色碎屑；画面右侧是一枚奶白糖霜圆形甜甜圈，带巧克力交叉淋线和彩色糖针，外缘与部分手指轻微出框。两枚道具围住脸部，中央五官完整露出，浅粉色长甲点缀小巧立体花饰。\n\n深棕色蓬松中长发，轻薄碎刘海，头顶和两侧发束自然扬起，少量细发掠过鼻梁与脸颊；头顶及耳侧点缀米棕、草莓粉甜甜圈造型发饰，垂落发束间系着粉色蝴蝶结。穿巧克力棕宽松罗纹针织衫，长袖口覆盖手腕。\n\n面部轮廓柔和，下颌渐收、下巴圆润，杏眼与自然唇形。暖桃粉底色，面颊和鼻梁有轻柔粉色晕染，睫毛清楚，嘴唇呈水润蜜桃珊瑚色。面部明亮而柔和，鼻下、发丝下与下颌保留浅淡阴影，小范围润泽高光集中在鼻尖和唇部。\n\n整体采用暖奶油与巧克力棕的糖果写真调色，浅灰白背景保持近中性，粉色只作局部点缀。肤面低微对比、过渡柔润，眼睛、合焦发束、针织纹理与糖霜边缘仍可辨，深色头发保留重量和层次。避免塑料肤质、整脸油光、过度锐化、脏噪点以及手指与道具粘连。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU1YM8abkAActRr.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111440779705290752",
+          "file": "2111442541400949157_0.jpg",
+          "thumb": "2111442541400949157_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU1YM8pakAEhKhK.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111440779768139777",
+          "file": "2111442541400949157_1.jpg",
+          "thumb": "2111442541400949157_1.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -8099,6 +8773,153 @@
       "nsfw_flag": false
     },
     {
+      "id": "2110992923663749587",
+      "url": "https://x.com/spark_chenlin/status/2110992923663749587",
+      "author": "spark_chenlin",
+      "author_name": "尘林 Spark",
+      "avatar": "https://pbs.twimg.com/profile_images/2104722063990628352/9tnTes6t_normal.jpg",
+      "created_at_utc": "2026-10-16T07:15:08.000Z",
+      "created_at_sh": "2026-10-16 15:15",
+      "likes": 8,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "zh",
+      "text": "洗衣机里突然出现了一只女朋友。\n\n黄色针织衫、蓝色洗衣房、透明玻璃和一张毫无防备的笑脸，意外地组成了一张很有夏天气息的生活照片。☁️\n\nGPT Image 2.5 提示词：\n\n9:16，成年韩系俏皮美女，镜头位于自助洗衣店滚筒洗衣机内部向外拍摄，圆形玻璃形成天然边框，人物弯腰把衣物塞进来，发丝、袖口和手指压近镜头，CCD直闪，泡泡、塑料反光和金属滚筒形成怪诞可爱的画面，蓝黄配色，极具传播感。",
+      "prompt": "9:16，成年韩系俏皮美女，镜头位于自助洗衣店滚筒洗衣机内部向外拍摄，圆形玻璃形成天然边框，人物弯腰把衣物塞进来，发丝、袖口和手指压近镜头，CCD直闪，泡泡、塑料反光和金属滚筒形成怪诞可爱的画面，蓝黄配色，极具传播感。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUvArp4XAAAvawr.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110992706562359296",
+          "file": "2110992923663749587_0.jpg",
+          "thumb": "2110992923663749587_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUvAtDnXgAAk1Ep.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110992730650279936",
+          "file": "2110992923663749587_1.jpg",
+          "thumb": "2110992923663749587_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUvAvvjWkAAMhvV.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110992776804339712",
+          "file": "2110992923663749587_2.jpg",
+          "thumb": "2110992923663749587_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110990971936621046",
+      "url": "https://x.com/spark_chenlin/status/2110990971936621046",
+      "author": "spark_chenlin",
+      "author_name": "尘林 Spark",
+      "avatar": "https://pbs.twimg.com/profile_images/2104722063990628352/9tnTes6t_normal.jpg",
+      "created_at_utc": "2026-10-16T07:07:22.000Z",
+      "created_at_sh": "2026-10-16 15:07",
+      "likes": 8,
+      "reposts": 1,
+      "bookmarks": 6,
+      "lang": "zh",
+      "text": "这大概是我很喜欢的一种夜晚：\n\n电话亭、雨水、霓虹灯，还有一个看起来像刚从故事里走出来的人。\n\n玻璃把她和城市隔开，却又把所有光线重新混在一起。 现实感和梦境感刚好卡在中间。\n\nGPT Image 2.5 提示词：\n\n9:16，成年韩系冷甜美女，夜晚街头旧式电话亭，透明玻璃布满反光与指纹，人物站在电话亭里，一手拿听筒，一手按在玻璃上，脸半隐在霓虹倒影后，28mm广角近景，潮湿空气与灯光形成电影氛围，复古又现代，极具故事感。",
+      "prompt": "9:16，成年韩系冷甜美女，夜晚街头旧式电话亭，透明玻璃布满反光与指纹，人物站在电话亭里，一手拿听筒，一手按在玻璃上，脸半隐在霓虹倒影后，28mm广角近景，潮湿空气与灯光形成电影氛围，复古又现代，极具故事感。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUu_ENAWkAAMtOs.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110990929284730880",
+          "file": "2110990971936621046_0.jpg",
+          "thumb": "2110990971936621046_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUu_EpgWkAEw1qw.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110990936935141377",
+          "file": "2110990971936621046_1.jpg",
+          "thumb": "2110990971936621046_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUu_FkyXwAASeJp.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110990952848408576",
+          "file": "2110990971936621046_2.jpg",
+          "thumb": "2110990971936621046_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110954639097000127",
+      "url": "https://x.com/spark_chenlin/status/2110954639097000127",
+      "author": "spark_chenlin",
+      "author_name": "尘林 Spark",
+      "avatar": "https://pbs.twimg.com/profile_images/2104722063990628352/9tnTes6t_normal.jpg",
+      "created_at_utc": "2026-10-16T04:43:00.000Z",
+      "created_at_sh": "2026-10-16 12:43",
+      "likes": 8,
+      "reposts": 0,
+      "bookmarks": 5,
+      "lang": "zh",
+      "text": "夏天最温柔的瞬间：\n\n阳光刚好。\n\n白衬衫随风晃动。\n\n她恰好回头。🤍\n\nGPT Image 2.5 提示词：\n\n9:16，成年韩系甜酷美女，居民楼天台，镜头穿过大量晾衣绳和被风吹动的白衬衫拍摄，人物站在衣物缝隙中间回头，手轻轻抓住一角布料，阳光和阴影交错，日常场景却有很强的构图趣味和故事感，白蓝与浅灰配色。",
+      "prompt": "9:16，成年韩系甜酷美女，居民楼天台，镜头穿过大量晾衣绳和被风吹动的白衬衫拍摄，人物站在衣物缝隙中间回头，手轻轻抓住一角布料，阳光和阴影交错，日常场景却有很强的构图趣味和故事感，白蓝与浅灰配色。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUrmgdFWoAA9Giu.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110752820613783552",
+          "file": "2110954639097000127_0.jpg",
+          "thumb": "2110954639097000127_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUrmj4dWAAAg3U7.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110752879501770752",
+          "file": "2110954639097000127_1.jpg",
+          "thumb": "2110954639097000127_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUrmmSqWQAALmzG.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110752920895373312",
+          "file": "2110954639097000127_2.jpg",
+          "thumb": "2110954639097000127_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097435771959488885",
       "url": "https://x.com/nouryyildiz/status/2097435771959488885",
       "author": "nouryyildiz",
@@ -8327,6 +9148,84 @@
           "file": "2110533614723117263_2.jpg",
           "thumb": "2110533614723117263_2.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111004150762975278",
+      "url": "https://x.com/Tech_Apex0/status/2111004150762975278",
+      "author": "Tech_Apex0",
+      "author_name": "Apex AI",
+      "avatar": "https://pbs.twimg.com/profile_images/2107710629985566720/-cG3g3f1_normal.jpg",
+      "created_at_utc": "2026-10-16T07:59:44.000Z",
+      "created_at_sh": "2026-10-16 15:59",
+      "likes": 7,
+      "reposts": 4,
+      "bookmarks": 2,
+      "lang": "",
+      "text": "She looked up once… and forgot where she was going. \n\nGPT Image 2.5 \n\nPrompt : \n\n{\n  \"prompt\": \"Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion",
+      "prompt": "\"prompt\": \"Create a beautiful vertical 9:16 digital painting in a vibrant, expressive storybook illustration style. A young woman with a short dark bob haircut stands in the lower-right portion",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUvLFB_aMAAocFv.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111004137647386624",
+          "file": "2111004150762975278_0.jpg",
+          "thumb": "2111004150762975278_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110925950032769157",
+      "url": "https://x.com/spark_chenlin/status/2110925950032769157",
+      "author": "spark_chenlin",
+      "author_name": "尘林 Spark",
+      "avatar": "https://pbs.twimg.com/profile_images/2104722063990628352/9tnTes6t_normal.jpg",
+      "created_at_utc": "2026-10-16T02:49:00.000Z",
+      "created_at_sh": "2026-10-16 10:49",
+      "likes": 7,
+      "reposts": 1,
+      "bookmarks": 3,
+      "lang": "zh",
+      "text": "恋爱感的正确打开方式：\n\n一只比脸还大的气球。\n\n一个笑到变形的表情。\n\n还有一点不讲道理的亲密感。💜\n\nGPT Image 2.5 提示词：\n\n固定视觉DNA：9:16，成年韩系俏皮美女，CCD直闪，超广角近景，透明气球或彩色气球占据半个画面，脸部被挤压变形，具有怪诞、甜美、传播性强的冲击感。\n\n随机池： 场景[生日派对/卧室/拍贴机/街角/便利店门口] 气球[透明亮片气球/金属色气球/爱心气球/巨大圆气球] 动作[把气球推向镜头/脸贴气球/从气球后探头/气球突然挡脸] 神态[忍笑/无辜/惊喜/坏笑/大笑] 配色[粉×银/蓝×黄/红×白/紫×绿]",
+      "prompt": "固定视觉DNA：9:16，成年韩系俏皮美女，CCD直闪，超广角近景，透明气球或彩色气球占据半个画面，脸部被挤压变形，具有怪诞、甜美、传播性强的冲击感。\n\n随机池： 场景[生日派对/卧室/拍贴机/街角/便利店门口] 气球[透明亮片气球/金属色气球/爱心气球/巨大圆气球] 动作[把气球推向镜头/脸贴气球/从气球后探头/气球突然挡脸] 神态[忍笑/无辜/惊喜/坏笑/大笑] 配色[粉×银/蓝×黄/红×白/紫×绿]",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUrkWrlXIAA-NHA.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110750453684183040",
+          "file": "2110925950032769157_0.jpg",
+          "thumb": "2110925950032769157_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUrkYMMWwAAr3EZ.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110750479617540096",
+          "file": "2110925950032769157_1.jpg",
+          "thumb": "2110925950032769157_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUrkbGdW0AAeBOB.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110750529617842176",
+          "file": "2110925950032769157_2.jpg",
+          "thumb": "2110925950032769157_2.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -8647,6 +9546,55 @@
           "media_key": "3_2110587902304346112",
           "file": "2110603323858436363_2.jpg",
           "thumb": "2110603323858436363_2.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110900280673935639",
+      "url": "https://x.com/spark_chenlin/status/2110900280673935639",
+      "author": "spark_chenlin",
+      "author_name": "尘林 Spark",
+      "avatar": "https://pbs.twimg.com/profile_images/2104722063990628352/9tnTes6t_normal.jpg",
+      "created_at_utc": "2026-10-16T01:07:00.000Z",
+      "created_at_sh": "2026-10-16 09:07",
+      "likes": 6,
+      "reposts": 0,
+      "bookmarks": 3,
+      "lang": "zh",
+      "text": "龙女 · 潮汐遗梦 🐉\n\n银鳞为衣，冷月为冠。\n\n她从深海的传说中走来，带着一身破碎的月光。\n\n美得清冷，也美得不真实。\n\nGPT Image 2.5 提示词：\n\n东方龙女风女孩，恋人视角，中画幅近景，局部裁切，青金、鳞光绿、白银配色，华丽神秘又贴近镜头，像一本幻想题材时尚刊",
+      "prompt": "东方龙女风女孩，恋人视角，中画幅近景，局部裁切，青金、鳞光绿、白银配色，华丽神秘又贴近镜头，像一本幻想题材时尚刊",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUrjNmBXEAAWYCv.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110749198060556288",
+          "file": "2110900280673935639_0.jpg",
+          "thumb": "2110900280673935639_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUrjR42WoAAIxTO.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110749271834140672",
+          "file": "2110900280673935639_1.jpg",
+          "thumb": "2110900280673935639_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUrjVj-WoAEP1V6.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2110749334950027265",
+          "file": "2110900280673935639_2.jpg",
+          "thumb": "2110900280673935639_2.jpg",
           "tw": 360,
           "th": 480
         }
@@ -8989,6 +9937,35 @@
           "thumb": "2109995151213076729_1.jpg",
           "tw": 320,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111089872962548198",
+      "url": "https://x.com/krienknight/status/2111089872962548198",
+      "author": "krienknight",
+      "author_name": "cyberkk",
+      "avatar": "https://pbs.twimg.com/profile_images/2065077377785577472/OPNI9LBa_normal.jpg",
+      "created_at_utc": "2026-10-16T13:40:22.000Z",
+      "created_at_sh": "2026-10-16 21:40",
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT-Image2.5 生图\n\n你更喜欢哪个\n\n提示词见评论区",
+      "prompt": "日系写实CG，成年女性，粉色中短发，侧边编发，白色花朵发饰与深蓝丝带，蓝紫色眼睛，单眼眨眼，温柔浅笑，细腻自然的皮肤质感，真实发丝。\n\n身穿白色与海军蓝幻想风连衣裙，粉色蝴蝶结，宽松长袖，金色星星装饰，精致蕾丝与刺绣，腰间挂着小巧的蓝色相机，裙摆自然覆盖腰胯和大腿，裸腿，赤足。\n\n自然坐在白色地面上，身体朝画面左侧微转，双膝弯曲并自然靠拢，膝盖一前一后，小腿朝左前方延伸，双脚自然落地，其中一只脚稍微靠前。一只手托着脸颊，手肘稳稳搭在抬起的膝盖上，另一只手撑在臀部侧后方的地面上。头部轻轻靠向掌心，肩膀放松，身体重心稳定。\n\n人体结构准确，骨盆位置合理，双腿长度一致，髋部、膝盖、脚踝自然衔接，关节角度舒适，手指与脚趾清晰自然。\n\n全身构图，人物偏右，左上方留白，略低的正面四分之三视角，自然镜头透视。白色摄影棚背景，光滑地面与轻微倒影，左侧摆放蓝色天球仪、书本和兔子玩偶，周围散落少量粉色花瓣。\n\n粉蓝配色，高明度柔和漫射光，低对比度，细腻接触阴影，真实布料褶皱，金属饰品反光，高品质日系游戏过场动画质感，精致三维渲染，清新梦幻。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUwZBLUaIAEdfud.jpg",
+          "w": 1200,
+          "h": 800,
+          "media_key": "3_2111089833338871809",
+          "file": "2111089872962548198_0.jpg",
+          "thumb": "2111089872962548198_0.jpg",
+          "tw": 480,
+          "th": 320
         }
       ],
       "nsfw_flag": false
@@ -9341,6 +10318,64 @@
           "thumb": "2110603939368571321_3.jpg",
           "tw": 358,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111129894931648832",
+      "url": "https://x.com/joey_tail/status/2111129894931648832",
+      "author": "joey_tail",
+      "author_name": "Joey（看不到私信版）",
+      "avatar": "https://pbs.twimg.com/profile_images/2054084206368903168/RQEJStoF_normal.jpg",
+      "created_at_utc": "2026-10-16T16:19:24.000Z",
+      "created_at_sh": "2026-10-17 00:19",
+      "likes": 3,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Gpt image-2.5，prompt：\nA haunting, high-fashion portrait pairs a sorrowful young East Asian woman with a pearl-encrusted porcelain mask, their near-identical faces framed by broken mirrors, drifting reflections, jeweled highlights, and cool blue-pink light.\n\nShe cradles the",
+      "prompt": "A haunting, high-fashion portrait pairs a sorrowful young East Asian woman with a pearl-encrusted porcelain mask, their near-identical faces framed by broken mirrors, drifting reflections, jeweled highlights, and cool blue-pink light.\n\nShe cradles the",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUw9RqybcAAU-ho.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2111129699082792960",
+          "file": "2111129894931648832_0.jpg",
+          "thumb": "2111129894931648832_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110943252878909466",
+      "url": "https://x.com/renoiseai/status/2110943252878909466",
+      "author": "renoiseai",
+      "author_name": "Renoise",
+      "avatar": "https://pbs.twimg.com/profile_images/2074560834051969024/hadKvEH3_normal.jpg",
+      "created_at_utc": "2026-10-16T03:57:45.000Z",
+      "created_at_sh": "2026-10-16 11:57",
+      "likes": 3,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Same prompt, two designers: 🍌2.1 vs GPT Image 2.5.\n\nA dense grunge collage with script capitals, an icy duotone, halftone dots, insets and stickers. Both nailed the vibe. Which one would you post?\n\nPrompt below 👇",
+      "prompt": "Design a 16:9 landscape grunge Y2K K-pop collage poster from reference image 1. Layout job: the model, her pose, face, smoky eyes, hair, outfit, gloved hand and the apple stay exactly as in reference image 1, same position and size. Reference images 2 and 3 are other photos of the same model, used only as two tiny inset photos.\nColor system: convert the whole photo, including her and the mirror room, into a cold icy blue-gray duotone, like a cyanotype photocopy with crushed blacks, heavy grain and slight print blur. Keep only the apple in its true red so it is the single warm spot. The only accent color is acid lime-yellow, plus black and white.\nElements:\nTop-left corner and down the left edge: ornate baroque filigree scrollwork in acid lime, rough and printed.\nA large field of black halftone dots on the right half, fading from big dots to small, behind her shoulder.\n\nAcross the middle of the poster, crossing in front of her body but never over her face or the apple: a big bold black headline with white outline: “WHOLE DIFFERENT LOOK”, where the W, D and L are swapped for lime script capitals.\nDirectly above the headline, a lime highlighter strip with black lowercase text: “same face, a whole different look”.\nUnder the headline, two lines of small white-outlined black lowercase text: “five looks, one model” / “every edit stays on character”.\nBelow the headline, a spiky lime gothic tribal calligraphy splat, and another lime graffiti tag sticker at the bottom right.\nA big lime asterisk sticker with black ink splatter at the top right, a few small white asterisk sparkles.\nSmall white pill tags with black text: “designbyrenoise” near the top, “look 03” beside her head.\nTwo tiny square inset photos on the right, from reference images 2 and 3, also in the icy blue duotone with a thin lime frame.\nA round black badge with a white flower icon on the left, and two small black line icons in boxes at the right edge.\nDown the right edge, a vertical lime band with tiny black vertical text: “nano banana 2.1 · whole different look · nano banana 2.1”.\nKeep the bottom-left corner clear for a logo. Every letter spelled exactly as written, crisp and legible. No other text, no watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUuTDg5acAAj2A9.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2110942538932842496",
+          "file": "2110943252878909466_0.jpg",
+          "thumb": "2110943252878909466_0.jpg",
+          "tw": 480,
+          "th": 270
         }
       ],
       "nsfw_flag": false
@@ -9720,6 +10755,153 @@
           "media_key": "3_2110634746971840512",
           "file": "2110634773232366067_1.jpg",
           "thumb": "2110634773232366067_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110954977967690163",
+      "url": "https://x.com/DeepBlueX0/status/2110954977967690163",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-16T04:44:21.000Z",
+      "created_at_sh": "2026-10-16 12:44",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "zh",
+      "text": "中国年画～\n\n🔵 通用GPT image 2.5 Prompt:\n\n随机不同年画主体 × 杨柳青年画风格转译 × 细线勾勒 × 木版套色与手工彩绘\n\nn=6,单独出图，不拼图",
+      "prompt": "随机不同年画主体 × 杨柳青年画风格转译 × 细线勾勒 × 木版套色与手工彩绘\n\nn=6,单独出图，不拼图",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUueWxfaMAAtinU.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110954964432596992",
+          "file": "2110954977967690163_0.jpg",
+          "thumb": "2110954977967690163_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUueWxca0AAUNts.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110954964420055040",
+          "file": "2110954977967690163_1.jpg",
+          "thumb": "2110954977967690163_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUueWxXa8AAilrM.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110954964399091712",
+          "file": "2110954977967690163_2.jpg",
+          "thumb": "2110954977967690163_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUueWxVbsAAnHOc.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110954964390752256",
+          "file": "2110954977967690163_3.jpg",
+          "thumb": "2110954977967690163_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110923038397219118",
+      "url": "https://x.com/onlyone49035/status/2110923038397219118",
+      "author": "onlyone49035",
+      "author_name": "相信自己",
+      "avatar": "https://pbs.twimg.com/profile_images/2109631814621097984/Zx3lDyZp_normal.jpg",
+      "created_at_utc": "2026-10-16T02:37:26.000Z",
+      "created_at_sh": "2026-10-16 10:37",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "我们用 AI 进行创作\n\n就是为了让我们\n\n工作更有效率，生活更加美好\n\n创作工具 GPT image 2.5，提示词在评论区",
+      "prompt": "使用上传的秋日小区照片作为场景基础，保留金黄色秋树、黑色铁艺围栏、住宅楼、阳光照射方向和原有环境结构。\n\n在围栏前的步道上加入一名可爱的3D卡通中年男性，头身比约1:3，戴黑框眼镜，深色短发，穿浅灰色休闲外套、深色长裤和白色运动鞋，背着小巧背包，手里拿着一杯热咖啡。\n\n人物抬头望向被阳光照亮的金黄色树冠，身旁坐着一只毛茸茸的小狗，人与狗共同欣赏秋天的景色。\n\n保持真实场景与3D人物自然融合。阳光照亮人物脸颊和衣服边缘，地面出现自然投影，空中有少量飘落的树叶。\n\n整体采用皮克斯式温暖治愈3D动画美学、精致柔和材质、电影级光照、温暖秋日氛围、高清细节。\n\n画面比例：9:16竖版。\n\n不要文字、不要水印。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUuBPQAbEAAE7Cn.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110922949347971072",
+          "file": "2110923038397219118_0.jpg",
+          "thumb": "2110923038397219118_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUuBP-4bMAAi6dT.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110922961930891264",
+          "file": "2110923038397219118_1.jpg",
+          "thumb": "2110923038397219118_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111356537558138947",
+      "url": "https://x.com/CandyTravelight/status/2111356537558138947",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-17T07:20:00.000Z",
+      "created_at_sh": "2026-10-17 15:20",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "雨后竹林石径\n图1：GPT-image-2.5\n图2：nano banana2\n图3：Grok-imagine2\n\nprompt\n雨后初晴的江南竹林深处，青石小径通幽，misty bamboo grove cinematic photograph.\n\n地点是南方丘陵的毛竹林，刚下过一场透雨，清晨7点左右；空气里悬着未散的薄雾，石径两旁堆着被雨水打落的竹叶，叶尖还挂着水珠。",
+      "prompt": "雨后初晴的江南竹林深处，青石小径通幽，misty bamboo grove cinematic photograph.\n\n地点是南方丘陵的毛竹林，刚下过一场透雨，清晨7点左右；空气里悬着未散的薄雾，石径两旁堆着被雨水打落的竹叶，叶尖还挂着水珠。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU0Dh1qbYAAuj3k.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111347680182231040",
+          "file": "2111356537558138947_0.jpg",
+          "thumb": "2111356537558138947_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0Dig_bsAA6qT9.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2111347691813056512",
+          "file": "2111356537558138947_1.jpg",
+          "thumb": "2111356537558138947_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0DjoAaMAAH0HZ.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111347710876069888",
+          "file": "2111356537558138947_2.jpg",
+          "thumb": "2111356537558138947_2.jpg",
           "tw": 270,
           "th": 480
         }
@@ -10686,6 +11868,64 @@
           "media_key": "3_2110533325253427200",
           "file": "2110533344329179491_0.jpg",
           "thumb": "2110533344329179491_0.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111582778126938336",
+      "url": "https://x.com/ksa8Turky/status/2111582778126938336",
+      "author": "ksa8Turky",
+      "author_name": "‏Turky",
+      "avatar": "https://pbs.twimg.com/profile_images/2067295826871762944/knT_qoee_normal.jpg",
+      "created_at_utc": "2026-10-17T22:19:00.000Z",
+      "created_at_sh": "2026-10-18 06:19",
+      "likes": 1,
+      "reposts": 1,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "GPT Image 2.5 \n\nPrompt ⤵️\n\nCreate a square premium surreal editorial photograph of [EVERYDAY TOOL] performing its normal function on [IMPOSSIBLE NATURAL SUBJECT]. Show one clear continuous transition from [UNTAMED STATE] into [ORDERED MATERIAL]. Believable contact, tactile",
+      "prompt": "Create a square premium surreal editorial photograph of [EVERYDAY TOOL] performing its normal function on [IMPOSSIBLE NATURAL SUBJECT]. Show one clear continuous transition from [UNTAMED STATE] into [ORDERED MATERIAL]. Believable contact, tactile",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU1QCdTXcAA0sjh.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111431803462447104",
+          "file": "2111582778126938336_0.jpg",
+          "thumb": "2111582778126938336_0.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111374153735385247",
+      "url": "https://x.com/ksa8Turky/status/2111374153735385247",
+      "author": "ksa8Turky",
+      "author_name": "‏Turky",
+      "avatar": "https://pbs.twimg.com/profile_images/2067295826871762944/knT_qoee_normal.jpg",
+      "created_at_utc": "2026-10-17T08:30:00.000Z",
+      "created_at_sh": "2026-10-17 16:30",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "GPT Image 2.5 \n\nPrompt ⤵️\n\nCreate an ultra-premium surreal editorial photograph, square 1:1 aspect ratio, featuring an elegant transparent glass hourglass with aged dark bronze metallic rims, standing alone in a mysterious desert studio environment.\nComposition: Wide cinematic",
+      "prompt": "Create an ultra-premium surreal editorial photograph, square 1:1 aspect ratio, featuring an elegant transparent glass hourglass with aged dark bronze metallic rims, standing alone in a mysterious desert studio environment.\nComposition: Wide cinematic",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUytqnIWAAAPjbU.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111253272900009984",
+          "file": "2111374153735385247_0.jpg",
+          "thumb": "2111374153735385247_0.jpg",
           "tw": 480,
           "th": 480
         }
@@ -12253,6 +13493,328 @@
           "file": "2110661039402492043_0.jpg",
           "thumb": "2110661039402492043_0.jpg",
           "tw": 280,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111230454468837695",
+      "url": "https://x.com/Alyssa4aicreate/status/2111230454468837695",
+      "author": "Alyssa4aicreate",
+      "author_name": "Alyssa",
+      "avatar": "https://pbs.twimg.com/profile_images/2097050625389527040/zL7cc6B9_normal.jpg",
+      "created_at_utc": "2026-10-16T22:58:59.000Z",
+      "created_at_sh": "2026-10-17 06:58",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Made with Token360 · GPT Image 2.5\n\nCalm-in-chaos sticker — sleepy office cat, sticky-note storm, still on track.\n\nPrompt 👇\n\nDie-cut sticker art of a sleepy orange tabby office cat calmly typing on a tiny laptop while surrounded by an exaggerated storm of flying sticky notes,",
+      "prompt": "Die-cut sticker art of a sleepy orange tabby office cat calmly typing on a tiny laptop while surrounded by an exaggerated storm of flying sticky notes,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUyY0TCX0AANo_Z.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2111230349560762368",
+          "file": "2111230454468837695_0.jpg",
+          "thumb": "2111230454468837695_0.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111081390787969210",
+      "url": "https://x.com/neroallinai/status/2111081390787969210",
+      "author": "neroallinai",
+      "author_name": "Nero",
+      "avatar": "https://pbs.twimg.com/profile_images/2104832054399561728/6oRxWjy-_normal.jpg",
+      "created_at_utc": "2026-10-16T13:06:40.000Z",
+      "created_at_sh": "2026-10-16 21:06",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Today's AI image prompt: Cute Robot Heart Bubbles Street (GPT Image 2.5)\n\n\"A cute, glossy cream-colored robot with a large round head and big…\"\n\nFull prompt: \n\n#socialpost #gptimage #cute",
+      "prompt": "Cute Robot Heart Bubbles Street (GPT Image 2.5)\n\n\"A cute, glossy cream-colored robot with a large round head and big…\"\n\nFull prompt:",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUwRPCiWMAAnzGB.jpg",
+          "w": 900,
+          "h": 1125,
+          "media_key": "3_2111081275406561280",
+          "file": "2111081390787969210_0.jpg",
+          "thumb": "2111081390787969210_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2110912939817386085",
+      "url": "https://x.com/shyboy1211/status/2110912939817386085",
+      "author": "shyboy1211",
+      "author_name": "咸柠七喜",
+      "avatar": "https://pbs.twimg.com/profile_images/1933424105363234816/Gz2zulOO_normal.jpg",
+      "created_at_utc": "2026-10-16T01:57:18.000Z",
+      "created_at_sh": "2026-10-16 09:57",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "硬直闪人像，脸常被写成柔光美颜。不是模型不会打硬闪，是闪光、阴影、皮肤纹理和背景亮度糊进同一句氛围词里，分不清谁该硬、谁该暗。\n\n我把硬直闪拆成五格写：闪光指纹、人物面孔、场景与穿搭、姿势与构图、排除，排除也算一格。开头一行是题材和画幅的总述，是每张都不动的底子。骨架固定；四张只换场景与穿搭、姿势与构图两行，闪光指纹与人物面孔不动。下一条是第一张的完整提示词。\n\n附图四张，同一套五格：白墙走廊、便利店冷柜前、夜街转角、公寓门厅。gpt-image-2.5 出图，AI 生成，人物是虚构的成年人。",
+      "prompt": "硬直闪人像，竖幅 9:16，写实摄影。\n闪光指纹：机顶强直射闪光，像小型数码相机硬闪；硬阴影贴墙或贴地，边缘清晰；高光偏冷；皮肤纹理清晰可见；轻微胶片颗粒；背景比主体暗一档；主光是硬直闪。\n人物面孔：虚构的成年女性，二十五岁上下，原创东亚或混血面孔；鹅蛋脸，微圆下颌，内双，鼻梁中等高，薄唇自然粉；浅暖白肤色带一点奶杏，脸颊有自然血色；齐肩黑棕直发，中分，两侧轻贴脸；偏纤瘦自然比例，肩窄；气质安静、略带街头感；表情平静，目光朝向镜头。\n场景与穿搭：白天室内白墙走廊，浅灰白墙面干净平整；穿白色短袖 T 恤与蓝色牛仔裤。\n姿势与构图：半身靠墙站姿，肩背轻贴白墙，一手自然垂放，头微侧；硬阴影落在墙面，人是画面最亮处。\n排除：水印、logo、可读文字、乱码字、磨皮塑料感、柔光美颜灯、雾感打光、像真实名人的面孔、未成年人或幼态特征、第二个人物、性感化姿势、浓妆、节日装饰。\n\n———\n\n调试时我习惯一次只动一格。闪太软了，先查闪光指纹那行是不是写成了柔光或雾感；脸漂了，再查人物面孔有没有被改短；景不对，才动场景与穿搭和姿势与构图。附图换景是一次动两处，场景与穿搭加姿势与构图；自己调单张时，才一次只动一格。\n\n想套自己的场景，复制帖 2：首行、闪光指纹、人物面孔、排除不动，只改场景与穿搭和姿势与构图。四张换地方换穿搭，别换身份。\n\n———\n\n换变体时，复制帖 2：首行总述、闪光指纹、人物面孔、排除一行一字不动；只换场景与穿搭、姿势与构图两行。人脸描述四张保持一致。第一张就是帖 2 原文。下面三套直接替换：\n\n图2｜便利店冷柜前\n场景与穿搭：便利店过道，冷柜玻璃门微蓝冷光很弱、只染边缘；穿深色短外套罩浅色内搭与深色裤；货架与冷柜色块模糊不可读。\n姿势与构图：半身站在冷柜前，微侧身，一手轻扶冷柜边沿，目光平视镜头；硬阴影贴地，冷柜蓝光很弱、只染边缘。\n\n图3｜夜街转角\n场景与穿搭：夜间人行道转角，远处霓虹虚成小光斑；穿宽松白衬衫与深色裤；墙面干净，招牌虚成色块。\n姿势与构图：半身站在转角墙边，肩线放松，一手插裤袋，头微转向镜头；硬阴影贴墙，远处霓虹只作虚焦光斑。\n\n图4｜公寓门厅\n场景与穿搭：窄门厅加电梯门，暖顶灯很弱、只染远处虚焦；穿针织开衫罩浅色内搭与深色裤；门厅墙面与电梯门干净平整。\n姿势与构图：半身站在门厅中央偏右，身体微侧，双手自然垂放，目光朝向镜头；硬阴影贴地贴墙，暖顶灯仅作极弱环境光。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUt3fXUXQAAtQTZ.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110912231072284672",
+          "file": "2110912939817386085_0.jpg",
+          "thumb": "2110912939817386085_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUt3fXTWMAAIVbB.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110912231068020736",
+          "file": "2110912939817386085_1.jpg",
+          "thumb": "2110912939817386085_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUt3fXRWUAAXEmg.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110912231059640320",
+          "file": "2110912939817386085_2.jpg",
+          "thumb": "2110912939817386085_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUt3fXaWkAADBg3.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2110912231097405440",
+          "file": "2110912939817386085_3.jpg",
+          "thumb": "2110912939817386085_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111477166663962974",
+      "url": "https://x.com/hello0cig/status/2111477166663962974",
+      "author": "hello0cig",
+      "author_name": "Najaf Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2111472807230271488/SQOi_Cni_normal.jpg",
+      "created_at_utc": "2026-10-17T15:19:20.000Z",
+      "created_at_sh": "2026-10-17 23:19",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 1",
+      "prompt": "Create a photorealistic cinematic 4:5 portrait of a young South Asian man in a burgundy cable-knit sweater and black trousers, holding a leather jacket. Moody dark blurred background, soft cinematic lighting, natural skin texture, thoughtful expression, premium fashion editorial.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU15SYHbgAAgmzw.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2111477156924850176",
+          "file": "2111477166663962974_0.jpg",
+          "thumb": "2111477166663962974_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111423008288190955",
+      "url": "https://x.com/molyin_com/status/2111423008288190955",
+      "author": "molyin_com",
+      "author_name": "Molyin",
+      "avatar": "https://pbs.twimg.com/profile_images/2078692181280444416/ilGVs23G_normal.jpg",
+      "created_at_utc": "2026-10-17T11:44:08.000Z",
+      "created_at_sh": "2026-10-17 19:44",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Sharing GPT Image 2.5 Prompts on Molyin\n\nAmber eyes glow in the dark. Armor tells a story. Turn any character in your head into a photoreal, 8K film still with a single prompt.\n\nTry it here:\n\n\nFull prompt in replies 👇",
+      "prompt": "Create an ultra realistic, dark cinematic portrait of an original futuristic fantasy creature with an ancient, weathered appearance and mysterious supernatural presence. The character has textured gray green skin, glowing amber eyes, deep shadows around the eyes, intricate natural skin patterns, fine cracks resembling aged stone, uneven facial textures, and a slightly open mouth revealing aged, irregular teeth. Sparse, messy gray hair surrounds the scalp, with intricate surface details across the forehead and temples.\n\nThe character wears original futuristic armor made from hundreds of overlapping, irregular metal plates in dark gunmetal, weathered teal, and charcoal gray. Each plate has unique surface patterns, subtle scratches, worn edges, aged metallic textures, and realistic reflections. Layered shoulder guards, intricate mechanical components, dark fabric, and small cyan blue illuminated elements create a sophisticated science fiction design.\n\nComposition: Vertical 2:3 portrait, centered character, direct gaze toward the camera, head and upper torso visible, broad armored shoulders, symmetrical framing, highly detailed facial features.\n\nLighting and atmosphere: Cinematic teal and amber color palette, soft teal rim lighting around the head and shoulders, warm golden bokeh lights in the distant background, dramatic but balanced shadows, shallow depth of field, atmospheric nighttime industrial setting.\n\nPhotography: Professional cinema camera, 85mm portrait lens, f/1.8 aperture, crisp eye detail, realistic material rendering, physically accurate reflections, natural depth, high dynamic range, premium cinematic color grading.\n\nOverall aesthetic: Photorealistic fantasy science fiction character design, sophisticated practical creature makeup, intricate original armor craftsmanship, realistic textures, atmospheric cinematic photography, exceptional detail, 8K quality.\n\nNo text, no logos, no watermark, no cartoon styling, no exaggerated proportions. The final image should look like a professionally photographed original character from a high budget science fiction film.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU1IBWbaIAA0B7k.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111422988344238080",
+          "file": "2111423008288190955_0.jpg",
+          "thumb": "2111423008288190955_0.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111561771420975174",
+      "url": "https://x.com/Alyssa4aicreate/status/2111561771420975174",
+      "author": "Alyssa4aicreate",
+      "author_name": "Alyssa",
+      "avatar": "https://pbs.twimg.com/profile_images/2097050625389527040/zL7cc6B9_normal.jpg",
+      "created_at_utc": "2026-10-17T20:55:31.000Z",
+      "created_at_sh": "2026-10-18 04:55",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Made with Token360 · GPT Image 2.5\n\nDirected brunch two-shot — empty table diagonal, warm pendant, quiet distance.\n\nPrompt 👇\n\nWide two-shot from seated eye height, natural 40mm perspective. An adult daughter sits closer to camera on the right third; her mother sits deeper",
+      "prompt": "Wide two-shot from seated eye height, natural 40mm perspective. An adult daughter sits closer to camera on the right third; her mother sits deeper",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU3GKRZW8AIwnHI.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2111561680077385730",
+          "file": "2111561771420975174_0.jpg",
+          "thumb": "2111561771420975174_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111372818248282526",
+      "url": "https://x.com/DeepBlueX0/status/2111372818248282526",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-17T08:24:41.000Z",
+      "created_at_sh": "2026-10-17 16:24",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT image 2.5 Prompt:\n\n主题：治愈系多肉植物 × 湿润粉彩画 × 萌系拟人化 × 艺术留白\n\n每张独立选择一种不同的真实多肉品种，探索差异鲜明的叶片形态与自然生长结构。以植物本体为主角，通过克制的微表情与轻微姿态赋予温暖情绪。",
+      "prompt": "主题：治愈系多肉植物 × 湿润粉彩画 × 萌系拟人化 × 艺术留白\n\n每张独立选择一种不同的真实多肉品种，探索差异鲜明的叶片形态与自然生长结构。以植物本体为主角，通过克制的微表情与轻微姿态赋予温暖情绪。\n\n采用湿润粉彩手绘技法，色粉在真实棉质画纸上自然溶散、晕染与沉积，形成柔和的色彩交融、不规则湿润边缘与清晰可感的纸张纤维肌理。局部保留粉彩颗粒、手工擦抹痕迹与自然的不完美。\n\n遵循少即是多的艺术构图，以大面积自然画纸、轻淡色彩与自由晕染形成舒适留白。背景通过少量湿润笔触暗示环境，营造安静、含蓄、富有生命力的治愈氛围。\n\n每张重新独立抽卡，自由探索不同多肉品种、情绪、姿态、场景、视角、构图与光线。场景涵盖安静生活空间、自然环境与微型童话世界。同批不重复多肉品种、主要场景与构图结构，保持鲜明视觉差异。\n\n9:16竖版。左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。\n\nn=4，每张独立生成一张完整图片，分别输出，不拼图。",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU0aYrIaIAEeubm.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111372811503804417",
+          "file": "2111372818248282526_0.jpg",
+          "thumb": "2111372818248282526_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0aYqMbkAIhbmV.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111372811252240386",
+          "file": "2111372818248282526_1.jpg",
+          "thumb": "2111372818248282526_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0aYqKboAA1qNY.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111372811243855872",
+          "file": "2111372818248282526_2.jpg",
+          "thumb": "2111372818248282526_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU0aYqNaUAATTpX.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111372811256352768",
+          "file": "2111372818248282526_3.jpg",
+          "thumb": "2111372818248282526_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111299540863037848",
+      "url": "https://x.com/DeepBlueX0/status/2111299540863037848",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-17T03:33:31.000Z",
+      "created_at_sh": "2026-10-17 11:33",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "通用 GPT image 2.5 Prompt:\n\n主题：Emoji × 城市地标雕塑 × 公共艺术 × 真实游客摄影\n\n将不同 Emoji 表情或符号转化为具有地标辨识度的实体公共艺术雕塑。\n\n每张独立选择一种不同 Emoji，根据其造型、情绪与象征含义，匹配不同类型的公园、景区、商场、广场或其他公共空间。\n\n提取 Emoji",
+      "prompt": "主题：Emoji × 城市地标雕塑 × 公共艺术 × 真实游客摄影\n\n将不同 Emoji 表情或符号转化为具有地标辨识度的实体公共艺术雕塑。\n\n每张独立选择一种不同 Emoji，根据其造型、情绪与象征含义，匹配不同类型的公园、景区、商场、广场或其他公共空间。\n\n提取 Emoji",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUzXvPHbUAAA6Nt.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111299531841425408",
+          "file": "2111299540863037848_0.jpg",
+          "thumb": "2111299540863037848_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzXvPEbAAA8xYY.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111299531828822016",
+          "file": "2111299540863037848_1.jpg",
+          "thumb": "2111299540863037848_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzXvPBbsAASvFU.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111299531816284160",
+          "file": "2111299540863037848_2.jpg",
+          "thumb": "2111299540863037848_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUzXvPQbQAAZubP.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2111299531879170048",
+          "file": "2111299540863037848_3.jpg",
+          "thumb": "2111299540863037848_3.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
