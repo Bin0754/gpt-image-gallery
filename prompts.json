@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-18T08:20:21+08:00",
-  "count": 361,
+  "generated_at": "2026-10-19T08:22:22+08:00",
+  "count": 377,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -250,9 +250,9 @@
     {
       "id": "2109118256045002828",
       "prompt": "The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\n\nUpper Region - Original Photo Shoot Area\n\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\n\nLower Region - Minimalist Ink Wash Reconstruction Area\n\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\n\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\n\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\n\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\n\nText Treatment\n\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\n\nOverall Presentation\n\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition",
-      "author": "Shorelyn_",
-      "author_url": "https://x.com/Shorelyn_",
-      "post_url": "https://x.com/Shorelyn_/status/2109118256045002828",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2109118256045002828",
       "date": "2026-10-11T11:05:52+08:00",
       "likes": 220,
       "language": "en",
@@ -506,6 +506,21 @@
         "images/2101991375806038065_1.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2111697628941717933",
+      "prompt": "Create a realistic fisheye photo of the woman in my uploaded selfie, preserving her exact facial features. She sits on a doorstep in front of weathered green wooden doors, wearing a beige trench coat, ivory turtleneck, and light blue jeans. A curious tabby-and-white cat fills the right foreground with an oversized nose and expressive eyes. Soft daylight, natural textures, playful candid mood, ultra-realistic photography, landscape 16:9, no text.",
+      "author": "MissDelulu9",
+      "author_url": "https://x.com/MissDelulu9",
+      "post_url": "https://x.com/MissDelulu9/status/2111697628941717933",
+      "date": "2026-10-18T13:55:22+08:00",
+      "likes": 119,
+      "language": "en",
+      "images": [
+        "images/2111697628941717933_0.jpg",
+        "images/2111697628941717933_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2098962792904798297",
@@ -967,9 +982,9 @@
     {
       "id": "2111374785079103515",
       "prompt": "Create a vertical 3:4 before-and-after image split into two stacked panels of equal height.\n\nTOP PANEL (before): the original photograph exactly as provided, completely unedited — same subject, pose, background, colors and lighting. Full bleed",
-      "author": "Shorelyn_",
-      "author_url": "https://x.com/Shorelyn_",
-      "post_url": "https://x.com/Shorelyn_/status/2111374785079103515",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2111374785079103515",
       "date": "2026-10-17T16:32:30+08:00",
       "likes": 83,
       "language": "en",
@@ -1071,9 +1086,9 @@
     {
       "id": "2108532094796533952",
       "prompt": "Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a",
-      "author": "Shorelyn_",
-      "author_url": "https://x.com/Shorelyn_",
-      "post_url": "https://x.com/Shorelyn_/status/2108532094796533952",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2108532094796533952",
       "date": "2026-10-09T20:16:40+08:00",
       "likes": 70,
       "language": "en",
@@ -1390,6 +1405,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2111898318074708289",
+      "prompt": "Photorealistic magical old-town street at night, wide 16:9 panoramic composition, one-point perspective, cinematic, ultra-detailed. Edge to edge, no frame, no border.\nSTREET: the",
+      "author": "churvikv",
+      "author_url": "https://x.com/churvikv",
+      "post_url": "https://x.com/churvikv/status/2111898318074708289",
+      "date": "2026-10-19T03:12:50+08:00",
+      "likes": 54,
+      "language": "en",
+      "images": [
+        "images/2111898318074708289_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107865780146893027",
       "prompt": "雷电将军 × Canon PowerShot × 逆光抓拍 × 光学失控",
       "author": "DeepBlueX0",
@@ -1549,6 +1578,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2111687248118993227",
+      "prompt": "Transform the uploaded photograph into an extraordinary, photorealistic textile artwork in which the entire portrait is intricately constructed from fine crimson-red sewing threads embroidered onto natural beige linen fabric.\n\nSUBJECT & IDENTITY:\nPreserve",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2111687248118993227",
+      "date": "2026-10-18T13:14:07+08:00",
+      "likes": 47,
+      "language": "en",
+      "images": [
+        "images/2111687248118993227_0.jpg",
+        "images/2111687248118993227_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108165803338277063",
       "prompt": "Create a charming children’s storybook-style illustration of [LANDMARK], inspired by vintage activity-book artwork. Place the landmark in a bright, dreamy countryside or natural setting with soft hand-drawn black outlines, rounded illustrated elements, gentle watercolor textures, and cheerful pastel colors.\n\nThe landmark itself must be highly accurate and realistically depicted, closely matching its real-world architecture, proportions, shape, colors, windows, towers, rooftops, and distinctive details. Do not cartoonize, distort, simplify, or redesign the landmark. It should look like a faithful miniature representation of the actual landmark, while the surrounding environment remains whimsical and illustrated.\n\nAdd a cute little child exploring or looking toward the landmark. Include green rolling grass, a large leafy tree, tiny wildflowers, soft clouds, warm sunlight, and a simple blue sky. No sheep, lambs, or other oversized animals.\n\nKeep the contrast intentional: realistic, instantly recognizable landmark + charming hand-drawn children’s-book surroundings. The child should have expressive innocent features and slightly exaggerated storybook proportions.\n\nVisual style: vintage preschool activity book, soft hand-drawn outlines, watercolor + subtle crayon textures, slightly imperfect printed texture, nostalgic children’s illustration, cheerful and wholesome, detailed environmental elements, realistic landmark architecture, natural lighting, no photorealistic background.\n\nComposition: portrait 4:5, full-page storybook illustration, landmark as the central visual element, child in the foreground, lots of colorful negative space, clean composition, no modern text, no sheep or lambs, no distorted architecture.",
       "author": "Naiknelofar788",
@@ -1667,6 +1711,22 @@
         "images/2108488140201869772_1.jpg",
         "images/2108488140201869772_2.jpg",
         "images/2108488140201869772_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111755839895699812",
+      "prompt": "Create a collection of individual, high-end editorial art posters, producing one separate design for every uploaded photograph. Treat each image as its own creative project, with no image merging, repeated layouts, or borrowed design elements",
+      "author": "j_smeaton99",
+      "author_url": "https://x.com/j_smeaton99",
+      "post_url": "https://x.com/j_smeaton99/status/2111755839895699812",
+      "date": "2026-10-18T17:46:41+08:00",
+      "likes": 42,
+      "language": "en",
+      "images": [
+        "images/2111755839895699812_0.jpg",
+        "images/2111755839895699812_1.jpg",
+        "images/2111755839895699812_2.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1881,6 +1941,21 @@
       "images": [
         "images/2109346094333198528_0.jpg",
         "images/2109346094333198528_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111646913766584356",
+      "prompt": "Vertical 3:4 canvas split into two strictly equal horizontal halves: top 50% and bottom 50%. The upper half stays photographic; the lower half becomes the continued Second World. Together they must read as one scene.\n\nthe\n\nUPPER HALF\n\nKeep the",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2111646913766584356",
+      "date": "2026-10-18T10:33:51+08:00",
+      "likes": 36,
+      "language": "en",
+      "images": [
+        "images/2111646913766584356_0.jpg",
+        "images/2111646913766584356_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2177,6 +2252,23 @@
         "images/2110403546093089010_3.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2111773880247550136",
+      "prompt": "Create a 3:4 vertical travel-memory poster using [LOCATION / DESTINATION / SUBJECT] as the only scene reference.\n\nCOMPOSITION:\nDivide the image into two equal horizontal halves.\n\nTOP HALF — REAL PHOTOGRAPH:\nPreserve the original photograph as faithfully as possible, retaining recognizable architecture, natural proportions, perspective, lighting, shadows, and environmental details. Allow only subtle color correction and necessary cropping. Do not redesign or invent elements.\n\nBOTTOM HALF — POP-UP PAPER WORLD:\nShow a real open travel journal against a warm ivory background, with visible page thickness, a defined spine, gently curled corners, and tactile paper texture. Reconstruct the photograph’s most distinctive landmarks and environmental features as a miniature three-dimensional paper-cut scene rising from the pages. Use delicate architectural linework, restrained pastel coloring, layered cutouts, folded paper, realistic occlusion, and natural contact shadows.\n\nTRANSITION:\nConnect both halves organically using elements from the actual location, such as a river flowing into the book, a street continuing across the spine, or trees transforming into layered paper shapes. Make the transition feel spatially continuous rather than like a collage.\n\nSTYLE:\nA sophisticated blend of authentic photography, handcrafted paper engineering, and minimalist travel-journal artistry. Preserve the destination’s identity and create the feeling of collecting a real place inside a book.\n\nAvoid turning the photograph into an illustration, flattening the paper scene, distorting landmarks, adding unrelated objects, excessive decoration, titles, readable text, or watermarks.\n\nFORMAT: 3:4 vertical, exact 50/50 horizontal split.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2111773880247550136",
+      "date": "2026-10-18T18:58:22+08:00",
+      "likes": 27,
+      "language": "en",
+      "images": [
+        "images/2111773880247550136_0.jpg",
+        "images/2111773880247550136_1.jpg",
+        "images/2111773880247550136_2.jpg",
+        "images/2111773880247550136_3.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2108403968372306010",
@@ -3235,9 +3327,9 @@
     {
       "id": "2110623786295079368",
       "prompt": "Transform the main subject into a small full-body anime/cartoon version of themselves, matching their hairstyle, outfit, accessories, colors, and recognizable details. Use the reference's clean modern anime aesthetic sharp linework slightly oversized head, compact proportions, cel shading, and expressive details. Position the anime character directly behind the real subject, holding a flashlight aimed forward at their back. Create an intense realistic white beam that fully illuminates the subject from behind, producing bright rim light, glow, and natural shadows. Dim the surrounding outdoor light for dramatic contrast. Preserve the original scene, camera angle, composition, and realism. Ratio 4:5.",
-      "author": "Shorelyn_",
-      "author_url": "https://x.com/Shorelyn_",
-      "post_url": "https://x.com/Shorelyn_/status/2110623786295079368",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2110623786295079368",
       "date": "2026-10-15T14:48:18+08:00",
       "likes": 8,
       "language": "en",
@@ -4452,6 +4544,100 @@
       "prompt_source": "post"
     },
     {
+      "id": "2111644182418759889",
+      "prompt": "创建图像 冷艳盘发落座街边鞋摊塑料小凳 × 高定黑西裤二郎腿黑丝足尖微勾× 注视鞋匠修补单只漆面红底高跟鞋 × IPhone杂乱透视直出 × 强势精英与底层烟火共存 9:16\n\n———\n\n创建图像 街边鞋摊塑料小凳局促落座 × 剪裁凌厉高定白西裤西装冷艳盘发 × 二郎腿黑丝足尖微勾与鞋匠钉掌单只红底高跟鞋 × iPhone略带炫光抓拍 × 精英体面与市井窘迫共存的荒诞反差 9:16",
+      "author": "alanblogsooooo",
+      "author_url": "https://x.com/alanblogsooooo",
+      "post_url": "https://x.com/alanblogsooooo/status/2111644182418759889",
+      "date": "2026-10-18T10:23:00+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2111644182418759889_0.jpg",
+        "images/2111644182418759889_1.jpg",
+        "images/2111644182418759889_2.jpg",
+        "images/2111644182418759889_3.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2111728999374147803",
+      "prompt": "黑底方形AI原创插画：一只橘猫歪着大脑袋，戴红色蝴蝶结，粉色耳心、鼻子和腮红，两只琥珀色椭圆眼睛。猫头外有粗白色贴纸描边和轻微阴影，左侧脸颊延伸到画框外，下缘是一条倾斜的白边。",
+      "author": "achuanmemo",
+      "author_url": "https://x.com/achuanmemo",
+      "post_url": "https://x.com/achuanmemo/status/2111728999374147803",
+      "date": "2026-10-18T16:00:02+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2111728999374147803_0.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2111621309658714336",
+      "prompt": "\"A woman in her late twenties in an oversized cream knit sweater and linen trousers, sitting by a sunlit bedroom window with tea, messy hair, candid morning photo.\"\nGPT Image 2.5 on InkRoom, four takes.",
+      "author": "inkroom_ai",
+      "author_url": "https://x.com/inkroom_ai",
+      "post_url": "https://x.com/inkroom_ai/status/2111621309658714336",
+      "date": "2026-10-18T08:52:06+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2111621309658714336_0.jpg",
+        "images/2111621309658714336_1.jpg",
+        "images/2111621309658714336_2.jpg",
+        "images/2111621309658714336_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111877212215574860",
+      "prompt": "\"A woman in her early thirties in an oversized white shirt on a hotel window ledge at dawn, city skyline behind, messy hair, looking back over her shoulder.\"\nFrame two: same sunrise, mug in hand.\nGPT Image 2.5 on InkRoom 🌇",
+      "author": "inkroom_ai",
+      "author_url": "https://x.com/inkroom_ai",
+      "post_url": "https://x.com/inkroom_ai/status/2111877212215574860",
+      "date": "2026-10-19T01:48:58+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2111877212215574860_0.jpg",
+        "images/2111877212215574860_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111780853818986625",
+      "prompt": "主题：治愈系自然万物 × 随机混合探索 × 湿润粉彩画 × 萌系拟人化 × 艺术留白\n\n每张独立随机选择一种真实自然主体，探索多肉植物、奇异果实、野生蘑菇、苔藓、会飞的种子、水生植物、海洋微型生物、昆虫及自然现象等不同类别。同批优先探索十种不同主体，尽可能覆盖不同类别，展现自然万物丰富而奇妙的形态。\n\n保留主体独特的外形、色彩、纹理与自然结构，通过融入原始形态的克制微表情与轻微姿态赋予温暖情绪。根据主体特征自然呈现生长、飘浮、舒展、栖息或其他富有生命力的瞬间。\n\n采用湿润粉彩手绘技法，色粉在真实棉质画纸上自然溶散、晕染与沉积，形成柔和的色彩交融、不规则湿润边缘与清晰可感的纸张纤维肌理。局部保留粉彩颗粒、手工擦抹痕迹与自然的不完美。\n\n遵循少即是多的艺术构图，以大面积自然画纸、轻淡色彩与自由晕染形成舒适留白。背景通过少量湿润笔触暗示环境，营造安静、含蓄、富有生命力的治愈氛围。\n\n在画面合适的留白位置，以柔和可爱的手写字体标注主体的真实中文名称，文字清晰自然，与整体色彩和手绘质感协调。\n\n每张重新独立抽卡，自由探索不同主体、情绪、姿态、场景、视角、构图与光线。场景涵盖自然环境、安静生活空间与微型童话世界。同批避免重复主体、主要场景与构图结构，保持鲜明视觉差异。\n\n1:1方图。左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。\n\nn=10，生成十张相互独立的完整图片，分别输出，每张单独成图，不拼图。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2111780853818986625",
+      "date": "2026-10-18T19:26:05+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2111780853818986625_0.jpg",
+        "images/2111780853818986625_1.jpg",
+        "images/2111780853818986625_2.jpg",
+        "images/2111780853818986625_3.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2111618444999135390",
+      "prompt": "Medium close-up, slightly elevated eye-level candid portrait of an early-20s East Asian young woman sitting by a rain-streaked independent bookstore window. She leans slightly toward an open hardcover resting in both hands on her lap, looking up from the page with a soft, affectionate reading smile; head tilted a touch.\n\nShe has radiant youthful facial features: a soft V-line jaw, luminous natural skin texture, bright dark-brown almond eyes with fine lashes and subtle aegyo-sal, and a gentle closed-lip smile with coral-pink lips. Her chestnut-brown hair is styled in effortlessly messy, voluminous medium-length layers, naturally tousled with loose strands framing her cheekbones.\n\nShe wears a forest-green merino turtleneck under an open cream wool cardigan with wooden buttons; dark indigo denim jeans visible at the bottom edge with crisp white contrast stitching.\n\nThe scene is a cozy corner of a small independent bookstore: floor-to-ceiling wood shelves of spines behind her, a ceramic mug on the windowsill, soft rain on the glass, warm tungsten reading lamps blending with cool window light.\n\nIlluminated by warm indoor lamp light mixed with cool rainy-day window light, creating a soft specular highlight on her hair. Captured on a 50mm portrait prime at f/1.8, ISO 200, 1/200s, rendering authentic skin micro-pores, natural knit texture, and rich creamy background bokeh. Real photographic frame — adult only, no CGI waxiness.\n\n—\n\nInspired by @johnAGI168",
+      "author": "Andy4aicreate",
+      "author_url": "https://x.com/Andy4aicreate",
+      "post_url": "https://x.com/Andy4aicreate/status/2111618444999135390",
+      "date": "2026-10-18T08:40:43+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2111618444999135390_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107636141109153812",
       "prompt": "Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional drama TV commercial. Tired warm eyes, light freckles, dark hair in a loose low bun, oversized oatmeal knit cardigan over a white tee, straight-leg jeans, bare feet. Natural daylight, true-to-life skin texture, 35mm photography.",
       "author": "jackson99ai",
@@ -5214,6 +5400,69 @@
         "images/2111299540863037848_1.jpg",
         "images/2111299540863037848_2.jpg",
         "images/2111299540863037848_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111645944156471681",
+      "prompt": "黑底方形AI原创头像：戴浅蓝蝴蝶结的白猫歪着头从下沿探出，蓝色椭圆眼睛下有一滴蓝色眼泪，粉色耳心、鼻子和圆脸颊。\n\n———\n\n黑底方形AI原创头像：戴粉红蝴蝶结的灰猫歪着头从下沿探出，黑色椭圆眼睛上方两条眉毛向内压低，右上有白色冒气符号，粉色耳心、鼻子和圆脸颊。",
+      "author": "achuanmemo",
+      "author_url": "https://x.com/achuanmemo",
+      "post_url": "https://x.com/achuanmemo/status/2111645944156471681",
+      "date": "2026-10-18T10:30:00+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2111645944156471681_0.jpg",
+        "images/2111645944156471681_1.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2111857957709463842",
+      "prompt": "\"A [subject] sculpture of thin etched glass-fiber panels, light trapped inside, holographic rainbow edges, dark studio.\"\nCat, hummingbird, chess knight, whale.\nGPT Image 2.5 on InkRoom 🌈",
+      "author": "inkroom_ai",
+      "author_url": "https://x.com/inkroom_ai",
+      "post_url": "https://x.com/inkroom_ai/status/2111857957709463842",
+      "date": "2026-10-19T00:32:28+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2111857957709463842_0.jpg",
+        "images/2111857957709463842_1.jpg",
+        "images/2111857957709463842_2.jpg",
+        "images/2111857957709463842_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111648450412712375",
+      "prompt": "\"A woman in her late twenties in a flowy sage linen midi dress walking through a wheat field at golden hour, warm side light, candid photo.\"\nGPT Image 2.5 on InkRoom gave us four of these. 🌾\nSame light, same wind, a different step every time.",
+      "author": "inkroom_ai",
+      "author_url": "https://x.com/inkroom_ai",
+      "post_url": "https://x.com/inkroom_ai/status/2111648450412712375",
+      "date": "2026-10-18T10:39:57+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2111648450412712375_0.jpg",
+        "images/2111648450412712375_1.jpg",
+        "images/2111648450412712375_2.jpg",
+        "images/2111648450412712375_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2111923469688390069",
+      "prompt": "A high-fashion cinematic beauty portrait of an elegant adult East Asian woman against a soft sage-green studio background. She has sleek glossy jet-black shoulder-length bob hair with soft wispy blunt bangs, natural realistic skin texture, delicate facial features, subtle contouring, soft taupe-brown eye makeup, defined lashes, and warm honey-beige lipstick with a slightly satin finish. She wears an elegant cream off-shoulder knit top and a tiny sparkling silver stud earring.\n\nSeated three-quarter portrait, head gently turned away from camera, calm contemplative gaze toward frame-left (not looking at camera), lips softly closed. Soft directional studio lighting from camera-right, subtle warm highlights, gentle shadows, luxurious editorial beauty campaign aesthetic, quiet sophisticated mood, ultra-photorealistic, detailed pores and hair strands, professional fashion photography, shallow depth of field, 85mm lens, high-end beauty magazine quality, clean composition, no text, no logo, no watermark, vertical 9:16.\n\n—\n\nInspired by @MissDelulu9",
+      "author": "Alyssa4aicreate",
+      "author_url": "https://x.com/Alyssa4aicreate",
+      "post_url": "https://x.com/Alyssa4aicreate/status/2111923469688390069",
+      "date": "2026-10-19T04:52:47+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2111923469688390069_0.jpg"
       ],
       "prompt_source": "post"
     },

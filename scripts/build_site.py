@@ -96,6 +96,12 @@ HIDE_IDS = {
     '2111078947144565023',                         # @mehvishs25 crop-top mirror selfie (unsure)
     '2111469082557993258',                         # @johnAGI168 cleavage-focus selfie (unsure)
     '2111452170210136408',                         # @mehvishs25 mini-skirt crop fashion (unsure)
+    # 2026-10-19 refresh review (contact sheet)
+    '2111725603984486734',                         # @johnAGI168 gym sports-bra mirror selfie
+    '2111677535557681278',                         # @inkroom_ai slip nightdress at window (unsure)
+    '2111687732703764718',                         # @inkroom_ai towel after swim (unsure)
+    '2111933617102372906',                         # @livybabie revealing Halloween cosplay pin-up
+    '2111847424826511499',                         # @UBQDHdYKB065819 comparison caption, not a real prompt
 
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
@@ -142,6 +148,14 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     '2111512551578026319',  # voyzai - explicit body / deep-cleavage gym prompt
     '2111072967652212813',  # KeyoAPI - commentary about a prompt, not a usable prompt
     '2111321354964521468',  # AIwithSynthia - fitted crop-top revenge comedy (unsure)
+    # 2026-10-19 refresh review (poster contact sheet)
+    '2111825583596331312',  # spwfeijen - workflow steps, not a prompt
+    '2111725657780810108',  # akiyoshisan - Kling vs Seedance comparison notes
+    '2111837361269256575',  # WBK_SZ - Gemini vs Grok comparison notes
+    '2111873356937232743',  # thealphatron - Claude previs notes, not a Seedance prompt
+    '2111928121179975824',  # gingerpreneur1 - Wan vs Seedance comparison question
+    '2111789180946923540',  # DDJCXX - workflow template with placeholders
+    '2111620640726040806',  # iX00AI - schoolgirl pool/swimwear (unsure)
 
 }
 VSTATS = {}
