@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-19T08:22:22+08:00",
-  "count": 377,
+  "generated_at": "2026-10-21T08:17:15+08:00",
+  "count": 389,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -6628,6 +6628,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2112409176135925881",
+      "url": "https://x.com/Arina_hoqe/status/2112409176135925881",
+      "author": "Arina_hoqe",
+      "author_name": "Arina Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2059134056806416384/W1oFb_bL_normal.jpg",
+      "created_at_utc": "2026-10-20T05:02:48.000Z",
+      "created_at_sh": "2026-10-20 13:02",
+      "likes": 23,
+      "reposts": 6,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 1",
+      "prompt": "Create an ultra-realistic, high-end fashion portrait of a beautiful young woman smiling warmly at the camera, emerging through a large, irregularly torn opening in a white paper wall. She has long, voluminous, naturally wavy dark-brown hair with subtle caramel highlights, center-parted front strands, soft facial features, expressive hazel-brown eyes, natural rosy makeup, and a bright, charming smile.\n\nShe is wearing a fitted ivory-white ribbed knit cardigan with a square neckline and delicate buttons, paired with a black belt featuring an elegant gold butterfly buckle. Add small pearl drop earrings, a delicate butterfly pendant necklace, and a stylish black shoulder bag with a gold chain strap. A large black ribbon is tied into her hair.\n\nHer hands gently hold the torn paper edges, creating a creative 3D pop-out effect. The ripped white paper has realistic fibers, natural folds, and soft shadows, with a warm light-gray background visible through the opening.\n\nPhotography style: luxury fashion editorial, photorealistic skin texture, detailed hair strands, realistic fabric texture, soft studio lighting, natural facial proportions, elegant composition, sharp focus, professional DSLR photography, 85mm portrait lens, premium color grading, high detail, 4:5 vertical composition.\n\nNegative prompt: cartoon, anime, CGI, plastic skin, blurry face, distorted hands, extra fingers, extra limbs, duplicate person, unnatural smile, asymmetrical eyes, unrealistic hair, bad anatomy, low resolution, text, watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVDI8nibkAEhwxK.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2112409168967864321",
+          "file": "2112409176135925881_0.jpg",
+          "thumb": "2112409176135925881_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097819439106510993",
       "url": "https://x.com/npaka123/status/2097819439106510993",
       "author": "npaka123",
@@ -8822,6 +8851,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2112412881056858315",
+      "url": "https://x.com/Arisha_Hoqe/status/2112412881056858315",
+      "author": "Arisha_Hoqe",
+      "author_name": "Arisha Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2096246378934796288/i9LeeyQN_normal.jpg",
+      "created_at_utc": "2026-10-20T05:17:32.000Z",
+      "created_at_sh": "2026-10-20 13:17",
+      "likes": 9,
+      "reposts": 2,
+      "bookmarks": 5,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 1",
+      "prompt": "Create an ultra-detailed artistic portrait of a beautiful young woman wearing a vintage cowboy hat with decorative dark stitching and round, thin-framed eyeglasses. She has long, flowing dark-brown hair with subtle caramel highlights, expressive brown eyes, naturally defined eyebrows, soft rosy lips, and a calm, confident expression.\n\nShe is wearing a beige textured sweater with a small embroidered emblem on the chest and a thin black crossbody strap. The entire portrait is rendered in a realistic graphite pencil and charcoal sketch style, with delicate sepia tones, intricate hand-drawn details, soft shading, visible pencil strokes, and expressive charcoal textures.\n\nUse a warm beige textured paper background with artistic charcoal splashes, loose sketch lines, and splattered graphite around the edges. Beautifully blend realistic facial details with a hand-sketched illustration aesthetic. Soft natural lighting, vintage Western fashion, elegant composition, highly detailed hair strands, realistic fabric texture, professional fine-art illustration, warm monochromatic color palette, 4K quality, vertical 4:5 composition.\n\nNegative Prompt: blurry face, distorted facial features, extra fingers, deformed hands, unnatural eyes, plastic skin, cartoon, anime, 3D render, oversaturated colors, harsh outlines, low quality, excessive smoothing, text, watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVDMPAMbkAAJaHz.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2112412783359004672",
+          "file": "2112412881056858315_0.jpg",
+          "thumb": "2112412881056858315_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097626216081895806",
       "url": "https://x.com/SJinn_Agent/status/2097626216081895806",
       "author": "SJinn_Agent",
@@ -9167,6 +9225,35 @@
           "media_key": "3_2110752920895373312",
           "file": "2110954639097000127_2.jpg",
           "thumb": "2110954639097000127_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112410008323489883",
+      "url": "https://x.com/Enaya_ai/status/2112410008323489883",
+      "author": "Enaya_ai",
+      "author_name": "Enaya Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2101771715655454720/g2lAbvj-_normal.jpg",
+      "created_at_utc": "2026-10-20T05:06:07.000Z",
+      "created_at_sh": "2026-10-20 13:06",
+      "likes": 8,
+      "reposts": 6,
+      "bookmarks": 5,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 1",
+      "prompt": "Create an ultra-realistic, high-end cinematic portrait of a beautiful young South Asian woman wearing an elegant black saree adorned with intricate white floral embroidery and a richly patterned border. She has long, silky dark-brown hair styled half-up with soft face-framing strands, expressive brown eyes, a tiny black bindi, and a gentle smile with natural makeup and red lipstick.\n\nShe wears traditional oxidized silver jhumka earrings, a statement silver ring, and a silver wristwatch. Her hands are gracefully folded in front of her waist, showcasing the saree's beautiful draping and detailed embroidery.\n\nBackground: A dramatic black cosmic backdrop featuring a large glowing white circular halo behind her head, surrounded by swirling white smoke, tiny sparkling stars, and magical light particles.\n\nLighting & Style: Soft cinematic beauty lighting, realistic skin texture, sharp facial details, luxurious fabric texture, elegant traditional Indian aesthetic, professional DSLR photography, 85mm portrait lens, shallow depth of field, high contrast, ultra-detailed, 8K quality.\n\nComposition: Three-quarter to full-body portrait, centered subject, natural proportions, elegant posture, vertical 9:16 aspect ratio.\n\nNegative Prompt: blurry face, distorted facial features, artificial skin, cartoon, anime, CGI, extra fingers, deformed hands, duplicate jewelry, incorrect saree patterns, oversaturated colors, low resolution, watermark, text, logo.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVDJqzhbAAAFlsG.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2112409962458841088",
+          "file": "2112410008323489883_0.jpg",
+          "thumb": "2112410008323489883_0.jpg",
           "tw": 270,
           "th": 480
         }
@@ -10050,6 +10137,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2112410319796719778",
+      "url": "https://x.com/Kubra_286/status/2112410319796719778",
+      "author": "Kubra_286",
+      "author_name": "Kubra Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2109906797247258624/1J_dZapA_normal.jpg",
+      "created_at_utc": "2026-10-20T05:07:21.000Z",
+      "created_at_sh": "2026-10-20 13:07",
+      "likes": 5,
+      "reposts": 5,
+      "bookmarks": 3,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 1",
+      "prompt": "Create an ultra-detailed, artistic watercolor-splatter portrait of a beautiful young South Asian woman delicately holding an orange-and-black monarch butterfly between her fingers. She has long, thick, wavy dark-brown hair styled in a loose messy bun, with soft face-framing strands and tiny white flowers tucked into her hair. She wears elegant black rectangular eyeglasses, a small black bindi, intricate silver jhumka earrings, and subtle natural makeup with rosy-red lips.\n\nShe is dressed in a traditional cream-white saree featuring deep maroon floral patterns and black accents, draped gracefully over her shoulder. Her head is slightly tilted as she gazes lovingly at the butterfly with a gentle, peaceful expression.\n\nThe background features an elegant ivory-white canvas with expressive watercolor splashes, ink splatters, abstract brushstrokes, and organic paint textures in warm beige, burnt orange, sepia, charcoal black, and muted burgundy. Delicate details, realistic hands, intricate fabric textures, natural skin tones, soft cinematic lighting, fine-art illustration, photorealistic facial features blended with watercolor painting, sophisticated composition, dreamy artistic atmosphere, high resolution, vertical 9:16 portrait.\n\nNegative Prompt: blurry face, distorted facial features, extra fingers, deformed hands, duplicate butterfly, unnatural eyes, plastic skin, cartoon, anime, 3D render, oversaturated colors, messy composition, low resolution, watermark, text.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVDJ6s7bIAAAFmb.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2112410235566759936",
+          "file": "2112410319796719778_0.jpg",
+          "thumb": "2112410319796719778_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097602211643883913",
       "url": "https://x.com/novalintonai/status/2097602211643883913",
       "author": "novalintonai",
@@ -10635,6 +10751,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2112171810443923892",
+      "url": "https://x.com/ou_zhen599/status/2112171810443923892",
+      "author": "ou_zhen599",
+      "author_name": "Loriel.AI",
+      "avatar": "https://pbs.twimg.com/profile_images/1949039904824115201/n5k1iRiy_normal.jpg",
+      "created_at_utc": "2026-10-19T13:19:36.000Z",
+      "created_at_sh": "2026-10-19 21:19",
+      "likes": 3,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "👉Left: GPTimage 2.5 | Right: Nano Banana 2.1\n\nOne collection, three viewing distances. AUREVE gives each piece a crop that makes its shape easy to read.\n🖤 Three stacked panels: side profile for the earring, frontal neckline for the necklace, close hand-and-wrist crop.\nThe long drop, broad collar, and curved cuff each get their own space. Your eye moves through the collection without the pieces competing in one portrait.\n✨ Consistent black backgrounds and soft upper-left lighting, with the strongest jewelry highlights in the middle panel.\nThe three views feel like one campaign, while the statement necklace becomes the main event. Repeated lighting connects the panels; a small shift in emphasis creates hierarchy.\n\nprompt👇\nA Cannes-level luxury jewelry campaign poster for the fictional high-jewelry house AUREVE, designed as a product-first triptych editorial ad that fuses sculptural atmosphere, heirloom-grade material precision, and curator-level restraint. Preserve three vertically stacked portrait panels on a pure black field: the upper panel shows a poised right-facing female side profile wearing a long statement earring and a fine necklace; the middle panel shows a more frontal sculptural portrait centered on a regal statement necklace; the lower panel shows an elegant hand and wrist composition with a bold ring and ornate cuff bracelet. Jewelry remains the absolute hero across all three panels, while the human figure functions as refined display architecture rather than celebrity portraiture.\n\nUse a vertical poster layout with three clearly separated horizontal image bands floating on a deep black background, clean gaps between panels, and precise editorial hierarchy. Upper panel: portrait on the right half, leaving upper-left negative space for brand mark and opening headline, with a small descriptor block near the lower-right. Middle panel: neck and collar composition dominates, with headline on the left and a small supporting text block on the right. Lower panel: hand and partial forearm stretch across the frame with graceful spacing, left side for the closing headline and right side for a short craftsmanship note. The full structure should read as one unified luxury collection story told through ear, neck, and hand.\n\nCreate one coherent AUREVE collection in antique champagne-gold to rich yellow-gold tones, combining intricate filigree geometry, openwork lattice, delicate relief engraving, and restrained diamond-like micro highlights. The upper-panel earring is elongated, architectural, and highly collectible, built from repeating ornamental modules with refined vertical cadence. The upper necklace is fine and secondary. The middle-panel necklace is the central hero, wider, denser, and more ceremonial, hugging the neckline with layered mesh, articulated filigree, nested geometry, and a sculptural center structure suggesting modern royalty. The lower-panel ring is bold and rounded with a crown-like face, while the cuff bracelet is richly pierced and layered, showing depth, handcraft, and museum-grade precision. Every piece must feel physically real and unmistakably premium.\n\nThe same woman appears in the upper and middle panels, hair in a sleek low bun with clean hairline control. In the upper panel, her right-facing profile emphasizes ear, jawline, neck, and the earring’s elegant fall. In the middle panel, the chin lifts slightly and the shoulders open just enough to stage the necklace without becoming a fashion pose. In the lower panel, the hand is relaxed yet sculptural, fingers softly bent with believable anatomy, holding no object, so the ring and bracelet read clearly. The three panels must feel emotionally linked, revealing the collection with quiet authority.\n\nKeep the environment radically minimal and editorial: deep black with controlled graphite separation, faint panel-specific falloff, and soft volumetric darkness that lets the gold emerge like lit artifacts in a salon exhibition. No scenery, props, architecture, or decorative particles. Depth comes only from sculptural lighting, skin-plane transitions, jewelry layering, and black-level discipline.\n\nUse a disciplined palette of 85% black, graphite, and softly desaturated monochrome skin tones, 10% antique champagne-gold to rich yellow-gold, and 5% diamond-white micro highlights. Build a soft upper-left studio key with controlled frontal fill and delicate rim separation so face, neck, hand, and jewelry stay dimensional without beauty-editorial gloss. Skin and hand should read nearly monochrome and velvety, while the jewelry carries the warmest luminance. Increase the light hierarchy in the middle necklace panel so it becomes the emotional summit, with the upper earring and lower hand jewels as refined echoes. Maintain luxurious contrast without dead black collapse, muddy shadows, or blown speculars.\n\nRender with hyper-real luxury photography, immaculate tonal control, natural refined skin texture, velvety black styling, crisp gold reflections, believable metal weight, and museum-grade finish. Gold must show polished edges, tiny recess shadows, layered openwork depth, engraved micro detail, and subtle tonal variation from antique champagne warmth to richer yellow highlights. Diamond-like accents remain restrained, precise, and elegant, never glittery. Skin stays natural, softly detailed, and non-plastic.\n\nPlace an original luxury wordmark AUREVE with a minimal refined emblem in the upper-left region. Use elegant editorial English typography only. Main top headline: Quiet Power, Worn Close. Middle headline: The Shape Of Majesty. Bottom headline: Gold, In Its Most Personal Form. Add short refined descriptor lines near each panel focused on craftsmanship, heirloom detail, and contemporary elegance. Typography must be integrated into the black negative space with couture serif-led hierarchy, soft ivory-to-warm-gold coloring, graceful spacing, and alignment that follows the original poster rhythm. Text must never cross jewelry recognition zones.\n\nLuxury jewelry campaign poster, product-dominant, hyper-real, editorial, black-background precision, no clutter, no extra accessories, no malformed hands, no broken anatomy, no duplicated jewelry, no warped facial structure, no muddy shadows, no dead black patches, no blown gold highlights, no gibberish text, no cheap glitter, no inconsistent collection design, no topology collapse, no style drift, no flat catalog lighting.",
+      "prompt": "A Cannes-level luxury jewelry campaign poster for the fictional high-jewelry house AUREVE, designed as a product-first triptych editorial ad that fuses sculptural atmosphere, heirloom-grade material precision, and curator-level restraint. Preserve three vertically stacked portrait panels on a pure black field: the upper panel shows a poised right-facing female side profile wearing a long statement earring and a fine necklace; the middle panel shows a more frontal sculptural portrait centered on a regal statement necklace; the lower panel shows an elegant hand and wrist composition with a bold ring and ornate cuff bracelet. Jewelry remains the absolute hero across all three panels, while the human figure functions as refined display architecture rather than celebrity portraiture.\n\nUse a vertical poster layout with three clearly separated horizontal image bands floating on a deep black background, clean gaps between panels, and precise editorial hierarchy. Upper panel: portrait on the right half, leaving upper-left negative space for brand mark and opening headline, with a small descriptor block near the lower-right. Middle panel: neck and collar composition dominates, with headline on the left and a small supporting text block on the right. Lower panel: hand and partial forearm stretch across the frame with graceful spacing, left side for the closing headline and right side for a short craftsmanship note. The full structure should read as one unified luxury collection story told through ear, neck, and hand.\n\nCreate one coherent AUREVE collection in antique champagne-gold to rich yellow-gold tones, combining intricate filigree geometry, openwork lattice, delicate relief engraving, and restrained diamond-like micro highlights. The upper-panel earring is elongated, architectural, and highly collectible, built from repeating ornamental modules with refined vertical cadence. The upper necklace is fine and secondary. The middle-panel necklace is the central hero, wider, denser, and more ceremonial, hugging the neckline with layered mesh, articulated filigree, nested geometry, and a sculptural center structure suggesting modern royalty. The lower-panel ring is bold and rounded with a crown-like face, while the cuff bracelet is richly pierced and layered, showing depth, handcraft, and museum-grade precision. Every piece must feel physically real and unmistakably premium.\n\nThe same woman appears in the upper and middle panels, hair in a sleek low bun with clean hairline control. In the upper panel, her right-facing profile emphasizes ear, jawline, neck, and the earring’s elegant fall. In the middle panel, the chin lifts slightly and the shoulders open just enough to stage the necklace without becoming a fashion pose. In the lower panel, the hand is relaxed yet sculptural, fingers softly bent with believable anatomy, holding no object, so the ring and bracelet read clearly. The three panels must feel emotionally linked, revealing the collection with quiet authority.\n\nKeep the environment radically minimal and editorial: deep black with controlled graphite separation, faint panel-specific falloff, and soft volumetric darkness that lets the gold emerge like lit artifacts in a salon exhibition. No scenery, props, architecture, or decorative particles. Depth comes only from sculptural lighting, skin-plane transitions, jewelry layering, and black-level discipline.\n\nUse a disciplined palette of 85% black, graphite, and softly desaturated monochrome skin tones, 10% antique champagne-gold to rich yellow-gold, and 5% diamond-white micro highlights. Build a soft upper-left studio key with controlled frontal fill and delicate rim separation so face, neck, hand, and jewelry stay dimensional without beauty-editorial gloss. Skin and hand should read nearly monochrome and velvety, while the jewelry carries the warmest luminance. Increase the light hierarchy in the middle necklace panel so it becomes the emotional summit, with the upper earring and lower hand jewels as refined echoes. Maintain luxurious contrast without dead black collapse, muddy shadows, or blown speculars.\n\nRender with hyper-real luxury photography, immaculate tonal control, natural refined skin texture, velvety black styling, crisp gold reflections, believable metal weight, and museum-grade finish. Gold must show polished edges, tiny recess shadows, layered openwork depth, engraved micro detail, and subtle tonal variation from antique champagne warmth to richer yellow highlights. Diamond-like accents remain restrained, precise, and elegant, never glittery. Skin stays natural, softly detailed, and non-plastic.\n\nPlace an original luxury wordmark AUREVE with a minimal refined emblem in the upper-left region. Use elegant editorial English typography only. Main top headline: Quiet Power, Worn Close. Middle headline: The Shape Of Majesty. Bottom headline: Gold, In Its Most Personal Form. Add short refined descriptor lines near each panel focused on craftsmanship, heirloom detail, and contemporary elegance. Typography must be integrated into the black negative space with couture serif-led hierarchy, soft ivory-to-warm-gold coloring, graceful spacing, and alignment that follows the original poster rhythm. Text must never cross jewelry recognition zones.\n\nLuxury jewelry campaign poster, product-dominant, hyper-real, editorial, black-background precision, no clutter, no extra accessories, no malformed hands, no broken anatomy, no duplicated jewelry, no warped facial structure, no muddy shadows, no dead black patches, no blown gold highlights, no gibberish text, no cheap glitter, no inconsistent collection design, no topology collapse, no style drift, no flat catalog lighting.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU_xBabaAAAH0Jy.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2112171756836487168",
+          "file": "2112171810443923892_0.jpg",
+          "thumb": "2112171810443923892_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU_xBaYasAAPnEI.jpg",
+          "w": 895,
+          "h": 1200,
+          "media_key": "3_2112171756823949312",
+          "file": "2112171810443923892_1.jpg",
+          "thumb": "2112171810443923892_1.jpg",
+          "tw": 358,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107487152187589002",
       "url": "https://x.com/Scenario_gg/status/2107487152187589002",
       "author": "Scenario_gg",
@@ -11157,6 +11312,55 @@
           "file": "2111356537558138947_2.jpg",
           "thumb": "2111356537558138947_2.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2111978698954129554",
+      "url": "https://x.com/CandyTravelight/status/2111978698954129554",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-19T00:32:15.000Z",
+      "created_at_sh": "2026-10-19 08:32",
+      "likes": 2,
+      "reposts": 1,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "未来都市🌃\n\n图1：GPT-image-2.5\n图2：nano banana2\n图3：Grok-imagine2\n\nprompt提示词👇\n未来科幻都市天际线，傍晚蓝调时刻，刚下过雨的城市，湿润空气里飘着薄雾。\nEnvironment: mega city downtown after rain, dusk blue hour, overcast sky with a crack of amber sunset on the horizon. 超高层摩天楼群从雾气中拔地而起：玻璃幕墙反射着城市灯光，顶端有霓虹广告牌轮廓，一座斜拉桥横跨画面下方的江面，两岸灯带如河流般蔓延。\nAtmosphere: thin rain mist, volumetric light shafts, tiny glowing window lights scattered across towers, light trails on wet asphalt foreground.\nLighting: 混合光源——冷蓝色天光为主，暖橙色街灯与霓虹点缀，形成蓝橙对撞，wet reflection on river doubling the city lights, subtle glow haze.\nCamera: low-angle, 24mm wide angle, deep depth of field f/8, slight upward tilt, hand-held feel, anamorphic lens flare.\nColor: teal-and-orange cinematic grade, Eastmancolor film stock, fine film grain, high contrast highlights.\nComposition: rule of thirds, skyline occupies upper two-thirds, negative space in lower mist, leading lines of the bridge guiding the eye.\nQuality: ultra detailed, 8k, photorealistic, sharp architecture, clean geometry.\nNo oil painting, No anime, No 3D render look, No deformed structures, No text, No watermark, No people.",
+      "prompt": "未来科幻都市天际线，傍晚蓝调时刻，刚下过雨的城市，湿润空气里飘着薄雾。\nEnvironment: mega city downtown after rain, dusk blue hour, overcast sky with a crack of amber sunset on the horizon. 超高层摩天楼群从雾气中拔地而起：玻璃幕墙反射着城市灯光，顶端有霓虹广告牌轮廓，一座斜拉桥横跨画面下方的江面，两岸灯带如河流般蔓延。\nAtmosphere: thin rain mist, volumetric light shafts, tiny glowing window lights scattered across towers, light trails on wet asphalt foreground.\nLighting: 混合光源——冷蓝色天光为主，暖橙色街灯与霓虹点缀，形成蓝橙对撞，wet reflection on river doubling the city lights, subtle glow haze.\nCamera: low-angle, 24mm wide angle, deep depth of field f/8, slight upward tilt, hand-held feel, anamorphic lens flare.\nColor: teal-and-orange cinematic grade, Eastmancolor film stock, fine film grain, high contrast highlights.\nComposition: rule of thirds, skyline occupies upper two-thirds, negative space in lower mist, leading lines of the bridge guiding the eye.\nQuality: ultra detailed, 8k, photorealistic, sharp architecture, clean geometry.\nNo oil painting, No anime, No 3D render look, No deformed structures, No text, No watermark, No people.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU9BRSFb0AAPJmK.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2111978515428265984",
+          "file": "2111978698954129554_0.jpg",
+          "thumb": "2111978698954129554_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU9BSU8bIAAPopH.jpg",
+          "w": 1200,
+          "h": 800,
+          "media_key": "3_2111978533375647744",
+          "file": "2111978698954129554_1.jpg",
+          "thumb": "2111978698954129554_1.jpg",
+          "tw": 480,
+          "th": 320
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU9BZ-ubgAA0Qfy.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2111978664850325504",
+          "file": "2111978698954129554_2.jpg",
+          "thumb": "2111978698954129554_2.jpg",
+          "tw": 267,
           "th": 480
         }
       ],
@@ -12455,6 +12659,94 @@
           "file": "2111618444999135390_0.jpg",
           "thumb": "2111618444999135390_0.jpg",
           "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112169038667563305",
+      "url": "https://x.com/NoravaleAI/status/2112169038667563305",
+      "author": "NoravaleAI",
+      "author_name": "Nora Vale",
+      "avatar": "https://pbs.twimg.com/profile_images/2089346970125221888/TKD8RFIR_normal.jpg",
+      "created_at_utc": "2026-10-19T13:08:35.000Z",
+      "created_at_sh": "2026-10-19 21:08",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "🍁🍂Turn any photo into a personal scrapbook page \n— half real, half hand-drawn.\n① Open GPT Image 2.5 / Nano Banana / Grok  \n② Upload your image \n③ Paste the prompt       \n④ Generate your scene Prompt below 👇💬",
+      "prompt": "Create a vertical 3:4 editorial memory poster inspired by the uploaded photograph. Divide the composition into two horizontal sections: the top 50% preserves the original photograph with its recognizable subject, identity, pose, clothing, background, natural lighting, and realistic details. Do not redraw or stylize the top section.\n\nThe bottom 50% becomes a warm, hand-drawn illustrated scrapbook inspired by the photograph. Fill it with 7–9 small illustrations representing memorable details from the original scene, including the subject’s clothing, hairstyle, accessories, surrounding plants, flowers, trees, architecture, weather, activities, and other relevant objects. Arrange the illustrations in a balanced, playful collage with varied sizes and natural spacing.\n\nILLUSTRATION STYLE: Hand-drawn colored-pencil and watercolor sketches, delicate ink outlines, visible pencil strokes, imperfect artistic textures, soft coloring, charming doodles, tiny hearts, stars, arrows, and hand-drawn decorative accents. Use a warm cream-colored textured paper background with a nostalgic journal aesthetic.\n\nCOLOR PALETTE: Derive colors from the original photograph. Use soft, natural tones with subtle vintage warmth, earthy colors, and gentle highlights.\n\nTYPOGRAPHY: Add a small handwritten title at the top of the illustrated section and a short, sentimental handwritten caption near the bottom. Keep the lettering elegant, lowercase, and naturally integrated into the artwork. Generate wording inspired by the photograph rather than using fixed text.\n\nCOMPOSITION RULES:\n•Strict vertical 3:4 aspect ratio.\n•Top and bottom sections occupy exactly 50% each.\n•A perfectly straight horizontal division between sections.\n•Original photograph remains photorealistic and unchanged.\n•Bottom section contains illustrations related specifically to the uploaded image.\n•Maintain a cohesive, handmade travel-journal or lifestyle-scrapbook aesthetic.\n•High-quality textures, intricate sketch details, harmonious spacing, and professional editorial design.\n\nIMPORTANT: Adapt every illustration, color, and handwritten caption to the uploaded photograph. Do not reuse objects or themes from reference examples unless they are relevant to the actual image. No extra photographs, no 3D elements, no glossy digital art, and no cluttered layout.\n\nResult: A heartwarming, personalized photo-and-illustration poster that feels like a page from a beautifully illustrated personal diary.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU_uMVIa8AA00Dh.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2112168645858357248",
+          "file": "2112169038667563305_0.jpg",
+          "thumb": "2112169038667563305_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU_uf9XacAAIa_H.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2112168983076171776",
+          "file": "2112169038667563305_1.jpg",
+          "thumb": "2112169038667563305_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU_uiKNasAAn_yl.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2112169020883644416",
+          "file": "2112169038667563305_2.jpg",
+          "thumb": "2112169038667563305_2.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112586881762508812",
+      "url": "https://x.com/ou_zhen599/status/2112586881762508812",
+      "author": "ou_zhen599",
+      "author_name": "Loriel.AI",
+      "avatar": "https://pbs.twimg.com/profile_images/1949039904824115201/n5k1iRiy_normal.jpg",
+      "created_at_utc": "2026-10-20T16:48:57.000Z",
+      "created_at_sh": "2026-10-21 00:48",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "👉Left: GPT image 2.5 | Right: Nano Banana 2.1\n\n🙀1. Nano Banana 2.1 produces a noticeably “softer” overall visual texture than GPTimage 2.5.\n😼2. GPTimage 2.5 takes a more “aggressive” approach to interpreting prompts, particularly when it comes to details.\n😾3. Nano Banana 2.1 produces more realistic results for certain detailed movements and common actions. For example, the way the chopsticks are held in this image.\n\nprompt👇\nCreate a Cannes-level commercial poster for a fictional premium Korean noodle brand, designed as a high-impact editorial food ad where a real bowl of spicy broth noodles is fused with a refined magazine-cover layout. Preserve the exact chiaroscuro hierarchy, tabletop staging, hand-lifted noodle action, prop rhythm, negative-space structure, and typographic architecture of a premium food editorial poster. The noodle bowl must remain the absolute hero, with every surrounding element serving appetite, brand identity, and compositional tension.\n\nVertical 2:3 full-bleed poster. A large white ceramic bowl sits slightly below center on a dark square wooden riser over a warm wood table. A right hand enters from the upper-right holding dark wooden chopsticks, lifting a tight vertical bundle of noodles so the strands form a clean glowing column in the center-right upper zone. Reserve the upper third for a large bold Korean headline spanning most of the width. Keep a thin vertical editorial strip along the far left edge, a barcode-style brand block near the lower-left corner, and a line of fine Korean microcopy near the lower-right edge. The tabletop contains supporting bowls, cloth, spices, garlic, dried chilies, scattered leaves, and utensils arranged in deliberate editorial rhythm, never stealing focus from the hero dish.\n\nInvent the brand as 온면당 and the hero dish as 붉은 육수 국수. The bowl contains glossy thin noodles in a rich red-orange chili broth, topped with braised diced meat, yellow soybeans, chopped scallion, red chili bits, and small golden pickled vegetables. The lifted noodles must look supple, elastic, smooth, and intensely appetizing, with subtle broth sheen and believable weight. The bowl should be off-white ceramic with delicate speckling and a soft matte glaze. The wooden riser should feel dense, dark, and precisely crafted. Every ingredient must look edible, premium, and intentionally styled.\n\nFreeze one decisive serving moment: the hand grips the chopsticks naturally, fingers anatomically correct, wrist relaxed, chopsticks angled slightly downward from right to left, lifting a compact curtain of noodles high above the bowl. The lifted noodles form the visual bridge between headline and bowl. The bowl anchors the lower center, while the hand acts as the upper-right counterweight. Supporting bowls and props should be distributed across left, rear, and lower corners to create depth and editorial richness without clutter. Nothing may break the clarity of the noodle lift.\n\nForeground: warm wooden table with visible grain, a few scattered chili pieces, a spoon with sesame seeds, and restrained ingredient accents. Midground: the hero bowl on its riser, with nearby condiment bowls, folded blue-gray cloth, garlic cloves, and dried leaves. Background: darker table extensions, a soft black-brown upper field, a ceramic utensil holder, hanging wooden spoons, and small spice bowls receding into shadow. Keep the space tangible, layered, and realistic, but controlled like a styled magazine cover rather than a casual kitchen scene.\n\nPreserve the original light-dark hierarchy: a deep near-black upper background, warm directional light across the tabletop and bowl, bright highlights on the lifted noodles, glossy accents on the broth surface, and soft sculpting light on the hand and chopsticks. Build contrast to emphasize heat, ingredient gloss, ceramic form, and tabletop texture without muddy shadows or dead black patches. Main palette: roasted brown, walnut wood, off-white ceramic, chili red, broth amber, soybean gold, herb green, charcoal shadow, and muted slate cloth blue. The mood should feel rich, savory, editorial, and premium.\n\nRender as ultra-real luxury food photography fused with high-end print editorial design. The broth must show depth, oil shimmer, suspended spice, and realistic reflections. Noodles should display fine strand separation, slight edge translucency, and soft elasticity. Meat must look caramelized and tender. Ceramic should show subtle glaze pooling and tactile thickness. Wood must feel dry, dense, and natural. Cloth should have soft folds and matte woven texture. Small props such as chilies, garlic, sesame, and leaves should be believable but not overemphasized.\n\nUse Korean typography only. Set a large bold headline across the top:\n맛이 솟아오르다\nAdd a thin vertical strip along the far left margin:\n온면당 푸드 에디토리얼 키친\nPlace a barcode-style brand block in the lower-left:\n온면당\nInclude restrained footer microcopy at the lower-right:\n붉은 육수 국수 / 시즌 하우스 에디션\nTypography must be crisp, beautifully spaced, and harmonized with the poster grid, with the headline in warm ivory or soft white, never covering the lifted noodles or bowl.\n\nLuxury commercial food poster, product-first, ultra-clean, no extra hands, no malformed fingers, no broken chopstick perspective, no noodle duplication, no floating garnish, no muddy broth, no cheap CGI gloss, no cartoon styling, no unreadable typography, no clutter overload, no random packaging, no dead black blocks, no low-detail props, no messy background, no style drift, no topology collapse.",
+      "prompt": "Create a Cannes-level commercial poster for a fictional premium Korean noodle brand, designed as a high-impact editorial food ad where a real bowl of spicy broth noodles is fused with a refined magazine-cover layout. Preserve the exact chiaroscuro hierarchy, tabletop staging, hand-lifted noodle action, prop rhythm, negative-space structure, and typographic architecture of a premium food editorial poster. The noodle bowl must remain the absolute hero, with every surrounding element serving appetite, brand identity, and compositional tension.\n\nVertical 2:3 full-bleed poster. A large white ceramic bowl sits slightly below center on a dark square wooden riser over a warm wood table. A right hand enters from the upper-right holding dark wooden chopsticks, lifting a tight vertical bundle of noodles so the strands form a clean glowing column in the center-right upper zone. Reserve the upper third for a large bold Korean headline spanning most of the width. Keep a thin vertical editorial strip along the far left edge, a barcode-style brand block near the lower-left corner, and a line of fine Korean microcopy near the lower-right edge. The tabletop contains supporting bowls, cloth, spices, garlic, dried chilies, scattered leaves, and utensils arranged in deliberate editorial rhythm, never stealing focus from the hero dish.\n\nInvent the brand as 온면당 and the hero dish as 붉은 육수 국수. The bowl contains glossy thin noodles in a rich red-orange chili broth, topped with braised diced meat, yellow soybeans, chopped scallion, red chili bits, and small golden pickled vegetables. The lifted noodles must look supple, elastic, smooth, and intensely appetizing, with subtle broth sheen and believable weight. The bowl should be off-white ceramic with delicate speckling and a soft matte glaze. The wooden riser should feel dense, dark, and precisely crafted. Every ingredient must look edible, premium, and intentionally styled.\n\nFreeze one decisive serving moment: the hand grips the chopsticks naturally, fingers anatomically correct, wrist relaxed, chopsticks angled slightly downward from right to left, lifting a compact curtain of noodles high above the bowl. The lifted noodles form the visual bridge between headline and bowl. The bowl anchors the lower center, while the hand acts as the upper-right counterweight. Supporting bowls and props should be distributed across left, rear, and lower corners to create depth and editorial richness without clutter. Nothing may break the clarity of the noodle lift.\n\nForeground: warm wooden table with visible grain, a few scattered chili pieces, a spoon with sesame seeds, and restrained ingredient accents. Midground: the hero bowl on its riser, with nearby condiment bowls, folded blue-gray cloth, garlic cloves, and dried leaves. Background: darker table extensions, a soft black-brown upper field, a ceramic utensil holder, hanging wooden spoons, and small spice bowls receding into shadow. Keep the space tangible, layered, and realistic, but controlled like a styled magazine cover rather than a casual kitchen scene.\n\nPreserve the original light-dark hierarchy: a deep near-black upper background, warm directional light across the tabletop and bowl, bright highlights on the lifted noodles, glossy accents on the broth surface, and soft sculpting light on the hand and chopsticks. Build contrast to emphasize heat, ingredient gloss, ceramic form, and tabletop texture without muddy shadows or dead black patches. Main palette: roasted brown, walnut wood, off-white ceramic, chili red, broth amber, soybean gold, herb green, charcoal shadow, and muted slate cloth blue. The mood should feel rich, savory, editorial, and premium.\n\nRender as ultra-real luxury food photography fused with high-end print editorial design. The broth must show depth, oil shimmer, suspended spice, and realistic reflections. Noodles should display fine strand separation, slight edge translucency, and soft elasticity. Meat must look caramelized and tender. Ceramic should show subtle glaze pooling and tactile thickness. Wood must feel dry, dense, and natural. Cloth should have soft folds and matte woven texture. Small props such as chilies, garlic, sesame, and leaves should be believable but not overemphasized.\n\nUse Korean typography only. Set a large bold headline across the top:\n맛이 솟아오르다\nAdd a thin vertical strip along the far left margin:\n온면당 푸드 에디토리얼 키친\nPlace a barcode-style brand block in the lower-left:\n온면당\nInclude restrained footer microcopy at the lower-right:\n붉은 육수 국수 / 시즌 하우스 에디션\nTypography must be crisp, beautifully spaced, and harmonized with the poster grid, with the headline in warm ivory or soft white, never covering the lifted noodles or bowl.\n\nLuxury commercial food poster, product-first, ultra-clean, no extra hands, no malformed fingers, no broken chopstick perspective, no noodle duplication, no floating garnish, no muddy broth, no cheap CGI gloss, no cartoon styling, no unreadable typography, no clutter overload, no random packaging, no dead black blocks, no low-detail props, no messy background, no style drift, no topology collapse.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVFqfzIa8AAIFDE.jpg",
+          "w": 898,
+          "h": 1200,
+          "media_key": "3_2112586794747490304",
+          "file": "2112586881762508812_0.jpg",
+          "thumb": "2112586881762508812_0.jpg",
+          "tw": 359,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVFqixEbQAAMgHH.jpg",
+          "w": 966,
+          "h": 1200,
+          "media_key": "3_2112586845733470208",
+          "file": "2112586881762508812_1.jpg",
+          "thumb": "2112586881762508812_1.jpg",
+          "tw": 386,
           "th": 480
         }
       ],
@@ -14529,6 +14821,132 @@
           "file": "2111923469688390069_0.jpg",
           "thumb": "2111923469688390069_0.jpg",
           "tw": 269,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112023262813372826",
+      "url": "https://x.com/sh1111ro/status/2112023262813372826",
+      "author": "sh1111ro",
+      "author_name": "しろ@ちょうどいいAIデザイン",
+      "avatar": "https://pbs.twimg.com/profile_images/2107392613649420288/Ztw-rWqc_normal.jpg",
+      "created_at_utc": "2026-10-19T03:29:20.000Z",
+      "created_at_sh": "2026-10-19 11:29",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "ja",
+      "text": "プロンプト : イケメン + 農家 + 少女漫画風\nGPT Image 2.5",
+      "prompt": "イケメン + 農家 + 少女漫画風\nGPT Image 2.5",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU9p9mJbQAAGH7j.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2112023257193070592",
+          "file": "2112023262813372826_0.jpg",
+          "thumb": "2112023262813372826_0.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112683651020542204",
+      "url": "https://x.com/CuriousRefuge/status/2112683651020542204",
+      "author": "CuriousRefuge",
+      "author_name": "Curious Refuge",
+      "avatar": "https://pbs.twimg.com/profile_images/1652411518062039040/gXeSS69n_normal.jpg",
+      "created_at_utc": "2026-10-20T23:13:28.000Z",
+      "created_at_sh": "2026-10-21 07:13",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "1. Take the starting frame from the greybox footage and prompt aesthetic and background changes using GPT Image 2.5\n\nPrompt: \"replace the screwdriver with an ancient scroll, and replace the ground with dirt. The setting is a dirt ground inside a cave. There is light from a torch above.\"",
+      "prompt": "\"replace the screwdriver with an ancient scroll, and replace the ground with dirt. The setting is a dirt ground inside a cave. There is light from a torch above.\"",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVHClYebMAAi3pD.jpg",
+          "w": 1200,
+          "h": 661,
+          "media_key": "3_2112683647694483456",
+          "file": "2112683651020542204_0.jpg",
+          "thumb": "2112683651020542204_0.jpg",
+          "tw": 480,
+          "th": 264
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVHAteOaAAAOzYZ.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2112681587653607424",
+          "file": "2112683651020542204_1.jpg",
+          "thumb": "2112683651020542204_1.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112262255295549766",
+      "url": "https://x.com/ksa8Turky/status/2112262255295549766",
+      "author": "ksa8Turky",
+      "author_name": "‏Turky",
+      "avatar": "https://pbs.twimg.com/profile_images/2067295826871762944/knT_qoee_normal.jpg",
+      "created_at_utc": "2026-10-19T19:19:00.000Z",
+      "created_at_sh": "2026-10-20 03:19",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "GPT Image 2.5 \n\nPrompt ⤵️\n\nCreate a square premium surreal editorial photograph of one oversized [OFFICE OBJECT] interacting with exactly two [NATURAL ELEMENTS] as if they were ordinary desk materials. Show clear physical connection, believable contact, tactile surfaces and coherent scale. One focal point, directional sunlight, restrained colors and generous negative space. No people, brands or claims. Small handwritten Ksa8Turky signature; no other text. Conceptual fantasy.",
+      "prompt": "Create a square premium surreal editorial photograph of one oversized [OFFICE OBJECT] interacting with exactly two [NATURAL ELEMENTS] as if they were ordinary desk materials. Show clear physical connection, believable contact, tactile surfaces and coherent scale. One focal point, directional sunlight, restrained colors and generous negative space. No people, brands or claims. Small handwritten Ksa8Turky signature; no other text. Conceptual fantasy.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU-6FXjWEAA2GKi.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2112111351644426240",
+          "file": "2112262255295549766_0.jpg",
+          "thumb": "2112262255295549766_0.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2112669690182947256",
+      "url": "https://x.com/ksa8Turky/status/2112669690182947256",
+      "author": "ksa8Turky",
+      "author_name": "‏Turky",
+      "avatar": "https://pbs.twimg.com/profile_images/2067295826871762944/knT_qoee_normal.jpg",
+      "created_at_utc": "2026-10-20T22:18:00.000Z",
+      "created_at_sh": "2026-10-21 06:18",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "GPT Image 2.5 \n  Prompt ⤵️\nCreate a square premium surreal editorial photograph of [INTANGIBLE NATURAL PHENOMENON] treated as one tangible [EVERYDAY OBJECT] resting naturally on [SIMPLE SUPPORT]. Show a cohesive physical form, convincing folds or edges, restrained texture and believable contact shadows. Minimal neutral studio, directional light, generous negative space and one focal point. No miniature worlds, people, brands or claims. Small handwritten Ksa8Turky signature; no other text. Conceptual fantasy.",
+      "prompt": "Create a square premium surreal editorial photograph of [INTANGIBLE NATURAL PHENOMENON] treated as one tangible [EVERYDAY OBJECT] resting naturally on [SIMPLE SUPPORT]. Show a cohesive physical form, convincing folds or edges, restrained texture and believable contact shadows. Minimal neutral studio, directional light, generous negative space and one focal point. No miniature worlds, people, brands or claims. Small handwritten Ksa8Turky signature; no other text. Conceptual fantasy.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVEsu6IWAAAQm9L.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2112518884603330560",
+          "file": "2112669690182947256_0.jpg",
+          "thumb": "2112669690182947256_0.jpg",
+          "tw": 480,
           "th": 480
         }
       ],

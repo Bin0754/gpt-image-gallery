@@ -102,6 +102,16 @@ HIDE_IDS = {
     '2111687732703764718',                         # @inkroom_ai towel after swim (unsure)
     '2111933617102372906',                         # @livybabie revealing Halloween cosplay pin-up
     '2111847424826511499',                         # @UBQDHdYKB065819 comparison caption, not a real prompt
+    # 2026-10-21 refresh review (contact sheet)
+    '2112002720873759067',                         # @livybabie crop-top mini-skirt Halloween cosplay, low-angle lean
+    '2112192892127039583',                         # @johnAGI168 doll-like witch, crossed legs in stockings (unsure)
+    '2112025758113648812',                         # @johnAGI168 "alluring" Slytherin witch short skirt
+    '2112569911645974748',                         # @johnAGI168 silk slip dress tea-room portrait (unsure)
+    '2112187761423945827',                         # @alanblogsooooo 辣妹 long-legs short-dress night pose (unsure)
+    '2111938096682177000',                         # @momoka_AIIllust cropped-top mini-skirt anime witch (unsure)
+    '2112612313786151388',                         # @madeonmade_ 4-model comparison, not a prompt
+    '2111999943649227103',                         # @HigenekoTech comparison notes, not a prompt
+    '2112539648887239167',                         # @heypickd Midjourney-vs-ChatGPT card alt text, not a prompt
 
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
@@ -156,6 +166,21 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     '2111928121179975824',  # gingerpreneur1 - Wan vs Seedance comparison question
     '2111789180946923540',  # DDJCXX - workflow template with placeholders
     '2111620640726040806',  # iX00AI - schoolgirl pool/swimwear (unsure)
+    # 2026-10-21 refresh review (poster contact sheet)
+    '2112652614944837939',  # YourAlphaMom - explicit body / sports-bra cleavage prompt
+    '2112430938005311656',  # ZentrixHQ - WAN vs Seedance comparison, sports-bra fitness (unsure)
+    '2112154192534241709',  # Just_sharon7 - low-neck cosplay cleavage poster (unsure)
+    '2112499805880713531',  # ElsaSofia__AI - crop top / thigh-strap boots fighter (unsure)
+    '2111975176854536287',  # aimikoda - Claude video-edit prompt, not a Seedance prompt
+    '2111975795203690555',  # aimikoda - Claude video-edit prompt, not a Seedance prompt
+    '2112217172051190206',  # vivistac - pricing promo, not a prompt
+    '2112171910134145298',  # theodorsan - ecom marketing tips, not a prompt
+    '2112477342576873842',  # scenepond - model comparison, one-line prompt + commentary
+    '2112672019557044336',  # Enzoxbt01 - step-by-step guide, not a prompt
+    '2112198542026502219',  # georgesttock - UGC workflow notes, not a prompt
+    '2112249301468577936',  # 0xPixelMind - shot-chain template / workflow, not a prompt
+    '2112140511687414204',  # KeyoAPI - commentary about a prompt, not a usable prompt
+    '2112629397635092561',  # zeuuss_01 - character-sheet tutorial, not a Seedance prompt
 
 }
 VSTATS = {}
