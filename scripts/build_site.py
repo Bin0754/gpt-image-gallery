@@ -34,6 +34,8 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2112893162729681393",  # alanblogsooooo - bikini cleavage selfie (2026-10-22 review)
+    "2112851056090829044",  # alanblogsooooo - kneeling from-behind pose, shorts (2026-10-22 review)
     "2110190856636424521",  # hardik_lut83675 - low-cut car selfie, parted lips (2026-10-15 review)
     "2110317210811941251",  # AiVykute - tank top / short shorts pose, uncertain (2026-10-15 review)
     "2109204991533793520",  # suggestive selfie grid (2026-10-12 review)
@@ -116,6 +118,9 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2112988992350421220',  # YourAlphaMom - 'Instagram model' MILA, bikini/sports-bra cleavage, uncertain (2026-10-22 review)
+    '2112993163098902693',  # Alexneyef - same MILA prompt, bikini cleavage, uncertain (2026-10-22 review)
+    '2112990596843679772',  # ichelpark - workflow steps (blender blocking), not a prompt (2026-10-22 review)
     '2110408486228021321',  # voyzai - explicit body description, tight low-cut gym outfit (2026-10-15 review)
     '2110277595019276674',  # johnAGI168 - low-angle white stockings / heels doll pose (2026-10-15 review)
     '2110294441080824067',  # liyue_ai - tight top body-motion swap in car, uncertain (2026-10-15 review)
