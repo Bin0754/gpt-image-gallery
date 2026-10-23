@@ -34,6 +34,9 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2113282871594991805",  # johnAGI168 - underwear / lingerie pose (2026-10-23 review)
+    "2113164130484158727",  # ritsuto_NFT_Vt - API price/speed comparison, prompt is only an image description (2026-10-23 review)
+    "2113369807311835405",  # finnardley - Claude Code automation prompt, not an image prompt (2026-10-23 review)
     "2112893162729681393",  # alanblogsooooo - bikini cleavage selfie (2026-10-22 review)
     "2112851056090829044",  # alanblogsooooo - kneeling from-behind pose, shorts (2026-10-22 review)
     "2110190856636424521",  # hardik_lut83675 - low-cut car selfie, parted lips (2026-10-15 review)
@@ -118,6 +121,9 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2113217153016979594',  # swordBluesy - workflow steps (Claude + Higgsfield), not a prompt (2026-10-23 review)
+    '2113185895658738003',  # Justin_lords - Claude ad-research workflow, not a prompt (2026-10-23 review)
+    '2113244959990329635',  # AIwithkhan - 'baddie energy' woman in bed poster, uncertain (2026-10-23 review)
     '2112988992350421220',  # YourAlphaMom - 'Instagram model' MILA, bikini/sports-bra cleavage, uncertain (2026-10-22 review)
     '2112993163098902693',  # Alexneyef - same MILA prompt, bikini cleavage, uncertain (2026-10-22 review)
     '2112990596843679772',  # ichelpark - workflow steps (blender blocking), not a prompt (2026-10-22 review)
