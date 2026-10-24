@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-23T08:13:47+08:00",
-  "count": 466,
+  "generated_at": "2026-10-24T08:18:16+08:00",
+  "count": 501,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -174,6 +174,65 @@
           "file": "2112737725430554781_0.jpg",
           "thumb": "2112737725430554781_0.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113501433471656120",
+      "url": "https://x.com/Ciri_ai/status/2113501433471656120",
+      "author": "Ciri_ai",
+      "author_name": "Ciri",
+      "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_normal.jpg",
+      "created_at_utc": "2026-10-23T05:23:03.000Z",
+      "created_at_sh": "2026-10-23 13:23",
+      "likes": 485,
+      "reposts": 36,
+      "bookmarks": 389,
+      "lang": "en",
+      "text": "Turn your photo into a minimalist, paper-textured art cover using GPT Image 2.5.\n\nPrompt: MINIMAL HAND-DRAWN PAPER ILLUSTRATION\n\nTransform the uploaded photo into a minimalist, hand-drawn, paper-textured artistic cover.\n\nComposition\n\n- The main subject should occupy only 10–20% of the frame.\n- Position the subject near the bottom center of the composition.\n- Leave generous negative space throughout the image.\n- Suggest the environment using only a few lines or small blocks of color.\n\nPreserve\n\n- The most recognizable features of the original subject.\n- The essential silhouette and proportions.\n- The original pose or primary action.\n- Important objects and defining details.\n- The core story, relationships, and emotional atmosphere.\n\nColor Palette\n\n- Extract the dominant colors from the original photograph.\n- Limit the palette to no more than four main colors.\n- Use bold yet restrained, flat color blocks.\n- Maintain a harmonious, muted color combination.\n- Add subtle paper grain and handmade brush textures.\n\nSimplification\nRemove unnecessary details and visual clutter. Retain only the essential visual information needed to make the subject instantly recognizable.\n\nTypography\n\n- Optionally incorporate a small amount of simple text.\n- Keep typography short, subtle, and aesthetically refined.\n- Integrate the text naturally into the composition.\n- Aim for the visual language of an art-book cover, independent publishing, modern editorial design, or a contemplative picture book.\n- Do not force typography into the image if it doesn't improve the composition.\n\nStyle and Materials\n\n- Delicate, slightly imperfect hand-drawn lines.\n- A few clearly defined acrylic-like flat color blocks.\n- Rough, tactile paper texture.\n- Visible handmade brushstrokes.\n- Organic, irregular, natural contours.\n- Subtle imperfections that make the artwork feel genuinely handmade.\n\nOverall Mood\nQuiet, poetic, sophisticated, minimalist, innocent, relaxed, artistic, thoughtful, distinctive, and premium.\n\nAvoid\n\n- Colored-pencil rendering.\n- Dry-brush effects.\n- Watercolor washes or bleeding.\n- Pure line-art illustration.\n- Overly detailed or realistic illustrations.\n- Heavy impasto or thick oil-paint textures.\n- Smooth, polished digital illustration.\n- 3D rendering, glossy surfaces, or artificial lighting effects.\n- Generic commercial cartoon styles.\n- E-commerce advertising aesthetics.\n- Generic poster templates.\n- Excessive decorative elements.\n- Overly complex compositions.\n- Too much text.\n\nFinal Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.",
+      "prompt": "MINIMAL HAND-DRAWN PAPER ILLUSTRATION\n\nTransform the uploaded photo into a minimalist, hand-drawn, paper-textured artistic cover.\n\nComposition\n\n- The main subject should occupy only 10–20% of the frame.\n- Position the subject near the bottom center of the composition.\n- Leave generous negative space throughout the image.\n- Suggest the environment using only a few lines or small blocks of color.\n\nPreserve\n\n- The most recognizable features of the original subject.\n- The essential silhouette and proportions.\n- The original pose or primary action.\n- Important objects and defining details.\n- The core story, relationships, and emotional atmosphere.\n\nColor Palette\n\n- Extract the dominant colors from the original photograph.\n- Limit the palette to no more than four main colors.\n- Use bold yet restrained, flat color blocks.\n- Maintain a harmonious, muted color combination.\n- Add subtle paper grain and handmade brush textures.\n\nSimplification\nRemove unnecessary details and visual clutter. Retain only the essential visual information needed to make the subject instantly recognizable.\n\nTypography\n\n- Optionally incorporate a small amount of simple text.\n- Keep typography short, subtle, and aesthetically refined.\n- Integrate the text naturally into the composition.\n- Aim for the visual language of an art-book cover, independent publishing, modern editorial design, or a contemplative picture book.\n- Do not force typography into the image if it doesn't improve the composition.\n\nStyle and Materials\n\n- Delicate, slightly imperfect hand-drawn lines.\n- A few clearly defined acrylic-like flat color blocks.\n- Rough, tactile paper texture.\n- Visible handmade brushstrokes.\n- Organic, irregular, natural contours.\n- Subtle imperfections that make the artwork feel genuinely handmade.\n\nOverall Mood\nQuiet, poetic, sophisticated, minimalist, innocent, relaxed, artistic, thoughtful, distinctive, and premium.\n\nAvoid\n\n- Colored-pencil rendering.\n- Dry-brush effects.\n- Watercolor washes or bleeding.\n- Pure line-art illustration.\n- Overly detailed or realistic illustrations.\n- Heavy impasto or thick oil-paint textures.\n- Smooth, polished digital illustration.\n- 3D rendering, glossy surfaces, or artificial lighting effects.\n- Generic commercial cartoon styles.\n- E-commerce advertising aesthetics.\n- Generic poster templates.\n- Excessive decorative elements.\n- Overly complex compositions.\n- Too much text.\n\nFinal Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSqGJXakAAKVG-.jpg",
+          "w": 782,
+          "h": 1200,
+          "media_key": "3_2113501147713671168",
+          "file": "2113501433471656120_0.jpg",
+          "thumb": "2113501433471656120_0.jpg",
+          "tw": 313,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSqGJVbsAERcLW.jpg",
+          "w": 1080,
+          "h": 720,
+          "media_key": "3_2113501147705356289",
+          "file": "2113501433471656120_1.jpg",
+          "thumb": "2113501433471656120_1.jpg",
+          "tw": 480,
+          "th": 320
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSqGJRa8AAJB7E.jpg",
+          "w": 901,
+          "h": 1200,
+          "media_key": "3_2113501147688529920",
+          "file": "2113501433471656120_2.jpg",
+          "thumb": "2113501433471656120_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSqSlIaMAAjzmO.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2113501361325355008",
+          "file": "2113501433471656120_3.jpg",
+          "thumb": "2113501433471656120_3.jpg",
+          "tw": 480,
           "th": 480
         }
       ],
@@ -923,6 +982,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113489244912316478",
+      "url": "https://x.com/nawalsehar/status/2113489244912316478",
+      "author": "nawalsehar",
+      "author_name": "Nawal",
+      "avatar": "https://pbs.twimg.com/profile_images/2048058966547263488/XA_9Wzuz_normal.jpg",
+      "created_at_utc": "2026-10-23T04:34:37.000Z",
+      "created_at_sh": "2026-10-23 12:34",
+      "likes": 193,
+      "reposts": 29,
+      "bookmarks": 25,
+      "lang": "en",
+      "text": "Gpt Image 2.5 on Chatgpt \n\nPrompt:\nUltra-realistic close-up portrait of a beautiful young woman with long, thick, naturally wavy jet-black hair, soft face-framing strands, warm hazel-brown eyes, delicate facial features, naturally full glossy peach-pink lips, subtle rosy blush, flawless luminous skin, and elegant black winged eyeliner with long curled lashes. She is wearing large gold oval hoop earrings and a cozy cream-colored knitted sweater with a soft textured pattern.\n\nShe is sitting inside a cozy, upscale café beside a large window, with warm natural daylight illuminating her face. The background features wooden tables, chairs, warm pendant lights, and a softly blurred café interior with beautiful golden bokeh. She is looking directly at the camera with a gentle, confident expression and slightly parted lips, creating an effortless, sophisticated feminine aesthetic.\n\nPhotography style: high-end beauty photography, candid selfie composition, eye-level camera angle, tight medium close-up, realistic skin texture, soft diffused lighting, natural facial proportions, detailed individual hair strands, subtle highlights on the cheeks and lips, shallow depth of field, creamy background blur, warm neutral color grading, photorealistic, 85mm portrait lens, f/1.8, ultra-detailed, 4K quality.\n\nAspect ratio 9:16, vertical portrait, natural beauty, soft luxury café aesthetic, no text, no watermark.",
+      "prompt": "Ultra-realistic close-up portrait of a beautiful young woman with long, thick, naturally wavy jet-black hair, soft face-framing strands, warm hazel-brown eyes, delicate facial features, naturally full glossy peach-pink lips, subtle rosy blush, flawless luminous skin, and elegant black winged eyeliner with long curled lashes. She is wearing large gold oval hoop earrings and a cozy cream-colored knitted sweater with a soft textured pattern.\n\nShe is sitting inside a cozy, upscale café beside a large window, with warm natural daylight illuminating her face. The background features wooden tables, chairs, warm pendant lights, and a softly blurred café interior with beautiful golden bokeh. She is looking directly at the camera with a gentle, confident expression and slightly parted lips, creating an effortless, sophisticated feminine aesthetic.\n\nPhotography style: high-end beauty photography, candid selfie composition, eye-level camera angle, tight medium close-up, realistic skin texture, soft diffused lighting, natural facial proportions, detailed individual hair strands, subtle highlights on the cheeks and lips, shallow depth of field, creamy background blur, warm neutral color grading, photorealistic, 85mm portrait lens, f/1.8, ultra-detailed, 4K quality.\n\nAspect ratio 9:16, vertical portrait, natural beauty, soft luxury café aesthetic, no text, no watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSfQmebAAAhsEP.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113489232698474496",
+          "file": "2113489244912316478_0.jpg",
+          "thumb": "2113489244912316478_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107675234858131544",
       "url": "https://x.com/Goodmanprotocol/status/2107675234858131544",
       "author": "Goodmanprotocol",
@@ -1075,6 +1163,94 @@
           "thumb": "2102960952266432853_1.jpg",
           "tw": 270,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113461687902994578",
+      "url": "https://x.com/MissDelulu9/status/2113461687902994578",
+      "author": "MissDelulu9",
+      "author_name": "Eesha",
+      "avatar": "https://pbs.twimg.com/profile_images/2048849430724608000/YOcZikwk_normal.jpg",
+      "created_at_utc": "2026-10-23T02:45:07.000Z",
+      "created_at_sh": "2026-10-23 10:45",
+      "likes": 176,
+      "reposts": 14,
+      "bookmarks": 49,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt: \n\nUltra-realistic 6-photo collage (3×2 grid) of the same person using client photo for identity only (exact face, facial features, eye color, natural hair color/length/volume/texture). Plain light grey-blue wall background, black thin-strap camisole, minimal jewelry, Canon PowerShot G7X Mark III strong direct flash, hard shadows, sharp focus, natural skin texture, slight film grain.\n\nInstagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, hands on cheeks, (2) wink, big smile, hand in hair, (3) eyes closed, tongue slightly out, both hands lifting hair, (4) confident side glance, hand under chin, (5) laughing, looking away, hair flipped, (6) dreamy look, hand touching hair. Different hair positions in every frame. No AI look, no distorted hands, no extra fingers. --ar 3:4",
+      "prompt": "Ultra-realistic 6-photo collage (3×2 grid) of the same person using client photo for identity only (exact face, facial features, eye color, natural hair color/length/volume/texture). Plain light grey-blue wall background, black thin-strap camisole, minimal jewelry, Canon PowerShot G7X Mark III strong direct flash, hard shadows, sharp focus, natural skin texture, slight film grain.\n\nInstagram photo dump aesthetic. Six unique expressions/poses: (1) soft smile, hands on cheeks, (2) wink, big smile, hand in hair, (3) eyes closed, tongue slightly out, both hands lifting hair, (4) confident side glance, hand under chin, (5) laughing, looking away, hair flipped, (6) dreamy look, hand touching hair. Different hair positions in every frame. No AI look, no distorted hands, no extra fingers. --ar 3:4",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSGMmibYAA8MhK.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113461676205105152",
+          "file": "2113461687902994578_0.jpg",
+          "thumb": "2113461687902994578_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113510238846672945",
+      "url": "https://x.com/iamsofiaijaz/status/2113510238846672945",
+      "author": "iamsofiaijaz",
+      "author_name": "Aijaz",
+      "avatar": "https://pbs.twimg.com/profile_images/1967066723779309573/aDWbkVgi_normal.jpg",
+      "created_at_utc": "2026-10-23T05:58:02.000Z",
+      "created_at_sh": "2026-10-23 13:58",
+      "likes": 170,
+      "reposts": 22,
+      "bookmarks": 148,
+      "lang": "en",
+      "text": "Educational slide work with Gpt image 2.5 \n\nPrompt 👇 \n\nA professional educational infographic for a [Subject], designed in a modern \"Terrestrial Life\" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like \"Compound Eyes,\" \"Thorax,\" and \"Abdomen\" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a \"Quick Profile\" sidebar, a \"Top 5 Amazing Facts\" list, a \"Size Comparison\" chart against a human silhouette, and a \"Knowledge Score\" star rating system. Include a \"Detail Focus\" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features \"Habitat\" and \"Diet\" icons, a \"Conservation Status\" slider, and a small \"Did You Know?\" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.",
+      "prompt": "A professional educational infographic for a [Subject], designed in a modern \"Terrestrial Life\" series style. The layout features a large, realistic 3D central illustration of the [Subject] with anatomical labels like \"Compound Eyes,\" \"Thorax,\" and \"Abdomen\" using thin pointer lines. The color palette is clean with soft beige and muted tones. The composition includes multiple data modules: a \"Quick Profile\" sidebar, a \"Top 5 Amazing Facts\" list, a \"Size Comparison\" chart against a human silhouette, and a \"Knowledge Score\" star rating system. Include a \"Detail Focus\" section on the right with four square macro-photography close-ups of life stages or specific features. The bottom features \"Habitat\" and \"Diet\" icons, a \"Conservation Status\" slider, and a small \"Did You Know?\" footer. High resolution, crisp typography, clean vector lines, and a professional scientific journal aesthetic.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSyVD3boAEpWAq.jpg",
+          "w": 1200,
+          "h": 1096,
+          "media_key": "3_2113510200028405761",
+          "file": "2113510238846672945_0.jpg",
+          "thumb": "2113510238846672945_0.jpg",
+          "tw": 480,
+          "th": 438
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSyVoebAAEIIV6.jpg",
+          "w": 1200,
+          "h": 1096,
+          "media_key": "3_2113510209855619073",
+          "file": "2113510238846672945_1.jpg",
+          "thumb": "2113510238846672945_1.jpg",
+          "tw": 480,
+          "th": 438
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSyWPqbsAAbLzj.jpg",
+          "w": 1200,
+          "h": 1096,
+          "media_key": "3_2113510220374978560",
+          "file": "2113510238846672945_2.jpg",
+          "thumb": "2113510238846672945_2.jpg",
+          "tw": 480,
+          "th": 438
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSyW1Yb0AA6sN4.jpg",
+          "w": 1200,
+          "h": 1096,
+          "media_key": "3_2113510230500036608",
+          "file": "2113510238846672945_3.jpg",
+          "thumb": "2113510238846672945_3.jpg",
+          "tw": 480,
+          "th": 438
         }
       ],
       "nsfw_flag": false
@@ -1658,6 +1834,94 @@
           "media_key": "3_2108471239501385728",
           "file": "2108471613536739652_0.jpg",
           "thumb": "2108471613536739652_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113499885181747239",
+      "url": "https://x.com/oggii_0/status/2113499885181747239",
+      "author": "oggii_0",
+      "author_name": "Oogie",
+      "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_normal.jpg",
+      "created_at_utc": "2026-10-23T05:16:54.000Z",
+      "created_at_sh": "2026-10-23 13:16",
+      "likes": 115,
+      "reposts": 15,
+      "bookmarks": 61,
+      "lang": "en",
+      "text": "Turn your photo into a premium hand-drawn illustration using GPT Image 2.5\n\nPrompt: Draw this photo in the style of a modern, artistic naïve illustration: minimalist, hand-drawn, with playful proportions, imperfect outlines, soft yet contrasting flat colors, and decorative pencil strokes. No shadows, no gradients, no 3D effects. The overall look should resemble a premium designer poster, with a charming, whimsical, and authentic hand-drawn pencil aesthetic.",
+      "prompt": "Draw this photo in the style of a modern, artistic naïve illustration: minimalist, hand-drawn, with playful proportions, imperfect outlines, soft yet contrasting flat colors, and decorative pencil strokes. No shadows, no gradients, no 3D effects. The overall look should resemble a premium designer poster, with a charming, whimsical, and authentic hand-drawn pencil aesthetic.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSo6CNakAAvo_Y.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113499840122621952",
+          "file": "2113499885181747239_0.jpg",
+          "thumb": "2113499885181747239_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSo6o7bMAA6-LJ.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113499850516148224",
+          "file": "2113499885181747239_1.jpg",
+          "thumb": "2113499885181747239_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSo7Qda8AAhd2l.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113499861127720960",
+          "file": "2113499885181747239_2.jpg",
+          "thumb": "2113499885181747239_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSo77tawAA0G9e.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113499872737542144",
+          "file": "2113499885181747239_3.jpg",
+          "thumb": "2113499885181747239_3.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113636699888885986",
+      "url": "https://x.com/john_my07/status/2113636699888885986",
+      "author": "john_my07",
+      "author_name": "Johnn",
+      "avatar": "https://pbs.twimg.com/profile_images/1967102770500300803/ylHD6oXM_normal.jpg",
+      "created_at_utc": "2026-10-23T14:20:33.000Z",
+      "created_at_sh": "2026-10-23 22:20",
+      "likes": 115,
+      "reposts": 10,
+      "bookmarks": 53,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt:\n\nCreate an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young French woman in her early 20s. She has warm fair-olive skin, delicate freckles across her cheeks and nose, expressive hazel-brown eyes, long, naturally tousled dark chestnut hair, full eyebrows, and naturally glossy pink lips. Her appearance should feel authentic, youthful, and effortlessly Parisian.\n\nPhotography Style: Candid European Instagram photo dump, resembling casual Canon PowerShot G7 X Mark III snapshots. Direct camera flash, crisp facial details, realistic skin pores, subtle digital grain, natural shadows, slightly imperfect framing, and warm indoor lighting.\n\nSetting: A cozy bedroom with an off-white textured wall, neutral bedding, and a softly blurred background. Maintain consistent surroundings throughout all six photographs.\n\nOutfit & Accessories: She wears the same cream-colored, long-sleeved ribbed top with tiny red floral prints and delicate lace trim in every photograph. The top has a modest, higher neckline with full chest coverage. Add small gold hoop earrings and a delicate gold pendant necklace. Her makeup is minimal, with naturally flushed cheeks, glossy lips, and lightly defined lashes. Her hairstyle remains consistent in color and length, but falls differently with each pose.\n\nSix Distinct Poses:\n\n1. Playful selfie: Resting one cheek against her hand, looking into the camera with gently pursed lips and a relaxed expression.\n2. Winking snapshot: Looking directly into the lens, winking playfully with a slight pout, one arm casually extended toward the camera.\n3. Relaxed happy moment: Eyes closed, smiling softly with her head tilted back slightly and both hands casually lifting her hair.\n4. Over-the-shoulder portrait: Turning her face toward the camera over one shoulder, giving a subtle side glance with loose hair cascading naturally.\n5. Caught laughing: Looking toward someone outside the frame, laughing genuinely with her head tilted sideways and hair falling across one cheek.\n6. Quiet cozy mood: Leaning against a pillow, resting her chin against the sleeve of her top, gazing thoughtfully into the camera.\n\nIdentity Consistency: The exact same woman must appear in all six photographs, with consistent facial proportions, eye color, freckles, skin tone, and hair color. Each frame must have a distinctly different pose, expression, head angle, and natural hair arrangement.\n\nRealism Details: Authentic skin texture, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, realistic fabric texture, subtle exposure variations, and natural compact-camera flash. Avoid excessive retouching, artificial skin smoothing, duplicated expressions, malformed fingers, distorted anatomy, or overly polished AI-generated aesthetics.\n\nOutput: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders, no text, no watermark. Photorealistic, intimate, youthful, spontaneous, and effortlessly French.",
+      "prompt": "Create an ultra-realistic 6-photo portrait collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young French woman in her early 20s. She has warm fair-olive skin, delicate freckles across her cheeks and nose, expressive hazel-brown eyes, long, naturally tousled dark chestnut hair, full eyebrows, and naturally glossy pink lips. Her appearance should feel authentic, youthful, and effortlessly Parisian.\n\nPhotography Style: Candid European Instagram photo dump, resembling casual Canon PowerShot G7 X Mark III snapshots. Direct camera flash, crisp facial details, realistic skin pores, subtle digital grain, natural shadows, slightly imperfect framing, and warm indoor lighting.\n\nSetting: A cozy bedroom with an off-white textured wall, neutral bedding, and a softly blurred background. Maintain consistent surroundings throughout all six photographs.\n\nOutfit & Accessories: She wears the same cream-colored, long-sleeved ribbed top with tiny red floral prints and delicate lace trim in every photograph. The top has a modest, higher neckline with full chest coverage. Add small gold hoop earrings and a delicate gold pendant necklace. Her makeup is minimal, with naturally flushed cheeks, glossy lips, and lightly defined lashes. Her hairstyle remains consistent in color and length, but falls differently with each pose.\n\nSix Distinct Poses:\n\n1. Playful selfie: Resting one cheek against her hand, looking into the camera with gently pursed lips and a relaxed expression.\n2. Winking snapshot: Looking directly into the lens, winking playfully with a slight pout, one arm casually extended toward the camera.\n3. Relaxed happy moment: Eyes closed, smiling softly with her head tilted back slightly and both hands casually lifting her hair.\n4. Over-the-shoulder portrait: Turning her face toward the camera over one shoulder, giving a subtle side glance with loose hair cascading naturally.\n5. Caught laughing: Looking toward someone outside the frame, laughing genuinely with her head tilted sideways and hair falling across one cheek.\n6. Quiet cozy mood: Leaning against a pillow, resting her chin against the sleeve of her top, gazing thoughtfully into the camera.\n\nIdentity Consistency: The exact same woman must appear in all six photographs, with consistent facial proportions, eye color, freckles, skin tone, and hair color. Each frame must have a distinctly different pose, expression, head angle, and natural hair arrangement.\n\nRealism Details: Authentic skin texture, fine baby hairs, natural facial asymmetry, believable hands, sharp eyes, realistic fabric texture, subtle exposure variations, and natural compact-camera flash. Avoid excessive retouching, artificial skin smoothing, duplicated expressions, malformed fingers, distorted anatomy, or overly polished AI-generated aesthetics.\n\nOutput: Vertical 3:4 aspect ratio, exactly six photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders, no text, no watermark. Photorealistic, intimate, youthful, spontaneous, and effortlessly French.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUlXd9bUAEUANR.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113636685229805569",
+          "file": "2113636699888885986_0.jpg",
+          "thumb": "2113636699888885986_0.jpg",
           "tw": 360,
           "th": 480
         }
@@ -3120,6 +3384,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113465947784953958",
+      "url": "https://x.com/Ziha_ai/status/2113465947784953958",
+      "author": "Ziha_ai",
+      "author_name": "Ziha",
+      "avatar": "https://pbs.twimg.com/profile_images/2111845511917633536/ChbiaDiF_normal.jpg",
+      "created_at_utc": "2026-10-23T03:02:02.000Z",
+      "created_at_sh": "2026-10-23 11:02",
+      "likes": 76,
+      "reposts": 7,
+      "bookmarks": 38,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nTransform this photo into a badly drawn, funny doodle-style illustration. Features:\n- A messy sketch that looks hastily drawn with cheap markers or crayons.\n- Chaotic, rough, childish drawing style.\n- Broken perspective and unnatural proportions.\n- Slightly exaggerated, comical facial features.\nAdditional elements:\n- A simple comic-style background inspired by the attached photo.\n- Meaningless scribble lines and small, messy details.\n- Clearly visible uneven coloring, color spilling outside the lines, and drawing strokes.\nStyle:\n- Sloppiness that suggests it was drawn without much effort.\n- Do not make it too polished.\n- Silly, laughable meme style.\n- A casual internet vibe.\nDo not:\n- Make it realistic.\n- Render it too beautifully or intricately.\n- Give it a professionally polished finish.\nIMPORTANT: Do NOT generate the image yet. This prompt needs my photo. First reply only by asking me to upload this image.",
+      "prompt": "Transform this photo into a badly drawn, funny doodle-style illustration. Features:\n- A messy sketch that looks hastily drawn with cheap markers or crayons.\n- Chaotic, rough, childish drawing style.\n- Broken perspective and unnatural proportions.\n- Slightly exaggerated, comical facial features.\nAdditional elements:\n- A simple comic-style background inspired by the attached photo.\n- Meaningless scribble lines and small, messy details.\n- Clearly visible uneven coloring, color spilling outside the lines, and drawing strokes.\nStyle:\n- Sloppiness that suggests it was drawn without much effort.\n- Do not make it too polished.\n- Silly, laughable meme style.\n- A casual internet vibe.\nDo not:\n- Make it realistic.\n- Render it too beautifully or intricately.\n- Give it a professionally polished finish.\nIMPORTANT: Do NOT generate the image yet. This prompt needs my photo. First reply only by asking me to upload this image.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSKEGGaUAANU8w.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113465928105218048",
+          "file": "2113465947784953958_0.jpg",
+          "thumb": "2113465947784953958_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSKEGLakAAQIAK.jpg",
+          "w": 993,
+          "h": 1200,
+          "media_key": "3_2113465928126205952",
+          "file": "2113465947784953958_1.jpg",
+          "thumb": "2113465947784953958_1.jpg",
+          "tw": 397,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2112944568056320182",
       "url": "https://x.com/churvikv/status/2112944568056320182",
       "author": "churvikv",
@@ -3725,6 +4028,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113578682602168499",
+      "url": "https://x.com/Shoji_ai/status/2113578682602168499",
+      "author": "Shoji_ai",
+      "author_name": "Shoji Kai",
+      "avatar": "https://pbs.twimg.com/profile_images/1909166393603584001/bYy80jin_normal.jpg",
+      "created_at_utc": "2026-10-23T10:30:00.000Z",
+      "created_at_sh": "2026-10-23 18:30",
+      "likes": 63,
+      "reposts": 9,
+      "bookmarks": 2,
+      "lang": "ja",
+      "text": "【4匹を探せ】フェルトと刺繍の遊園地🎡\n\nぜんぶ布と糸で作ったような、手縫いの遊園地です。\nいつもの猫3匹（茶トラ・ハチワレ・三毛）と、Shoji Catが、4か所にいます。全員見つけられた？\n\n答えは一番下の返信に👇\n\n画像はAI（GPT Image 2.5）で作りました。プロンプトは返信に。",
+      "prompt": "答え合わせ🐈\n赤い丸の中に4匹います。\n・ハチワレ：左の切符売り場、窓口のカウンターの縁\n・茶トラ：その右の輪投げ屋、景品棚の上\n・Shoji Cat：観覧車のわきの通路で、手を上げて踊っています\n・三毛：右のバンパーカー乗り場、行列の足元の地面\nShojiの看板は、右の風船屋です。\n\n———\n\nプロンプト：GPT Image 2.5\n\nA huge hand-made felt-and-embroidery appliqué panel, horizontal 3:2, a \"find the hidden cats\" picture in the spirit of a classic seek-and-find book: a busy amusement park seen from a high, wide bird's-eye view so that everything is small and there is a huge amount to look at. In the middle a big Ferris wheel with colorful gondolas; on the left a spinning teacup ride, a small toy train and a pond with round pedal boats; on the right a bumper-car rink with a queue, a roller coaster looping in the background and tethered hot-air balloons. A paved plaza runs through the middle, and a small parade is under way on it: about fifteen people dancing and marching behind a decorated float, with streamers and flags. Along both sides stand small stalls with scalloped awnings: a ticket booth with a counter window, a ring-toss stall with a prize shelf, popcorn, cotton candy, ice cream, a balloon seller, a pretzel stand, a shooting gallery. Behind them round trees, flower beds and a dusk-blue sky with stars. In front, a crowd of about 150 tiny felt-doll people, each doing something (kids with balloons, a child on a father's shoulders, a vendor scooping popcorn, a photographer, a drummer in the parade). A standing person is only about 3% of the picture height, every figure tiny and crisp with a stitched face.\n\nThe look is the point: every shape is a cut piece of colored wool felt sewn onto a quilted cotton ground with visible blanket stitches, running stitches, satin-stitch fills and French knots, fuzzy fibres, little sequins and beads for the lights; warm cheerful palette of candy red, teal, mustard, blush pink, cream, leaf green and deep dusk blue. Seen flat from straight on in soft even light, like a photograph of a handmade textile artwork, not a digital painting or 3D render. Full bleed, no hoop, no frame, no border.\n\nExactly one small logo: a small dark navy felt signboard hanging at the front of the balloon seller's stall in the right half, about 5% of the picture width, with a cream-thread embroidered cat paw print whose big pad holds a swirling ocean wave, and the word \"Shoji\" in cream cursive brush lettering to its right. Apart from that sign there are no letters, words or numbers anywhere.\n\nExactly four cats are hidden in the scene and no other cat or animal anywhere (no fish, birds, rabbits, horses, plush animals, animal rides, mascots, masks or cat ears). The cats are all tiny, in the same band of the picture at the same distance, each in the open, never hidden behind anything, none in the lower third; the three real cats are each only about 1.5% of the picture height, about two fifths of a standing person, and wear a thin red collar with a tiny gold bell:\n1. a black-and-white \"hachiware\" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on the counter ledge of the ticket-booth window on the left, next to the attendant;\n2. a brown mackerel tabby (warm brown fur with dark stripes, white muzzle and chest) sitting upright on the prize shelf of the ring-toss stall, between star, heart and ball prizes;\n3. a calico cat (white with orange and black patches) sitting on the pavement at the edge of the bumper-car queue, among the legs of the waiting people;\n4. Shoji Cat, an upright orange tabby cat about three heads tall in a black leather jacket, denim shorts, cream sneakers and black wayfarer sunglasses with blue and red lenses, dancing with one arm raised on the path beside the Ferris wheel, a little taller than the other three cats.\nNo dark round objects or dark animal-like shapes that could be mistaken for a cat. No watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSkqjHaUAAiuQm.jpg",
+          "w": 1200,
+          "h": 796,
+          "media_key": "3_2113495176031391744",
+          "file": "2113578682602168499_0.jpg",
+          "thumb": "2113578682602168499_0.jpg",
+          "tw": 480,
+          "th": 318
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2109710598972035578",
       "url": "https://x.com/churvikv/status/2109710598972035578",
       "author": "churvikv",
@@ -4273,6 +4605,84 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113510586839638492",
+      "url": "https://x.com/Naiknelofar788/status/2113510586839638492",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-23T05:59:25.000Z",
+      "created_at_sh": "2026-10-23 13:59",
+      "likes": 57,
+      "reposts": 6,
+      "bookmarks": 29,
+      "lang": "en",
+      "text": "GPT image 2.5\n\nPrompt:\nCreate a beautiful, hand-drawn vintage travel journal spread featuring [CITY / COUNTRY / LANDMARK], inspired by the charm of an artist’s personal travel sketchbook.\n\nComposition: An open cream-colored sketchbook with two pages filled with expressive architectural illustrations of [CITY / COUNTRY / LANDMARK]. On one page, feature its most iconic landmark, carefully illustrated with accurate architectural details. On the other page, depict colorful traditional buildings, narrow streets, charming windows, rooftops, local shops, or recognizable elements of everyday life. Let the illustrations flow naturally across the pages, as though an artist sketched them during a real journey.\n\nArt Style: Loose black ink outlines combined with expressive watercolor washes, visible colored-pencil strokes, imperfect hand-drawn lines, and beautiful splashes of earthy pigment. Use warm terracotta, muted ochre, faded teal, dusty blue, olive green, and sun-washed cream. Preserve the authentic architecture, recognizable proportions, and distinctive character of the real location.\n\nTravel Diary Details: Fill the empty spaces with small handwritten travel notes, a fictional date, little arrows pointing toward architectural details, tiny people walking through the streets, and spontaneous observations about local culture, food, history, and atmosphere. Include a beautifully hand-lettered title reading “[CITY / COUNTRY / LANDMARK]” across the bottom of the illustration, accompanied by a short, poetic historical tagline.\n\nAtmosphere: Nostalgic, intimate, artistic, and authentic, like a treasured page from a traveler’s journal discovered in an old European bookstore. The artwork should feel handmade rather than digitally perfect, with natural imperfections, delicate ink textures, uneven watercolor edges, and a spontaneous composition.\n\nBackground: A warm, off-white sketchbook page with subtle paper grain, photographed from directly above on a neutral surface.\n\nImportant: Keep the landmark architecturally accurate and instantly recognizable. Avoid glossy digital rendering, 3D effects, excessive ornamentation, and artificial-looking textures. Make the handwriting appear natural and integrated into the artwork.\n\nFormat: Vertical 4:5 composition, high detail, elegant editorial illustration, authentic watercolor-and-ink travel sketchbook aesthetic.",
+      "prompt": "Create a beautiful, hand-drawn vintage travel journal spread featuring [CITY / COUNTRY / LANDMARK], inspired by the charm of an artist’s personal travel sketchbook.\n\nComposition: An open cream-colored sketchbook with two pages filled with expressive architectural illustrations of [CITY / COUNTRY / LANDMARK]. On one page, feature its most iconic landmark, carefully illustrated with accurate architectural details. On the other page, depict colorful traditional buildings, narrow streets, charming windows, rooftops, local shops, or recognizable elements of everyday life. Let the illustrations flow naturally across the pages, as though an artist sketched them during a real journey.\n\nArt Style: Loose black ink outlines combined with expressive watercolor washes, visible colored-pencil strokes, imperfect hand-drawn lines, and beautiful splashes of earthy pigment. Use warm terracotta, muted ochre, faded teal, dusty blue, olive green, and sun-washed cream. Preserve the authentic architecture, recognizable proportions, and distinctive character of the real location.\n\nTravel Diary Details: Fill the empty spaces with small handwritten travel notes, a fictional date, little arrows pointing toward architectural details, tiny people walking through the streets, and spontaneous observations about local culture, food, history, and atmosphere. Include a beautifully hand-lettered title reading “[CITY / COUNTRY / LANDMARK]” across the bottom of the illustration, accompanied by a short, poetic historical tagline.\n\nAtmosphere: Nostalgic, intimate, artistic, and authentic, like a treasured page from a traveler’s journal discovered in an old European bookstore. The artwork should feel handmade rather than digitally perfect, with natural imperfections, delicate ink textures, uneven watercolor edges, and a spontaneous composition.\n\nBackground: A warm, off-white sketchbook page with subtle paper grain, photographed from directly above on a neutral surface.\n\nImportant: Keep the landmark architecturally accurate and instantly recognizable. Avoid glossy digital rendering, 3D effects, excessive ornamentation, and artificial-looking textures. Make the handwriting appear natural and integrated into the artwork.\n\nFormat: Vertical 4:5 composition, high detail, elegant editorial illustration, authentic watercolor-and-ink travel sketchbook aesthetic.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSypkNbsAATLGS.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113510552308002816",
+          "file": "2113510586839638492_0.jpg",
+          "thumb": "2113510586839638492_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSyqRyawAESc4L.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113510564542726145",
+          "file": "2113510586839638492_1.jpg",
+          "thumb": "2113510586839638492_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSyq9QaMAA1Y9x.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113510576211243008",
+          "file": "2113510586839638492_2.jpg",
+          "thumb": "2113510586839638492_2.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113604142908555532",
+      "url": "https://x.com/SethCritchley/status/2113604142908555532",
+      "author": "SethCritchley",
+      "author_name": "Super Producer Seth",
+      "avatar": "https://pbs.twimg.com/profile_images/2063093484651991041/BEV3V158_normal.jpg",
+      "created_at_utc": "2026-10-23T12:11:11.000Z",
+      "created_at_sh": "2026-10-23 20:11",
+      "likes": 56,
+      "reposts": 10,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "Good Friday X fam!! 👋🏻\n\nToday's Pop Culture Stand-In | Daily Prompt Share Theme: National Horror Movie Day (The Shining)\n\nWHAT YOU’LL NEED:\n• A reference image of yourself or any character you want to throw into the scene.\n\n⚠️ Chat GPT or GPT Image 2.5 Recommended ⚠️\n\nPrompt:\nUsing my uploaded photo as the exact facial reference, transform me into an intense psychological-horror lunatic-inspired version of myself. Keep my face, facial structure, hair, and recognizable features intact. Dress me in a disheveled vintage winter outfit: worn brown/tweed jacket, muted shirt, rugged clothing, rumpled and distressed. Frame me in an extreme close-up through a narrow opening in a battered, partially opened old wooden door, face pressed on/almost through the crack in the door, eyes looking to the right side of the frame. The dirty cream/off-white door has chipped paint, scratches, cracks, stains, and grime. My face is extremely close to the opening, with an unhinged expression, wild eyes, and terrifying manic grin. Add realistic scars, scratches, cuts, bruises, dried blood, and subtle wounds. Dim warm lighting, deep shadows, gritty analog film texture, muted winter tones, claustrophobic terror, photorealistic cinematic horror, realistic skin and materials, dramatic lighting, 8K, Octane Render, 2:3 vertical. No text, logos, extra people, fantasy elements, or face redesign.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friyay 🥳 \n\n#LaughingDawgS #WeirdArtRebels #FridayMotivation",
+      "prompt": "Using my uploaded photo as the exact facial reference, transform me into an intense psychological-horror lunatic-inspired version of myself. Keep my face, facial structure, hair, and recognizable features intact. Dress me in a disheveled vintage winter outfit: worn brown/tweed jacket, muted shirt, rugged clothing, rumpled and distressed. Frame me in an extreme close-up through a narrow opening in a battered, partially opened old wooden door, face pressed on/almost through the crack in the door, eyes looking to the right side of the frame. The dirty cream/off-white door has chipped paint, scratches, cracks, stains, and grime. My face is extremely close to the opening, with an unhinged expression, wild eyes, and terrifying manic grin. Add realistic scars, scratches, cuts, bruises, dried blood, and subtle wounds. Dim warm lighting, deep shadows, gritty analog film texture, muted winter tones, claustrophobic terror, photorealistic cinematic horror, realistic skin and materials, dramatic lighting, 8K, Octane Render, 2:3 vertical. No text, logos, extra people, fantasy elements, or face redesign.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friyay 🥳",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUHwqgbkAAN2FU.jpg",
+          "w": 799,
+          "h": 1200,
+          "media_key": "3_2113604132745744384",
+          "file": "2113604142908555532_0.jpg",
+          "thumb": "2113604142908555532_0.jpg",
+          "tw": 319,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2103091620132573617",
       "url": "https://x.com/Adnan_Ai2/status/2103091620132573617",
       "author": "Adnan_Ai2",
@@ -4579,6 +4989,55 @@
           "file": "2109267428387717579_0.jpg",
           "thumb": "2109267428387717579_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113498982009974823",
+      "url": "https://x.com/harboriis/status/2113498982009974823",
+      "author": "harboriis",
+      "author_name": "Harboris",
+      "avatar": "https://pbs.twimg.com/profile_images/2110394532336668673/2R7s3kh-_normal.jpg",
+      "created_at_utc": "2026-10-23T05:13:18.000Z",
+      "created_at_sh": "2026-10-23 13:13",
+      "likes": 51,
+      "reposts": 7,
+      "bookmarks": 13,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt \nCreate an ultra-realistic black-and-white fashion editorial photograph of a stylish young man casually leaning against the front of a luxury white Mercedes-Benz sedan parked on an urban street. He has medium-length, naturally wavy dark hair, wears slim black sunglasses, an oversized black crewneck sweatshirt, relaxed-fit light gray washed jeans, white crew socks, and clean white sneakers. His hands are tucked into his sweatshirt pockets, his legs are casually crossed at the ankles, and his head is turned slightly to the side with a calm, confident expression.\n\nThe car features a sleek front grille, elegant LED headlights, a sculpted white body, and polished alloy wheels. The background shows an old industrial brick building with large, multi-pane factory windows, creating a timeless urban streetwear aesthetic.\n\nShot from a slightly low, full-body angle, with natural overcast daylight, soft shadows, realistic fabric textures, detailed skin and hair, subtle film grain, rich monochrome tones, balanced contrast, and professional luxury fashion photography. Candid pose, minimalist styling, cinematic composition, sharp focus, authentic photographic details, vertical 4:5 aspect ratio, high resolution. No text, no watermark.",
+      "prompt": "Create an ultra-realistic black-and-white fashion editorial photograph of a stylish young man casually leaning against the front of a luxury white Mercedes-Benz sedan parked on an urban street. He has medium-length, naturally wavy dark hair, wears slim black sunglasses, an oversized black crewneck sweatshirt, relaxed-fit light gray washed jeans, white crew socks, and clean white sneakers. His hands are tucked into his sweatshirt pockets, his legs are casually crossed at the ankles, and his head is turned slightly to the side with a calm, confident expression.\n\nThe car features a sleek front grille, elegant LED headlights, a sculpted white body, and polished alloy wheels. The background shows an old industrial brick building with large, multi-pane factory windows, creating a timeless urban streetwear aesthetic.\n\nShot from a slightly low, full-body angle, with natural overcast daylight, soft shadows, realistic fabric textures, detailed skin and hair, subtle film grain, rich monochrome tones, balanced contrast, and professional luxury fashion photography. Candid pose, minimalist styling, cinematic composition, sharp focus, authentic photographic details, vertical 4:5 aspect ratio, high resolution. No text, no watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSoGRZaAAACDtR.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113498950846251008",
+          "file": "2113498982009974823_0.jpg",
+          "thumb": "2113498982009974823_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSoG6tbsAALGWQ.jpg",
+          "w": 736,
+          "h": 919,
+          "media_key": "3_2113498961936101376",
+          "file": "2113498982009974823_1.jpg",
+          "thumb": "2113498982009974823_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSoHhfasAAmMUb.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113498972346298368",
+          "file": "2113498982009974823_2.jpg",
+          "thumb": "2113498982009974823_2.jpg",
+          "tw": 384,
           "th": 480
         }
       ],
@@ -6569,6 +7028,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113618647323455858",
+      "url": "https://x.com/Naiknelofar788/status/2113618647323455858",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-23T13:08:49.000Z",
+      "created_at_sh": "2026-10-23 21:08",
+      "likes": 32,
+      "reposts": 5,
+      "bookmarks": 9,
+      "lang": "en",
+      "text": "GPT image 2.5\n\nPrompt:\nCreate a beautiful, minimalist, hand-drawn travel illustration\n\nArt style: Fine black ink line drawing on a clean, warm-white paper background, delicate imperfect strokes, loose pencil shading, subtle cross-hatching, artistic simplicity, and a timeless European journal aesthetic.\n\nComposition: Arrange a few charming objects in the foreground that represent the destination, such as a steaming coffee cup, croissant, a slender glass vase holding a single flower, and a small upright postcard or book featuring the iconic architecture or landmark of [CITY / COUNTRY / LANDMARK].\n\nLandmark details: Illustrate the destination’s most recognizable landmark with delicate hand-drawn lines, keeping it simple, elegant, and instantly recognizable. Add small decorative handwritten lettering featuring the destination’s name.\n\nMood: Peaceful, romantic, cozy, nostalgic, artistic, and dreamy, like a page from a vintage travel diary in a Parisian café.\n\nBackground: Plain white or ivory paper with generous negative space, no unnecessary scenery, no borders, and no distracting elements.\n\nTechnical style: Monochrome black ink, fine sketch lines, natural imperfections, delicate shadows beneath the objects, subtle paper texture, balanced horizontal composition, understated editorial illustration, high-resolution artwork.\n\nReplace every instance of [CITY / COUNTRY / LANDMARK] with your chosen destination. Keep the same overall composition and artistic style while changing the landmark and cultural details to match the location.",
+      "prompt": "Create a beautiful, minimalist, hand-drawn travel illustration\n\nArt style: Fine black ink line drawing on a clean, warm-white paper background, delicate imperfect strokes, loose pencil shading, subtle cross-hatching, artistic simplicity, and a timeless European journal aesthetic.\n\nComposition: Arrange a few charming objects in the foreground that represent the destination, such as a steaming coffee cup, croissant, a slender glass vase holding a single flower, and a small upright postcard or book featuring the iconic architecture or landmark of [CITY / COUNTRY / LANDMARK].\n\nLandmark details: Illustrate the destination’s most recognizable landmark with delicate hand-drawn lines, keeping it simple, elegant, and instantly recognizable. Add small decorative handwritten lettering featuring the destination’s name.\n\nMood: Peaceful, romantic, cozy, nostalgic, artistic, and dreamy, like a page from a vintage travel diary in a Parisian café.\n\nBackground: Plain white or ivory paper with generous negative space, no unnecessary scenery, no borders, and no distracting elements.\n\nTechnical style: Monochrome black ink, fine sketch lines, natural imperfections, delicate shadows beneath the objects, subtle paper texture, balanced horizontal composition, understated editorial illustration, high-resolution artwork.\n\nReplace every instance of [CITY / COUNTRY / LANDMARK] with your chosen destination. Keep the same overall composition and artistic style while changing the landmark and cultural details to match the location.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUU8_3bkAAOB_p.jpg",
+          "w": 1200,
+          "h": 1153,
+          "media_key": "3_2113618638288949248",
+          "file": "2113618647323455858_0.jpg",
+          "thumb": "2113618647323455858_0.jpg",
+          "tw": 480,
+          "th": 461
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUU9AabEAA5fIi.jpg",
+          "w": 720,
+          "h": 487,
+          "media_key": "3_2113618638435717120",
+          "file": "2113618647323455858_1.jpg",
+          "thumb": "2113618647323455858_1.jpg",
+          "tw": 480,
+          "th": 324
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2109581797944443143",
       "url": "https://x.com/Goodmanprotocol/status/2109581797944443143",
       "author": "Goodmanprotocol",
@@ -7009,6 +7507,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113587892090249316",
+      "url": "https://x.com/kabumira862571/status/2113587892090249316",
+      "author": "kabumira862571",
+      "author_name": "カーブミラー",
+      "avatar": "https://pbs.twimg.com/profile_images/1675467594609090560/WJp9rDF6_normal.jpg",
+      "created_at_utc": "2026-10-23T11:06:36.000Z",
+      "created_at_sh": "2026-10-23 19:06",
+      "likes": 29,
+      "reposts": 5,
+      "bookmarks": 0,
+      "lang": "ja",
+      "text": "GPT-Image 2.5\n#AI和ロウィン2026 参加します。😸\n\nPrompt\nghost(お化け)\ncandle(ろうそく)？\nwizard or witch(魔法使い・魔女)？\n\n『世界のお化け大集合（日本編）』",
+      "prompt": "ghost(お化け)\ncandle(ろうそく)？\nwizard or witch(魔法使い・魔女)？\n\n『世界のお化け大集合（日本編）』",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVT4-3kaYAA6l_5.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113587884095856640",
+          "file": "2113587892090249316_0.jpg",
+          "thumb": "2113587892090249316_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2110015285323559093",
       "url": "https://x.com/TheVirtualMuse/status/2110015285323559093",
       "author": "TheVirtualMuse",
@@ -7130,6 +7657,45 @@
           "file": "2112873994986942596_1.jpg",
           "thumb": "2112873994986942596_1.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113637254447165517",
+      "url": "https://x.com/mehvishs25/status/2113637254447165517",
+      "author": "mehvishs25",
+      "author_name": "Meem",
+      "avatar": "https://pbs.twimg.com/profile_images/2012472188067278848/cp_m4VoD_normal.jpg",
+      "created_at_utc": "2026-10-23T14:22:45.000Z",
+      "created_at_sh": "2026-10-23 22:22",
+      "likes": 28,
+      "reposts": 2,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt;\nCreate a photorealistic, cinematic beauty triptych featuring the same girl from the reference photo, preserving her exact facial identity, eye color, eyebrow shape, nose, lips, skin tone, and natural skin texture.\n\nComposition: Three equal horizontal macro portraits stacked vertically, separated by thin black lines, with a luxurious amber-bronze color palette and dramatic shadows.\n\nTop panel: One eye gazing directly into the camera, framed by defined brows, long curled lashes, and shimmering golden-bronze eyeshadow. Warm highlights illuminate her cheek and nose, while loose hair catches a subtle reddish-gold glow. The opposite side fades into darkness.\n\nMiddle panel: Her face slightly tilted, one eye sharply illuminated by a narrow diagonal beam of warm light. Long nude-pink manicured nails gently touch her cheek and near her lips. The remaining face disappears into deep, cinematic shadows.\n\nBottom panel: An extreme close-up of her softly parted lips with matte terracotta-orange lipstick, revealing natural lip creases, delicate skin pores, and a subtle glimpse of her teeth.\n\nLighting & Style: Hard directional light from the upper left, glowing golden highlights, rich bronze tones, deep blacks, and striking chiaroscuro contrast. Ultra-sharp macro details, realistic skin texture, sophisticated luxury beauty editorial, shot on Sony A7R IV with a 100mm macro lens.\n\nMaintain perfect facial consistency across all three panels. Vivid warm colors, crisp focus, natural proportions, 8K photorealism, no text, no watermark, no artificial skin smoothing, no AI artifacts.",
+      "prompt": "Create a photorealistic, cinematic beauty triptych featuring the same girl from the reference photo, preserving her exact facial identity, eye color, eyebrow shape, nose, lips, skin tone, and natural skin texture.\n\nComposition: Three equal horizontal macro portraits stacked vertically, separated by thin black lines, with a luxurious amber-bronze color palette and dramatic shadows.\n\nTop panel: One eye gazing directly into the camera, framed by defined brows, long curled lashes, and shimmering golden-bronze eyeshadow. Warm highlights illuminate her cheek and nose, while loose hair catches a subtle reddish-gold glow. The opposite side fades into darkness.\n\nMiddle panel: Her face slightly tilted, one eye sharply illuminated by a narrow diagonal beam of warm light. Long nude-pink manicured nails gently touch her cheek and near her lips. The remaining face disappears into deep, cinematic shadows.\n\nBottom panel: An extreme close-up of her softly parted lips with matte terracotta-orange lipstick, revealing natural lip creases, delicate skin pores, and a subtle glimpse of her teeth.\n\nLighting & Style: Hard directional light from the upper left, glowing golden highlights, rich bronze tones, deep blacks, and striking chiaroscuro contrast. Ultra-sharp macro details, realistic skin texture, sophisticated luxury beauty editorial, shot on Sony A7R IV with a 100mm macro lens.\n\nMaintain perfect facial consistency across all three panels. Vivid warm colors, crisp focus, natural proportions, 8K photorealism, no text, no watermark, no artificial skin smoothing, no AI artifacts.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUl1jha4AEJgFp.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113637202119024641",
+          "file": "2113637254447165517_0.jpg",
+          "thumb": "2113637254447165517_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUl3Q6akAAo3_F.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113637231483326464",
+          "file": "2113637254447165517_1.jpg",
+          "thumb": "2113637254447165517_1.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -7363,6 +7929,103 @@
           "media_key": "3_2112966943229816832",
           "file": "2112967154744086945_0.jpg",
           "thumb": "2112967154744086945_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113660621913039336",
+      "url": "https://x.com/antrospike/status/2113660621913039336",
+      "author": "antrospike",
+      "author_name": "Antrospike",
+      "avatar": "https://pbs.twimg.com/profile_images/2104275515708411904/yjvJKOVT_normal.jpg",
+      "created_at_utc": "2026-10-23T15:55:36.000Z",
+      "created_at_sh": "2026-10-23 23:55",
+      "likes": 27,
+      "reposts": 2,
+      "bookmarks": 2,
+      "lang": "en",
+      "text": "She Doesn't Follow the Buzz, \n\nShe IS the Buzz. 🐝🔥👑\n\nGPT image 2.5\nPrompt in comment.",
+      "prompt": "Style: Ultra-realistic 8K, vertical 3:4, high-fashion fantasy editorial photography.\n\nBody Pose: Standing confidently, one leg slightly forward through the gown slit, arms relaxed beside the body.\n\nFace Pose: Chin slightly lowered, mysterious expression, gaze toward the camera behind dark sunglasses.\n\nHair: Platinum-blonde voluminous waves, half-up braided hairstyle.\n\nOutfit: Black-and-golden-yellow bee-inspired evening gown, fitted corset bodice, striped flowing high-low skirt with thigh slit, sheer layered fabric, elegant black-and-yellow heels, jeweled choker.\n\nWings: Four oversized translucent fairy wings, iridescent honeycomb veins, delicate golden shimmer.\n\nScene: Yellow-and-black honeycomb-patterned backdrop, abstract honey splashes, luxury fantasy fashion studio.\n\nLighting: Dramatic studio lighting, golden highlights, realistic wing reflections, crisp shadows.\n\nQuality: Photorealistic skin, detailed embroidery, realistic fabric textures, cinematic depth, professional fashion photography.\n\nNegative Prompt: Cartoon, anime, CGI, plastic skin, blur, bad anatomy, deformed hands, extra fingers, extra limbs, asymmetrical wings, distorted dress, unnatural proportions, text, watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVU67K9boAAxR8_.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113660388349026304",
+          "file": "2113660621913039336_0.jpg",
+          "thumb": "2113660621913039336_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113673051334148151",
+      "url": "https://x.com/antrospike/status/2113673051334148151",
+      "author": "antrospike",
+      "author_name": "Antrospike",
+      "avatar": "https://pbs.twimg.com/profile_images/2104275515708411904/yjvJKOVT_normal.jpg",
+      "created_at_utc": "2026-10-23T16:45:00.000Z",
+      "created_at_sh": "2026-10-24 00:45",
+      "likes": 27,
+      "reposts": 2,
+      "bookmarks": 2,
+      "lang": "en",
+      "text": "My outfit has more layers than my personality. 🎀🤣🧡\n\nGPT image 2.5\nPrompt below.",
+      "prompt": "Style: Ultra-realistic 8K, vertical 3:4, professional high-fashion editorial photography.\n\nBody Pose: Standing with one hand on hip, other arm relaxed, legs elegantly crossed, full-body pose.\n\nFace Pose: Head slightly tilted, confident expression, direct eye contact.\n\nHair: Brown hair styled in two voluminous messy buns with loose wispy strands.\n\nOutfit: Floral high-neck crop top with puff sleeves and oversized bow, asymmetrical mini skirt with dramatic white and burnt-orange ruffles, white strappy high heels, elegant dangling earrings.\n\nScene: Minimalist beige studio backdrop with subtle textured plaster walls and soft neutral tones.\n\nLighting: Soft diffused studio light, gentle shadows, realistic fabric folds.\n\nQuality: Photorealistic skin texture, intricate floral patterns, detailed satin ruffles, luxury fashion magazine aesthetic.\n\nNegative Prompt: Cartoon, anime, CGI, plastic skin, blur, bad anatomy, deformed hands, extra fingers, extra limbs, distorted clothing, unnatural proportions, text, watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVU75SHaQAA1ZVk.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113661455421816832",
+          "file": "2113673051334148151_0.jpg",
+          "thumb": "2113673051334148151_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113563234238386322",
+      "url": "https://x.com/Goodmanprotocol/status/2113563234238386322",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-23T09:28:37.000Z",
+      "created_at_sh": "2026-10-23 17:28",
+      "likes": 27,
+      "reposts": 2,
+      "bookmarks": 5,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium 3:4 vertical shadow-puppet art poster from the uploaded photograph.\n\nCOMPOSITION:\nDivide the canvas into two equal horizontal halves.\n\nTOP HALF:\nPreserve the original photograph’s subject, identity, pose, proportions, composition, textures, and natural lighting. Apply only subtle, refined color grading for an elegant fine-art exhibition aesthetic. Extend the background if necessary, without distorting the subject.\n\nBOTTOM HALF:\nReinterpret the same subject as an authentic traditional Chinese shadow puppet, performing against warmly illuminated, translucent rice paper. Translate its defining silhouette, posture, and character into a flat, handcrafted leather-cutout figure with articulated joints, tiny connecting rivets, decorative perforations, intricate cloud motifs, and delicate geometric carvings. Use restrained translucent pigments inspired by traditional shadow-puppet craftsmanship.\n\nAdd one or two slender bamboo control rods entering naturally from the bottom edge. Create realistic paper translucency, warm backlighting, subtle shadows, and exquisite handcrafted details.\n\nCREATIVE DIRECTION:\nThe puppet must remain instantly recognizable as the original subject, whether it is a person, animal, building, plant, object, or landscape. Adapt the traditional shadow-puppet construction intelligently to the subject rather than forcing every image into a human-shaped figure.\n\nMake the transition between photography and traditional folk art visually meaningful, refined, and museum-worthy.\n\nAvoid photorealistic puppets, cartoon styling, excessive ornamentation, unrelated elements, distorted features, text, logos, and watermarks.\n\nFORMAT: 3:4 vertical, exact 50/50 horizontal split.",
+      "prompt": "Create a premium 3:4 vertical shadow-puppet art poster from the uploaded photograph.\n\nCOMPOSITION:\nDivide the canvas into two equal horizontal halves.\n\nTOP HALF:\nPreserve the original photograph’s subject, identity, pose, proportions, composition, textures, and natural lighting. Apply only subtle, refined color grading for an elegant fine-art exhibition aesthetic. Extend the background if necessary, without distorting the subject.\n\nBOTTOM HALF:\nReinterpret the same subject as an authentic traditional Chinese shadow puppet, performing against warmly illuminated, translucent rice paper. Translate its defining silhouette, posture, and character into a flat, handcrafted leather-cutout figure with articulated joints, tiny connecting rivets, decorative perforations, intricate cloud motifs, and delicate geometric carvings. Use restrained translucent pigments inspired by traditional shadow-puppet craftsmanship.\n\nAdd one or two slender bamboo control rods entering naturally from the bottom edge. Create realistic paper translucency, warm backlighting, subtle shadows, and exquisite handcrafted details.\n\nCREATIVE DIRECTION:\nThe puppet must remain instantly recognizable as the original subject, whether it is a person, animal, building, plant, object, or landscape. Adapt the traditional shadow-puppet construction intelligently to the subject rather than forcing every image into a human-shaped figure.\n\nMake the transition between photography and traditional folk art visually meaningful, refined, and museum-worthy.\n\nAvoid photorealistic puppets, cartoon styling, excessive ornamentation, unrelated elements, distorted features, text, logos, and watermarks.\n\nFORMAT: 3:4 vertical, exact 50/50 horizontal split.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVTiigtaQAAOl_x.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113563207667433472",
+          "file": "2113563234238386322_0.jpg",
+          "thumb": "2113563234238386322_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVTijTEbQAASBUe.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113563221185740800",
+          "file": "2113563234238386322_1.jpg",
+          "thumb": "2113563234238386322_1.jpg",
           "tw": 360,
           "th": 480
         }
@@ -9330,6 +9993,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113627713143730417",
+      "url": "https://x.com/Goodmanprotocol/status/2113627713143730417",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-23T13:44:50.000Z",
+      "created_at_sh": "2026-10-23 21:44",
+      "likes": 15,
+      "reposts": 0,
+      "bookmarks": 3,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a premium, ultra-realistic 3D typography poster featuring the exact word \"[YOUR TEXT]\", sculpted entirely from thick, fluffy wool yarn.\n\nMAIN TYPOGRAPHY\nForm the letters into chunky, bold, tightly packed shapes crafted from soft, off-white cotton fibers. Give each letter a dense, plush, tactile appearance with intricate individual strands, realistic fiber variation, and subtle natural irregularities. Mount the typography on a vibrant red knitted rectangular patch featuring clearly visible stitches, fuzzy edges, raised yarn patterns, and an authentic woven texture.\n\nEnsure the text is spelled exactly as provided, with every letter clearly distinguishable, correctly formed, and fully readable. The typography must remain the dominant visual element.\n\nBACKGROUND & LIGHTING\nUse a pure black background with generous negative space around the central composition. Apply dramatic studio lighting to emphasize the contrast between the creamy white yarn, vivid red knitted patch, and deep black surroundings. Create realistic contact shadows, subtle ambient occlusion, dimensional highlights, and convincing depth.\n\nEDITORIAL DETAILS\nAdd small, minimalist, monospaced white typography in the top-right corner, arranged neatly like a refined editorial design annotation. In the bottom-left corner, include a tiny, charming illustrated mascot accompanied by a short, understated descriptive caption. Keep both elements secondary, precisely aligned, and visually unobtrusive.\n\nMATERIAL REALISM\nRender every material with exceptional tactile accuracy, including individual wool fibers, soft fuzz, tightly looped stitches, subtle textile imperfections, and realistic light interaction. The result should feel like a meticulously handcrafted textile artwork photographed in a professional macro studio.\n\nCOMPOSITION & OUTPUT\nVertical 4:5 aspect ratio. Centered composition, balanced visual hierarchy, generous negative space, crisp focus on the main typography, high contrast, sophisticated editorial art direction, premium experimental graphic design, photorealistic 3D rendering, and exceptionally detailed materials.\n\nFINAL REQUIREMENT: Prioritize exact spelling, immediate readability, realistic knitted construction, and a striking visual contrast. Avoid extra words, distorted letters, clutter, excessive decorative elements, or anything that competes with the main text.",
+      "prompt": "Create a premium, ultra-realistic 3D typography poster featuring the exact word \"[YOUR TEXT]\", sculpted entirely from thick, fluffy wool yarn.\n\nMAIN TYPOGRAPHY\nForm the letters into chunky, bold, tightly packed shapes crafted from soft, off-white cotton fibers. Give each letter a dense, plush, tactile appearance with intricate individual strands, realistic fiber variation, and subtle natural irregularities. Mount the typography on a vibrant red knitted rectangular patch featuring clearly visible stitches, fuzzy edges, raised yarn patterns, and an authentic woven texture.\n\nEnsure the text is spelled exactly as provided, with every letter clearly distinguishable, correctly formed, and fully readable. The typography must remain the dominant visual element.\n\nBACKGROUND & LIGHTING\nUse a pure black background with generous negative space around the central composition. Apply dramatic studio lighting to emphasize the contrast between the creamy white yarn, vivid red knitted patch, and deep black surroundings. Create realistic contact shadows, subtle ambient occlusion, dimensional highlights, and convincing depth.\n\nEDITORIAL DETAILS\nAdd small, minimalist, monospaced white typography in the top-right corner, arranged neatly like a refined editorial design annotation. In the bottom-left corner, include a tiny, charming illustrated mascot accompanied by a short, understated descriptive caption. Keep both elements secondary, precisely aligned, and visually unobtrusive.\n\nMATERIAL REALISM\nRender every material with exceptional tactile accuracy, including individual wool fibers, soft fuzz, tightly looped stitches, subtle textile imperfections, and realistic light interaction. The result should feel like a meticulously handcrafted textile artwork photographed in a professional macro studio.\n\nCOMPOSITION & OUTPUT\nVertical 4:5 aspect ratio. Centered composition, balanced visual hierarchy, generous negative space, crisp focus on the main typography, high contrast, sophisticated editorial art direction, premium experimental graphic design, photorealistic 3D rendering, and exceptionally detailed materials.\n\nFINAL REQUIREMENT: Prioritize exact spelling, immediate readability, realistic knitted construction, and a striking visual contrast. Avoid extra words, distorted letters, clutter, excessive decorative elements, or anything that competes with the main text.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUdLvSb0AAuqaO.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113627687629869056",
+          "file": "2113627713143730417_0.jpg",
+          "thumb": "2113627713143730417_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUdMi0bsAAznRK.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113627701462675456",
+          "file": "2113627713143730417_1.jpg",
+          "thumb": "2113627713143730417_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2098309691877241146",
       "url": "https://x.com/xueyu1125/status/2098309691877241146",
       "author": "xueyu1125",
@@ -9451,6 +10153,45 @@
           "thumb": "2113143333727920633_0.jpg",
           "tw": 360,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113711105319305509",
+      "url": "https://x.com/RedTsunami77/status/2113711105319305509",
+      "author": "RedTsunami77",
+      "author_name": "🇺🇸Bandit0077🇺🇸",
+      "avatar": "https://pbs.twimg.com/profile_images/2057056425092734976/89frC1fy_normal.jpg",
+      "created_at_utc": "2026-10-23T19:16:13.000Z",
+      "created_at_sh": "2026-10-24 03:16",
+      "likes": 14,
+      "reposts": 15,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "Good Friday X fam!! 👋🏻\n\nToday's Pop Culture Stand-In | Daily Prompt Share Theme: National Horror Movie Day (The Shining)\n\nWHAT YOU’LL NEED:\n• A reference image of yourself or any character you want to throw into the scene.\n\n⚠️ Chat GPT or GPT Image 2.5 Recommended ⚠️\n\nPrompt:\nUsing my uploaded photo as the exact facial reference, transform me into an intense psychological-horror lunatic-inspired version of myself. Keep my face, facial structure, hair, and recognizable features intact. Dress me in a disheveled vintage winter outfit: worn brown/tweed jacket, muted shirt, rugged clothing, rumpled and distressed. Frame me in an extreme close-up through a narrow opening in a battered, partially opened old wooden door, face pressed on/almost through the crack in the door, eyes looking to the right side of the frame. The dirty cream/off-white door has chipped paint, scratches, cracks, stains, and grime. My face is extremely close to the opening, with an unhinged expression, wild eyes, and terrifying manic grin. Add realistic scars, scratches, cuts, bruises, dried blood, and subtle wounds. Dim warm lighting, deep shadows, gritty analog film texture, muted winter tones, claustrophobic terror, photorealistic cinematic horror, realistic skin and materials, dramatic lighting, 8K, Octane Render, 2:3 vertical. No text, logos, extra people, fantasy elements, or face redesign.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friyay 🥳 \n\n#LaughingDawgS #WeirdArtRebels #FridayMotivation\nBill Cosby was my reference check out what it gave me 😂",
+      "prompt": "Using my uploaded photo as the exact facial reference, transform me into an intense psychological-horror lunatic-inspired version of myself. Keep my face, facial structure, hair, and recognizable features intact. Dress me in a disheveled vintage winter outfit: worn brown/tweed jacket, muted shirt, rugged clothing, rumpled and distressed. Frame me in an extreme close-up through a narrow opening in a battered, partially opened old wooden door, face pressed on/almost through the crack in the door, eyes looking to the right side of the frame. The dirty cream/off-white door has chipped paint, scratches, cracks, stains, and grime. My face is extremely close to the opening, with an unhinged expression, wild eyes, and terrifying manic grin. Add realistic scars, scratches, cuts, bruises, dried blood, and subtle wounds. Dim warm lighting, deep shadows, gritty analog film texture, muted winter tones, claustrophobic terror, photorealistic cinematic horror, realistic skin and materials, dramatic lighting, 8K, Octane Render, 2:3 vertical. No text, logos, extra people, fantasy elements, or face redesign.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friyay 🥳 \n\n#LaughingDawgS #WeirdArtRebels #FridayMotivation\nBill Cosby was my reference check out what it gave me 😂",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVVpCiIXEAAp1tE.jpg",
+          "w": 784,
+          "h": 1168,
+          "media_key": "3_2113711092362842112",
+          "file": "2113711105319305509_0.jpg",
+          "thumb": "2113711105319305509_0.jpg",
+          "tw": 322,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVVpC_hW8AAJeb-.jpg",
+          "w": 882,
+          "h": 1200,
+          "media_key": "3_2113711100252319744",
+          "file": "2113711105319305509_1.jpg",
+          "thumb": "2113711105319305509_1.jpg",
+          "tw": 353,
+          "th": 479
         }
       ],
       "nsfw_flag": false
@@ -9768,6 +10509,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113469175381528849",
+      "url": "https://x.com/liyue_ai/status/2113469175381528849",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-23T03:14:52.000Z",
+      "created_at_sh": "2026-10-23 11:14",
+      "likes": 12,
+      "reposts": 1,
+      "bookmarks": 12,
+      "lang": "zh",
+      "text": "GPT Image 2.5生成东方美学海报：风拢轻纱。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简高传播封面\n风格分支：女性审美轻盈型\n主体内容：一位古风女子站在轻薄窗纱后，抬手压住被风吹起的一角\n情绪母题：治愈、柔软、轻梦感\n场景与意象：大片轻薄窗纱、覆盆子粉小花、青柠绿枝叶、女子、白色背景\n构图与空间：9:16竖版构图，窗纱从上方向下形成柔和大色块，人物位于中下部，左上或右上保留完整标题区\n色彩控制：云母白作为整体高明度基底，覆盆子粉只用于少量小花点睛，青柠绿用于少量叶片，窗纱保持白色或极浅暖白；避免整体变成粉绿滤镜\n光线与质感：高明度透光柔光，边缘干净，轻盈半透明质感，平面插画封面感\n画幅比例：9:16\n补充要求：窗纱要成为第一眼记忆点，画面要轻、亮、透，不要灰雾化，画面留白处配上合适的文字",
+      "prompt": "主题方向：东方禅意极简高传播封面\n风格分支：女性审美轻盈型\n主体内容：一位古风女子站在轻薄窗纱后，抬手压住被风吹起的一角\n情绪母题：治愈、柔软、轻梦感\n场景与意象：大片轻薄窗纱、覆盆子粉小花、青柠绿枝叶、女子、白色背景\n构图与空间：9:16竖版构图，窗纱从上方向下形成柔和大色块，人物位于中下部，左上或右上保留完整标题区\n色彩控制：云母白作为整体高明度基底，覆盆子粉只用于少量小花点睛，青柠绿用于少量叶片，窗纱保持白色或极浅暖白；避免整体变成粉绿滤镜\n光线与质感：高明度透光柔光，边缘干净，轻盈半透明质感，平面插画封面感\n画幅比例：9:16\n补充要求：窗纱要成为第一眼记忆点，画面要轻、亮、透，不要灰雾化，画面留白处配上合适的文字",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSNAA4bgAA5fPz.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113469156519804928",
+          "file": "2113469175381528849_0.jpg",
+          "thumb": "2113469175381528849_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2110654410682478987",
       "url": "https://x.com/spark_chenlin/status/2110654410682478987",
       "author": "spark_chenlin",
@@ -10006,6 +10776,35 @@
           "file": "2113194436654223641_0.jpg",
           "thumb": "2113194436654223641_0.jpg",
           "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113656693817303408",
+      "url": "https://x.com/johnAGI168/status/2113656693817303408",
+      "author": "johnAGI168",
+      "author_name": "John",
+      "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_normal.jpg",
+      "created_at_utc": "2026-10-23T15:40:00.000Z",
+      "created_at_sh": "2026-10-23 23:40",
+      "likes": 11,
+      "reposts": 0,
+      "bookmarks": 8,
+      "lang": "en",
+      "text": "ChatGPT Images 2.5  prompt 👇\n\nFull-body, eye-level candid street-style portrait of a lively early-20s East Asian woman playfully posing inside a modern clothing store. In a joyful, energetic posture, she raises both hands up on either side of her head flashing double V-sign peace gestures, while cheerfully kicking her right leg backward with a bent knee, balancing gracefully on her straight left leg. She gazes directly into the camera through black eyeglasses with a bright, sweet smile.\n\nHer facial features are youthful and charming: smooth porcelain skin, a soft rounded jawline, clear dark almond eyes framed by black rectangular acetate glasses, and soft natural lips. Her straight raven-black hair parts naturally down the middle, flowing smoothly over her shoulders and chest.\n\nShe wears a trendy athleisure outfit: a fitted black long-sleeve crewneck knit sweater featuring a prominent bold graphic white striped five-pointed star on the chest. Below, she wears high-waisted dark charcoal-grey matte athletic yoga leggings that sculpt her slender, toned legs. Her ankles feature white ribbed crew athletic socks worn over the leggings, paired with chunky off-white lifestyle running sneakers. A small brown monogram crossbody bag with a slim strap rests across her torso.\n\nThe setting is an authentic, bright apparel department store: she stands along a wide aisle with warm oak hardwood plank flooring, flanked on the right by neatly organized wooden display shelves stacked with folded sweaters and price tags, opening up in the background to polished mall marble floors and shop displays.\n\nIlluminated by bright, even commercial ceiling recessed spotlights overhead, casting clean highlights across her hair and glasses while casting soft, natural shadows on the wooden floor. Shot on a 35mm lens at f/2.5, ISO 160, 1/250s, capturing genuine fabric knit textures, matte athletic spandex stretch, tactile wood grain, and an infectious, high-spirited lifestyle realism.",
+      "prompt": "Full-body, eye-level candid street-style portrait of a lively early-20s East Asian woman playfully posing inside a modern clothing store. In a joyful, energetic posture, she raises both hands up on either side of her head flashing double V-sign peace gestures, while cheerfully kicking her right leg backward with a bent knee, balancing gracefully on her straight left leg. She gazes directly into the camera through black eyeglasses with a bright, sweet smile.\n\nHer facial features are youthful and charming: smooth porcelain skin, a soft rounded jawline, clear dark almond eyes framed by black rectangular acetate glasses, and soft natural lips. Her straight raven-black hair parts naturally down the middle, flowing smoothly over her shoulders and chest.\n\nShe wears a trendy athleisure outfit: a fitted black long-sleeve crewneck knit sweater featuring a prominent bold graphic white striped five-pointed star on the chest. Below, she wears high-waisted dark charcoal-grey matte athletic yoga leggings that sculpt her slender, toned legs. Her ankles feature white ribbed crew athletic socks worn over the leggings, paired with chunky off-white lifestyle running sneakers. A small brown monogram crossbody bag with a slim strap rests across her torso.\n\nThe setting is an authentic, bright apparel department store: she stands along a wide aisle with warm oak hardwood plank flooring, flanked on the right by neatly organized wooden display shelves stacked with folded sweaters and price tags, opening up in the background to polished mall marble floors and shop displays.\n\nIlluminated by bright, even commercial ceiling recessed spotlights overhead, casting clean highlights across her hair and glasses while casting soft, natural shadows on the wooden floor. Shot on a 35mm lens at f/2.5, ISO 160, 1/250s, capturing genuine fabric knit textures, matte athletic spandex stretch, tactile wood grain, and an infectious, high-spirited lifestyle realism.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUp6F_XwAAChQ-.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113641678137442304",
+          "file": "2113656693817303408_0.jpg",
+          "thumb": "2113656693817303408_0.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -10297,6 +11096,35 @@
           "media_key": "3_2113126563780947969",
           "file": "2113126659604046290_0.jpg",
           "thumb": "2113126659604046290_0.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113605867442466947",
+      "url": "https://x.com/Witebred/status/2113605867442466947",
+      "author": "Witebred",
+      "author_name": "Hausmeister",
+      "avatar": "https://pbs.twimg.com/profile_images/2048739618762391552/mdhapioD_normal.jpg",
+      "created_at_utc": "2026-10-23T12:18:02.000Z",
+      "created_at_sh": "2026-10-23 20:18",
+      "likes": 10,
+      "reposts": 2,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Check me out, I honestly am shocked how much I look like this normally. \nWHAT YOU’LL NEED:\n• A reference image of yourself or any character you want to throw into the scene.\n\n⚠️ Chat GPT or GPT Image 2.5 Recommended ⚠️\n\nPrompt:\nUsing my uploaded photo as the exact facial reference, transform me into an intense psychological-horror lunatic-inspired version of myself. Keep my face, facial structure, hair, and recognizable features intact. Dress me in a disheveled vintage winter outfit: worn brown/tweed jacket, muted shirt, rugged clothing, rumpled and distressed. Frame me in an extreme close-up through a narrow opening in a battered, partially opened old wooden door, face pressed on/almost through the crack in the door, eyes looking to the right side of the frame. The dirty cream/off-white door has chipped paint, scratches, cracks, stains, and grime. My face is extremely close to the opening, with an unhinged expression, wild eyes, and terrifying manic grin. Add realistic scars, scratches, cuts, bruises, dried blood, and subtle wounds. Dim warm lighting, deep shadows, gritty analog film texture, muted winter tones, claustrophobic terror, photorealistic cinematic horror, realistic skin and materials, dramatic lighting, 8K, Octane Render, 2:3 vertical. No text, logos, extra people, fantasy elements, or face redesign.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friyay 🥳",
+      "prompt": "Using my uploaded photo as the exact facial reference, transform me into an intense psychological-horror lunatic-inspired version of myself. Keep my face, facial structure, hair, and recognizable features intact. Dress me in a disheveled vintage winter outfit: worn brown/tweed jacket, muted shirt, rugged clothing, rumpled and distressed. Frame me in an extreme close-up through a narrow opening in a battered, partially opened old wooden door, face pressed on/almost through the crack in the door, eyes looking to the right side of the frame. The dirty cream/off-white door has chipped paint, scratches, cracks, stains, and grime. My face is extremely close to the opening, with an unhinged expression, wild eyes, and terrifying manic grin. Add realistic scars, scratches, cuts, bruises, dried blood, and subtle wounds. Dim warm lighting, deep shadows, gritty analog film texture, muted winter tones, claustrophobic terror, photorealistic cinematic horror, realistic skin and materials, dramatic lighting, 8K, Octane Render, 2:3 vertical. No text, logos, extra people, fantasy elements, or face redesign.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friyay 🥳",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUJVSsXUAAcBBi.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113605861520134144",
+          "file": "2113605867442466947_0.jpg",
+          "thumb": "2113605867442466947_0.jpg",
           "tw": 320,
           "th": 480
         }
@@ -11289,6 +12117,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113590331019264038",
+      "url": "https://x.com/Mrpinecone888/status/2113590331019264038",
+      "author": "Mrpinecone888",
+      "author_name": "Mr.pinecone",
+      "avatar": "https://pbs.twimg.com/profile_images/2010235894012538880/_AJEEf3p_normal.jpg",
+      "created_at_utc": "2026-10-23T11:16:18.000Z",
+      "created_at_sh": "2026-10-23 19:16",
+      "likes": 7,
+      "reposts": 3,
+      "bookmarks": 2,
+      "lang": "zh",
+      "text": "东方时装杂志\n\nGPT Image 2.5提示词：\n9:13纵向高级文化时装杂志封面，杂志名称“ARCHIVE”以经典粗体衬线字置于顶部，炭黑字母与人物发冠轻微叠合；右上增加小型中文刊名“衣冠志”。主体是一位成年东亚女性，圆润心形脸、自然高颧骨、细长凤眼和低饱和朱砂唇；深栗色头发编成环绕式发髻，搭配现代金属发冠。她穿赤陶红与暗金色高定礼服，交叠领束身上衣、低肩宽袖、腰部织锦饰片和宽大褶裥长裙结合传统服装结构与现代舞会廓形，背后展开如古代屏风般的分片式立体裙饰。人物坐在浅色石质台座上，身体微侧，一手放在膝上，另一手扶住身后裙片，目光平静地看向镜头。背景为浅暖灰，隐约可见织物档案编号和淡墨轮廓。封面文字包括“HERITAGE REIMAGINED”“THE CRAFT OF TOMORROW”“东方礼服的当代表达”，采用博物馆出版物式排版，深炭灰、赤陶红与旧金配色，层级清晰、信息克制，呈现8K收藏级封面质感。",
+      "prompt": "9:13纵向高级文化时装杂志封面，杂志名称“ARCHIVE”以经典粗体衬线字置于顶部，炭黑字母与人物发冠轻微叠合；右上增加小型中文刊名“衣冠志”。主体是一位成年东亚女性，圆润心形脸、自然高颧骨、细长凤眼和低饱和朱砂唇；深栗色头发编成环绕式发髻，搭配现代金属发冠。她穿赤陶红与暗金色高定礼服，交叠领束身上衣、低肩宽袖、腰部织锦饰片和宽大褶裥长裙结合传统服装结构与现代舞会廓形，背后展开如古代屏风般的分片式立体裙饰。人物坐在浅色石质台座上，身体微侧，一手放在膝上，另一手扶住身后裙片，目光平静地看向镜头。背景为浅暖灰，隐约可见织物档案编号和淡墨轮廓。封面文字包括“HERITAGE REIMAGINED”“THE CRAFT OF TOMORROW”“东方礼服的当代表达”，采用博物馆出版物式排版，深炭灰、赤陶红与旧金配色，层级清晰、信息克制，呈现8K收藏级封面质感。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVT68AkakAAhJN_.jpg",
+          "w": 831,
+          "h": 1200,
+          "media_key": "3_2113590033995436032",
+          "file": "2113590331019264038_0.jpg",
+          "thumb": "2113590331019264038_0.jpg",
+          "tw": 332,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097720524113580184",
       "url": "https://x.com/shirawiggles/status/2097720524113580184",
       "author": "shirawiggles",
@@ -11692,6 +12549,65 @@
           "file": "2113127357934674203_1.jpg",
           "thumb": "2113127357934674203_1.jpg",
           "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113505853131391373",
+      "url": "https://x.com/DeepBlueX0/status/2113505853131391373",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-23T05:40:37.000Z",
+      "created_at_sh": "2026-10-23 13:40",
+      "likes": 6,
+      "reposts": 1,
+      "bookmarks": 5,
+      "lang": "zh",
+      "text": "GPT image 2.5 Prompt:\n\n鸟类拟态 × 概念时装 × Lookbook × 极简主义 Fashion Editorial\n\n将十种鸟类的外形、羽翼与体态转译为十套服饰及完整造型。人物保留人类面容与身体，通过服饰延伸人体轮廓，形成鲜明的人鸟融合形象。\n\n1. 孔雀 ×《展屏结构礼服》× FAN-STRUCTURE GOWN\n    放射状裙撑连接腰背，撑起扇形裙面，蓝绿虹彩与眼状纹沿骨架展开。人物背向镜头回头，展示展屏轮廓。\n2. 燕子 ×《分尾剪裁套装》× FORKED-TAIL SUIT\n    黑蓝尖翼轮廓融入肩臂剪裁，深叉后摆呼应燕尾。人物迈步转身，带动后摆。\n3. 丹顶鹤 ×《长颈立领长裙》× HIGH-COLLAR COLUMN DRESS\n    修长立领与纵向剪裁延伸身体比例，黑白分区，领部朱红点缀。人物侧身缓步，颈肩舒展。\n4. 猫头鹰 ×《面盘围领斗篷》× FACIAL-DISC CAPE\n    面盘的同心层次转译为环绕式围领，棕灰斑纹覆盖圆阔斗篷。人物坐在矮凳上，身体微前倾，斗篷自然垂落。\n5. 翠鸟 ×《流线拼接套装》× STREAMLINED PANEL SUIT\n    紧凑流线剪裁结合后掠肩部裁片，蓝背橙腹形成色彩分区。人物俯身系鞋，呈现肩背线条。\n6. 火烈鸟 ×《曲线折构连体裤》× CURVED-FOLD JUMPSUIT\n    S形曲线贯穿单肩上身，腰胯折叠结构连接粉橘色长裤。人物侧身跨上矮台，展现屈腿时的服装形态。\n7. 天鹅 ×《弧翼围裹婚纱》× WING-WRAP BRIDAL GOWN\n    白色弧形裁片从背部延伸并围裹躯干，领肩曲线呼应天鹅曲颈。人物轻抬双臂，裁片随动作舒展。\n8. 鹦鹉 ×《叠片披翼套装》× LAYERED-WING SET\n    彩色柔性裁片按羽区覆叠，沿肩臂形成披翼轮廓，弯喙曲线融入扣件。人物侧坐，单臂搭在椅背上，展示叠片层次。\n9. 游隼 ×《收翼折构风衣》× FOLDED-WING TRENCH\n    后掠肩线与折叠侧片呼应收翼体态，收束腰侧形成紧凑轮廓，蓝灰底色配横斑细节。人物迎风跨步，衣摆向后展开。\n10. 企鹅 ×《鳍袖绗缝夹克》× FLIPPER-SLEEVE QUILTED JACKET\n    扁平鳍形袖连接紧凑绗缝衣身，黑背白腹分区，轮廓圆润。人物正面站立，双臂自然离开身体，呈现袖形。\n\n每套突出不同的拟态造型，通过剪裁、折叠、围裹与层叠体现鸟类特征，减少羽毛堆叠。面料、支撑与连接方式合理，保留穿着和活动空间。搭配同主题鞋履、手袋与首饰，配饰选择性呼应，避免全部做成鸟形。\n\n十张使用面容与发型明显不同的成年女性模特，沙漏型身材，身形高挑。抓拍试装与活动瞬间，人物专注当下动作，保留自然肤质与衣料状态。\n\n正面、侧面、背面及斜侧机位交错，改变拍摄高度与人物位置，完整呈现服装与鞋履。手袋按动作需要佩戴或放置。\n\n简洁背景、适量留白，突出服装轮廓与拟态细节。每张加入对应鸟类中文名、系列编号、中文主标题及英文副标题，文字随构图变化，避开服饰重点。十张保持统一视觉语言，布局各有差异。\n\n9:16，n=10，十张独立单图，每张一种鸟类、一套完整服饰，不拼图。\n\n左下签名：深蓝色实心圆点在前，空一格，白色手写体「DeepBlue」在后。",
+      "prompt": "鸟类拟态 × 概念时装 × Lookbook × 极简主义 Fashion Editorial\n\n将十种鸟类的外形、羽翼与体态转译为十套服饰及完整造型。人物保留人类面容与身体，通过服饰延伸人体轮廓，形成鲜明的人鸟融合形象。\n\n1. 孔雀 ×《展屏结构礼服》× FAN-STRUCTURE GOWN\n    放射状裙撑连接腰背，撑起扇形裙面，蓝绿虹彩与眼状纹沿骨架展开。人物背向镜头回头，展示展屏轮廓。\n2. 燕子 ×《分尾剪裁套装》× FORKED-TAIL SUIT\n    黑蓝尖翼轮廓融入肩臂剪裁，深叉后摆呼应燕尾。人物迈步转身，带动后摆。\n3. 丹顶鹤 ×《长颈立领长裙》× HIGH-COLLAR COLUMN DRESS\n    修长立领与纵向剪裁延伸身体比例，黑白分区，领部朱红点缀。人物侧身缓步，颈肩舒展。\n4. 猫头鹰 ×《面盘围领斗篷》× FACIAL-DISC CAPE\n    面盘的同心层次转译为环绕式围领，棕灰斑纹覆盖圆阔斗篷。人物坐在矮凳上，身体微前倾，斗篷自然垂落。\n5. 翠鸟 ×《流线拼接套装》× STREAMLINED PANEL SUIT\n    紧凑流线剪裁结合后掠肩部裁片，蓝背橙腹形成色彩分区。人物俯身系鞋，呈现肩背线条。\n6. 火烈鸟 ×《曲线折构连体裤》× CURVED-FOLD JUMPSUIT\n    S形曲线贯穿单肩上身，腰胯折叠结构连接粉橘色长裤。人物侧身跨上矮台，展现屈腿时的服装形态。\n7. 天鹅 ×《弧翼围裹婚纱》× WING-WRAP BRIDAL GOWN\n    白色弧形裁片从背部延伸并围裹躯干，领肩曲线呼应天鹅曲颈。人物轻抬双臂，裁片随动作舒展。\n8. 鹦鹉 ×《叠片披翼套装》× LAYERED-WING SET\n    彩色柔性裁片按羽区覆叠，沿肩臂形成披翼轮廓，弯喙曲线融入扣件。人物侧坐，单臂搭在椅背上，展示叠片层次。\n9. 游隼 ×《收翼折构风衣》× FOLDED-WING TRENCH\n    后掠肩线与折叠侧片呼应收翼体态，收束腰侧形成紧凑轮廓，蓝灰底色配横斑细节。人物迎风跨步，衣摆向后展开。\n10. 企鹅 ×《鳍袖绗缝夹克》× FLIPPER-SLEEVE QUILTED JACKET\n    扁平鳍形袖连接紧凑绗缝衣身，黑背白腹分区，轮廓圆润。人物正面站立，双臂自然离开身体，呈现袖形。\n\n每套突出不同的拟态造型，通过剪裁、折叠、围裹与层叠体现鸟类特征，减少羽毛堆叠。面料、支撑与连接方式合理，保留穿着和活动空间。搭配同主题鞋履、手袋与首饰，配饰选择性呼应，避免全部做成鸟形。\n\n十张使用面容与发型明显不同的成年女性模特，沙漏型身材，身形高挑。抓拍试装与活动瞬间，人物专注当下动作，保留自然肤质与衣料状态。\n\n正面、侧面、背面及斜侧机位交错，改变拍摄高度与人物位置，完整呈现服装与鞋履。手袋按动作需要佩戴或放置。\n\n简洁背景、适量留白，突出服装轮廓与拟态细节。每张加入对应鸟类中文名、系列编号、中文主标题及英文副标题，文字随构图变化，避开服饰重点。十张保持统一视觉语言，布局各有差异。\n\n9:16，n=10，十张独立单图，每张一种鸟类、一套完整服饰，不拼图。\n\n左下签名：深蓝色实心圆点在前，空一格，白色手写体「DeepBlue」在后。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSuXnda4AAdK8q.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113505845896208384",
+          "file": "2113505853131391373_0.jpg",
+          "thumb": "2113505853131391373_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSuXnGa0AATOni.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113505845799735296",
+          "file": "2113505853131391373_1.jpg",
+          "thumb": "2113505853131391373_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSuXnGacAAfLmV.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113505845799710720",
+          "file": "2113505853131391373_2.jpg",
+          "thumb": "2113505853131391373_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVSuXnPa8AAGOow.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113505845837492224",
+          "file": "2113505853131391373_3.jpg",
+          "thumb": "2113505853131391373_3.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -13846,6 +14762,94 @@
       "nsfw_flag": false
     },
     {
+      "id": "2113653053400445330",
+      "url": "https://x.com/DeepBlueX0/status/2113653053400445330",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-23T15:25:32.000Z",
+      "created_at_sh": "2026-10-23 23:25",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 3,
+      "lang": "zh",
+      "text": "GPT image 2.5 Prompt:\n\n720nm近红外摄影 × 真人化动漫或游戏女性角色 × 世界著名旅游景点 × 旅行抓拍\n\n每张随机抽取1至3名不同的知名女性角色，真人化并保留标志性外貌、发型、服饰结构与关键配件。每张搭配一处不同的世界著名旅游景点，人物自然融入真实旅行现场。多人时可自然互动或各自活动，人物位置、距离与遮挡关系随场景变化。\n\n采用720nm近红外摄影经典伪色处理，经自定义白平衡与红蓝通道交换，呈现偏蓝的天空、存在时呈银白的植被，以及有限但清晰的色彩层次。皮肤明亮、低色度，脸、颈部与四肢的近红外响应一致，保留光照造成的自然明暗。服装、头发与建筑的颜色和明暗随近红外响应变化，不强行保留角色原色。人物与环境统一成像，保留真实发丝、织物和建筑材质。\n\n同行朋友随手抓拍，各张独立变化动作、表情、机位、景别与构图。允许路人、遮挡、轻微倾斜和偶然裁切，呈现不刻意摆拍的旅行瞬间。路人不计入1至3名角色的人数。\n\n9:16竖版，n=10，10张独立单图，不拼图。各张重新抽取人数、角色、景点与构图，避免复用姿态和主要构图关系。每张左下角深蓝色实心圆点，空格后接白色手写体“DeepBlue”。",
+      "prompt": "720nm近红外摄影 × 真人化动漫或游戏女性角色 × 世界著名旅游景点 × 旅行抓拍\n\n每张随机抽取1至3名不同的知名女性角色，真人化并保留标志性外貌、发型、服饰结构与关键配件。每张搭配一处不同的世界著名旅游景点，人物自然融入真实旅行现场。多人时可自然互动或各自活动，人物位置、距离与遮挡关系随场景变化。\n\n采用720nm近红外摄影经典伪色处理，经自定义白平衡与红蓝通道交换，呈现偏蓝的天空、存在时呈银白的植被，以及有限但清晰的色彩层次。皮肤明亮、低色度，脸、颈部与四肢的近红外响应一致，保留光照造成的自然明暗。服装、头发与建筑的颜色和明暗随近红外响应变化，不强行保留角色原色。人物与环境统一成像，保留真实发丝、织物和建筑材质。\n\n同行朋友随手抓拍，各张独立变化动作、表情、机位、景别与构图。允许路人、遮挡、轻微倾斜和偶然裁切，呈现不刻意摆拍的旅行瞬间。路人不计入1至3名角色的人数。\n\n9:16竖版，n=10，10张独立单图，不拼图。各张重新抽取人数、角色、景点与构图，避免复用姿态和主要构图关系。每张左下角深蓝色实心圆点，空格后接白色手写体“DeepBlue”。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVU0PR1aYAA9igS.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113653037210427392",
+          "file": "2113653053400445330_0.jpg",
+          "thumb": "2113653053400445330_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVU0PR0aYAEKn4h.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113653037206233089",
+          "file": "2113653053400445330_1.jpg",
+          "thumb": "2113653053400445330_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVU0PRwa0AA-BiA.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113653037189484544",
+          "file": "2113653053400445330_2.jpg",
+          "thumb": "2113653053400445330_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVU0PR6aoAA8o9E.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113653037231415296",
+          "file": "2113653053400445330_3.jpg",
+          "thumb": "2113653053400445330_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113428958050123988",
+      "url": "https://x.com/Andy4aicreate/status/2113428958050123988",
+      "author": "Andy4aicreate",
+      "author_name": "Andy",
+      "avatar": "https://pbs.twimg.com/profile_images/2097050197436370944/wavDMYbe_normal.jpg",
+      "created_at_utc": "2026-10-23T00:35:03.000Z",
+      "created_at_sh": "2026-10-23 08:35",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "用 Token360 · GPT Image 2.5\n\n美术馆中庭CCD立像，燕麦色针织Polo与冷白过膝伞裙，轻扶螺旋坡道扶手。\n\n提示词 👇\n\n摄影风格：日间清亮高光CCD生活照风\n写真方向：都市建筑生活写真\n场景方向：当代美术馆开放中庭 / 浅灰石材椭圆天窗 / 白色螺旋坡道扶手 / 极简绿植\n服装方向：燕麦色修身针织Polo上衣（下摆自然覆盖腰线） + 冷白色过膝伞裙 + 浅驼皮带\n气质标签：知性、俏皮、明亮、精致、有设计感\n五官方向：电影感清秀自然脸\n身形方向：轻盈纤细\n线条强调：中\n镜头方向：膝上半身到大腿中段\n姿态动作：站在螺旋坡道起点，一只手轻扶白色扶手，身体微侧，抬眼自然看镜头，神情安静含笑\n光线氛围：天窗高亮日光 + 石材与扶手形成大面积柔亮反射\n滤镜效果：高亮清晰青白CCD色彩 + 白净高光 + 清楚中间调 + 极轻颗粒\n画幅比例：9:16\n补充要求：燕麦色保持柔亮不灰；坡道形成明显空间纵深；服装得体不暴露；明确成年；无文字、无水印、无Logo。\n\n—\n\nInspired by @liyue_ai",
+      "prompt": "摄影风格：日间清亮高光CCD生活照风\n写真方向：都市建筑生活写真\n场景方向：当代美术馆开放中庭 / 浅灰石材椭圆天窗 / 白色螺旋坡道扶手 / 极简绿植\n服装方向：燕麦色修身针织Polo上衣（下摆自然覆盖腰线） + 冷白色过膝伞裙 + 浅驼皮带\n气质标签：知性、俏皮、明亮、精致、有设计感\n五官方向：电影感清秀自然脸\n身形方向：轻盈纤细\n线条强调：中\n镜头方向：膝上半身到大腿中段\n姿态动作：站在螺旋坡道起点，一只手轻扶白色扶手，身体微侧，抬眼自然看镜头，神情安静含笑\n光线氛围：天窗高亮日光 + 石材与扶手形成大面积柔亮反射\n滤镜效果：高亮清晰青白CCD色彩 + 白净高光 + 清楚中间调 + 极轻颗粒\n画幅比例：9:16\n补充要求：燕麦色保持柔亮不灰；坡道形成明显空间纵深；服装得体不暴露；明确成年；无文字、无水印、无Logo。\n\n—\n\nInspired by @liyue_ai",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVRoalfbgAAGW9k.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2113428931093430272",
+          "file": "2113428958050123988_0.jpg",
+          "thumb": "2113428958050123988_0.jpg",
+          "tw": 269,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097678119314575676",
       "url": "https://x.com/jojogh_007/status/2097678119314575676",
       "author": "jojogh_007",
@@ -15351,6 +16355,182 @@
           "media_key": "3_2113296324938633216",
           "file": "2113296440999240029_0.jpg",
           "thumb": "2113296440999240029_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113451671137472892",
+      "url": "https://x.com/DeepBlueX0/status/2113451671137472892",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-23T02:05:19.000Z",
+      "created_at_sh": "2026-10-23 10:05",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 2,
+      "lang": "zh",
+      "text": "GPT image 2.5 Prompt:\n\n荷花 × 主题成衣设计 × 全套服饰与配饰 × 独立设计师品牌 Lookbook × iPhone拍摄花絮\n\n提取荷花的形态、结构与色彩，转译为服装及鞋包首饰设计。各单品选择性呼应主题，形成具有荷花辨识度、可实际制作穿着的完整造型。\n\n九张保持同一位高挑细腰的成年女性模特，同一套服饰与配饰，设计细节一致。\n\niPhone随手记录试装与拍摄间隙，人物专注于当下活动，动作与表情自然。保留真实皮肤、衣料褶皱与现场光线，不磨皮、不作商业精修。\n\n全身、中景、近景与配饰特写交错，改变拍摄距离、方向、高度及人物在画面中的位置，适当利用现场遮挡与裁切。各张有明确的构图差异，避免连续使用居中正面视角。\n\n9:16，n=9，9张独立单图，不拼图。\n\n左下签名：深蓝色实心圆点在前，空一格，白色手写体「DeepBlue」在后。",
+      "prompt": "荷花 × 主题成衣设计 × 全套服饰与配饰 × 独立设计师品牌 Lookbook × iPhone拍摄花絮\n\n提取荷花的形态、结构与色彩，转译为服装及鞋包首饰设计。各单品选择性呼应主题，形成具有荷花辨识度、可实际制作穿着的完整造型。\n\n九张保持同一位高挑细腰的成年女性模特，同一套服饰与配饰，设计细节一致。\n\niPhone随手记录试装与拍摄间隙，人物专注于当下活动，动作与表情自然。保留真实皮肤、衣料褶皱与现场光线，不磨皮、不作商业精修。\n\n全身、中景、近景与配饰特写交错，改变拍摄距离、方向、高度及人物在画面中的位置，适当利用现场遮挡与裁切。各张有明确的构图差异，避免连续使用居中正面视角。\n\n9:16，n=9，9张独立单图，不拼图。\n\n左下签名：深蓝色实心圆点在前，空一格，白色手写体「DeepBlue」在后。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVR9FyQbwAAGNaR.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113451663487123456",
+          "file": "2113451671137472892_0.jpg",
+          "thumb": "2113451671137472892_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVR9FyWakAAugNJ.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2113451663512211456",
+          "file": "2113451671137472892_1.jpg",
+          "thumb": "2113451671137472892_1.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVR9FyVboAAYce1.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2113451663508086784",
+          "file": "2113451671137472892_2.jpg",
+          "thumb": "2113451671137472892_2.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVR9FyWb0AA9iGS.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113451663512293376",
+          "file": "2113451671137472892_3.jpg",
+          "thumb": "2113451671137472892_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113483744522965410",
+      "url": "https://x.com/Johnemnn/status/2113483744522965410",
+      "author": "Johnemnn",
+      "author_name": "Eric X Studio AI 2.0 视频版",
+      "avatar": "https://pbs.twimg.com/profile_images/2112028618088153088/3hK4fvhB_normal.jpg",
+      "created_at_utc": "2026-10-23T04:12:45.000Z",
+      "created_at_sh": "2026-10-23 12:12",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT image 2.5 Prompt:\n\n動漫遊戲女性角色 × X光透射攝影 × 二維透射投影 × 淺底深像 × 極簡留白\n\n暖灰白底，角色呈細膩灰黑影像，保留標誌性髮型、原服裝輪廓與關鍵配飾。均勻透射成像，以吸收灰階取代表面明暗，灰階隨材質吸收與沿射線方向的重疊累積變化：髮絲與薄衣料淺淡，身體組織層次柔和，6张",
+      "prompt": "動漫遊戲女性角色 × X光透射攝影 × 二維透射投影 × 淺底深像 × 極簡留白\n\n暖灰白底，角色呈細膩灰黑影像，保留標誌性髮型、原服裝輪廓與關鍵配飾。均勻透射成像，以吸收灰階取代表面明暗，灰階隨材質吸收與沿射線方向的重疊累積變化：髮絲與薄衣料淺淡，身體組織層次柔和，6张",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVSaQkEaAAAmmne.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2113483734494347264",
+          "file": "2113483744522965410_0.jpg",
+          "thumb": "2113483744522965410_0.jpg",
+          "tw": 269,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113617495978557600",
+      "url": "https://x.com/alanblogsooooo/status/2113617495978557600",
+      "author": "alanblogsooooo",
+      "author_name": "十豆加",
+      "avatar": "https://pbs.twimg.com/profile_images/1996248161199996928/mYEaNsD6_normal.jpg",
+      "created_at_utc": "2026-10-23T13:04:14.000Z",
+      "created_at_sh": "2026-10-23 21:04",
+      "likes": 1,
+      "reposts": 1,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "院子里有传送门吗？怎么会有精灵女孩？\n\nGPT Image 2.5提示词：\n【任务与范式】 3:4 竖向画幅。构建一幅夏日庭院斑驳树影下的白金发色少女半身俯拍人像，以葱郁绿植作为自然留白负空间基底，呈现空灵梦幻的画意氛围。\n\n【构图与机位】 采用腰部以上裁切的半身中景景别。使用 35mm 镜头高机位微俯拍，主体居中，右侧前景探入一片鲜亮阔叶形成局部遮挡与景深前移。设定 f/2.8\n光圈，确保人物面容与胸前蕾丝清晰柔润，背景绿植与护栏自然虚化；高反差光斑边缘无紫边。\n\n【场景与空间】\n自然有机的户外庭院花园空间，严格遵循微俯视透视守恒。右侧前景斜伸出一片翠绿大叶；中景环绕浓密灌木与斑驳树干；左后方背景隐约可见黑色铁艺护栏与栏外模糊街景，保留真实自然的庭院空间层次。\n\n【人物与服装】 视觉年龄约 18\n岁的纤细东亚少女，气质空灵梦幻。幼态精致的小巧鹅蛋轮廓，骨肉紧致流畅，小巧微翘的秀气鼻骨，眼眸清澈灵动含光，微含少女娇憨情态。浅灰蓝眼眸配眼尾淡粉晕染，神态流露安静羞怯的纯真感，微低头自下而上凝视镜头，粉唇轻抿。肌肤紧致且胶原蛋白充盈，呈现细腻真实的微孔肌理与面颊细微细绒毛。一头蓬松柔顺的象牙白金长发配长刘海。身穿纯白修身蕾丝连衣裙，心形领口镶嵌立体花卉蕾丝，配半透明镂空花纹蕾丝长袖。\n\n【动势与互动】\n定格少女在林间斑驳光影中驻足轻捻发丝的静谧瞬间，极具唯美画意。躯干呈正面直立，双肩纤薄微敛，头部微低并抬眸仰视镜头。右臂沿体侧自然下垂；左臂屈肘抬至胸侧，左手纤指轻巧拈起一缕胸前垂落的发丝。长发顺应重力披落双肩两侧。\n\n【色彩与光影】\n采用户外树叶缝隙洒下的晴日斑驳自然阳光照明，严禁人工闪光压光。画面高光柔润过渡，树荫暗部通透无灰翳。色彩按体量由背景苔藓墨绿灌木与前景嫩绿阔叶统领，主体由象牙白金长发与纯白蕾丝裙构成纯净亮色，面颊点缀柔和胭脂粉。直射阳光在发顶、右侧蕾丝袖与胸前投下明亮光斑，右侧绿叶在左侧发梢与手指投映出清透的嫩绿漫反射色光；面颊透出毛细血管微弱漫透光活体血色，鼻尖浮现柔润漫反射弱高光，刘海与脖颈处凝聚柔和接触微阴影。\n\n【质感与风格】\n唯美画意派柔焦人像摄影流派。中画幅数码配合柔光镜光学结像，色彩清透温润。具备浪漫的光学光晕漫溢特征，受强光照射的白金发丝与白色蕾丝边缘泛起柔和朦胧的高光光雾，成片极具梦幻呼吸感。\n\n【可选负面提示词】\n数码浮灰，发闷死黑，廉价外景闪光生硬压光痕迹，病态水光油光，塑料假人脸，3D建模CG感，蜡像质感，呆板无神死鱼眼，数码高频伪锐化，手指畸形，多余肢体，镜头紫边。",
+      "prompt": "【任务与范式】 3:4 竖向画幅。构建一幅夏日庭院斑驳树影下的白金发色少女半身俯拍人像，以葱郁绿植作为自然留白负空间基底，呈现空灵梦幻的画意氛围。\n\n【构图与机位】 采用腰部以上裁切的半身中景景别。使用 35mm 镜头高机位微俯拍，主体居中，右侧前景探入一片鲜亮阔叶形成局部遮挡与景深前移。设定 f/2.8\n光圈，确保人物面容与胸前蕾丝清晰柔润，背景绿植与护栏自然虚化；高反差光斑边缘无紫边。\n\n【场景与空间】\n自然有机的户外庭院花园空间，严格遵循微俯视透视守恒。右侧前景斜伸出一片翠绿大叶；中景环绕浓密灌木与斑驳树干；左后方背景隐约可见黑色铁艺护栏与栏外模糊街景，保留真实自然的庭院空间层次。\n\n【人物与服装】 视觉年龄约 18\n岁的纤细东亚少女，气质空灵梦幻。幼态精致的小巧鹅蛋轮廓，骨肉紧致流畅，小巧微翘的秀气鼻骨，眼眸清澈灵动含光，微含少女娇憨情态。浅灰蓝眼眸配眼尾淡粉晕染，神态流露安静羞怯的纯真感，微低头自下而上凝视镜头，粉唇轻抿。肌肤紧致且胶原蛋白充盈，呈现细腻真实的微孔肌理与面颊细微细绒毛。一头蓬松柔顺的象牙白金长发配长刘海。身穿纯白修身蕾丝连衣裙，心形领口镶嵌立体花卉蕾丝，配半透明镂空花纹蕾丝长袖。\n\n【动势与互动】\n定格少女在林间斑驳光影中驻足轻捻发丝的静谧瞬间，极具唯美画意。躯干呈正面直立，双肩纤薄微敛，头部微低并抬眸仰视镜头。右臂沿体侧自然下垂；左臂屈肘抬至胸侧，左手纤指轻巧拈起一缕胸前垂落的发丝。长发顺应重力披落双肩两侧。\n\n【色彩与光影】\n采用户外树叶缝隙洒下的晴日斑驳自然阳光照明，严禁人工闪光压光。画面高光柔润过渡，树荫暗部通透无灰翳。色彩按体量由背景苔藓墨绿灌木与前景嫩绿阔叶统领，主体由象牙白金长发与纯白蕾丝裙构成纯净亮色，面颊点缀柔和胭脂粉。直射阳光在发顶、右侧蕾丝袖与胸前投下明亮光斑，右侧绿叶在左侧发梢与手指投映出清透的嫩绿漫反射色光；面颊透出毛细血管微弱漫透光活体血色，鼻尖浮现柔润漫反射弱高光，刘海与脖颈处凝聚柔和接触微阴影。\n\n【质感与风格】\n唯美画意派柔焦人像摄影流派。中画幅数码配合柔光镜光学结像，色彩清透温润。具备浪漫的光学光晕漫溢特征，受强光照射的白金发丝与白色蕾丝边缘泛起柔和朦胧的高光光雾，成片极具梦幻呼吸感。\n\n【可选负面提示词】\n数码浮灰，发闷死黑，廉价外景闪光生硬压光痕迹，病态水光油光，塑料假人脸，3D建模CG感，蜡像质感，呆板无神死鱼眼，数码高频伪锐化，手指畸形，多余肢体，镜头紫边。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUTb-oaoAABIHB.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113616971510226944",
+          "file": "2113617495978557600_0.jpg",
+          "thumb": "2113617495978557600_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113533107806855397",
+      "url": "https://x.com/shyboy1211/status/2113533107806855397",
+      "author": "shyboy1211",
+      "author_name": "咸柠七喜",
+      "avatar": "https://pbs.twimg.com/profile_images/1933424105363234816/Gz2zulOO_normal.jpg",
+      "created_at_utc": "2026-10-23T07:28:55.000Z",
+      "created_at_sh": "2026-10-23 15:28",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "侧逆光全身人像，常写成一片黑，或整张糊成柔光。不是模型不会打轮廓光，是主光方向、边缘高光、脸部辅光和背景亮度糊进同一句氛围词里，分不清谁勾边、谁保脸、谁压暗。\n\n我把侧逆光拆成五格写：轮廓光指纹、人物面孔、场景与穿搭、姿势与构图、排除，排除也算一格。开头一行是题材和画幅的总述，是每张都不动的底子。骨架固定；四张只换场景与穿搭、姿势与构图两行，轮廓光指纹与人物面孔不动。尺度是编辑性感：贴身、露腿、姿态带一点撩，不裸露；全身入画。下一条是第一张的完整提示词。\n\n附图四张，同一套五格：落地窗黄昏、地下车库斜射、海边日落背光、酒店落地窗夜景。gpt-image-2.5 出图，AI 生成，人物是虚构的成年人。",
+      "prompt": "换变体时，复制帖 2：首行总述、轮廓光指纹、人物面孔、排除一行一字不动；只换场景与穿搭、姿势与构图两行。人脸描述四张保持一致。第一张就是帖 2 原文。下面三套直接替换：\n\n图2｜地下车库斜射\n场景与穿搭：地下车库过道，顶侧斜射冷白灯很硬、只作侧逆主光；水泥柱与地面干净，远处虚成灰块；穿白色贴身背心与高腰深灰裤、裸踝短靴；腰线与腿线清晰。\n姿势与构图：全身微侧站在柱旁，重心偏一侧，一脚略前，一手插裤袋，另一手垂放，目光平视镜头；全身入画；肩臂与裤管外侧有细亮边。\n\n图3｜海边日落背光\n场景与穿搭：海边木栈道，日落低位背光偏侧、只勾轮廓；海面与天空虚成暖色块；穿深色裹身短裙、裙侧开衩与细带高跟；裙侧开衩可见腿线。\n姿势与构图：全身站在栈道中央偏左，重心偏一髋，一腿微前交叉，一手提发侧，另一手垂放，头微侧，目光朝向镜头；头顶到鞋尖完整入画；发丝与肩线有金边高光。\n\n图4｜酒店落地窗夜景\n场景与穿搭：高层酒店落地窗前，窗外城市夜灯虚成小光斑，室内只留极弱环境反光；穿黑色高领贴身针织与皮质短裙、过膝靴；裙摆以上腿线可见。\n姿势与构图：全身侧站靠窗，重心落右腿，左腿微前，一手轻扶玻璃，另一手自然垂放，目光朝向镜头；全身入画，腿线不断；肩背与发丝有冷边高光。\n\n———\n\n侧逆光全身美女人像，竖幅 9:16，写实摄影，时尚编辑风格。\n轮廓光指纹：主光在身后偏侧，约四十五度侧逆；边缘高光勾肩线、锁骨、发丝与腿外侧；脸部靠弱环境反光或极弱辅光；暗部保留层次；背景比主体暗一档或虚成色块；轮廓光是主光。\n人物面孔：虚构的成年女性，二十五岁上下，原创东亚或混血面孔；鹅蛋脸，微圆下颌，内双，鼻梁中等高，薄唇自然粉带一点水光；浅暖白肤色带一点奶杏，脸颊有自然血色；过肩黑棕微波浪长发，中分，两侧轻贴脸；偏纤瘦自然比例，肩窄、腰细；气质冷艳、略带街头性感；表情平静微撩，目光朝向镜头。\n场景与穿搭：室内落地窗前，窗外黄昏金光很斜、只作侧逆主光；浅灰墙与地板干净平整；穿黑色贴身吊带短裙与细带高跟；腿线完整可见。\n姿势与构图：全身侧站在窗前偏右，重心落后腿，前腿微直，一手轻扶窗框，另一手自然垂放，头微转向镜头；头顶到鞋尖完整入画；肩背与发丝有清晰边缘高光。\n排除：水印、logo、可读文字、乱码字、磨皮塑料感、像真实名人的面孔、未成年人或幼态特征、第二个人物、裸露、透视内衣作主穿着、浓妆过厚、节日装饰、半身裁切、头顶切框、膝盖以下被切出画、正面大光箱、均匀柔光美颜灯、死黑糊暗、整图氛围滤镜。\n\n———\n\n调试时我习惯一次只动一格。整张发黑或轮廓没了，先查轮廓光指纹有没有写死主光在身后偏侧、边缘高光落点和脸部只靠弱辅光；脸糊了，再查人物面孔有没有被改短；景不对，才动场景与穿搭和姿势与构图。附图换景是一次动两处，场景与穿搭加姿势与构图；自己调单张时，才一次只动一格。\n\n想套自己的场景，复制帖 2：首行、轮廓光指纹、人物面孔、排除不动，只改场景与穿搭和姿势与构图。四张换地方换穿搭换姿，别换身份。尺度保持编辑性感：贴身、露腿、姿态带撩，不写裸露；全身入画。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVTGU24awAAr724.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2113532186775437312",
+          "file": "2113533107806855397_0.jpg",
+          "thumb": "2113533107806855397_0.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVTGU23bkAAuLE_.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113532186771296256",
+          "file": "2113533107806855397_1.jpg",
+          "thumb": "2113533107806855397_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVTGU28aQAEATfc.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113532186792181761",
+          "file": "2113533107806855397_2.jpg",
+          "thumb": "2113533107806855397_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVTGU2ua8AAkbTB.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2113532186733506560",
+          "file": "2113533107806855397_3.jpg",
+          "thumb": "2113533107806855397_3.jpg",
           "tw": 270,
           "th": 480
         }
@@ -17950,6 +19130,161 @@
           "file": "2113085749390381151_1.jpg",
           "thumb": "2113085749390381151_1.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113642758191689812",
+      "url": "https://x.com/molyin_com/status/2113642758191689812",
+      "author": "molyin_com",
+      "author_name": "Molyin",
+      "avatar": "https://pbs.twimg.com/profile_images/2078692181280444416/ilGVs23G_normal.jpg",
+      "created_at_utc": "2026-10-23T14:44:37.000Z",
+      "created_at_sh": "2026-10-23 22:44",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Oversized typography, forced perspective, and aggressive cropping. 🥤🎨\nA premium product poster where the cup breaks the visual hierarchy. No cluttered layouts, just bold commercial art direction generated instantly.\n\nMade with GPT Image 2.5 on Molyin.\n\nFull prompt in replies 👇",
+      "prompt": "STARBUCKS — “BREW BIG.”\n\n4:5 vertical premium poster, 8K, exaggerated bold typography × high-impact commercial art direction × photorealistic product advertising\n\n🧠 CORE IDEA:\n“BREW BIG.”\n\n🎬 LAYOUT:\n\nBACKGROUND BLOCK:\nSolid, vivid Starbucks green background with oversized graphic shapes and strong contrast.\n\nGIANT TYPOGRAPHY:\n“BREW”\nExtremely bold, oversized, tightly cropped typography dominating almost the entire composition. Letters extend beyond the canvas edges, with the Starbucks cup overlapping the text.\n\n👤 SUBJECT:\n\nA hand holding an iced Starbucks drink directly toward the camera, extreme forced perspective, cup dramatically enlarged in the foreground, realistic condensation, crisp ice, natural lighting.\n\n☕ PRODUCT + VISUAL TWIST:\n\nThe Starbucks cup becomes the centerpiece of the typography. The oversized word “BREW” appears to wrap behind the cup, creating striking depth through scale, layering, and composition. Keep the cup, logo, and beverage completely photorealistic.\n\n✨ GRAPHIC ELEMENTS:\n\n* Oversized green and white shapes\n* Sharp contrasting shadows\n* Minimal starburst accents\n* Small directional arrows\n* Bold editorial layering\n\n✍️ TEXT SYSTEM:\n\nTop pill:\n“STARBUCKS COFFEE”\n\nMain headline:\n“BREW BIG.”\n\nSupporting text:\n“YOUR DAILY DOSE OF EXTRAORDINARY.”\n\nBOTTOM FEATURE STRIP:\n\n* Freshly Brewed\n* Rich Flavour\n* Iced or Hot\n* Made for Your Moment\n\nANTI-SLOP DIRECTION:\nTypography is the main design feature, not a small decorative element. Extreme scale, aggressive cropping, strong visual hierarchy, deliberate overlap, premium print-ad finish. No floating coffee beans, no miniature landscapes, no random surreal objects, no excessive particles, no cluttered layouts, no generic gradients. The final poster should feel like a bold global advertising campaign with unmistakable graphic impact.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUq3vjWkAAHuRa.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2113642737266233344",
+          "file": "2113642758191689812_0.jpg",
+          "thumb": "2113642758191689812_0.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUq3vbWIAAeXvB.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2113642737232650240",
+          "file": "2113642758191689812_1.jpg",
+          "thumb": "2113642758191689812_1.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113651412957589965",
+      "url": "https://x.com/LANDCASTER_92/status/2113651412957589965",
+      "author": "LANDCASTER_92",
+      "author_name": "LANDCÄSTER.EXE",
+      "avatar": "https://pbs.twimg.com/profile_images/2089167050539212800/0wHDxlqR_normal.jpg",
+      "created_at_utc": "2026-10-23T15:19:01.000Z",
+      "created_at_sh": "2026-10-23 23:19",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Prompt Share: Killer Queen 🌙\n\nModel: GPT Image-2.5\n\nGPT gave me a rare nude generation so I'm running with it. \n\nPrompt: A surreal retro-futuristic dark fantasy fashion editorial with a buxom cyberpunk queen reclining elegantly on a massive glossy black crescent moon. She has exaggerated anime-inspired features, dramatic winged eyeliner, metallic facial jewelry, and an impossibly long, shimmering hot-pink ponytail flowing down the composition. She wears a black latex bodysuit, sharp chrome spikes, metallic claw accessories, and towering thigh-high red patent leather stiletto boots. Her pose is languid, powerful, and theatrical, with one leg raised and the other extended downward. Behind her, an enormous glowing blood-red sun dominates a pitch-black sky. Saturated crimson, electric magenta, midnight blue, and chrome silver create striking contrast. Grainy 1980s airbrushed fantasy poster aesthetic, underground goth club flyer, glam-rock sci-fi illustration, VHS texture, halation, soft-focus bloom, glittering highlights, dramatic rim lighting, surreal proportions, maximalist composition, no text. A fusion of styles inspired by Marta Abad Blay and Frank miller",
+      "prompt": "A surreal retro-futuristic dark fantasy fashion editorial with a buxom cyberpunk queen reclining elegantly on a massive glossy black crescent moon. She has exaggerated anime-inspired features, dramatic winged eyeliner, metallic facial jewelry, and an impossibly long, shimmering hot-pink ponytail flowing down the composition. She wears a black latex bodysuit, sharp chrome spikes, metallic claw accessories, and towering thigh-high red patent leather stiletto boots. Her pose is languid, powerful, and theatrical, with one leg raised and the other extended downward. Behind her, an enormous glowing blood-red sun dominates a pitch-black sky. Saturated crimson, electric magenta, midnight blue, and chrome silver create striking contrast. Grainy 1980s airbrushed fantasy poster aesthetic, underground goth club flyer, glam-rock sci-fi illustration, VHS texture, halation, soft-focus bloom, glittering highlights, dramatic rim lighting, surreal proportions, maximalist composition, no text. A fusion of styles inspired by Marta Abad Blay and Frank miller",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUywXxWQAABOmI.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113651406716420096",
+          "file": "2113651412957589965_0.jpg",
+          "thumb": "2113651412957589965_0.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113736218961903888",
+      "url": "https://x.com/Alyssa4aicreate/status/2113736218961903888",
+      "author": "Alyssa4aicreate",
+      "author_name": "Alyssa",
+      "avatar": "https://pbs.twimg.com/profile_images/2097050625389527040/zL7cc6B9_normal.jpg",
+      "created_at_utc": "2026-10-23T20:56:00.000Z",
+      "created_at_sh": "2026-10-24 04:56",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Made with Token360 · GPT Image 2.5\n\nLoaf Hour — bakery counter, photo on top, gouache memory underneath.\n\nPrompt 👇\n\nCreate a premium FULL-FRAME 4:5 vertical photo-to-illustration poster for a neighborhood morning bakery — subject: artisan sourdough loaves and a flour-dusted wooden counter. TEXT-TO-IMAGE ONLY. Precise horizontal split: upper 50% is a realistic photographic scene of warm morning bakery light over crusty boules, linen towel, small butter dish, and a hand-thrown ceramic mug; lower 50% transforms the SAME bakery counter scene into a hand-painted gouache and watercolor illustration on warm cream paper. Keep the main loaves and counter consistent across both halves. Retro postcard charm, delicate botanical flourishes of wheat stalks, playful handwritten lettering, tiny stars, subtle paper texture. Headline text in quotes: \"LOAF HOUR\". Small label: \"morning bakery\". Colors: warm ivory, sunny yellow, coral, sage green, terracotta, muted teal. Nostalgic afternoon-warm bakery atmosphere. No city skyline, no tourism landmarks, no country name as destination, no unrelated scenes, no logos, no watermarks, no 3D mockups, full-bleed artwork.\n\n—\n\nInspired by @Goodmanprotocol",
+      "prompt": "Create a premium FULL-FRAME 4:5 vertical photo-to-illustration poster for a neighborhood morning bakery — subject: artisan sourdough loaves and a flour-dusted wooden counter. TEXT-TO-IMAGE ONLY. Precise horizontal split: upper 50% is a realistic photographic scene of warm morning bakery light over crusty boules, linen towel, small butter dish, and a hand-thrown ceramic mug; lower 50% transforms the SAME bakery counter scene into a hand-painted gouache and watercolor illustration on warm cream paper. Keep the main loaves and counter consistent across both halves. Retro postcard charm, delicate botanical flourishes of wheat stalks, playful handwritten lettering, tiny stars, subtle paper texture. Headline text in quotes: \"LOAF HOUR\". Small label: \"morning bakery\". Colors: warm ivory, sunny yellow, coral, sage green, terracotta, muted teal. Nostalgic afternoon-warm bakery atmosphere. No city skyline, no tourism landmarks, no country name as destination, no unrelated scenes, no logos, no watermarks, no 3D mockups, full-bleed artwork.\n\n—\n\nInspired by @Goodmanprotocol",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVV_2ilaEAAp5jD.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2113736175093682176",
+          "file": "2113736218961903888_0.jpg",
+          "thumb": "2113736218961903888_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113783463929381242",
+      "url": "https://x.com/hello0cig/status/2113783463929381242",
+      "author": "hello0cig",
+      "author_name": "Olivia Brooks Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2111636914474455041/06ecR2MT_normal.jpg",
+      "created_at_utc": "2026-10-24T00:03:44.000Z",
+      "created_at_sh": "2026-10-24 08:03",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 11",
+      "prompt": "Vintage F1 fashion photo, woman in green São Paulo jacket, beige skirt, racing cap, retro olive room, gold circuit art, warm 35mm film grain.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVWq2KFaIAA3SWy.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2113783447517011968",
+          "file": "2113783463929381242_0.jpg",
+          "thumb": "2113783463929381242_0.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2113583559986278871",
+      "url": "https://x.com/AJMorales73/status/2113583559986278871",
+      "author": "AJMorales73",
+      "author_name": "AJMorales",
+      "avatar": "https://pbs.twimg.com/profile_images/2046330817639821312/a1fWjsUC_normal.jpg",
+      "created_at_utc": "2026-10-23T10:49:23.000Z",
+      "created_at_sh": "2026-10-23 18:49",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "es",
+      "text": "De una foto de viaje a la portada de nuestro propio diario de aventuras. 🏝️🎨\n\nHecho con GPT Image 2.5. La misma historia, pero con una estética totalmente diferente.\n\nLa IA no solo genera imágenes. También convierte recuerdos en arte. ✨\n\n¿Qué foto tuya transformarías?\n\nPROMPT:\n\nCreate one independent high-end editorial poster for each uploaded photo. Process each photo separately. Never combine photos into a collage, grid, split-screen, or multi-photo composition.\n\nFORMAT\nStrict 3:4 vertical composition, horizontally divided into two exactly equal 50/50 sections. Top 50% = original photography; bottom 50% = flat editorial illustration. Keep the overall design premium, clean, art-directed, visually balanced, and rich in negative space.\n\nTOP 50% — ORIGINAL PHOTO\nTreat the uploaded photo as the single source of truth. Preserve the original subject, identity, facial features, body proportions, pose, expression, clothing, objects, environment, composition, colors, spatial relationships, lighting, shadows, depth, and photographic texture. Do not redesign, replace, beautify, distort, stretch, duplicate, or reinterpret the subject. Only subtle professional color grading is allowed, with the feel of an independent art magazine, premium travel editorial, or exhibition photograph. If more space is needed, naturally extend the existing background without altering the subject.\n\nBOTTOM 50% — FLAT EDITORIAL ILLUSTRATION\nReinterpret the same photograph as a playful, slightly awkward Korean-inspired flat editorial illustration. Identify and preserve the most recognizable subject, silhouette, pose, action, key relationships, and narrative of the original scene. Simplify them into rounded, slightly exaggerated geometric shapes with clean solid fills and rough, imperfect black hand-drawn outlines featuring subtle wobble, uneven thickness, broken edges, and imperfect contours. Remove photorealistic lighting, shadows, perspective, and material textures. Avoid conventional cartoon or photorealistic styles. Aim for a contemporary Korean children's book, independent magazine graphic, or playful editorial artwork.\n\nCOMPOSITION\nKeep one dominant focal point with secondary objects used only as accents. Create relaxed visual rhythm through varied scale, slight misalignment, overlaps, partial cropping, irregular spacing, and subtle asymmetry. Allow some shapes to extend beyond or overlap the composition. Use bold color blocks and generous negative space. Preserve key visual relationships without reproducing every detail. The illustration should feel designed, relaxed, and intentionally imperfect, never mechanically traced or cluttered.\n\nCOLOR\nExtract the photograph's most distinctive colors and reinterpret them as a limited palette of high-purity, high-saturation flat colors. Use bold, clean color blocks and bright youthful contrasts. No gradients, realistic shadows, muddy gray tones, glossy effects, complex blending, or excessive texture. The palette should feel cheerful, energetic, childlike, warm, and visually confident.\n\nTYPOGRAPHY & EDITORIAL TEXT\nGenerate English text inspired by the photo's theme, action, emotion, atmosphere, or story. Integrate typography naturally into the illustration.\n\nMAIN TITLE: 2–4 English words, placed near the upper illustration area. Use playful, slightly handwritten, imperfect lettering; irregular alignment or capitalization is allowed.\n\nSUBTAGLINE: One short, restrained English phrase below the title.\n\nLOCATION / YEAR: Small editorial line in the lower-middle area. Use a verified location/year when known; otherwise use the subject, activity, event, or travel theme. Never invent a location.\n\nPOETIC MICRO-CAPTION: A short 1–2 line poetic or playful phrase, placed naturally within negative space, beside a color block, along an edge, or on the visual axis.\n\nSERIES NUMBER: Small, subtle editorial numbering such as “No.01” in a corner.\n\nTypography may follow subject contours, align with color blocks, occupy negative space, overlap shapes slightly, rotate subtly, or use irregular spacing/cropping. Readability must remain strong. Title can be expressive; supporting text should stay clean and restrained.\n\nART DIRECTION\nCombine real travel photography × playful flat illustration × premium editorial design × Korean graphic sensibility × travel diary aesthetics. The result should feel bright, youthful, cheerful, warm, playful, slightly quirky, sophisticated, and collectible—like a limited-edition travel art print or contemporary illustrated travel diary, not a generic tourist poster.\n\n#ChatGPT #IA #AIArt",
+      "prompt": "Create one independent high-end editorial poster for each uploaded photo. Process each photo separately. Never combine photos into a collage, grid, split-screen, or multi-photo composition.\n\nFORMAT\nStrict 3:4 vertical composition, horizontally divided into two exactly equal 50/50 sections. Top 50% = original photography; bottom 50% = flat editorial illustration. Keep the overall design premium, clean, art-directed, visually balanced, and rich in negative space.\n\nTOP 50% — ORIGINAL PHOTO\nTreat the uploaded photo as the single source of truth. Preserve the original subject, identity, facial features, body proportions, pose, expression, clothing, objects, environment, composition, colors, spatial relationships, lighting, shadows, depth, and photographic texture. Do not redesign, replace, beautify, distort, stretch, duplicate, or reinterpret the subject. Only subtle professional color grading is allowed, with the feel of an independent art magazine, premium travel editorial, or exhibition photograph. If more space is needed, naturally extend the existing background without altering the subject.\n\nBOTTOM 50% — FLAT EDITORIAL ILLUSTRATION\nReinterpret the same photograph as a playful, slightly awkward Korean-inspired flat editorial illustration. Identify and preserve the most recognizable subject, silhouette, pose, action, key relationships, and narrative of the original scene. Simplify them into rounded, slightly exaggerated geometric shapes with clean solid fills and rough, imperfect black hand-drawn outlines featuring subtle wobble, uneven thickness, broken edges, and imperfect contours. Remove photorealistic lighting, shadows, perspective, and material textures. Avoid conventional cartoon or photorealistic styles. Aim for a contemporary Korean children's book, independent magazine graphic, or playful editorial artwork.\n\nCOMPOSITION\nKeep one dominant focal point with secondary objects used only as accents. Create relaxed visual rhythm through varied scale, slight misalignment, overlaps, partial cropping, irregular spacing, and subtle asymmetry. Allow some shapes to extend beyond or overlap the composition. Use bold color blocks and generous negative space. Preserve key visual relationships without reproducing every detail. The illustration should feel designed, relaxed, and intentionally imperfect, never mechanically traced or cluttered.\n\nCOLOR\nExtract the photograph's most distinctive colors and reinterpret them as a limited palette of high-purity, high-saturation flat colors. Use bold, clean color blocks and bright youthful contrasts. No gradients, realistic shadows, muddy gray tones, glossy effects, complex blending, or excessive texture. The palette should feel cheerful, energetic, childlike, warm, and visually confident.\n\nTYPOGRAPHY & EDITORIAL TEXT\nGenerate English text inspired by the photo's theme, action, emotion, atmosphere, or story. Integrate typography naturally into the illustration.\n\nMAIN TITLE: 2–4 English words, placed near the upper illustration area. Use playful, slightly handwritten, imperfect lettering; irregular alignment or capitalization is allowed.\n\nSUBTAGLINE: One short, restrained English phrase below the title.\n\nLOCATION / YEAR: Small editorial line in the lower-middle area. Use a verified location/year when known; otherwise use the subject, activity, event, or travel theme. Never invent a location.\n\nPOETIC MICRO-CAPTION: A short 1–2 line poetic or playful phrase, placed naturally within negative space, beside a color block, along an edge, or on the visual axis.\n\nSERIES NUMBER: Small, subtle editorial numbering such as “No.01” in a corner.\n\nTypography may follow subject contours, align with color blocks, occupy negative space, overlap shapes slightly, rotate subtly, or use irregular spacing/cropping. Readability must remain strong. Title can be expressive; supporting text should stay clean and restrained.\n\nART DIRECTION\nCombine real travel photography × playful flat illustration × premium editorial design × Korean graphic sensibility × travel diary aesthetics. The result should feel bright, youthful, cheerful, warm, playful, slightly quirky, sophisticated, and collectible—like a limited-edition travel art print or contemporary illustrated travel diary, not a generic tourist poster.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVT1AnaW0AA6J0O.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2113583516071940096",
+          "file": "2113583559986278871_0.jpg",
+          "thumb": "2113583559986278871_0.jpg",
+          "tw": 360,
           "th": 480
         }
       ],

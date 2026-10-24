@@ -34,6 +34,8 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2113590742505730238",  # Mrpinecone888: 2026-10-24 review, suggestive crouching pose in low-cut top
+    "2113488085925130261",  # johnAGI168: 2026-10-24 review, suggestive over-the-shoulder pose in short slip dress
     "2113282871594991805",  # johnAGI168 - underwear / lingerie pose (2026-10-23 review)
     "2113164130484158727",  # ritsuto_NFT_Vt - API price/speed comparison, prompt is only an image description (2026-10-23 review)
     "2113369807311835405",  # finnardley - Claude Code automation prompt, not an image prompt (2026-10-23 review)
@@ -121,6 +123,14 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2113470007094972739',  # VibeCaesar - commentary on output/cost, not a prompt (2026-10-24 review)
+    '2113488325705420847',  # ZaidVex - lace corset / thigh-high stockings outfit, suggestive (2026-10-24 review)
+    '2113510518006935878',  # lifeofgtam - commentary, not a prompt (2026-10-24 review)
+    '2113585683348804017',  # imFarhanAi - reply praising a concept, not a prompt (2026-10-24 review)
+    '2113609034821492967',  # neuralshockwave - tool template pointer, not a prompt (2026-10-24 review)
+    '2113615190239461660',  # Dheepanratnam - caption/joke, not a prompt (2026-10-24 review)
+    '2113667092004389012',  # Enzoxbt01 - generic prompt-format advice / model list, not a prompt (2026-10-24 review)
+    '2113740907430453542',  # OscarBafta - caption only, not a prompt (2026-10-24 review)
     '2113217153016979594',  # swordBluesy - workflow steps (Claude + Higgsfield), not a prompt (2026-10-23 review)
     '2113185895658738003',  # Justin_lords - Claude ad-research workflow, not a prompt (2026-10-23 review)
     '2113244959990329635',  # AIwithkhan - 'baddie energy' woman in bed poster, uncertain (2026-10-23 review)
