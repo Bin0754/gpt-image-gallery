@@ -34,6 +34,13 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2113873415882866834",  # alanblogsooooo: 2026-10-25 review, body-focused suggestive mirror selfie
+    "2114013548611317864",  # HumblyAlex: 2026-10-25 review, chat-screenshot commentary, not a prompt
+    "2113941069549404359",  # Shoji_ai: 2026-10-25 review, puzzle answer key, not a prompt
+    "2113829425448149340",  # _AWAZO: 2026-10-25 review, alt-text description of news graphic, not a prompt
+    "2113790319116402803",  # wowwowai: 2026-10-25 review, API deprecation infographic, not a prompt
+    "2114046512082886675",  # quadchatapp: 2026-10-25 review, app screenshot alt text, not a prompt
+    "2113998570127048843",  # superfang119: 2026-10-25 review, model comparison caption, not a prompt
     "2113590742505730238",  # Mrpinecone888: 2026-10-24 review, suggestive crouching pose in low-cut top
     "2113488085925130261",  # johnAGI168: 2026-10-24 review, suggestive over-the-shoulder pose in short slip dress
     "2113282871594991805",  # johnAGI168 - underwear / lingerie pose (2026-10-23 review)
@@ -123,6 +130,10 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2113867658101735469',  # ZentrixHQ - low-angle short-skirt game shot, borderline suggestive (2026-10-25 review)
+    '2113986953435599342',  # swordBluesy - workflow description, not a prompt (2026-10-25 review)
+    '2113808936952627547',  # octopusaia - news caption, not a prompt (2026-10-25 review)
+    '2114073499400876355',  # PicsartPlaygrnd - workflow/settings walkthrough, not a prompt (2026-10-25 review)
     '2113470007094972739',  # VibeCaesar - commentary on output/cost, not a prompt (2026-10-24 review)
     '2113488325705420847',  # ZaidVex - lace corset / thigh-high stockings outfit, suggestive (2026-10-24 review)
     '2113510518006935878',  # lifeofgtam - commentary, not a prompt (2026-10-24 review)
