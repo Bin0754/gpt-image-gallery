@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-25T08:15:27+08:00",
-  "count": 526,
+  "generated_at": "2026-10-26T08:17:18+08:00",
+  "count": 552,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -586,6 +586,23 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2114219176646586620",
+      "prompt": "Generate a full-body high-fashion shot of a [SUBJECT / MODEL DESCRIPTION] in a [POSE / ACTION], wearing an avant-garde paper-quilled haute couture gown made of fluid, overlapping 3D ribbon strands. The dress features [DRESS FEATURES: e.g., a fitted corset bodice and sweeping train] made of swooping ribbon layers in a gradient of [COLOR PALETTE: e.g., vivid cobalt, emerald green, and gold]. Accessories include a [HEADWEAR / ACCENTS: e.g., wide-brimmed matching hat with quilled plume details]. Set against a [BACKGROUND COLOR: e.g., dark charcoal grey] background with dramatic studio spotlighting highlighting texture and fine edges. Rendered in crisp, high-contrast 3D detail. \n\n📌 Placeholder Key attached below",
+      "author": "yourPlugAI",
+      "author_url": "https://x.com/yourPlugAI",
+      "post_url": "https://x.com/yourPlugAI/status/2114219176646586620",
+      "date": "2026-10-25T12:55:06+08:00",
+      "likes": 129,
+      "language": "en",
+      "images": [
+        "images/2114219176646586620_0.jpg",
+        "images/2114219176646586620_1.jpg",
+        "images/2114219176646586620_2.jpg",
+        "images/2114219176646586620_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2111082882315755584",
       "prompt": "Extremely thick impasto oil painting on rough grainy ground, sculptural palette-knife paint standing up in real three-dimensional petals and slabs, wide 16:9 panoramic composition.",
       "author": "churvikv",
@@ -764,6 +781,23 @@
       "language": "en",
       "images": [
         "images/2113253238237778319_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114229094867169705",
+      "prompt": "Transform the uploaded photo into a minimalist, hand-drawn, paper-textured artistic cover.\n\nComposition\n\n- The main subject should occupy only 10–20% of the frame.\n- Position the subject near the bottom center of the composition.\n- Leave generous negative space throughout the image.\n- Suggest the environment using only a few lines or small blocks of color.\n\nPreserve\n\n- The most recognizable features of the original subject.\n- The essential silhouette and proportions.\n- The original pose or primary action.\n- Important objects and defining details.\n- The core story, relationships, and emotional atmosphere.\n\nColor Palette\n\n- Extract the dominant colors from the original photograph.\n- Limit the palette to no more than four main colors.\n- Use bold yet restrained, flat color blocks.\n- Maintain a harmonious, muted color combination.\n- Add subtle paper grain and handmade brush textures.\n\nSimplification\nRemove unnecessary details and visual clutter. Retain only the essential visual information needed to make the subject instantly recognizable.\n\nTypography\n\n- Optionally incorporate a small amount of simple text.\n- Keep typography short, subtle, and aesthetically refined.\n- Integrate the text naturally into the composition.\n- Aim for the visual language of an art-book cover, independent publishing, modern editorial design, or a contemplative picture book.\n- Do not force typography into the image if it doesn't improve the composition.\n\nStyle and Materials\n\n- Delicate, slightly imperfect hand-drawn lines.\n- A few clearly defined acrylic-like flat color blocks.\n- Rough, tactile paper texture.\n- Visible handmade brushstrokes.\n- Organic, irregular, natural contours.\n- Subtle imperfections that make the artwork feel genuinely handmade.\n\nOverall Mood\nQuiet, poetic, sophisticated, minimalist, innocent, relaxed, artistic, thoughtful, distinctive, and premium.\n\nAvoid\n\n- Colored-pencil rendering.\n- Dry-brush effects.\n- Watercolor washes or bleeding.\n- Pure line-art illustration.\n- Overly detailed or realistic illustrations.\n- Heavy impasto or thick oil-paint textures.\n- Smooth, polished digital illustration.\n- 3D rendering, glossy surfaces, or artificial lighting effects.\n- Generic commercial cartoon styles.\n- E-commerce advertising aesthetics.\n- Generic poster templates.\n- Excessive decorative elements.\n- Overly complex compositions.\n- Too much text.\n\nFinal Result: A refined, minimalist, hand-crafted paper illustration with generous negative space, restrained colors, subtle tactile textures, and the sophistication of an independent art-book cover.",
+      "author": "Ciri_ai",
+      "author_url": "https://x.com/Ciri_ai",
+      "post_url": "https://x.com/Ciri_ai/status/2114229094867169705",
+      "date": "2026-10-25T13:34:31+08:00",
+      "likes": 113,
+      "language": "en",
+      "images": [
+        "images/2114229094867169705_0.jpg",
+        "images/2114229094867169705_1.jpg",
+        "images/2114229094867169705_2.jpg",
+        "images/2114229094867169705_3.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1330,6 +1364,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114321139959001218",
+      "prompt": "Use the girl from the reference image and preserve her face, identity, proportions, and overall appearance exactly. Ultra-realistic 9:16 chest-up editorial portrait. She sits with a slight head tilt, looking directly at the camera with a calm, confident expression. Long straight glossy hair with a clean center part.\n\nWearing a structured oversized black blazer with broad shoulders. Natural luxury makeup with luminous skin, soft brown eyeshadow, subtle eyeliner, defined lashes, and nude glossy lips. Clean white minimalist background with soft side sunlight creating elegant shadows. Shot on a Sony A7R IV, 85mm f/1.4, shallow depth of field, cinematic lighting, realistic skin texture, 8K RAW, premium fashion editorial, no facial changes, no distortion, no plastic skin, no text, logo, or watermark.",
+      "author": "MissDelulu9",
+      "author_url": "https://x.com/MissDelulu9",
+      "post_url": "https://x.com/MissDelulu9/status/2114321139959001218",
+      "date": "2026-10-25T19:40:16+08:00",
+      "likes": 75,
+      "language": "en",
+      "images": [
+        "images/2114321139959001218_0.jpg",
+        "images/2114321139959001218_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2112760767900778717",
       "prompt": "Create a beautiful, vintage-inspired hand-drawn architectural illustration of [LANDMARK], [CITY], [COUNTRY], inspired by the charm of old travel sketchbooks and traditional pen-and-ink drawings.\n\nComposition: Feature the most iconic landmark of [CITY] as the main subject, surrounded by authentic local architecture, historic buildings, charming streets, traditional transportation, vintage street signs, overhead wires, and small cultural details that make the place instantly recognizable. Include a tram, bicycle, old car, or other local transportation where appropriate.\n\nArt Style: Use delicate black ink linework, expressive hand-drawn strokes, intricate architectural details, fine cross-hatching, imperfect outlines, and an unfinished sketchbook aesthetic. Keep the illustration predominantly monochrome on a clean, warm ivory-white background. Preserve the landmark’s authentic architecture, proportions, and recognizable features.\n\nTypography & Title Design: Make the name of the place the visual highlight of the composition. Add [CITY, COUNTRY] in a beautiful, eye-catching vintage editorial font, such as elegant retro serif lettering, artistic hand-lettered calligraphy, or bold old-world typography. Give the lettering a distinctive personality, with graceful curves, carefully spaced characters, and a timeless travel-poster aesthetic.\n\nPosition the title harmoniously at the top or bottom of the illustration, ensuring it is clearly readable and beautifully integrated into the artwork. Make the city name prominent and the country name slightly smaller beneath it. Add subtle decorative flourishes, delicate ink ornaments, or thin vintage borders around the typography. The lettering should feel like a carefully designed title on a collectible travel poster, not ordinary computer text.\n\nHistorical Tagline: Beneath the place name, include a short, poetic line that reflects the destination’s history and character, such as:\n\n“Every street remembers. Every stone tells a story.”\n\nGenerate a suitable, location-specific tagline for each destination.\n\nOverall Atmosphere: Nostalgic, artistic, authentic, culturally rich, elegant, and timeless. The result should resemble an original illustration from a vintage travel journal, beautifully transformed into a collectible art print.\n\nColor Palette: Primarily black ink on warm ivory paper, with subtle natural paper texture. Keep the composition minimal, airy, and sophisticated.\n\nAvoid: Photorealism, 3D rendering, glossy digital effects, excessive colors, generic architecture, cluttered composition, and plain or poorly rendered typography.\n\nFormat: 4:5 portrait composition, high-resolution illustration, balanced negative space, professional editorial layout.\n\nReplace these details for every new artwork:\n\nLandmark: [LANDMARK]\nCity: [CITY]\nCountry: [COUNTRY]\n\nThe final result should feel like a beautiful vintage illustration with a memorable title—an artwork people would want to save, frame, and collect.",
       "author": "Naiknelofar788",
@@ -1387,6 +1436,21 @@
       "language": "en",
       "images": [
         "images/2113983541470253491_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114206456518148577",
+      "prompt": "\"prompt\": \"Create a highly detailed vintage fashion illustration of a stylish young adult woman in a three-quarter side profile, looking confidently over her shoulder toward the viewer. She has voluminous short black curly hair with individually defined ringlets, dramatic winged eyeliner, long eyelashes, a small nose, and full glossy lips. She wears oversized pointed cat-eye sunglasses with dark lenses and thick black frames. A wide cream-colored headscarf with bold black polka dots wraps around her head and forms a large playful bow on top. A large geometric hoop earring hangs from her visible ear. She wears a dark, elegant high-neck top with a light-colored shoulder strap crossing diagonally over her shoulder. Her chin is slightly raised, her head tilted back, and her expression is effortlessly confident and fashionable. Use expressive black ink outlines, intricate cross-hatching, dense hand-drawn curls, fine facial linework, bold solid-black shadow areas, and subtle distressed print textures. The background is warm ivory paper with visible grain, tiny ink speckles, and an aged screen-printed finish. Strong contrast between black ink and off-white paper, sophisticated retro editorial composition, authentic vintage comic-book print quality, clean recognizable silhouette, beautifully balanced negative space.\",\n\n  \"composition\": {\n    \"framing\": \"vertical portrait, head to upper torso\",\n    \"camera_angle\": \"slightly low three-quarter profile\",\n    \"subject_position\": \"centered, face turned toward the right\",\n    \"pose\": \"looking back over her shoulder with chin slightly raised\",\n    \"background\": \"minimal textured ivory paper\"\n  },\n  \"color_palette\": {\n    \"primary\": \"deep ink black\",\n    \"secondary\": \"warm ivory\",\n    \"accents\": \"soft antique cream\"\n  },\n  \"lighting\": \"illustrative high-contrast tonal shading, no realistic photographic lighting\",\n  \"texture\": \"rough ink grain, distressed paper, vintage halftone speckles, fine cross-hatching\",\n  \"negative_prompt\": \"photorealism, 3D render, color gradients, bright colors, smooth digital vector art, glossy plastic skin, blurry facial features, asymmetrical eyes, malformed sunglasses, extra earrings, distorted hands, messy outlines, low detail, text, typography, watermark, logo, frame\"\n}",
+      "author": "Just_Anika_Here",
+      "author_url": "https://x.com/Just_Anika_Here",
+      "post_url": "https://x.com/Just_Anika_Here/status/2114206456518148577",
+      "date": "2026-10-25T12:04:33+08:00",
+      "likes": 73,
+      "language": "en",
+      "images": [
+        "images/2114206456518148577_0.jpg",
+        "images/2114206456518148577_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1466,6 +1530,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114371973002506481",
+      "prompt": "Create an ultra-realistic 6-photo lifestyle collage arranged in a seamless 3×2 grid, featuring the same naturally beautiful young European woman in her early 20s. She has warm olive skin, delicate freckles across her cheeks and nose, hazel-brown eyes, long chestnut-brown hair with natural waves and subtle highlights, full eyebrows, and glossy pink lips. Preserve the same recognizable facial identity across all six photographs.\n\nOverall aesthetic: Authentic European Instagram photo dump, candid smartphone photography mixed with compact-camera flash, realistic skin texture, subtle digital grain, natural lighting, imperfect framing, spontaneous expressions, and a warm cinematic color palette. Every frame should feel like a genuine moment from her everyday life, not a professional studio shoot.\n\nSix different scenes, outfits, and poses:\n\n1. Cozy café moment: Sitting at a wooden café table in a fitted black long-sleeve top, resting her cheek against one hand and smiling gently at the camera. A white cappuccino cup sits in front of her, with warm pendant lights and a softly blurred café background.\n\n2. Casual street-style portrait: Standing indoors near a neutral wall, wearing a cream fitted tank top, light-wash blue jeans, and carrying a black shoulder bag. She turns over her shoulder to look back at the camera, with her long hair cascading naturally down her back.\n\n3. Cozy bedroom snapshot: Sitting on a white bed in a soft pastel-pink knit cardigan and white floral lounge pants. She hugs one knee casually, winks at the camera, and makes a playful pout. Warm bedside lighting creates a relaxed evening atmosphere.\n\n4. Mirror selfie: Taking a casual mirror selfie in a fitted black square-neck long-sleeve top and white lounge pants. Her phone has a cute heart-patterned case. She looks at her reflection with a subtle, confident expression in a softly lit bedroom or hallway.\n\n5. Outdoor winter portrait: Wearing a charcoal coat and a thick grey knitted scarf, with her long hair loose around her face. She looks slightly upward with a gentle smile while standing on a European street in soft natural daylight.\n\n6. Restaurant dinner moment: Sitting at a restaurant table wearing a tasteful burgundy sleeveless top with a modest neckline and delicate gold jewelry. She playfully lifts a forkful of spaghetti while glancing toward the camera. A plate of pasta, warm candlelight, and softly blurred restaurant lights complete the scene.\n\nIdentity consistency: The same woman must appear in every panel, with identical facial proportions, eye color, freckles, skin tone, and hair color. Her hairstyle may vary naturally between scenes, including loose waves and slightly messier strands, while remaining recognizable.\n\nRealism details: Authentic skin pores, fine baby hairs, natural facial asymmetry, realistic hands, believable fabric textures, subtle exposure differences, realistic reflections, and natural environmental lighting. Avoid excessive retouching, plastic skin, duplicated expressions, distorted fingers, inconsistent facial features, or overly polished AI-generated aesthetics.\n\nOutput requirements: Vertical 3:4 aspect ratio, exactly six equally sized photographs in a balanced 3-column × 2-row grid, clean alignment, no gutters, no borders, no text, no watermark. Photorealistic, youthful, spontaneous, stylish, and full of personality, like a genuine collection of everyday moments shared on Instagram.",
+      "author": "john_my07",
+      "author_url": "https://x.com/john_my07",
+      "post_url": "https://x.com/john_my07/status/2114371973002506481",
+      "date": "2026-10-25T23:02:16+08:00",
+      "likes": 69,
+      "language": "en",
+      "images": [
+        "images/2114371973002506481_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2105638239394795835",
       "prompt": "版3×3失败照片× ｛角色｝",
       "author": "joshesye",
@@ -1541,6 +1619,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114337298292904206",
+      "prompt": "Create a breathtaking, premium travel magazine cover featuring [CITY / COUNTRY / LANDMARK] as the star of the composition.\n\nCapture the destination through its most iconic architecture, breathtaking landscapes, recognizable landmarks, local culture, traditional details, and distinctive atmosphere. Make the location instantly recognizable while presenting it in a fresh, artistic, editorial style.\n\nMagazine design: Sophisticated international travel magazine, elegant masthead at the top, oversized refined typography, minimal yet striking cover lines, carefully balanced text placement, premium editorial art direction, subtle print texture, and a realistic glossy magazine finish.\n\nPhotography: High-end travel photography, cinematic natural lighting, rich yet tasteful colors, realistic textures, atmospheric depth, exquisite details, professional color grading, and an aspirational luxury-travel aesthetic.\n\nLayout: Vertical 4:5 magazine cover, full-bleed hero image, destination name prominently displayed, small editorial headlines around the edges, issue date and subtle cover details. Keep the landmark unobstructed and the typography legible.\n\nThe final image should look like an actual internationally acclaimed travel magazine cover, not a tourism poster. Make it visually iconic, sophisticated, photorealistic, and worthy of a collector’s edition.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2114337298292904206",
+      "date": "2026-10-25T20:44:29+08:00",
+      "likes": 66,
+      "language": "en",
+      "images": [
+        "images/2114337298292904206_0.jpg",
+        "images/2114337298292904206_1.jpg",
+        "images/2114337298292904206_2.jpg",
+        "images/2114337298292904206_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2110714603965726893",
       "prompt": "Create Photorealistic editorial 4:5 portrait of a young man standing mostly straight in a relaxed, stylish pose, body turned slightly sideways so his chest is not directly facing the camera, with one shoulder subtly angled forward. He\n\nis not",
       "author": "harboriis",
@@ -1569,6 +1664,23 @@
         "images/2113578682602168499_0.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2114231078843973707",
+      "prompt": "Task: Strictly edit the uploaded original photograph to transform the person or animal into a hyper-realistic, extremely exaggerated big-head miniature figure, matching the visual style of the provided reference image.\n\nHighest Priority: Transform the head-to-body proportions while preserving the subject's recognizable identity, natural facial features, original expression, hairstyle, clothing, accessories, pose, and overall photographic realism. The final result must resemble a real photograph, not a cartoon or CGI creation.\n\n1. Head-to-Body Proportions (Highest Priority)\n\n- Giant Head: Dramatically enlarge the entire head, including hair, hats, ears, and other existing head accessories. The head should dominate the figure, occupying approximately 65–75% of the total visible silhouette height in a full-body composition.\n- Extremely Narrow Shoulders: Reduce shoulder width to approximately 40–50% of the head width. Create a tiny neck and narrow shoulder structure that transitions naturally into the miniature torso.\n- Miniature Body: Compress the torso, waist, hips, and limbs into an extremely small body beneath the oversized head. The torso should be short and narrow, with realistic anatomical connections.\n- Miniature Arms and Hands: Reduce the arms, palms, and fingers proportionally. Keep the arms naturally close to the body, preserving the original gestures and hand positions.\n- Tiny Legs and Feet: Dramatically shorten and narrow the legs, feet, and shoes while preserving the original stance, footwear design, and points of contact with the ground.\n- Strong Proportional Contrast: The head must be unmistakably oversized relative to the tiny body. Preserve the subject's original clothing design while naturally adapting its fit to the miniature proportions.\n\nThe transformation must create an extreme, visually striking big-head miniature effect without making the subject look like a toy, doll, or digitally assembled figure.\n\n2. Pose and Actions (Strictly Preserve)\n\nPreserve the original subject's exact pose, body orientation, gestures, facial expression, gaze direction, and interactions with the environment.\n\n- If standing, keep the subject standing in the same position.\n- If sitting, crouching, leaning, kneeling, or lying down, preserve that exact posture.\n- Retain the original hand positions, held objects, arm placement, leg orientation, and contact points.\n- Maintain the original head tilt and gaze direction unless a slight anatomical adjustment is necessary for a seamless transformation.\n- Keep the subject's original framing. For full-body photographs, preserve the entire figure. For selfies, close-ups, and partial-body images, do not invent missing body parts or expand the frame unnecessarily.\n\nThe miniature body must adapt to the original pose rather than forcing the subject into a new pose.\n\n3. Facial Features, Hair, and Clothing (Fully Preserve)\n\n- Identity: Preserve the same recognizable person or animal from the original image. Do not replace, reinterpret, or redesign the subject.\n- Face: Retain the original facial structure, eye shape, nose, lips, cheeks, skin tone, expression, and natural facial proportions. Do not apply beauty filters, artificial eye enlargement, face reshaping, or excessive skin smoothing.\n- Hair: Preserve the original hairstyle, hair color, hairline, texture, volume, and distinctive strands. Scale the hair naturally with the enlarged head.\n- Clothing: Preserve the exact original garments, colors, materials, prints, patterns, logos, folds, and textures. Adapt their dimensions to fit the miniature body without changing their design.\n- Accessories: Retain all original jewelry, glasses, hats, bags, watches, and other visible accessories, resizing them only when necessary to fit the transformed proportions.\n- Animals: Preserve the original species, recognizable features, fur patterns, ears, eyes, and expression. Apply the same oversized-head and miniature-body transformation without changing the animal's identity.\n\n4. Scene and Composition (Fully Preserve)\n\nUse the uploaded photograph as the sole reference for the subject and environment.\n\n- Preserve the original background, architecture, furniture, plants, ground surface, and environmental objects.\n- Maintain the original camera angle, perspective, framing, subject placement, composition, and aspect ratio.\n- Keep the surrounding environment at its original scale. The subject's altered proportions should create a striking contrast with the realistic environment.\n- Preserve the original lighting direction, color tones, shadows, reflections, and depth of field.\n- Ensure the miniature figure remains naturally grounded in the scene, with realistic contact shadows beneath the feet and physically consistent lighting across the enlarged head and reduced body.\n- Do not remove, replace, or introduce environmental elements unless a minor reconstruction is essential to repair an editing artifact.\n\n5. Photographic Realism and Visual Quality\n\nThe entire image must retain the appearance of an authentic, high-resolution photograph.\n\n- Realistic skin pores, fine facial details, and natural skin texture.\n- Individual hair strands with believable highlights and shadows.\n- Authentic fabric weave, clothing folds, and accessory details.\n- Natural lighting, physically accurate shadows, and consistent reflections.\n- Seamless transitions between the enlarged head, neck, and miniature body.\n- Realistic anatomy, natural edges, and coherent perspective.\n- Subtle photographic imperfections consistent with the original image.\n\nThe oversized head must remain fully photorealistic, with the original person's natural facial anatomy and expression intact. The miniature body must look like a physically plausible part of the same person.\n\n6. Strictly Prohibited\n\n- Cartoon, anime, illustration, or stylized 3D figurine aesthetics.\n- Plastic skin, toy-like materials, doll faces, or artificial beauty enhancements.\n- Changing the subject's identity, facial features, expression, hairstyle, or clothing design.\n- Normal adult shoulder width or a body that appears too large relative to the head.\n- Oversized hands, fingers, feet, or shoes.\n- Disconnected heads, visible neck seams, floating limbs, malformed joints, or duplicated body parts.\n- Altered poses, invented gestures, or changed interactions with the environment.\n- Unnecessary background replacement, camera-angle changes, or aspect-ratio changes.\n- Unnatural shadows, inconsistent lighting, visible compositing artifacts, text, watermarks, or interface elements.\n\nFinal Output\n\nTransform the original photograph into an ultra-photorealistic big-head miniature portrait with a dramatically enlarged head, extremely narrow shoulders, a tiny compressed body, and proportionally miniature limbs.\n\nPreserve the original subject's identity, expression, pose, clothing, accessories, background, and photographic characteristics as faithfully as possible. The exaggerated head-to-body ratio should be the defining visual transformation, producing the same realistic, charming, oversized-head aesthetic as the reference image.\n\nEditing Rule: Change the subject's proportions only. Preserve everything else from the original photograph.",
+      "author": "oggii_0",
+      "author_url": "https://x.com/oggii_0",
+      "post_url": "https://x.com/oggii_0/status/2114231078843973707",
+      "date": "2026-10-25T13:42:24+08:00",
+      "likes": 63,
+      "language": "en",
+      "images": [
+        "images/2114231078843973707_0.jpg",
+        "images/2114231078843973707_1.jpg",
+        "images/2114231078843973707_2.jpg",
+        "images/2114231078843973707_3.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2109710598972035578",
@@ -2085,6 +2197,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114191054044094672",
+      "prompt": "A cinematic, photorealistic fantasy portrait of a small, frightened, fluffy white cat with expressive, sad blue eyes. The cat is gently tied with thick rustic rope to an old, textured tree trunk in a quiet, moody forest garden",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2114191054044094672",
+      "date": "2026-10-25T11:03:21+08:00",
+      "likes": 47,
+      "language": "en",
+      "images": [
+        "images/2114191054044094672_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2113216293163905378",
       "prompt": "答え合わせ🐈\n赤い丸の中に4匹います。\n・ハチワレ：左の綿あめ屋のカウンター、綿あめのあいだ\n・Shoji Cat：盆踊りの輪の中で一緒に踊っています\n・茶トラ：右の射的屋の景品棚\n・三毛：その下、ヨーヨー釣りの水槽のふち\n\n———\n\nプロンプト：GPT Image 2.5\n\nA vintage Showa-era offset-lithograph printed illustration, horizontal 3:2, a \"find the hidden cats\" picture in the spirit of a classic seek-and-find book: a night festival (engi-nichi) in the grounds of a Japanese shrine, seen from a high, wide bird's-eye view so that everything is small and there is a huge amount to look at. In the middle stands a tall wooden drummers' tower (yagura) with a red-and-white striped curtain and two taiko drummers on top; a ring of about twenty bon-dance dancers circles it, and strings of glowing paper lanterns run from the tower out to the stalls. Two long rows of stalls with striped canvas awnings line the left and right of the central ground: cotton candy, takoyaki, candy apples, a shooting gallery, water-balloon fishing, balloons, roasted corn. Behind them a stone torii gate, stone steps up to a small shrine hall, big old trees, and a dark blue night sky with fireworks. In front, a crowd of about 150 tiny people in yukata and happi coats: children with balloons and candy apples, a child on a father's shoulders, a vendor flipping takoyaki, a policeman guiding the crowd. A standing person is only about 3% of the picture height, every figure drawn tiny and crisp.\n\nThe look is the point: printed with only four spot inks, vermilion red, teal blue, mustard yellow and sumi black, on aged cream paper. All other colors come from overprinting (red over yellow = orange, blue over yellow = green, blue plus black = night sky). Thin black key lines, flat color areas, visible halftone dot screens for the glow of lanterns and fireworks, slight misregistration with thin colored fringes, uneven ink, paper fibre, yellowed foxing and tiny printing specks. It must read as a real old printed page, not a digital painting. Full bleed, no border, no registration marks, no signature.\n\nExactly one small logo: a modest dark wooden signboard hanging at the front of the shooting-gallery stall in the right half, about 5% of the picture width, showing a cream cat paw print whose big pad holds a swirling ocean wave, with the word \"Shoji\" in cream cursive brush lettering to its right. Apart from that sign there are no letters, words or numbers anywhere; lanterns, curtains and awnings show only stripes, dots and pictures.\n\nExactly four cats are hidden in the scene and no other cat or animal anywhere (no fish, birds, insects, dogs, foxes, stone guardian lion-dogs, animal masks, cat ears or cat silhouettes). The four cats stand in the same row of stalls, at the same distance, and are all tiny: the three real cats each only about 1.5% of the picture height, about two fifths of a standing person, Shoji Cat a little taller; easy to overlook but findable, never hidden behind anything, none in the lower third of the picture:\n1. a black-and-white \"hachiware\" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on the counter of the cotton-candy stall on the left, among the cotton candies next to a white tub;\n2. a brown mackerel tabby (warm brown fur with dark stripes, white muzzle and chest) sitting upright on a shelf board of the prize shelf of the shooting-gallery stall on the right, among the round prizes;\n3. a calico cat (white with orange and black patches) sitting upright on the top rim of the water-balloon fishing tank below the shooting gallery;\n4. Shoji Cat, an upright orange tabby cat about three heads tall in a black leather jacket, denim shorts, cream sneakers and black wayfarer sunglasses with blue and red lenses, dancing the bon dance with both arms raised among the human dancers in the open sand around the tower, a little taller than the other three cats.\nThe first three cats wear a thin red collar with a tiny gold bell. No dark round objects or dark animal-like shapes that could be mistaken for a cat. No watermark.",
       "author": "Shoji_ai",
@@ -2325,6 +2451,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114360743131041959",
+      "prompt": "Create an ultra-realistic, cute editorial portrait of a stylish young woman sitting on a smooth light gray studio floor, playfully posing with a large hand-drawn cartoon character behind her.\n\nSubject: A beautiful young woman with dark brown hair tied in a messy high bun, soft wispy bangs, natural makeup, and a cute pouty expression. She is wearing an oversized charcoal gray hoodie, loose cream-colored pants, white crew socks, and chunky white sneakers. She sits casually with one knee raised and the other leg folded to the side, resting one cheek on her hand while looking directly at the camera with one eye slightly squinted.\n\nCartoon Character: Behind her is a large, adorable white doodle character with a round head, tiny black oval eyes, a small straight mouth, and a simple rounded body. The character is drawn with rough, sketchy black outlines and lightly shaded white pencil texture. Its long cartoon arms extend around the woman, with both hands gently poking her cheeks to create a playful, squished-cheek expression. A small messy black scribble floats above its head, suggesting confusion or frustration.\n\nArt Style: A seamless blend of photorealistic human photography and hand-drawn 2D cartoon illustration. The cartoon should look like it was sketched directly onto the photograph using a black marker and white colored pencil, with visible imperfect outlines and subtle pencil strokes.\n\nLighting and Background: Minimalist light gray seamless studio background, soft diffused lighting, gentle natural shadows, neutral colors, and a cozy, slightly whimsical mood.\n\nComposition: Full-body vertical portrait, 4:5 aspect ratio, centered subject, eye-level camera angle, natural seated pose, crisp facial details, realistic fabric textures, and carefully integrated cartoon elements.\n\nQuality: High-resolution photography, realistic skin texture, soft cinematic lighting, clean composition, charming Korean social media aesthetic.\n\nImportant: Keep the woman photorealistic. The cartoon character must remain visibly hand-drawn, with rough black outlines and a white sketch texture. Do not turn the entire image into an illustration. Avoid extra fingers, distorted hands, text, logos, watermarks, or unnecessary background objects.",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2114360743131041959",
+      "date": "2026-10-25T22:17:38+08:00",
+      "likes": 40,
+      "language": "en",
+      "images": [
+        "images/2114360743131041959_0.jpg",
+        "images/2114360743131041959_1.jpg",
+        "images/2114360743131041959_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107463388292911316",
       "prompt": "Hyper-realistic IMAX-level Netflix-style moody cinematic rooftop night portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a black spaghetti-strap top under an oversized white button-down shirt worn loosely off both shoulders, light-colored short bottoms and a black smartwatch on her wrist; she stands in a relaxed left-facing side profile, her torso turned slightly away from the camera, her head tilted gently upward and backward, chin raised, while her left arm is bent upward holding a green glass bottle at mouth level with the bottle neck clearly entering between her parted lips as she drinks, and her right arm hangs naturally downward beside her body with the hand relaxed; her eyes are mostly lowered and partially closed while drinking, eyebrows relaxed, lips naturally parted around the bottle opening, jaw slightly lifted and facial expression calm and casual; her very long dark-brown hair is straight, smooth and naturally heavy, falling from the crown all the way down her back past the waist with a few fine strands around her cheek and neck; fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, realistic natural texture with very subtle highlights; she stands on an elevated outdoor terrace with a dark red metal railing, while a dense urban cityscape fills the background in heavy shallow focus with indistinct buildings, muted windows and scattered circular lights; soft overcast ambient light gives the scene a dim blue-gray atmosphere, with a faint cool glow outlining the hair and shoulders while the face and clothing remain gently underexposed, subtle warm bokeh lights appearing in the distant background and no harsh direct illumination; cinematic colour grading built around desaturated teal, blue-gray and charcoal tones with muted skin warmth, deep soft shadows, restrained highlights, low saturation, gentle contrast, atmospheric haze, creamy background bokeh and a subtle filmic grain, creating the same quiet rainy-evening city mood and understated cinematic depth. Negative prompt: changed identity, front-facing pose, bottle missing from mouth, bottle floating away from lips, closed mouth while drinking, incorrect hand position, bad anatomy, extra fingers, short hair, bright daylight, oversaturated colours, sharp background, text, watermark.",
       "author": "imGopalTiwari",
@@ -2382,6 +2524,22 @@
       "language": "en",
       "images": [
         "images/2112880607571427818_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114187192637718615",
+      "prompt": "Transform the uploaded photo into a beautiful, hand-drawn editorial travel illustration with a charming vintage storybook aesthetic.\n\nSTYLE: Traditional colored-pencil and wax-crayon illustration on warm, textured paper. Visible sketch strokes, grainy pigment, imperfect hand-drawn outlines, subtle cross-hatching, and a soft matte finish. A blend of European travel-journal art and modern illustrated storytelling.\n\nSUBJECT: Preserve the recognizable identity, facial features, hairstyle, clothing, pose, and essential details of the original subject. Use elegant simplified shapes, expressive features, delicate linework, rosy cheeks, and natural proportions with a slightly whimsical illustrated appearance.\n\nBACKGROUND: Recreate the original environment using painterly architectural details, scenic landscapes, charming buildings, blue skies, rolling hills, or cobblestone streets as appropriate. Maintain depth and perspective while simplifying details into expressive hand-drawn forms.\n\nCOLOR PALETTE: Warm cream, terracotta red, dusty blue, muted olive green, charcoal black, and soft beige. Use harmonious colors, gentle contrast, and subtle vintage color variation.\n\nTEXTURE & DETAILS: Add visible pencil scratches, rough crayon marks, uneven color fills, delicate hatching, and natural paper grain throughout the image. Keep the artwork tactile, organic, and authentically handmade. Optional tiny hand-drawn hearts or playful accents when appropriate.\n\nCOMPOSITION: Vertical 3:4 portrait format, balanced framing, full-bleed illustration with subtly irregular paper edges. Keep the subject prominent and the background visually engaging without overwhelming the main scene.\n\nFINAL RESULT: A sophisticated, nostalgic travel-journal illustration that feels genuinely hand-drawn by a professional editorial illustrator. Avoid photorealism, glossy digital rendering, 3D effects, excessive smoothness, and generic anime styling.",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2114187192637718615",
+      "date": "2026-10-25T10:48:01+08:00",
+      "likes": 39,
+      "language": "en",
+      "images": [
+        "images/2114187192637718615_0.jpg",
+        "images/2114187192637718615_1.jpg",
+        "images/2114187192637718615_2.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2536,6 +2694,21 @@
       "images": [
         "images/2111646913766584356_0.jpg",
         "images/2111646913766584356_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114222131362062665",
+      "prompt": "Create a cinematic, hyper-realistic POV photograph captured through an extreme 0.5x ultra-wide fisheye lens, framed within a modern smartphone camera viewfinder interface. Include realistic gridlines, a flash icon, an exposure slider, zoom controls labeled “0.5x,” “1x,” and “3x,” and camera modes labeled “PHOTO,” “VIDEO,” and “PORTRAIT” at the bottom.\n\nSCENE AND COMPOSITION:\n\nA dramatic top-down, bird’s-eye view of [ENVIRONMENT OR LOCATION] at [TIME OF DAY]. Emphasize distinctive architectural or environmental features, sweeping shapes, multiple levels, and a strong sense of depth. Use the fisheye perspective to exaggerate spatial geometry and create an immersive composition.\n\nSUBJECT AND STYLING:\n\nFeature multiple identical versions of [SUBJECT] distributed naturally throughout the environment. Maintain consistent defining features, appearance, proportions, and styling across every version.\n\nGive the subject a cool, confident appearance with stylish dark rectangular sunglasses, featuring realistic reflective lenses and a sleek, modern design that complements their overall look. Adapt the sunglasses naturally to the subject's face or features. Include [CLOTHING, ACCESSORIES, OR DISTINCTIVE STYLING] for a fashionable, effortlessly cool aesthetic.\n\nPosition the main subject prominently in the foreground center, facing toward the camera with one hand, limb, or appropriate feature reaching toward the lens. Create dramatic foreshortening and exaggerated perspective. Place additional identical versions throughout the surrounding space in varied poses, such as standing, sitting, leaning, or interacting with the environment.\n\nLIGHTING AND ATMOSPHERE:\n\nCombine [PRIMARY LIGHTING STYLE OR COLOR] with [SECONDARY LIGHTING TONE] to create cinematic contrast, realistic shadows, and visual depth. Add subtle reflections on the sunglasses, natural highlights, and atmospheric background details that complement the chosen location.\n\nCAMERA AND QUALITY:\n\nExtreme 0.5x ultra-wide fisheye perspective, overhead composition, realistic lens distortion, subtle circular-corner vignetting, sharp subject details, natural textures, high dynamic range, cinematic color grading, physically realistic lighting, premium streetwear editorial aesthetic, and 8K-level detail.\n\nAspect ratio: 4:5 vertical portrait.\n\nAdapt the subject, clothing, poses, environment, and lighting to the chosen concept while preserving the stylish dark sunglasses, smartphone camera interface, dramatic fisheye perspective, and multiple-identical-subject composition.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2114222131362062665",
+      "date": "2026-10-25T13:06:51+08:00",
+      "likes": 35,
+      "language": "en",
+      "images": [
+        "images/2114222131362062665_0.jpg",
+        "images/2114222131362062665_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -3135,6 +3308,36 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2114389052451606897",
+      "prompt": "Create a high-fidelity, visually stunning app UI mockup for [APP NAME], inspired by the polished user experience of leading entertainment platforms such as Spotify and Netflix.\n\nDesign a realistic, professional interface that looks like a finished product created by an expert UI/UX designer. The screen should immediately communicate the app’s purpose, feature its most important content, and make the primary action obvious.\n\n1. App Identity & Layout\n\nApp name: [APP NAME]\nPlatform: [Mobile / Desktop / Tablet]\nScreen: Home / Dashboard\nTarget audience: [TARGET AUDIENCE]\nFeatured content: [SONG / ARTIST / MOVIE / K-DRAMA / SHOW]\nVisual direction: Clean, minimal, premium, modern, and cinematic.\n\n2. Main Screen Composition\n\nCreate a well-organized interface with:\n\nA recognizable app logo and navigation menu.\nA clear header with search, notifications, and profile controls where appropriate.\nA prominent featured-content section with beautiful, relevant artwork.\nThe content title, creator or artist, genre, and a concise description.\nA highly visible primary action button, such as Play, Watch Now, or Explore.\nA secondary action such as Like, Save, or Add to List, where appropriate.\nHorizontally scrolling content cards for recommendations, popular items, or recently played content.\nA persistent bottom navigation or playback bar when appropriate for the platform.\n\n3. Visual Design\n\nUse a sophisticated design system with:\n\nCarefully balanced spacing, alignment, and visual hierarchy.\nCrisp typography with clear distinctions between headings, descriptions, and metadata.\nConsistent margins, rounded cards, subtle shadows, and refined iconography.\nHigh-quality cinematic imagery or album artwork relevant to the featured content.\nA cohesive color palette inspired by the app’s identity.\nRealistic interface details, including progress bars, playback controls, active navigation states, and content thumbnails when relevant.\n\n4. User Experience\n\nMake the screen intuitive, uncluttered, and believable. The user should instantly understand what is featured and how to interact with it. Keep the primary action prominent, secondary controls understated, and supporting content visually organized.\n\n5. Rendering & Presentation\n\nRender the complete interface as a polished, high-resolution product mockup. Show the entire screen clearly, with sharp text, realistic UI components, accurate proportions, and professional lighting or device framing when suitable.\n\nThe final result should feel like a premium, launch-ready entertainment app design—not a generic template, wireframe, poster, or collection of unrelated elements.\n\nImportant: Preserve the supplied app name, labels, and content exactly. Do not invent prices, account details, ratings, statistics, or unsupported features. Prioritize usability, visual consistency, and a clear content hierarchy.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2114389052451606897",
+      "date": "2026-10-26T00:10:08+08:00",
+      "likes": 25,
+      "language": "en",
+      "images": [
+        "images/2114389052451606897_0.jpg",
+        "images/2114389052451606897_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114267817340264470",
+      "prompt": "Create a sophisticated, vintage-inspired editorial poster in a 4:5 vertical aspect ratio, using the uploaded image as the primary visual reference.\n\nUPLOADED IMAGE: Use the uploaded image to determine the subject, theme, and visual inspiration automatically. Identify its main subject and create a beautiful, photorealistic cinematic scene that represents it. Preserve the essential identity and meaning of the subject while artistically adapting the composition to match the poster design.\n\nPOSTER DESIGN & LAYOUT:\n\nCreate a warm, pale beige, aged-paper background with subtle paper fibers, fine grain, and authentic vintage print imperfections. Place a large rectangular photographic panel across most of the canvas, leaving a narrow beige border. Give the panel softly rounded bottom corners and a faded analog-film appearance.\n\nOVERSIZED TYPOGRAPHY:\n\nAutomatically determine a short, elegant title based on the uploaded image's subject. Display that title in enormous, high-contrast serif typography across the upper third of the poster, stretching almost edge to edge. Use tall, refined letterforms, dramatic thick-and-thin strokes, and tight spacing.\n\nColor the headline muted dusty turquoise-blue with subtle photographic texture and weathered ink. Allow the letters to overlap the sky or upper portion of the photograph, blending typography and imagery into a sophisticated editorial composition.\n\nSMALL EDITORIAL DETAILS:\n\nNear the upper-left part of the title, add the small heading “Colors” with “from” arranged vertically underneath.\n\nNear the upper-right side, add a tiny, understated subtitle reading “a collection of color combinations / inspired by [DETECTED SUBJECT].”\n\nAdd the vertical annotation “Save for later” beside the right edge of the headline.\n\nPlace two tiny four-pointed turquoise star symbols near the top-left and top-right corners of the beige background.\n\nPHOTOGRAPHIC STYLE:\n\nCreate a cinematic, photorealistic image inspired by the uploaded subject, with natural lighting, atmospheric depth, authentic textures, muted colors, subtle 35mm film grain, softly faded contrast, and a nostalgic analog-film finish.\n\nAutomatically choose the appropriate environment, composition, colors, and atmosphere based on the uploaded image. Keep the main subject visually compelling and the photograph integrated naturally with the oversized typography.\n\nCOLOR PALETTE:\n\nWarm cream, dusty turquoise-blue, muted sky blue, and naturally derived earthy tones that complement the uploaded image. Preserve the understated, timeless aesthetic of a premium independent design magazine.\n\nSTRICT REQUIREMENTS:\n\n- Use the uploaded image as the subject reference; do not require the user to type a subject name.\n- Automatically detect the subject and generate a suitable title.\n- Create a new, theme-appropriate cinematic composition rather than simply placing the original image inside a frame.\n- Maintain the same vintage poster layout, oversized typography, beige margins, small annotations, and subtle decorative stars.\n- Keep the composition balanced, artistic, and uncluttered.\n- Avoid watermarks, glossy digital effects, oversaturation, and unnecessary decorative elements.\n- Render all typography as accurately as possible.\n\nOUTPUT: A high-resolution, photorealistic editorial poster in a vertical 4:5 aspect ratio, inspired by the uploaded image and styled consistently with premium vintage magazine art direction.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2114267817340264470",
+      "date": "2026-10-25T16:08:23+08:00",
+      "likes": 25,
+      "language": "en",
+      "images": [
+        "images/2114267817340264470_0.jpg",
+        "images/2114267817340264470_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108920692104130597",
       "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic dynamic fitness action portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted black sports crop top with white shoulder straps and pale grey trim, paired with high-waisted electric-blue athletic leggings featuring slim black side stripes and matching blue running shoes. Her entire body is captured mid-air in a dramatic backward arch, with her torso curved into a deep C-shape and her hips pushed forward. Her shoulders roll backward, her head drops behind her body, and both arms extend downward and forward with relaxed, naturally spread fingers. Her legs bend at the knees and sweep diagonally toward the right, with one foot extending farther outward and the other trailing slightly behind, creating a dynamic suspended-motion silhouette. Her face angles upward with her eyes apparently closed or directed toward the ceiling, and her mouth slightly open in an intense, absorbed expression. Her long blonde hair with darker roots flies dramatically upward and toward the upper right, individual strands separating into fine arcs that emphasize the force and direction of movement. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, retaining realistic skin texture and subtle highlights along her shoulders, arms and abdomen. The background is a seamless, dark charcoal-grey studio wall with a rough, lightly mottled concrete texture and no distracting objects. Use a focused studio key light from the upper left to illuminate her face, torso, arms and hair, with crisp highlights along the hair strands and cool, deep shadows defining the curved body silhouette. Apply dramatic cinematic colour grading with rich electric-blue clothing, neutral skin tones, cool steel-blue highlights, deep navy-charcoal shadows and restrained saturation in the background. Maintain strong tonal separation, high contrast, subtle atmospheric depth and sharp subject detail against the dark backdrop, with a polished high-speed sports-photography finish that freezes the motion clearly. \nNegative prompt: straight upright pose, incorrect backward arch, stiff arms, incorrectly bent legs, static hair, distorted hands or feet, bad anatomy, plastic skin, excessive glow, text, watermark.",
       "author": "imGopalTiwari",
@@ -3249,6 +3452,36 @@
         "images/2112409176135925881_0.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2114352687366156785",
+      "prompt": "Create an original modern naïve art illustration as a premium designer poster. Feature a charming, whimsical character in a simple everyday setting, with playful proportions, expressive minimal facial features, and an imaginative composition. Use a minimalist hand-drawn aesthetic with imperfect pencil outlines, visible sketch marks, decorative doodles, and soft yet contrasting flat colors. Incorporate subtle paper texture and an authentic handmade feel, like an illustration drawn by an independent contemporary artist. Keep shapes organic, details intentionally imperfect, and the overall design artistic, warm, and visually distinctive. No shadows, gradients, photorealism, or 3D effects. Clean composition, balanced negative space, sophisticated color palette, gallery-worthy editorial design, high-quality print poster aesthetic. Generate the complete artwork from scratch without using or requiring any reference image.",
+      "author": "j_smeaton99",
+      "author_url": "https://x.com/j_smeaton99",
+      "post_url": "https://x.com/j_smeaton99/status/2114352687366156785",
+      "date": "2026-10-25T21:45:38+08:00",
+      "likes": 23,
+      "language": "en",
+      "images": [
+        "images/2114352687366156785_0.jpg",
+        "images/2114352687366156785_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114317429887344919",
+      "prompt": "Create an ultra-detailed miniature diorama of [PLACE / CITY / LANDMARK], transforming the real location into a tiny, handcrafted architectural model.\n\nSCENE:\nRecreate the destination’s most recognizable buildings, streets, transportation, surrounding landscape, and everyday activity with remarkable architectural accuracy. Include miniature vehicles, tiny people, trees, street furniture, and location-specific details to make the scene feel alive.\n\nMINIATURE STYLE:\nMake everything look like a meticulously constructed physical scale model, with realistic miniature materials, finely detailed architecture, tiny textures, and carefully crafted structures. Preserve the location’s authentic identity and distinctive features.\n\nCAMERA & COMPOSITION:\nUse an elevated three-quarter aerial view, showcasing the entire landmark and its surroundings. Apply a macro-photography aesthetic with shallow depth of field, a sharp central subject, and softly blurred distant areas. Maintain realistic proportions and convincing miniature scale.\n\nLIGHTING & ATMOSPHERE:\nWarm natural daylight, soft shadows, subtle atmospheric depth, cinematic color grading, and realistic material textures. The result should resemble professional tilt-shift photography of an elaborate architectural model.\n\nAutomatically interpret [PLACE / CITY / LANDMARK] and include its most iconic features, appropriate transportation, local architecture, and recognizable surroundings.\n\nAvoid generic buildings, inaccurate landmarks, oversized objects, cartoon styling, excessive blur, plastic-looking textures, and distorted perspective.\n\nFORMAT: Vertical 4:5 composition, high resolution, photorealistic miniature craftsmanship.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2114317429887344919",
+      "date": "2026-10-25T19:25:32+08:00",
+      "likes": 23,
+      "language": "en",
+      "images": [
+        "images/2114317429887344919_0.jpg",
+        "images/2114317429887344919_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097819439106510993",
@@ -3708,6 +3941,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114262700679471389",
+      "prompt": "Create a 2×2 collage of four candid, ultra-realistic street photography shots featuring the same stylish young woman exploring Tokyo, Japan, with a nostalgic 1990s disposable film camera aesthetic.\n\nSubject: A beautiful young woman with platinum blonde hair tied in a high ponytail, soft face-framing strands, silver over-ear headphones, and natural makeup. She wears an oversized gray-brown checkered blazer over a white T-shirt, relaxed blue jeans, and carries a black shoulder bag. Maintain consistent facial features, hairstyle, outfit, and accessories across all four photographs.\n\nTop-left panel: The woman stands on Takeshita Street in Harajuku, smiling brightly while holding and eating a Japanese crepe wrapped in paper. A colorful “Takeshita Street” entrance sign, crowded pedestrian street, Japanese storefronts, and busy urban surroundings fill the background.\n\nTop-right panel: A casual arm's-length selfie of the same woman standing at a busy Tokyo pedestrian crossing. She looks directly into the camera with a relaxed expression. Large Japanese commercial buildings, street signs, traffic lights, and white zebra-crossing stripes create an authentic city atmosphere.\n\nBottom-left panel: The woman smiles playfully beside a Japanese vending machine filled with colorful drinks. She leans slightly toward the camera, with a narrow shopping street, small storefronts, and Japanese signs extending into the background.\n\nBottom-right panel: The woman sits on a wooden bench along a quiet traditional Japanese shopping street, reading a folded paper map or travel guide. Weathered wooden buildings, small shop entrances, potted greenery, and delicate cherry blossom branches create a peaceful springtime atmosphere.\n\nPhotography style: Authentic candid snapshots, slightly imperfect framing, natural body language, soft overcast daylight, subtle motion blur, realistic skin texture, muted colors, warm film grain, faded highlights, gentle shadows, low contrast, and a nostalgic analog camera finish. Add subtle orange date stamps near the bottom edges of the photographs, resembling old 35mm film prints.\n\nComposition: Four equally sized rectangular photographs arranged in a clean 2×2 grid, separated by thin vertical and horizontal borders. Consistent subject identity throughout, documentary-style travel photography, realistic Japanese urban details, natural proportions, and a spontaneous personal travel diary feeling.\n\nAspect ratio: 3:5 vertical collage.\n\nAvoid: Cartoon styling, illustration, excessive retouching, plastic skin, inconsistent faces, duplicated people, distorted hands, incorrect clothing, artificial lighting, and overly saturated colors.",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2114262700679471389",
+      "date": "2026-10-25T15:48:03+08:00",
+      "likes": 17,
+      "language": "en",
+      "images": [
+        "images/2114262700679471389_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107646917664817570",
       "prompt": "【主体】 × 稚拙手绘蜡笔画 × 儿童式自由想象 × 纸张纹理 × 大面积留白",
       "author": "DeepBlueX0",
@@ -3806,6 +4053,21 @@
         "images/2113136759613891045_1.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2114363628715663450",
+      "prompt": "ASPECT RATIO: 4:5 VERTICAL PORTRAIT. Create an ultra-detailed, photorealistic miniature diorama of an entire city contained inside a luxurious antique study. Show a complete, intricately constructed miniature metropolis with recognizable landmarks, skyscrapers, roads, bridges, tiny vehicles, parks, and pedestrians, surrounded by towering dark wooden bookshelves, antique globes, brass telescopes, framed historical maps, ornate Persian rugs, carved furniture, and a magnificent crystal chandelier. Warm golden lighting and soft daylight illuminate the miniature architecture, revealing realistic textures, tiny windows, intricate facades, and extraordinary handcrafted details. Capture the entire room from a wide-angle, slightly elevated viewpoint, balancing the miniature city in the foreground and middle ground with the elaborate antique interior in the background. Rich walnut wood, antique gold, deep burgundy, cinematic shadows, realistic scale contrast, architectural photography, museum-quality craftsmanship, exceptional depth and detail. The city must look physically built inside the room, not floating or digitally overlaid. Ultra-photorealistic, cinematic, high resolution, no cartoon styling, no illustration.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2114363628715663450",
+      "date": "2026-10-25T22:29:06+08:00",
+      "likes": 16,
+      "language": "en",
+      "images": [
+        "images/2114363628715663450_0.jpg",
+        "images/2114363628715663450_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2108905051716763932",
@@ -4468,6 +4730,20 @@
       "images": [
         "images/2113342391776383472_0.jpg",
         "images/2113342391776383472_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114272622464950719",
+      "prompt": "主题方向：东方禅意极简高传播封面\n风格分支：女性审美高颜值型\n主体内容：一位古风女子站在极简旋梯转角处，轻轻回望\n情绪母题：优雅、明亮、轻戏剧感\n场景与意象：极简旋梯、湖蓝背景色块、蜜桃橙圆形光斑、女子、少量阴影\n构图与空间：9:16竖版构图，旋梯从下方向上盘旋形成强烈引导线，人物位于中下部转角处，上方保留完整标题区\n色彩控制：珍珠白作为高明度旋梯和主体环境基底，湖蓝用于背景大色块，蜜桃橙用于圆形光斑和少量暖反光，人物服装用浅白或浅桃白；避免整图偏蓝或偏橙\n光线与质感：明亮日光，结构线条清楚，极简高质感平面封面风\n画幅比例：9:16\n补充要求：旋梯必须有强几何美感和封面辨识度，背景要简，不要加入复杂建筑细节，画面留白处配上合适的文字",
+      "author": "liyue_ai",
+      "author_url": "https://x.com/liyue_ai",
+      "post_url": "https://x.com/liyue_ai/status/2114272622464950719",
+      "date": "2026-10-25T16:27:29+08:00",
+      "likes": 9,
+      "language": "zh",
+      "images": [
+        "images/2114272622464950719_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -6514,6 +6790,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2114152038926032952",
+      "prompt": "Isometric miniature diorama of a tiny nighttime ramen shop, crafted like a detailed collectible toy set on a plain soft-gray studio surface. Cutaway shop box: warm orange interior light, four miniature stools at a narrow counter, steaming bowls with soft vapor curls, tiny chopsticks, a small chalkboard menu with illegible miniature marks (no readable brand names), hanging paper lanterns, a bicycle parked outside the shop front, rain-wet asphalt with puddle reflections, a tiny orange tabby cat under the eaves. Stylized 3D toy/miniature aesthetic, clean plastic and painted wood materials, subtle subsurface glow from interior lamps, shallow depth of field, centered isometric three-quarter view, cheerful cozy mood. No logos, no watermark, no real restaurant brands, no readable English brand text, square-friendly vertical 4:5 composition.\n\n—\n\nInspired by @Framer_X",
+      "author": "Alyssa4aicreate",
+      "author_url": "https://x.com/Alyssa4aicreate",
+      "post_url": "https://x.com/Alyssa4aicreate/status/2114152038926032952",
+      "date": "2026-10-25T08:28:19+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2114152038926032952_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107636141109153812",
       "prompt": "Character: Ana, 38, Brazilian mother, realistic photographic, for an emotional drama TV commercial. Tired warm eyes, light freckles, dark hair in a loose low bun, oversized oatmeal knit cardigan over a white tee, straight-leg jeans, bare feet. Natural daylight, true-to-life skin texture, 35mm photography.",
       "author": "jackson99ai",
@@ -7689,6 +7979,107 @@
         "images/2113983692163183099_0.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2114397763631005940",
+      "prompt": "著名品牌图形意象 × 谐振曲线艺术 × 连续墨迹 × 艺术留白\n\n每张随机选择一个不同的著名品牌图形标志，仅选择轮廓简洁、圆弧舒展、内部细节少、单色仍易辨认的图形。保留标志的关键比例、开口与部件关系。\n\n以平滑、等细的连续回环形成品牌整体意象。轨迹穿行于主体内部，通过整体包络、聚散与留白建立形态。相邻回环按协调的复合周期缓慢缩小、偏移，呈现自然衰减与连贯的运动节奏。\n\n线条舒展优美，弧度连续，间距渐变，交点平缓迁移。疏密层次清楚，交叉处保持清晰，最密区域仍能分辨细线，整体通透有序。\n\n每张独立变化品牌、周期关系、初始相位、衰减程度与构图，同批品牌和主要曲线结构各异。\n\n每张采用一种品牌代表色墨水，笔迹纤细均匀，叠色克制。细腻平滑白纸，纸纹轻微，四周舒适留白，精密墨线绘画的平面扫描质感。\n\n9:16竖幅，n=10，连续生成10张独立单图，每次仅1张，不拼图。\n\n左下签名：深蓝色实心圆点在前，空格后白色手写体「DeepBlue」。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2114397763631005940",
+      "date": "2026-10-26T00:44:45+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2114397763631005940_0.jpg",
+        "images/2114397763631005940_1.jpg",
+        "images/2114397763631005940_2.jpg",
+        "images/2114397763631005940_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114394055106760886",
+      "prompt": "A mom Guinea pig drinking champagne on a business class flight from Dublin to Boston with 2 teenage Guinea pig boys. The view from the window should show Harvard and MIT",
+      "author": "Yeti_Images",
+      "author_url": "https://x.com/Yeti_Images",
+      "post_url": "https://x.com/Yeti_Images/status/2114394055106760886",
+      "date": "2026-10-26T00:30:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2114394055106760886_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114390279411159231",
+      "prompt": "A mom Guinea pig flying with 2 teenage boy Guinea pigs in business class from Dublin to Boston. The view from the window should be of the famous universities mit and Harvard",
+      "author": "Yeti_Images",
+      "author_url": "https://x.com/Yeti_Images",
+      "post_url": "https://x.com/Yeti_Images/status/2114390279411159231",
+      "date": "2026-10-26T00:15:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2114390279411159231_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114386504612982996",
+      "prompt": "A mom guinea pig and two teenage boy guinea pigs flying in business class to boston",
+      "author": "Yeti_Images",
+      "author_url": "https://x.com/Yeti_Images",
+      "post_url": "https://x.com/Yeti_Images/status/2114386504612982996",
+      "date": "2026-10-26T00:00:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2114386504612982996_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114382729659789316",
+      "prompt": "A mom guinea pig and 2 boy guinea pigs flying in business class to Boston",
+      "author": "Yeti_Images",
+      "author_url": "https://x.com/Yeti_Images",
+      "post_url": "https://x.com/Yeti_Images/status/2114382729659789316",
+      "date": "2026-10-25T23:45:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2114382729659789316_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114378954916126956",
+      "prompt": "A mom guinea pig and 2 teenage boy guinea pigs flying in business class to Boston",
+      "author": "Yeti_Images",
+      "author_url": "https://x.com/Yeti_Images",
+      "post_url": "https://x.com/Yeti_Images/status/2114378954916126956",
+      "date": "2026-10-25T23:30:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2114378954916126956_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2114375180478812222",
+      "prompt": "A mom Guinea pig and 2 teenage boy Guinea pigs flying in business class to Boston Massachusetts",
+      "author": "Yeti_Images",
+      "author_url": "https://x.com/Yeti_Images",
+      "post_url": "https://x.com/Yeti_Images/status/2114375180478812222",
+      "date": "2026-10-25T23:15:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2114375180478812222_0.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097418434929705291",

@@ -34,6 +34,7 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2114275521320386982",  # alanblogsooooo: 2026-10-26 review, body-focused suggestive coser pose
     "2113873415882866834",  # alanblogsooooo: 2026-10-25 review, body-focused suggestive mirror selfie
     "2114013548611317864",  # HumblyAlex: 2026-10-25 review, chat-screenshot commentary, not a prompt
     "2113941069549404359",  # Shoji_ai: 2026-10-25 review, puzzle answer key, not a prompt
@@ -130,6 +131,19 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2114383271672856653',  # Miraai_creates - revealing armor outfit, borderline suggestive (2026-10-26 review)
+    '2114466414551572626',  # johnmccoyx - model comparison commentary, not a prompt (2026-10-26 review)
+    '2114272433503138075',  # NaoyaCreates - setup/cost note for a comparison, not a prompt (2026-10-26 review)
+    '2114293043037970508',  # aisamsonreal - comparison question, not a prompt (2026-10-26 review)
+    '2114328135420293145',  # Adam38363368936 - only a first-frame instruction, not a prompt (2026-10-26 review)
+    '2114356249919881419',  # AsWill11 - commentary about another creator clip, not a prompt (2026-10-26 review)
+    '2114338958301880457',  # doctorwasif - prompt cut off mid-sentence (2026-10-26 review)
+    '2114413297797837201',  # arsalannazir07 - prompt cut off mid-sentence (2026-10-26 review)
+    '2114220288443560087',  # itxsarmadd - prompt cut off mid-sentence (2026-10-26 review)
+    '2114271406435299746',  # AIVanta0 - prompt cut off mid-sentence (2026-10-26 review)
+    '2114176619019702641',  # MrJeff_Ai - prompt cut off mid-sentence (2026-10-26 review)
+    '2114403851365449987',  # Kim_harin05 - prompt cut off mid-sentence (2026-10-26 review)
+    '2114297177724129597',  # itxabdullaa - prompt cut off mid-sentence (2026-10-26 review)
     '2113867658101735469',  # ZentrixHQ - low-angle short-skirt game shot, borderline suggestive (2026-10-25 review)
     '2113986953435599342',  # swordBluesy - workflow description, not a prompt (2026-10-25 review)
     '2113808936952627547',  # octopusaia - news caption, not a prompt (2026-10-25 review)
