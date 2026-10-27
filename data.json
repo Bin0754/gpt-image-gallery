@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-26T08:17:18+08:00",
-  "count": 552,
+  "generated_at": "2026-10-27T08:10:50+08:00",
+  "count": 588,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -291,6 +291,55 @@
           "file": "2103139749540339890_0.jpg",
           "thumb": "2103139749540339890_0.jpg",
           "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114585881059459119",
+      "url": "https://x.com/oggii_0/status/2114585881059459119",
+      "author": "oggii_0",
+      "author_name": "Oogie",
+      "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_normal.jpg",
+      "created_at_utc": "2026-10-26T05:12:15.000Z",
+      "created_at_sh": "2026-10-26 13:12",
+      "likes": 294,
+      "reposts": 30,
+      "bookmarks": 185,
+      "lang": "",
+      "text": "Transform your photo into a 3D knitted stop-motion puppet using GPT Image 2.5. \n\nPrompt: Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph\n\nUse the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the",
+      "prompt": "Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph\n\nUse the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HViEf1naIAA2CAh.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114585707553628160",
+          "file": "2114585881059459119_0.jpg",
+          "thumb": "2114585881059459119_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HViEfy1bAAA1V0J.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114585706807099392",
+          "file": "2114585881059459119_1.jpg",
+          "thumb": "2114585881059459119_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HViEfzLbAAAX1or.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114585706899374080",
+          "file": "2114585881059459119_2.jpg",
+          "thumb": "2114585881059459119_2.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -937,6 +986,65 @@
           "file": "2101255283897139628_1.jpg",
           "thumb": "2101255283897139628_1.jpg",
           "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114588014034948562",
+      "url": "https://x.com/Ciri_ai/status/2114588014034948562",
+      "author": "Ciri_ai",
+      "author_name": "Ciri",
+      "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_normal.jpg",
+      "created_at_utc": "2026-10-26T05:20:44.000Z",
+      "created_at_sh": "2026-10-26 13:20",
+      "likes": 200,
+      "reposts": 19,
+      "bookmarks": 139,
+      "lang": "",
+      "text": "Transform your photo into a minimalist doodle illustration using GPT Image 2.5.\n\nPrompt: Transform the uploaded photo into a cute minimalist hand-drawn doodle illustration. Preserve the original people, pose, composition, and recognizable facial characteristics, but simplify them",
+      "prompt": "Transform the uploaded photo into a cute minimalist hand-drawn doodle illustration. Preserve the original people, pose, composition, and recognizable facial characteristics, but simplify them",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HViGkutaAAApXUW.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114587990622339072",
+          "file": "2114588014034948562_0.jpg",
+          "thumb": "2114588014034948562_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HViGkusaoAArAIe.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114587990618185728",
+          "file": "2114588014034948562_1.jpg",
+          "thumb": "2114588014034948562_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HViGkuwbIAAegbp.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114587990634995712",
+          "file": "2114588014034948562_2.jpg",
+          "thumb": "2114588014034948562_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HViGku2aEAA47j6.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114587990660091904",
+          "file": "2114588014034948562_3.jpg",
+          "thumb": "2114588014034948562_3.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -3629,6 +3737,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114638446430208257",
+      "url": "https://x.com/Naiknelofar788/status/2114638446430208257",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-26T08:41:08.000Z",
+      "created_at_sh": "2026-10-26 16:41",
+      "likes": 78,
+      "reposts": 9,
+      "bookmarks": 34,
+      "lang": "",
+      "text": "GPT image 2.5 \n\nPrompt:\nCreate an elegant, minimalist hand-drawn architectural sketch of [LANDMARK NAME], located in [CITY, COUNTRY].\n\nIllustrate the landmark using delicate graphite pencil strokes, fine contour lines, subtle cross-hatching, and natural hand-drawn imperfections.",
+      "prompt": "Create an elegant, minimalist hand-drawn architectural sketch of [LANDMARK NAME], located in [CITY, COUNTRY].\n\nIllustrate the landmark using delicate graphite pencil strokes, fine contour lines, subtle cross-hatching, and natural hand-drawn imperfections.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVi0bbOa0AA3JN1.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2114638408308150272",
+          "file": "2114638446430208257_0.jpg",
+          "thumb": "2114638446430208257_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVi0bbNbEAAHHl3.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2114638408303972352",
+          "file": "2114638446430208257_1.jpg",
+          "thumb": "2114638446430208257_1.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVi0bbrbMAAZg9x.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2114638408429809664",
+          "file": "2114638446430208257_2.jpg",
+          "thumb": "2114638446430208257_2.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVi0bbPa0AA86pJ.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2114638408312344576",
+          "file": "2114638446430208257_3.jpg",
+          "thumb": "2114638446430208257_3.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2113465947784953958",
       "url": "https://x.com/Ziha_ai/status/2113465947784953958",
       "author": "Ziha_ai",
@@ -4928,6 +5095,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114608948531933410",
+      "url": "https://x.com/Goodmanprotocol/status/2114608948531933410",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-26T06:43:55.000Z",
+      "created_at_sh": "2026-10-26 14:43",
+      "likes": 59,
+      "reposts": 3,
+      "bookmarks": 38,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nUsing ChatGPT’s creative capabilities and the provided reference image, create a high-resolution, exquisitely detailed commercial product photograph blended with a warm, sunlit lifestyle photography aesthetic.\n\nSUBJECT / THEME: [PRODUCT OR COLLECTION THEME]",
+      "prompt": "Using ChatGPT’s creative capabilities and the provided reference image, create a high-resolution, exquisitely detailed commercial product photograph blended with a warm, sunlit lifestyle photography aesthetic.\n\nSUBJECT / THEME: [PRODUCT OR COLLECTION THEME]",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HViZnKGa0AA_pe2.jpg",
+          "w": 750,
+          "h": 1200,
+          "media_key": "3_2114608923055673344",
+          "file": "2114608948531933410_0.jpg",
+          "thumb": "2114608948531933410_0.jpg",
+          "tw": 300,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HViZn6ZaYAAAMJp.jpg",
+          "w": 750,
+          "h": 1200,
+          "media_key": "3_2114608936020238336",
+          "file": "2114608948531933410_1.jpg",
+          "thumb": "2114608948531933410_1.jpg",
+          "tw": 300,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2102720999066329349",
       "url": "https://x.com/Adnan_Ai2/status/2102720999066329349",
       "author": "Adnan_Ai2",
@@ -5192,6 +5398,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114771358823358914",
+      "url": "https://x.com/churvikv/status/2114771358823358914",
+      "author": "churvikv",
+      "author_name": "Viki",
+      "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_normal.jpg",
+      "created_at_utc": "2026-10-26T17:29:17.000Z",
+      "created_at_sh": "2026-10-27 01:29",
+      "likes": 57,
+      "reposts": 6,
+      "bookmarks": 3,
+      "lang": "",
+      "text": "A shooting star.\nMake your wish come true\n\nCreated in @ImagineArt_X\nmodel: GPT Image 2.5 Sunburst\n\n🏞 Prompt:\nPainterly digital illustration of a magical twilight lake at the meeting of day and night, wide 16:9 panoramic composition, airbrushed smooth gradient rendering, luminous",
+      "prompt": "Painterly digital illustration of a magical twilight lake at the meeting of day and night, wide 16:9 panoramic composition, airbrushed smooth gradient rendering, luminous",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVks_lDWYAAe5p_.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2114770970816700416",
+          "file": "2114771358823358914_0.jpg",
+          "thumb": "2114771358823358914_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2113604142908555532",
       "url": "https://x.com/SethCritchley/status/2113604142908555532",
       "author": "SethCritchley",
@@ -5357,6 +5592,55 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114641889316286681",
+      "url": "https://x.com/MrDasCreates/status/2114641889316286681",
+      "author": "MrDasCreates",
+      "author_name": "Mr Das",
+      "avatar": "https://pbs.twimg.com/profile_images/2099489608006582272/UunROOIJ_normal.jpg",
+      "created_at_utc": "2026-10-26T08:54:49.000Z",
+      "created_at_sh": "2026-10-26 16:54",
+      "likes": 54,
+      "reposts": 5,
+      "bookmarks": 28,
+      "lang": "",
+      "text": "Turn your photo into a premium handcrafted needle-felted wool illustration using GPT Image 2.5\n\nPrompt: Transform the uploaded photo into a Needle Felted Fiber Art. Handcrafted needle-felted wool miniature style, simplified rounded forms, minimal facial details, soft fuzzy",
+      "prompt": "Transform the uploaded photo into a Needle Felted Fiber Art. Handcrafted needle-felted wool miniature style, simplified rounded forms, minimal facial details, soft fuzzy",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVi3lRAa0AAwXBu.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2114641875898650624",
+          "file": "2114641889316286681_0.jpg",
+          "thumb": "2114641889316286681_0.jpg",
+          "tw": 480,
+          "th": 270
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVi3lQ_aQAAhY7Z.jpg",
+          "w": 912,
+          "h": 1200,
+          "media_key": "3_2114641875894419456",
+          "file": "2114641889316286681_1.jpg",
+          "thumb": "2114641889316286681_1.jpg",
+          "tw": 365,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVi3lRAagAA2AAO.jpg",
+          "w": 870,
+          "h": 1200,
+          "media_key": "3_2114641875898630144",
+          "file": "2114641889316286681_2.jpg",
+          "thumb": "2114641889316286681_2.jpg",
+          "tw": 348,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107865780146893027",
       "url": "https://x.com/DeepBlueX0/status/2107865780146893027",
       "author": "DeepBlueX0",
@@ -5499,6 +5783,45 @@
           "thumb": "2113136305123242185_2.jpg",
           "tw": 480,
           "th": 320
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114739050003447974",
+      "url": "https://x.com/Goodmanprotocol/status/2114739050003447974",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-26T15:20:54.000Z",
+      "created_at_sh": "2026-10-26 23:20",
+      "likes": 52,
+      "reposts": 5,
+      "bookmarks": 20,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nUNIVERSAL PROMPT - RETRO POP ART COMIC COLLAGE PORTRAIT | 3:4\n\nUsing the uploaded photograph as the primary reference, transform the subject into a striking vintage pop-art comic book collage poster.\n\nCOMPOSITION: Create an intricate arrangement of multiple rectangular comic panels featuring different close-up crops of the same subject’s face, eyes, eyebrows, hair, ears, nose, lips, and facial details. Use varied panel sizes and orientations, separated by thick, bold black borders. Include a few small graphic panels with hand-drawn symbols, such as crossed-out eyes or a simple heart, for an authentic editorial collage aesthetic.\n\nART STYLE: Classic retro comic-book illustration, 1960s pop art, Japanese manga-inspired ink drawing, bold black linework, high-contrast shadows, fine halftone dots, vintage screen-print textures, subtle distressed paper grain, and hand-inked detailing.\n\nCOLOR PALETTE: Vivid scarlet red background, warm cream and pale beige skin tones, deep solid black ink, and minimal off-white highlights. Maintain a limited three-color print aesthetic with strong contrast.\n\nREFERENCE ACCURACY: Preserve the subject’s recognizable facial features, hairstyle, facial hair, skin tone, and overall identity from the uploaded photograph. Every panel must depict the same person, with consistent facial characteristics. Use dramatic close-up crops and varied framing while keeping the portrait visually coherent.\n\nLAYOUT & FINISH: Fill the canvas with an asymmetrical, tightly packed comic-panel grid. Use clean, thick black dividers, sharp graphic composition, authentic vintage print imperfections, and a bold underground-comic editorial mood. No photorealistic rendering; the entire portrait must look hand-drawn and printed.\n\nOUTPUT: High-resolution, 3:4 vertical portrait poster, edge-to-edge composition, crisp ink details, professional graphic design, visually striking retro pop-art aesthetic. No watermark, no additional text, no logos.",
+      "prompt": "UNIVERSAL PROMPT - RETRO POP ART COMIC COLLAGE PORTRAIT | 3:4\n\nUsing the uploaded photograph as the primary reference, transform the subject into a striking vintage pop-art comic book collage poster.\n\nCOMPOSITION: Create an intricate arrangement of multiple rectangular comic panels featuring different close-up crops of the same subject’s face, eyes, eyebrows, hair, ears, nose, lips, and facial details. Use varied panel sizes and orientations, separated by thick, bold black borders. Include a few small graphic panels with hand-drawn symbols, such as crossed-out eyes or a simple heart, for an authentic editorial collage aesthetic.\n\nART STYLE: Classic retro comic-book illustration, 1960s pop art, Japanese manga-inspired ink drawing, bold black linework, high-contrast shadows, fine halftone dots, vintage screen-print textures, subtle distressed paper grain, and hand-inked detailing.\n\nCOLOR PALETTE: Vivid scarlet red background, warm cream and pale beige skin tones, deep solid black ink, and minimal off-white highlights. Maintain a limited three-color print aesthetic with strong contrast.\n\nREFERENCE ACCURACY: Preserve the subject’s recognizable facial features, hairstyle, facial hair, skin tone, and overall identity from the uploaded photograph. Every panel must depict the same person, with consistent facial characteristics. Use dramatic close-up crops and varied framing while keeping the portrait visually coherent.\n\nLAYOUT & FINISH: Fill the canvas with an asymmetrical, tightly packed comic-panel grid. Use clean, thick black dividers, sharp graphic composition, authentic vintage print imperfections, and a bold underground-comic editorial mood. No photorealistic rendering; the entire portrait must look hand-drawn and printed.\n\nOUTPUT: High-resolution, 3:4 vertical portrait poster, edge-to-edge composition, crisp ink details, professional graphic design, visually striking retro pop-art aesthetic. No watermark, no additional text, no logos.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkP7yTbsAAfEJn.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114739019817136128",
+          "file": "2114739050003447974_0.jpg",
+          "thumb": "2114739050003447974_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVkP8vHaYAA67sC.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114739036141281280",
+          "file": "2114739050003447974_1.jpg",
+          "thumb": "2114739050003447974_1.jpg",
+          "tw": 360,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -5694,6 +6017,94 @@
           "file": "2113116871843258767_3.jpg",
           "thumb": "2113116871843258767_3.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114665845158793317",
+      "url": "https://x.com/Shoji_ai/status/2114665845158793317",
+      "author": "Shoji_ai",
+      "author_name": "Shoji Kai",
+      "avatar": "https://pbs.twimg.com/profile_images/1909166393603584001/bYy80jin_normal.jpg",
+      "created_at_utc": "2026-10-26T10:30:00.000Z",
+      "created_at_sh": "2026-10-26 18:30",
+      "likes": 50,
+      "reposts": 3,
+      "bookmarks": 2,
+      "lang": "ja",
+      "text": "【4匹を探せ】16ビットのドット絵風の駅前の街🎮\n\n90年代のゲーム画面のような、ドット絵風の駅前の街です。\nいつもの猫3匹（茶トラ・ハチワレ・三毛）と、Shoji Catが、4か所にいます。全員見つけられた？\n\n答えは一番下の返信に👇\n\n画像はAI（GPT Image 2.5）で作りました。プロンプトは返信に。",
+      "prompt": "答え合わせ🐈\n黄色い丸の中に4匹います。\n・ハチワレ：左、八百屋の店先の野菜箱のあいだ\n・茶トラ：上のほう、公園の池のほとりの岩の上\n・Shoji Cat：駅前広場の真ん中、ステージのそばで手を上げて踊っています\n・三毛：右の噴水の縁（奥のほう）\n\n———\n\nプロンプト：GPT Image 2.5\n\nA 16-bit pixel-art picture in the style of a Super Nintendo era game, horizontal 3:2, a \"find the hidden cats\" picture in the spirit of a classic seek-and-find book: a whole busy Japanese station town seen from an extremely high and wide oblique top-down view, like the overworld of a 16-bit city game, so that everything is tiny and there is an enormous amount to look at. In the middle a big station building with a green tiled roof and a clock, a plaza in front of it with a round fountain and benches, a small wooden outdoor stage where a street band plays, bus stops, a bus, taxis; a long covered shopping street running left to right with dozens of tiny shops with striped awnings (greengrocer with crates of vegetables, bakery, flower shop, ramen shop, barber, sweets, game arcade); train tracks with a train and a level crossing; a park with a pond, a stone bridge, willows and cherry blossoms; a school with a running track; a hillside shrine with red torii gates and stone steps; a river with bridges; a harbour with a ferry, a crane and a lighthouse; apartment blocks, narrow alleys, parked cars, vending machines. About 200 minuscule people drawn as tiny sprites, each doing something: commuters, a busker band, kids in school uniforms, shopkeepers, a mother with a stroller, joggers, delivery workers. A standing person is only about 3% of the picture height. There are no animals of any kind in the town except the four cats below (no birds, dogs, fish or carp, no mascot costumes, no animal-shaped rides, signs or statues).\n\nThe look is the point: authentic 16-bit pixel art with a strict pixel grid, every game pixel one crisp square block of a single flat colour and the same pixel size everywhere (about 512 x 340 game pixels), hard aliased edges, no anti-aliasing, no blur, no smooth gradients, a limited SNES-like palette with dithering for shading, bright saturated sunny colours, dark outlines on the sprites. It must read as a real 16-bit game screen. No user interface of any kind: no HUD, dialogue boxes, menus, minimap, border or frame, no title.\n\nExactly one small logo: a small black signboard above the door of the bakery on the shopping street in the right half, about 4% of the picture width, with a cream-white paw print whose big pad holds a swirling ocean wave, and the word \"Shoji\" in white cursive brush lettering to its right, drawn in white pixels. Apart from that sign there are no letters, words or numbers anywhere.\n\nExactly four cats are hidden in the scene and no other cat or animal anywhere. The cats are all tiny, redrawn as 16-bit sprites, in the same middle band of the picture, each in the open and never hidden behind anything, none in the lower third; the three real cats are each only about 1.5% of the picture height, well under half the height of a standing person, and wear a thin red collar with a tiny gold bell:\n1. a black-and-white \"hachiware\" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright in front of the greengrocer's shop among crates of vegetables, in the left half;\n2. a brown mackerel tabby (warm brown fur with dark stripes, white muzzle and chest) sitting upright on a flat grey rock at the edge of the park pond, upper middle of the picture;\n3. a calico cat (white with orange and black patches) sitting on the stone rim of the station plaza fountain on its far right side, next to the people on the bench;\n4. Shoji Cat, an upright orange tabby cat about three heads tall in a black leather jacket, denim shorts, cream sneakers and black wayfarer sunglasses, dancing with one arm raised among the crowd in front of the street band's stage in the station plaza, about one and a half times as tall as each of the other three cats.\nNo dark round objects or dark animal-like shapes that could be mistaken for a cat. No watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HViP9fRb0AA1E0g.jpg",
+          "w": 1200,
+          "h": 796,
+          "media_key": "3_2114598311579865088",
+          "file": "2114665845158793317_0.jpg",
+          "thumb": "2114665845158793317_0.jpg",
+          "tw": 480,
+          "th": 318
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114563480355561938",
+      "url": "https://x.com/Naiknelofar788/status/2114563480355561938",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-26T03:43:15.000Z",
+      "created_at_sh": "2026-10-26 11:43",
+      "likes": 49,
+      "reposts": 3,
+      "bookmarks": 17,
+      "lang": "",
+      "text": "GPT image 2.5 \n\nPrompt: \nCreate a premium, photorealistic 3D mockup of a beautifully designed hardcover travel book about [COUNTRY / CITY / DESTINATION], styled like a real, finished book ready to be picked up and opened.\n\n1. Physical book presentation\n\nShow the book standing",
+      "prompt": "Create a premium, photorealistic 3D mockup of a beautifully designed hardcover travel book about [COUNTRY / CITY / DESTINATION], styled like a real, finished book ready to be picked up and opened.\n\n1. Physical book presentation\n\nShow the book standing",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVhwPwqakAEW4mq.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114563441113600001",
+          "file": "2114563480355561938_0.jpg",
+          "thumb": "2114563480355561938_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhwPwxb0AAw9C7.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114563441143042048",
+          "file": "2114563480355561938_1.jpg",
+          "thumb": "2114563480355561938_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhwPwsbkAAnI1j.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114563441122054144",
+          "file": "2114563480355561938_2.jpg",
+          "thumb": "2114563480355561938_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhwPwoboAAVk2N.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114563441105281024",
+          "file": "2114563480355561938_3.jpg",
+          "thumb": "2114563480355561938_3.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -6735,6 +7146,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114688658746028256",
+      "url": "https://x.com/Goodmanprotocol/status/2114688658746028256",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-26T12:00:39.000Z",
+      "created_at_sh": "2026-10-26 20:00",
+      "likes": 40,
+      "reposts": 2,
+      "bookmarks": 12,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nUNIVERSAL PROMPT JAPANESE COMIC POSTER | 3:4\n\nCreate a 3:4 vertical comparison image divided into two equal horizontal halves, seamlessly joined without borders or gaps.\n\nTOP HALF: Display the uploaded photograph exactly as it is, without editing, recoloring, or adding text. Preserve proportions; crop only peripheral background if necessary.\n\nBOTTOM HALF: Redraw the same subject as a Japanese hand-drawn comic poster with minimalist, limited-color screen-print aesthetics. Preserve the subject's recognizable features, pose, proportions, colors, and relationships between objects. Adapt naturally to people, animals, objects, or landscapes. Keep the essential scenery and add nothing absent from the original photograph.\n\nART STYLE: Delicate, slightly irregular ink-black outlines (#02030B), simplified shapes, clean opaque color blocks, and minimal hard-edged shadows. Use warm red (#E9444B), muted gray-blue (#5296BD), and off-white paper (#ECEDE5), with red dominant over blue. Avoid photorealistic textures, dense hatching, 3D effects, and excessive details.\n\nLAYOUT & TEXT: Position the illustration in the upper-middle of the bottom half, with generous negative space and bold, hand-carved typography below. Add a small handwritten, subject-related caption at the top and a short handwritten annotation beside the subject, both in black. The main headline reads “Jen” in warm red on the first line and “Style” in gray-blue on the second. Each appears once. Keep all text within the bottom half, fully legible and uncropped. Replace sample text only when the user provides alternatives.\n\nFINAL RESULT: One complete 3:4 image, with the untouched original photograph above and its Japanese hand-drawn, limited-color poster interpretation below. No extra borders, watermarks, invented elements, or decorative clutter.",
+      "prompt": "UNIVERSAL PROMPT JAPANESE COMIC POSTER | 3:4\n\nCreate a 3:4 vertical comparison image divided into two equal horizontal halves, seamlessly joined without borders or gaps.\n\nTOP HALF: Display the uploaded photograph exactly as it is, without editing, recoloring, or adding text. Preserve proportions; crop only peripheral background if necessary.\n\nBOTTOM HALF: Redraw the same subject as a Japanese hand-drawn comic poster with minimalist, limited-color screen-print aesthetics. Preserve the subject's recognizable features, pose, proportions, colors, and relationships between objects. Adapt naturally to people, animals, objects, or landscapes. Keep the essential scenery and add nothing absent from the original photograph.\n\nART STYLE: Delicate, slightly irregular ink-black outlines (#02030B), simplified shapes, clean opaque color blocks, and minimal hard-edged shadows. Use warm red (#E9444B), muted gray-blue (#5296BD), and off-white paper (#ECEDE5), with red dominant over blue. Avoid photorealistic textures, dense hatching, 3D effects, and excessive details.\n\nLAYOUT & TEXT: Position the illustration in the upper-middle of the bottom half, with generous negative space and bold, hand-carved typography below. Add a small handwritten, subject-related caption at the top and a short handwritten annotation beside the subject, both in black. The main headline reads “Jen” in warm red on the first line and “Style” in gray-blue on the second. Each appears once. Keep all text within the bottom half, fully legible and uncropped. Replace sample text only when the user provides alternatives.\n\nFINAL RESULT: One complete 3:4 image, with the untouched original photograph above and its Japanese hand-drawn, limited-color poster interpretation below. No extra borders, watermarks, invented elements, or decorative clutter.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjiHCNbMAAl3Ji.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114688635530588160",
+          "file": "2114688658746028256_0.jpg",
+          "thumb": "2114688658746028256_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjiHyOaQAEt9n_.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114688648419622913",
+          "file": "2114688658746028256_1.jpg",
+          "thumb": "2114688658746028256_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107463388292911316",
       "url": "https://x.com/imGopalTiwari/status/2107463388292911316",
       "author": "imGopalTiwari",
@@ -7257,6 +7707,45 @@
           "file": "2113291734042202422_2.jpg",
           "thumb": "2113291734042202422_2.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114692879633600755",
+      "url": "https://x.com/SethCritchley/status/2114692879633600755",
+      "author": "SethCritchley",
+      "author_name": "Super Producer Seth",
+      "avatar": "https://pbs.twimg.com/profile_images/2063093484651991041/BEV3V158_normal.jpg",
+      "created_at_utc": "2026-10-26T12:17:26.000Z",
+      "created_at_sh": "2026-10-26 20:17",
+      "likes": 37,
+      "reposts": 11,
+      "bookmarks": 2,
+      "lang": "en",
+      "text": "Good Monday X fam!! 👋🏻\n\nToday's Pop Culture Stand-In | Daily Prompt Share Theme: National Pumpkin Day 🎃\n(It's the Great Pumpkin, Charlie Brown)\n\nWHAT YOU’LL NEED:\n• The first reference image in this post.\n• A reference image of yourself or any character you want to throw into the scene.\n\n⚠️ Chat GPT or GPT Image 2.5 Recommended ⚠️\n\nPrompt:\nKeeping the exact art style, pose and color pallete from the first image create a new image Using my uploaded photo (reference image 2), turn me into a fun Peanuts-inspired version of myself. Popping my head out of the top of a jack-o-lantern with a tiny adorable Boston Terrier sitting on my head. Make it in the identical art style from the first reference image, fun, and high quality. 8k resolution, 2:3 format, octane render.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Victory Monday \n\n#LaughingDawgS #WeirdArtRebels #MondayMotivation #MondayVibes",
+      "prompt": "Keeping the exact art style, pose and color pallete from the first image create a new image Using my uploaded photo (reference image 2), turn me into a fun Peanuts-inspired version of myself. Popping my head out of the top of a jack-o-lantern with a tiny adorable Boston Terrier sitting on my head. Make it in the identical art style from the first reference image, fun, and high quality. 8k resolution, 2:3 format, octane render.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Victory Monday",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjl9O1aMAA2mXz.jpg",
+          "w": 894,
+          "h": 1200,
+          "media_key": "3_2114692865167339520",
+          "file": "2114692879633600755_0.jpg",
+          "thumb": "2114692879633600755_0.jpg",
+          "tw": 357,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjl9iHaYAAsKpy.jpg",
+          "w": 799,
+          "h": 1200,
+          "media_key": "3_2114692870343122944",
+          "file": "2114692879633600755_1.jpg",
+          "thumb": "2114692879633600755_1.jpg",
+          "tw": 319,
           "th": 480
         }
       ],
@@ -8884,6 +9373,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114514848881238084",
+      "url": "https://x.com/Gdgtify/status/2114514848881238084",
+      "author": "Gdgtify",
+      "author_name": "Gadgetify",
+      "avatar": "https://pbs.twimg.com/profile_images/499964793130741761/ob9oRmW6_normal.png",
+      "created_at_utc": "2026-10-26T00:30:00.000Z",
+      "created_at_sh": "2026-10-26 08:30",
+      "likes": 26,
+      "reposts": 1,
+      "bookmarks": 20,
+      "lang": "en",
+      "text": "Ran this prompt again. I feel it has potential. \n\nGPT Image 2.5 Sunburst prompt.\n\nPrompt: 2x2 grid, 16:9, do this for 4 days that changed history:  Create a conceptual museum-style illustration for [SUBJECT].\nAnalyze the subject and choose one real physical object that serves as its strongest material metaphor. Photograph that object in realistic tactile detail and make it feel monumental, like a landscape, landmark, machine, territory, or sacred artifact.\nAround and across the object, draw a tiny subject-specific civilization in very thin black ink. Infer appropriate people, buildings, tools, roads, symbols, events, systems, and activities from the subject. Tiny figures may climb, build, excavate, measure, study, trade, transport, map, repair, worship, or explore the object.\nThe scale contrast is essential:\nREAL OBJECT = enormous terrain\nDRAWN WORLD = tiny human-scale environment\nTransform the object into a major concept or landmark unique to [SUBJECT]. Do not use a generic metaphor.\nBehind the composition, add an extremely faint geometric identity-construction system made from circles, grids, axes, tangencies, measurement arrows, registration marks, and proportional guides.",
+      "prompt": "2x2 grid, 16:9, do this for 4 days that changed history:  Create a conceptual museum-style illustration for [SUBJECT].\nAnalyze the subject and choose one real physical object that serves as its strongest material metaphor. Photograph that object in realistic tactile detail and make it feel monumental, like a landscape, landmark, machine, territory, or sacred artifact.\nAround and across the object, draw a tiny subject-specific civilization in very thin black ink. Infer appropriate people, buildings, tools, roads, symbols, events, systems, and activities from the subject. Tiny figures may climb, build, excavate, measure, study, trade, transport, map, repair, worship, or explore the object.\nThe scale contrast is essential:\nREAL OBJECT = enormous terrain\nDRAWN WORLD = tiny human-scale environment\nTransform the object into a major concept or landmark unique to [SUBJECT]. Do not use a generic metaphor.\nBehind the composition, add an extremely faint geometric identity-construction system made from circles, grids, axes, tangencies, measurement arrows, registration marks, and proportional guides.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVOZTfFXIAImkbl.jpg",
+          "w": 1200,
+          "h": 671,
+          "media_key": "3_2113201210207444994",
+          "file": "2114514848881238084_0.jpg",
+          "thumb": "2114514848881238084_0.jpg",
+          "tw": 480,
+          "th": 268
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108650680684839381",
       "url": "https://x.com/imGopalTiwari/status/2108650680684839381",
       "author": "imGopalTiwari",
@@ -9468,6 +9986,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114733359364804730",
+      "url": "https://x.com/mehvishs25/status/2114733359364804730",
+      "author": "mehvishs25",
+      "author_name": "Meem",
+      "avatar": "https://pbs.twimg.com/profile_images/2012472188067278848/cp_m4VoD_normal.jpg",
+      "created_at_utc": "2026-10-26T14:58:17.000Z",
+      "created_at_sh": "2026-10-26 22:58",
+      "likes": 23,
+      "reposts": 0,
+      "bookmarks": 12,
+      "lang": "en",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt;\nCreate a photorealistic portrait of the same girl from the reference image, preserving her exact facial features and identity. Shot on an iPhone 16 Pro from a low angle, her head tilted slightly backward, eyes closed, face turned toward the sun, and lips gently closed in a peaceful expression.\n\nHer long, dark-brown hair is tied in a high ponytail, with loose strands blowing in the wind and glowing golden in the sunlight. She wears gold hoop earrings, a fitted white sleeveless tank top, and an oversized blue denim shirt.\n\nBackground: An open field of dry golden grass beneath a deep blue sky, delicate clouds, and a bright sun surrounded by a subtle rainbow halo and soft green lens flare.\n\nLighting & Makeup: Bright natural sunlight, warm skin tones, luminous cheekbones, softly defined brows, wispy lashes, delicate eyeliner, and dusty-pink lips.\n\nStyle: Ultra-realistic iPhone photography, vibrant colors, cinematic sun flare, natural skin texture, detailed hair and denim, subtle film grain, authentic candid Instagram aesthetic.\n\nNegative prompt: Changed facial features, plastic skin, excessive retouching, CGI, studio lighting, distorted anatomy, extra fingers, blurry face, overexposed sky, excessive glare, text, watermarks, or social media icons.",
+      "prompt": "Create a photorealistic portrait of the same girl from the reference image, preserving her exact facial features and identity. Shot on an iPhone 16 Pro from a low angle, her head tilted slightly backward, eyes closed, face turned toward the sun, and lips gently closed in a peaceful expression.\n\nHer long, dark-brown hair is tied in a high ponytail, with loose strands blowing in the wind and glowing golden in the sunlight. She wears gold hoop earrings, a fitted white sleeveless tank top, and an oversized blue denim shirt.\n\nBackground: An open field of dry golden grass beneath a deep blue sky, delicate clouds, and a bright sun surrounded by a subtle rainbow halo and soft green lens flare.\n\nLighting & Makeup: Bright natural sunlight, warm skin tones, luminous cheekbones, softly defined brows, wispy lashes, delicate eyeliner, and dusty-pink lips.\n\nStyle: Ultra-realistic iPhone photography, vibrant colors, cinematic sun flare, natural skin texture, detailed hair and denim, subtle film grain, authentic candid Instagram aesthetic.\n\nNegative prompt: Changed facial features, plastic skin, excessive retouching, CGI, studio lighting, distorted anatomy, extra fingers, blurry face, overexposed sky, excessive glare, text, watermarks, or social media icons.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkKwdXbUAESGXT.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114733327660044289",
+          "file": "2114733359364804730_0.jpg",
+          "thumb": "2114733359364804730_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVkKxf_bIAA6dxm.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114733345544544256",
+          "file": "2114733359364804730_1.jpg",
+          "thumb": "2114733359364804730_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097819439106510993",
       "url": "https://x.com/npaka123/status/2097819439106510993",
       "author": "npaka123",
@@ -9668,6 +10225,35 @@
           "thumb": "2112899640572145834_1.jpg",
           "tw": 400,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114594778843062682",
+      "url": "https://x.com/iamsofiaijaz/status/2114594778843062682",
+      "author": "iamsofiaijaz",
+      "author_name": "Aijaz",
+      "avatar": "https://pbs.twimg.com/profile_images/1967066723779309573/aDWbkVgi_normal.jpg",
+      "created_at_utc": "2026-10-26T05:47:37.000Z",
+      "created_at_sh": "2026-10-26 13:47",
+      "likes": 22,
+      "reposts": 1,
+      "bookmarks": 6,
+      "lang": "",
+      "text": "Inage created with Gpt image 2.5 \n\nPrompt 👇 \n\nA Close-up portrait of a woman long, sleek raven-black hair, wearing clear-framed glasses. She is wearing a transparent vinyl raincoat with black trim, holding the white curved handle of a blue umbrella. Her skin has a dewy,",
+      "prompt": "A Close-up portrait of a woman long, sleek raven-black hair, wearing clear-framed glasses. She is wearing a transparent vinyl raincoat with black trim, holding the white curved handle of a blue umbrella. Her skin has a dewy,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HViMvXwbkAAv2UR.jpg",
+          "w": 801,
+          "h": 1200,
+          "media_key": "3_2114594770509336576",
+          "file": "2114594778843062682_0.jpg",
+          "thumb": "2114594778843062682_0.jpg",
+          "tw": 320,
+          "th": 479
         }
       ],
       "nsfw_flag": false
@@ -10539,6 +11125,55 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114675663710064898",
+      "url": "https://x.com/leo_xiaolei/status/2114675663710064898",
+      "author": "leo_xiaolei",
+      "author_name": "刘老板",
+      "avatar": "https://pbs.twimg.com/profile_images/2113155075942285312/dYkpa2QZ_normal.jpg",
+      "created_at_utc": "2026-10-26T11:09:01.000Z",
+      "created_at_sh": "2026-10-26 19:09",
+      "likes": 18,
+      "reposts": 2,
+      "bookmarks": 4,
+      "lang": "zh",
+      "text": "WOW！！绝美的一组提示词，放大主角的 2D 扁平风格，支持任意图片转换。\n\n模型： GPT-Image 2.5\n\n提示词👇",
+      "prompt": "将上传的每一张照片转化为独立的高级编辑比照海报。不要将多张照片合在一起；在上传顺序中，单独处理每张照片。使用严格的3:4垂直画布，分为两个完全相同的部分，每个部分占总高度的50%。不要使用横向的对齐布局，添加第三部分，折叠线，分隔线，边框，框架，箭头或不必要的装饰。上半部分：忠实地保留原始照片作为真实的摄影图片，保持主题身份、可识别的特征、结构、比例、姿势、物体排列、真实的纹理、自然的照明、阴影、原始的色彩氛围和视觉的氛围。只应用极其微妙、精致的编辑色调评估，适合艺术杂志、展览或独立出版。如果需要，自然扩展周围背景区域，但不要伸展、扭曲、重新绘制、替换或改变主体。上半部分中没有文字。在设计下半部分之前：分析源头照片并识别出它的三个最强大的视觉记忆点：（1）主要的主题或人物，（2）最可识别的姿势，手势，互动或结构排列，以及（3）最具特征的物体，轮廓，配饰或场景元素。使用这些三个点作为转变的基础。下半部分：重新解释图片作为完成的高级平面几何性角色海报。不要应用简单的滤镜，字面翻译每个物体或替换它，或者重新绘制整个场景。从最可识别的主题、轮廓、结构节奏、姿势逻辑和叙事感中取出60-90%的次要细节，并重建构图，使用干净、精致的几何形状。 创造一个由原图灵感的成人角色，构成由几种超大非对称几何形状、一个小头、延长的胶囊形状、简单的手套风格和一个超大物体自然融入姿势和整体轮廓中。保留可识别的身份、重要的视觉特征、相关的服装提示、姿势逻辑和情感角色，同时简化形象为大胆的图形。如果源中没有人物，重新定义其主要主题为角色类的编辑形象，同时保留其定义结构、轮廓逻辑和关键视觉记忆点。风格：使用精致的现代平面几何编辑插图，采用非对称比例、清晰的色彩分隔、宽松的空白空间、柔和的空气涂抹、在形状重叠的地方只有微妙的深色到色彩的涂抹渐变。面部：只使用极简的平面几何编辑插图，包括简单的半月眼和极简的嘴唇。避免详细的面部渲染；通过轮廓、姿势、手势和完整的身体语言表达情感。色彩：严格使用温暖的白色 #F3F1EB，近黑色 #10100F，热粉色 #F553D2，温暖的红色 #F42726，碳酸 #293EA1，以及祖母绿 #13785D。保持颜色平坦、图形和控制，仅在形状重叠的地方使用柔和的渐变；避免喧闹或过度多彩的安排。组合：下半部分必须作为一个干净的独立编辑插图，保持与上方的原始照片显而易见的联系。保持角色作为主导的焦点，超大物体清晰可见，并自然影响轮廓，整体轮廓强烈且立即可读，且布局与宽松的空白空间保持平衡。 全球限制：不包含额外的文字、字幕、标签、标志、水印、Before/After的措辞、箭头、边框、装饰框架、底部半部分的真实主义、光泽3D、真实皮肤渲染、详细背景、杂物、额外的肢体、扭曲的解剖学，或者随机的物体。最终图片必须清楚地读成是一张高端的社交媒体友好顶级原创/底部转变的编辑比较海报。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjVwdKbQAEUvHk.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114675053489242113",
+          "file": "2114675663710064898_0.jpg",
+          "thumb": "2114675663710064898_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjVyb5a8AA3Luy.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114675087509221376",
+          "file": "2114675663710064898_1.jpg",
+          "thumb": "2114675663710064898_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjV0TAbQAATf8s.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114675119482421248",
+          "file": "2114675663710064898_2.jpg",
+          "thumb": "2114675663710064898_2.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108833915360481778",
       "url": "https://x.com/bmx_ai13/status/2108833915360481778",
       "author": "bmx_ai13",
@@ -10620,6 +11255,74 @@
           "file": "2114262700679471389_0.jpg",
           "thumb": "2114262700679471389_0.jpg",
           "tw": 287,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114723492281385249",
+      "url": "https://x.com/liyue_ai/status/2114723492281385249",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-26T14:19:04.000Z",
+      "created_at_sh": "2026-10-26 22:19",
+      "likes": 17,
+      "reposts": 6,
+      "bookmarks": 5,
+      "lang": "zh",
+      "text": "GPT Image 2.5生成古风服装：石榴明锦。\n\n提示词（欢迎返图）：\n9:16竖版，高精度风格化3D东方幻想女性角色原型，电影级CG角色美术，鲜艳华丽的中国色，服装材质精致梦幻，具有高级东方礼服气质。\n\n一位25岁左右的成年东方幻想女性，容貌明艳华美，细长清亮的眼睛，柔和鹅蛋脸，鼻梁秀挺，唇色自然饱满，肌肤白皙细腻且富有生命感，神态端庄、高贵、略带威仪。身形纤细，姿态优雅稳定。\n\n发型雕塑： 乌黑长发在头顶盘成饱满华丽的双层花冠髻，外围发束如盛开的花瓣般向外舒展，中央插有赤金花簪、细小石榴红宝石与竹青色玉叶饰件，耳侧垂下细长珠穗。\n\n服饰设计： 身穿石榴红为主的大体量东方幻想礼服。主裙采用厚实柔亮的高档织金缎料，布面有精致妆花纹样与细密暗纹，在光线下呈现丰富层次。肩部与袖口展开巨大的花瓣式结构，外层以象牙白半透明雾纱覆盖，营造柔和梦幻的空气感。内层局部加入竹青色里衬和绣片，形成鲜艳色彩中的冷色平衡。裙摆宽阔厚重，但外部覆纱轻盈飘逸。胸前、腰封与裙缘大量使用赤金细线浮绣、立体珠绣与细小亮片，增强富贵与精工感。\n\n色彩与材质控制： 石榴红为主色，竹青作为辅助点缀与局部层次，象牙白作为纱层缓冲与高光区，赤金用于绣纹、描边和头饰。整体重点突出重缎华丽光泽、雾纱梦幻覆盖、赤金刺绣与珠饰的精致奢华感。\n\n高品质stylized 3D CG，真实发丝、柔亮重缎、半透明雾纱、妆花织金纹样、精细珠绣与金属细节，明亮影棚柔光，中性暖灰背景，正面全身构图。避免婚服感过重、整图大红俗艳、塑料感、普通宫装、文字水印。",
+      "prompt": "9:16竖版，高精度风格化3D东方幻想女性角色原型，电影级CG角色美术，鲜艳华丽的中国色，服装材质精致梦幻，具有高级东方礼服气质。\n\n一位25岁左右的成年东方幻想女性，容貌明艳华美，细长清亮的眼睛，柔和鹅蛋脸，鼻梁秀挺，唇色自然饱满，肌肤白皙细腻且富有生命感，神态端庄、高贵、略带威仪。身形纤细，姿态优雅稳定。\n\n发型雕塑： 乌黑长发在头顶盘成饱满华丽的双层花冠髻，外围发束如盛开的花瓣般向外舒展，中央插有赤金花簪、细小石榴红宝石与竹青色玉叶饰件，耳侧垂下细长珠穗。\n\n服饰设计： 身穿石榴红为主的大体量东方幻想礼服。主裙采用厚实柔亮的高档织金缎料，布面有精致妆花纹样与细密暗纹，在光线下呈现丰富层次。肩部与袖口展开巨大的花瓣式结构，外层以象牙白半透明雾纱覆盖，营造柔和梦幻的空气感。内层局部加入竹青色里衬和绣片，形成鲜艳色彩中的冷色平衡。裙摆宽阔厚重，但外部覆纱轻盈飘逸。胸前、腰封与裙缘大量使用赤金细线浮绣、立体珠绣与细小亮片，增强富贵与精工感。\n\n色彩与材质控制： 石榴红为主色，竹青作为辅助点缀与局部层次，象牙白作为纱层缓冲与高光区，赤金用于绣纹、描边和头饰。整体重点突出重缎华丽光泽、雾纱梦幻覆盖、赤金刺绣与珠饰的精致奢华感。\n\n高品质stylized 3D CG，真实发丝、柔亮重缎、半透明雾纱、妆花织金纹样、精细珠绣与金属细节，明亮影棚柔光，中性暖灰背景，正面全身构图。避免婚服感过重、整图大红俗艳、塑料感、普通宫装、文字水印。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkBxuua0AAcqwK.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114723453895102464",
+          "file": "2114723492281385249_0.jpg",
+          "thumb": "2114723492281385249_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114729852725256201",
+      "url": "https://x.com/xiaoxiaodong/status/2114729852725256201",
+      "author": "xiaoxiaodong",
+      "author_name": "小小东",
+      "avatar": "https://pbs.twimg.com/profile_images/2046072820095176704/QBve47KI_normal.jpg",
+      "created_at_utc": "2026-10-26T14:44:21.000Z",
+      "created_at_sh": "2026-10-26 22:44",
+      "likes": 17,
+      "reposts": 3,
+      "bookmarks": 13,
+      "lang": "",
+      "text": "GPT2 x 字体 x 线描 x 美学提示词\n\nGPT-image2.5的字体开始有一点点意思了\n至少有时候， 会让我的一些想法\n开始有实现的可能了...\n\n比如这组提示词，汤底如下：\n\n```",
+      "prompt": "GPT-image2.5的字体开始有一点点意思了\n至少有时候， 会让我的一些想法\n开始有实现的可能了...\n\n比如这组提示词，汤底如下：\n\n```",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkHIMlaUAAgg67.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114729337425645568",
+          "file": "2114729852725256201_0.jpg",
+          "thumb": "2114729852725256201_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVkHJ1qbsAAJWpV.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114729365632430080",
+          "file": "2114729852725256201_1.jpg",
+          "thumb": "2114729852725256201_1.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -11135,6 +11838,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114533722401685513",
+      "url": "https://x.com/krienknight/status/2114533722401685513",
+      "author": "krienknight",
+      "author_name": "cyberkk",
+      "avatar": "https://pbs.twimg.com/profile_images/2065077377785577472/OPNI9LBa_normal.jpg",
+      "created_at_utc": "2026-10-26T01:45:00.000Z",
+      "created_at_sh": "2026-10-26 09:45",
+      "likes": 15,
+      "reposts": 1,
+      "bookmarks": 5,
+      "lang": "",
+      "text": "GPT-image2.5 生图 - 荷塘清梦 · 江南温婉古风\n\n看着像不像你的初恋女友\n\n提示词见评论区",
+      "prompt": "9:16 竖版，8K 超写实唯美古风人像摄影，一位 23–27 岁成年东方女性，清秀灵动，柔和的小鹅蛋脸，平顺颧部，精致小巧的鼻梁，清澈明亮的杏眼，薄而自然红润的嘴唇，白皙细腻、弹润透光的真实皮肤，轻薄淡雅妆容。\n\n深黑色长发采用半挽发髻造型，少量柔软碎发垂落脸颊，发间点缀淡绿色花簪与细小珍珠流苏。\n\n穿着浅青绿色唐风改良汉服，内层为淡绿色真丝抹胸式上襦，外层搭配绣有细小花卉纹饰的薄纱大袖衫，长裙由乳白与浅青绿层叠丝绸组成，裙摆宽大柔软，铺展在石阶表面。\n\n场景为江南古典园林的荷塘水岸，人物身后是石拱桥、亭台、垂柳、白墙黛瓦和大片粉色荷花，池水清澈，水面有细微涟漪。\n\n人物侧坐在荷塘边的青灰色石阶上，身体微微前倾，一只手自然放在膝盖上，另一只手向下伸入水面，指尖轻触池水形成圆形涟漪，头部轻微倾斜，面向镜头露出温柔浅笑。\n\n三分之二身到全身构图，略高于人物视线的侧前方机位，50mm 镜头，柔和自然散射光，前景荷花轻微虚化，背景园林景物层次分明。\n\n真实户外拍摄效果，皮肤质感自然，布料垂坠真实，避免浮夸仙气特效、动漫感及不合理肢体姿态。",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVfHLIdbkAAKTBn.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114377544137150464",
+          "file": "2114533722401685513_0.jpg",
+          "thumb": "2114533722401685513_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2098309691877241146",
       "url": "https://x.com/xueyu1125/status/2098309691877241146",
       "author": "xueyu1125",
@@ -11342,6 +12074,35 @@
           "media_key": "3_2113980532170354688",
           "file": "2113980547483812218_2.jpg",
           "thumb": "2113980547483812218_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114576943568105921",
+      "url": "https://x.com/liyue_ai/status/2114576943568105921",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-26T04:36:44.000Z",
+      "created_at_sh": "2026-10-26 12:36",
+      "likes": 14,
+      "reposts": 0,
+      "bookmarks": 4,
+      "lang": "",
+      "text": "GPT Image 2.5生成东方美学海报：屏间有度。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简高传播封面\n风格分支：女性审美新中式爆款型\n主体内容：一位古风女子从几扇错落摆放的极简折屏之间缓步走过\n情绪母题：雅致、轻奢、流动感\n场景与意象：极简折屏、海棠粉色块、青玉绿色块、女子、乳白背景",
+      "prompt": "主题方向：东方禅意极简高传播封面\n风格分支：女性审美新中式爆款型\n主体内容：一位古风女子从几扇错落摆放的极简折屏之间缓步走过\n情绪母题：雅致、轻奢、流动感\n场景与意象：极简折屏、海棠粉色块、青玉绿色块、女子、乳白背景",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVh8hCVaAAAo07m.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114576932054630400",
+          "file": "2114576943568105921_0.jpg",
+          "thumb": "2114576943568105921_0.jpg",
           "tw": 270,
           "th": 480
         }
@@ -11743,6 +12504,65 @@
           "file": "2113839526821122498_3.jpg",
           "thumb": "2113839526821122498_3.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114557081860833571",
+      "url": "https://x.com/LoveAiko2003/status/2114557081860833571",
+      "author": "LoveAiko2003",
+      "author_name": "Aiko💕",
+      "avatar": "https://pbs.twimg.com/profile_images/2092146333432082432/TDmd-qT6_normal.jpg",
+      "created_at_utc": "2026-10-26T03:17:49.000Z",
+      "created_at_sh": "2026-10-26 11:17",
+      "likes": 12,
+      "reposts": 1,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "QT Water\nWhich do you like better? Try it and show me!\n\nImage 1: #GPTImage 2.5 Flare\nImage 2: #GrokImagine \nImage 3: #Seedream 5.0 Lite\nImage 4: #NanoBananaPro \n\nPrompt (with face reference):\nClose-up portrait of a woman, half-submerged in still water. The camera frames only the",
+      "prompt": "Close-up portrait of a woman, half-submerged in still water. The camera frames only the",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVhqB5TaYAAZS8W.jpg",
+          "w": 806,
+          "h": 1200,
+          "media_key": "3_2114556605845102592",
+          "file": "2114557081860833571_0.jpg",
+          "thumb": "2114557081860833571_0.jpg",
+          "tw": 322,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhqENQbEAATArQ.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114556645561012224",
+          "file": "2114557081860833571_1.jpg",
+          "thumb": "2114557081860833571_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhqGNNaUAADfvy.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114556679908118528",
+          "file": "2114557081860833571_2.jpg",
+          "thumb": "2114557081860833571_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhqI_vbIAAB-Kk.jpg",
+          "w": 805,
+          "h": 1200,
+          "media_key": "3_2114556727832289280",
+          "file": "2114557081860833571_3.jpg",
+          "thumb": "2114557081860833571_3.jpg",
+          "tw": 322,
           "th": 480
         }
       ],
@@ -12673,6 +13493,84 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114637246372675891",
+      "url": "https://x.com/liyue_ai/status/2114637246372675891",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-26T08:36:22.000Z",
+      "created_at_sh": "2026-10-26 16:36",
+      "likes": 9,
+      "reposts": 1,
+      "bookmarks": 2,
+      "lang": "",
+      "text": "GPT Image 2.5生成日间清亮CCD生活照。\n\n提示词（欢迎返图）：\n摄影风格：日间清亮高光CCD生活照风\n写真方向：都市轻机能时尚生活写真\n场景方向：现代城市骑行驿站 / 白色弧形顶棚 / 银灰自行车停靠架 / 浅色城市绿道 / 开阔蓝天",
+      "prompt": "摄影风格：日间清亮高光CCD生活照风\n写真方向：都市轻机能时尚生活写真\n场景方向：现代城市骑行驿站 / 白色弧形顶棚 / 银灰自行车停靠架 / 浅色城市绿道 / 开阔蓝天",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVizXKIbwAAiLzb.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114637235488538624",
+          "file": "2114637246372675891_0.jpg",
+          "thumb": "2114637246372675891_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114520750225035276",
+      "url": "https://x.com/CandyTravelight/status/2114520750225035276",
+      "author": "CandyTravelight",
+      "author_name": "Candy",
+      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
+      "created_at_utc": "2026-10-26T00:53:27.000Z",
+      "created_at_sh": "2026-10-26 08:53",
+      "likes": 9,
+      "reposts": 0,
+      "bookmarks": 2,
+      "lang": "zh",
+      "text": "主题：苹果风奢华时尚广告人像 👜\n图1：GPT-image-2.5\n图2：gemin\n图3：Grok\ngemin出的图总是老气横秋的复古感\n\n提示词：\n苹果风奢华时尚广告人像，clean minimal luxury advertising photography，Eastmancolor film look。一位28岁左右的成年女性，东方长相，五官精致立体，皮肤保留细腻毛孔和自然纹理，拒绝塑料磨皮，淡妆，唇色是哑光豆沙红，黑色大波浪长发垂至肩下，发丝带自然光泽。表情从容自信，目光直视镜头，嘴角带一丝淡淡笑意。服装是一件剪裁利落的米白色高领针织连衣裙，面料是细密羊绒混纺，贴合身形但不紧绷，裙摆及膝，搭配一双黑色尖头细跟高跟鞋和一只深棕色小牛皮手提包。姿态是站姿全身像，身体微微侧向镜头，一手自然垂落，另一手轻搭在手提包提手上，站姿挺拔优雅。道具只有手提包和一副简约金色耳环。环境是极简主义的纯白影棚，前景是光洁的浅灰色地面倒影，中景是人物站立的留白空间，远景是一面无缝纯白背景墙，画面干净无杂物。光线是柔和的棚拍主光，从画面左上方45度打下来，辅以右侧反光板补光，色温约5500K，明亮均匀，阴影过渡柔和，带轻微的轮廓光勾勒发丝。相机为85mm镜头，f/5.6，全身景别，eye-level机位，浅景深，人物清晰、背景纯净。调色偏冷白与暖肤色对撞，干净通透，film grain细腻。情绪是高级、克制、自信的奢华感。highly detailed, sharp focus, studio lighting, realistic texture。No oil painting, No anime, No 3D render, No deformed hands, No watermark, No text.",
+      "prompt": "苹果风奢华时尚广告人像，clean minimal luxury advertising photography，Eastmancolor film look。一位28岁左右的成年女性，东方长相，五官精致立体，皮肤保留细腻毛孔和自然纹理，拒绝塑料磨皮，淡妆，唇色是哑光豆沙红，黑色大波浪长发垂至肩下，发丝带自然光泽。表情从容自信，目光直视镜头，嘴角带一丝淡淡笑意。服装是一件剪裁利落的米白色高领针织连衣裙，面料是细密羊绒混纺，贴合身形但不紧绷，裙摆及膝，搭配一双黑色尖头细跟高跟鞋和一只深棕色小牛皮手提包。姿态是站姿全身像，身体微微侧向镜头，一手自然垂落，另一手轻搭在手提包提手上，站姿挺拔优雅。道具只有手提包和一副简约金色耳环。环境是极简主义的纯白影棚，前景是光洁的浅灰色地面倒影，中景是人物站立的留白空间，远景是一面无缝纯白背景墙，画面干净无杂物。光线是柔和的棚拍主光，从画面左上方45度打下来，辅以右侧反光板补光，色温约5500K，明亮均匀，阴影过渡柔和，带轻微的轮廓光勾勒发丝。相机为85mm镜头，f/5.6，全身景别，eye-level机位，浅景深，人物清晰、背景纯净。调色偏冷白与暖肤色对撞，干净通透，film grain细腻。情绪是高级、克制、自信的奢华感。highly detailed, sharp focus, studio lighting, realistic texture。No oil painting, No anime, No 3D render, No deformed hands, No watermark, No text.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVhJXZpbgAE78VT.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2114520691420921857",
+          "file": "2114520750225035276_0.jpg",
+          "thumb": "2114520750225035276_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhJYU6bAAAPdWF.jpg",
+          "w": 669,
+          "h": 1200,
+          "media_key": "3_2114520707329884160",
+          "file": "2114520750225035276_1.jpg",
+          "thumb": "2114520750225035276_1.jpg",
+          "tw": 267,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhJaJlbsAA1PwP.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114520738648797184",
+          "file": "2114520750225035276_2.jpg",
+          "thumb": "2114520750225035276_2.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097626216081895806",
       "url": "https://x.com/SJinn_Agent/status/2097626216081895806",
       "author": "SJinn_Agent",
@@ -13048,6 +13946,35 @@
           "file": "2112410008323489883_0.jpg",
           "thumb": "2112410008323489883_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114628356352385500",
+      "url": "https://x.com/wanerfu/status/2114628356352385500",
+      "author": "wanerfu",
+      "author_name": "摆烂程序媛",
+      "avatar": "https://pbs.twimg.com/profile_images/1695073712612016128/xjiHduPl_normal.jpg",
+      "created_at_utc": "2026-10-26T08:01:02.000Z",
+      "created_at_sh": "2026-10-26 16:01",
+      "likes": 8,
+      "reposts": 1,
+      "bookmarks": 7,
+      "lang": "",
+      "text": "用GPT Image 2.5生成了一组真实感的生活照片\n\n提示词就是要求生成同一个女孩的6张生活照\n\n评论区附提示词",
+      "prompt": "生成同一个中国女孩的6张生活照\n自然肤色、黑色直发、黑色眼睛，6张照片里脸要完全一样\n咖啡店里喝拿铁、乌镇街头上的肩回头杀、床上的慵懒自拍、镜子前的自拍、冬天室外穿大衣、面馆里夹面\n风格就是 authentic Chinese social media photo dump 的感觉——手机随手拍、有点颗粒感、自然光、构图不完美、表情真实，店面、街景和室内陈设都要有明显的中国生活场景感\n要求皮肤纹理真实、细节可信、手指不扭曲、光影自然、没有过度修图的塑料感\n最后输出3×2的网格排列、竖屏3:4比例、没有边框和水印",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVirR24acAAYkEc.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114628348328701952",
+          "file": "2114628356352385500_0.jpg",
+          "thumb": "2114628356352385500_0.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -13951,6 +14878,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2114723962345435152",
+      "url": "https://x.com/abxxai/status/2114723962345435152",
+      "author": "abxxai",
+      "author_name": "Abdul Shakoor",
+      "avatar": "https://pbs.twimg.com/profile_images/2095534540525903873/q3A8G-dZ_normal.jpg",
+      "created_at_utc": "2026-10-26T14:20:56.000Z",
+      "created_at_sh": "2026-10-26 22:20",
+      "likes": 6,
+      "reposts": 0,
+      "bookmarks": 2,
+      "lang": "en",
+      "text": "step 4: monkey sheet\n\nmodel: GPT Image 2.5\n\nprompt:\ncharacter reference sheet on a plain off-white studio background, 16:9, photorealistic. a huge close-up of the face across the top, then front, three-quarter and back full-body views below. an adult chimpanzee with dark coarse fur, a pale wrinkled face and chunky glossy yellow plastic sunglasses. real fur texture, real wrinkled skin, real moist eyes. no text.",
+      "prompt": "character reference sheet on a plain off-white studio background, 16:9, photorealistic. a huge close-up of the face across the top, then front, three-quarter and back full-body views below. an adult chimpanzee with dark coarse fur, a pale wrinkled face and chunky glossy yellow plastic sunglasses. real fur texture, real wrinkled skin, real moist eyes. no text.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkCPF1bIAACcAb.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2114723958314704896",
+          "file": "2114723962345435152_0.jpg",
+          "thumb": "2114723962345435152_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108507207851745590",
       "url": "https://x.com/MahnoorAi12/status/2108507207851745590",
       "author": "MahnoorAi12",
@@ -14764,6 +15720,35 @@
           "thumb": "2113895951173902514_0.jpg",
           "tw": 480,
           "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114646270241571224",
+      "url": "https://x.com/superfang119/status/2114646270241571224",
+      "author": "superfang119",
+      "author_name": "方知微",
+      "avatar": "https://pbs.twimg.com/profile_images/2071561807714811905/U2AFv-of_normal.jpg",
+      "created_at_utc": "2026-10-26T09:12:13.000Z",
+      "created_at_sh": "2026-10-26 17:12",
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "同一提示词各跑一张首样（参数略有差异），④ gptimage2.5 的肤感和细碎闪片最合我意。① Seedream 蓝调更冷冽，⑥ FLUX3 皮肤纹理清楚，但水光偏重。",
+      "prompt": "Six-model comparison, three columns by two rows, of blue-red neon close-up portraits. Order: 1 Seedream 5.0 Pro, 2 Qwen Image 2.1, 3 Krea2 Turbo, 4 gptimage2.5, 5 MOSS-Image, 6 FLUX3 Klein. Each uses the same Chinese prompt and one first sample, with differing settings and resolutions. The portraits vary in skin texture, silver glitter, glossy rose lips and colored rim light. Model names are below the complete images.",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVi65qbbwAAD6ED.jpg",
+          "w": 1200,
+          "h": 1181,
+          "media_key": "3_2114645524855111680",
+          "file": "2114646270241571224_0.jpg",
+          "thumb": "2114646270241571224_0.jpg",
+          "tw": 480,
+          "th": 472
         }
       ],
       "nsfw_flag": false
@@ -16385,6 +17370,94 @@
           "file": "2113819096882041241_0.jpg",
           "thumb": "2113819096882041241_0.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114706863522517229",
+      "url": "https://x.com/ksa8Turky/status/2114706863522517229",
+      "author": "ksa8Turky",
+      "author_name": "‏Turky",
+      "avatar": "https://pbs.twimg.com/profile_images/2067295826871762944/knT_qoee_normal.jpg",
+      "created_at_utc": "2026-10-26T13:13:00.000Z",
+      "created_at_sh": "2026-10-26 21:13",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "GPT Image 2.5 \n  Prompt ⤵️\n\nCreate a square surreal editorial macro photograph of [FAMILIAR OBJECT], translating its everyday function into one impossible miniature world contained inside it. Example: a transparent glass ESC keyboard key containing an ocean and one tiny sailboat. Convincing refraction, tactile materials, navy shadows, warm inner light and clean composition. No people or extra objects. Small handwritten Ksa8Turky at bottom right.",
+      "prompt": "Create a square surreal editorial macro photograph of [FAMILIAR OBJECT], translating its everyday function into one impossible miniature world contained inside it. Example: a transparent glass ESC keyboard key containing an ocean and one tiny sailboat. Convincing refraction, tactile materials, navy shadows, warm inner light and clean composition. No people or extra objects. Small handwritten Ksa8Turky at bottom right.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjlKJ4XEAAboJ2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2114691987664211968",
+          "file": "2114706863522517229_0.jpg",
+          "thumb": "2114706863522517229_0.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114552392595525660",
+      "url": "https://x.com/DeepBlueX0/status/2114552392595525660",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-26T02:59:11.000Z",
+      "created_at_sh": "2026-10-26 10:59",
+      "likes": 2,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "",
+      "text": "GPT image 2.5 Prompt:\n\n主題：Q版動漫或遊戲女性角色 × 3D賽璐璐渲染 × 可愛治癒 × 藝術留白",
+      "prompt": "主題：Q版動漫或遊戲女性角色 × 3D賽璐璐渲染 × 可愛治癒 × 藝術留白\n\n以簡潔三維造型搭配明確的分段著色。每種材質只用底色與一級陰影建立體積，色區內平整均勻，明暗交界清楚俐落。高光概括為少量平面圖形，外輪廓線細緻，內部線條精簡。人物、道具與環境統一採用相同的色塊語言與簡化程度。\n\n每張重新選取一位不同的知名動漫或遊戲女性角色，以2至2.5頭身呈現。大頭、小身體，圓臉短肢，手腳簡潔可愛。保留標誌性髮型、眼形、眉勢、服裝輪廓、主色與少量關鍵配件，其餘裝飾合併為大形。髮束、衣裝與配件以厚度、透視和遮擋呈現三維結構。\n\n依角色性格設計生動表情與帶童趣的小動作，每張圍繞一件溫暖有趣的小事。人物與少量必要道具形成清楚互動，透過眼神、嘴角、重心與手勢傳達情緒。\n\n場景只保留交代故事所需的局部形體，以簡單色塊建立落地感。背景以呼應角色配色的低彩度純色留白為主，全畫面清晰，前後層次透過大小、遮擋和色彩區分。構圖疏密有致，人物主要輪廓與畫面邊緣保留空間。\n\n在留白處以圓潤、端正、清晰的手寫字標註角色的準確繁體中文名稱，字形完整，大小、字色與位置隨構圖調整。\n\n各張獨立變化情緒、姿態、視角、人物位置與道具關係。同批不重複角色、主要動作、場景與構圖結構。\n\n9:16豎版。n=10，連續生成10張獨立完整圖片，每次一張，分別輸出，不拼圖。\n\n左下簽名以平面圖形疊印：固定純深藍色實心圓點在前，空格後接純白色手寫體「DeepBlue」，清晰可辨。",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVhmMIwaQAA9fHW.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114552383745441792",
+          "file": "2114552392595525660_0.jpg",
+          "thumb": "2114552392595525660_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhmMIwaYAADAth.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114552383745449984",
+          "file": "2114552392595525660_1.jpg",
+          "thumb": "2114552392595525660_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhmMIvacAAfmXi.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114552383741259776",
+          "file": "2114552392595525660_2.jpg",
+          "thumb": "2114552392595525660_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhmML9a4AAfkZo.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114552384605315072",
+          "file": "2114552392595525660_3.jpg",
+          "thumb": "2114552392595525660_3.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -18131,6 +19204,84 @@
           "file": "2114152038926032952_0.jpg",
           "thumb": "2114152038926032952_0.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114666301369270757",
+      "url": "https://x.com/Rose5303508870/status/2114666301369270757",
+      "author": "Rose5303508870",
+      "author_name": "AI Career Girl 💼",
+      "avatar": "https://pbs.twimg.com/profile_images/2111183672942768128/9zfV9yOU_normal.jpg",
+      "created_at_utc": "2026-10-26T10:31:49.000Z",
+      "created_at_sh": "2026-10-26 18:31",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "📸 GPT Image 2.5 Prompt: Ultra-Realistic Girl with Doraemon 💙✨\n\nCreate an ultra-realistic, cute editorial portrait of a stylish young woman sitting on a smooth light gray studio floor, playfully posing with a large, adorable Doraemon cartoon character behind her.\n\nSubject: A beautiful young woman with dark brown hair tied in a messy high bun, soft wispy bangs, natural makeup, and a cute pouty expression. She is wearing an oversized charcoal gray hoodie, loose cream-colored pants, white crew socks, and chunky white sneakers. She sits casually with one knee raised and the other leg folded to the side, resting one cheek on her hand while looking directly at the camera with one eye slightly squinted.\n\nCartoon Character — Doraemon: Behind her is a large, adorable 2D hand-drawn Doraemon, the iconic blue robotic cat, featuring his round blue body, white face and belly, large expressive eyes, red nose, three whiskers on each cheek, red collar, and golden bell. Doraemon playfully leans toward the woman, extending his cartoon arms to gently squish both of her cheeks, creating a funny, cute expression. Doraemon has a slightly mischievous, affectionate expression, with a small black scribble floating above his head to suggest playful confusion.\n\nArt Style: A seamless blend of photorealistic human photography and hand-drawn 2D cartoon illustration. The woman must look completely photorealistic, with realistic skin texture, natural facial details, and lifelike clothing. Doraemon must look like a cartoon sketched directly onto the photograph, with visible rough black marker outlines, subtle white pencil shading, imperfect sketch strokes, and charming hand-drawn details. Preserve Doraemon's recognizable blue-and-white appearance.\n\nLighting and Background: Minimalist light gray seamless studio background, soft diffused lighting, gentle natural shadows, neutral colors, and a cozy, whimsical atmosphere.\n\nComposition: Full-body vertical portrait, 4:5 aspect ratio, centered composition, eye-level camera angle, natural seated pose, Doraemon positioned directly behind the woman, with his arms reaching around her face. Ensure both the woman and Doraemon are clearly visible and harmoniously integrated.\n\nQuality: High-resolution photography, realistic skin texture, detailed fabric textures, soft cinematic lighting, clean composition, charming Korean social media aesthetic, cute and playful mood.\n\nImportant Instructions:\n\n- Keep the woman fully photorealistic.\n- Keep Doraemon visibly hand-drawn in 2D cartoon style.\n- Preserve Doraemon's iconic blue body, white face, red nose, whiskers, collar, and bell.\n- Make the cheek-squishing interaction look natural, funny, and adorable.\n- Ensure anatomically correct human hands and clean cartoon anatomy.\n- No extra fingers, distorted faces, text, logos, watermarks, or unnecessary background objects.\n- Do not turn the entire image into an illustration or make Doraemon look like a realistic 3D character.\n\n@ChatGPT #prompt",
+      "prompt": "Ultra-Realistic Girl with Doraemon 💙✨\n\nCreate an ultra-realistic, cute editorial portrait of a stylish young woman sitting on a smooth light gray studio floor, playfully posing with a large, adorable Doraemon cartoon character behind her.\n\nSubject: A beautiful young woman with dark brown hair tied in a messy high bun, soft wispy bangs, natural makeup, and a cute pouty expression. She is wearing an oversized charcoal gray hoodie, loose cream-colored pants, white crew socks, and chunky white sneakers. She sits casually with one knee raised and the other leg folded to the side, resting one cheek on her hand while looking directly at the camera with one eye slightly squinted.\n\nCartoon Character — Doraemon: Behind her is a large, adorable 2D hand-drawn Doraemon, the iconic blue robotic cat, featuring his round blue body, white face and belly, large expressive eyes, red nose, three whiskers on each cheek, red collar, and golden bell. Doraemon playfully leans toward the woman, extending his cartoon arms to gently squish both of her cheeks, creating a funny, cute expression. Doraemon has a slightly mischievous, affectionate expression, with a small black scribble floating above his head to suggest playful confusion.\n\nArt Style: A seamless blend of photorealistic human photography and hand-drawn 2D cartoon illustration. The woman must look completely photorealistic, with realistic skin texture, natural facial details, and lifelike clothing. Doraemon must look like a cartoon sketched directly onto the photograph, with visible rough black marker outlines, subtle white pencil shading, imperfect sketch strokes, and charming hand-drawn details. Preserve Doraemon's recognizable blue-and-white appearance.\n\nLighting and Background: Minimalist light gray seamless studio background, soft diffused lighting, gentle natural shadows, neutral colors, and a cozy, whimsical atmosphere.\n\nComposition: Full-body vertical portrait, 4:5 aspect ratio, centered composition, eye-level camera angle, natural seated pose, Doraemon positioned directly behind the woman, with his arms reaching around her face. Ensure both the woman and Doraemon are clearly visible and harmoniously integrated.\n\nQuality: High-resolution photography, realistic skin texture, detailed fabric textures, soft cinematic lighting, clean composition, charming Korean social media aesthetic, cute and playful mood.\n\nImportant Instructions:\n\n- Keep the woman fully photorealistic.\n- Keep Doraemon visibly hand-drawn in 2D cartoon style.\n- Preserve Doraemon's iconic blue body, white face, red nose, whiskers, collar, and bell.\n- Make the cheek-squishing interaction look natural, funny, and adorable.\n- Ensure anatomically correct human hands and clean cartoon anatomy.\n- No extra fingers, distorted faces, text, logos, watermarks, or unnecessary background objects.\n- Do not turn the entire image into an illustration or make Doraemon look like a realistic 3D character.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjNyiDbsAAnkPJ.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2114666293068804096",
+          "file": "2114666301369270757_0.jpg",
+          "thumb": "2114666301369270757_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114538930104365268",
+      "url": "https://x.com/maimi2014/status/2114538930104365268",
+      "author": "maimi2014",
+      "author_name": "サル☆ザル@AIプロンプトクラフター",
+      "avatar": "https://pbs.twimg.com/profile_images/1981585623589724160/NXeobwur_normal.jpg",
+      "created_at_utc": "2026-10-26T02:05:41.000Z",
+      "created_at_sh": "2026-10-26 10:05",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "ja",
+      "text": "過去に一時期流行った #モジグラフ 公開してくれてるプロンプトを元にファミコンがバグって停止した画面のようなエラーをノイズエフェクトにしてみました。プロンプトをモデルをアップロードだけで生成てみた\n1枚目：flux 3\n2枚目：seedream 5.0 pro\n3枚目：GPT image 2.5",
+      "prompt": "※古いモデルと新しいモデルでプロンプトの認識や制限なども異なるので遊びの幅拡がるはずです",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVhYYpna0AAD6qA.jpg",
+          "w": 876,
+          "h": 1168,
+          "media_key": "3_2114537205561741312",
+          "file": "2114538930104365268_0.jpg",
+          "thumb": "2114538930104365268_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhYfXybcAAuNwn.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114537321035165696",
+          "file": "2114538930104365268_1.jpg",
+          "thumb": "2114538930104365268_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVhZPiZasAAJlzE.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2114538148516769792",
+          "file": "2114538930104365268_2.jpg",
+          "thumb": "2114538930104365268_2.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -21255,6 +22406,269 @@
           "thumb": "2114375180478812222_0.jpg",
           "tw": 480,
           "th": 438
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114776272593465839",
+      "url": "https://x.com/Rose5303508870/status/2114776272593465839",
+      "author": "Rose5303508870",
+      "author_name": "AI Career Girl 💼",
+      "avatar": "https://pbs.twimg.com/profile_images/2111183672942768128/9zfV9yOU_normal.jpg",
+      "created_at_utc": "2026-10-26T17:48:48.000Z",
+      "created_at_sh": "2026-10-27 01:48",
+      "likes": 0,
+      "reposts": 1,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT Image 2.5\n\n Prompt: \n\nRomantic Sunset Beach Portrait 🌅🤍🌹\n\nCreate an ultra-realistic, cinematic portrait of a beautiful young woman standing by the ocean during a breathtaking golden sunset, looking back over her shoulder toward the camera.\n\nAppearance: Long, thick, glossy",
+      "prompt": "Romantic Sunset Beach Portrait 🌅🤍🌹\n\nCreate an ultra-realistic, cinematic portrait of a beautiful young woman standing by the ocean during a breathtaking golden sunset, looking back over her shoulder toward the camera.\n\nAppearance: Long, thick, glossy",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkxzpXacAAMlJk.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114776263374303232",
+          "file": "2114776272593465839_0.jpg",
+          "thumb": "2114776272593465839_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114744463830732984",
+      "url": "https://x.com/superfang119/status/2114744463830732984",
+      "author": "superfang119",
+      "author_name": "方知微",
+      "avatar": "https://pbs.twimg.com/profile_images/2071561807714811905/U2AFv-of_normal.jpg",
+      "created_at_utc": "2026-10-26T15:42:24.000Z",
+      "created_at_sh": "2026-10-26 23:42",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "单图 1–4/8，方便放大看细节：\n① Seedream 5.0 Pro\n② Qwen Image 2.1\n③ Krea2 Turbo\n④ gptimage2.5\n\n每张底部标明模型，沿用主帖这批首样。",
+      "prompt": "第1张，Seedream 5.0 Pro。蓝红灯光中的女性面部特写，黑至玫红长发、闪片眼妆和亮面唇妆；完整画面下方新增黑色标签栏，以白字写“1  Seedream 5.0 Pro”。\n\n———\n\n第2张，Qwen Image 2.1。蓝红灯光中的女性面部特写，黑至玫红长发、闪片眼妆和亮面唇妆；完整画面下方新增黑色标签栏，以白字写“2  Qwen Image 2.1”。\n\n———\n\n第3张，Krea2 Turbo。蓝红灯光中的女性面部特写，黑至玫红长发、闪片眼妆和亮面唇妆；完整画面下方新增黑色标签栏，以白字写“3  Krea2 Turbo”。\n\n———\n\n第4张，gptimage2.5。蓝红灯光中的女性面部特写，黑至玫红长发、闪片眼妆和亮面唇妆；完整画面下方新增黑色标签栏，以白字写“4  gptimage2.5”。",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkT_T3bsAAmVrH.jpg",
+          "w": 834,
+          "h": 1200,
+          "media_key": "3_2114743478412619776",
+          "file": "2114744463830732984_0.jpg",
+          "thumb": "2114744463830732984_0.jpg",
+          "tw": 333,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVkT_UOa0AA56DM.jpg",
+          "w": 834,
+          "h": 1200,
+          "media_key": "3_2114743478509031424",
+          "file": "2114744463830732984_1.jpg",
+          "thumb": "2114744463830732984_1.jpg",
+          "tw": 333,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVkT_T9akAA8TuQ.jpg",
+          "w": 834,
+          "h": 1200,
+          "media_key": "3_2114743478437711872",
+          "file": "2114744463830732984_2.jpg",
+          "thumb": "2114744463830732984_2.jpg",
+          "tw": 333,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVkT_UObIAAKinM.jpg",
+          "w": 834,
+          "h": 1200,
+          "media_key": "3_2114743478509051904",
+          "file": "2114744463830732984_3.jpg",
+          "thumb": "2114744463830732984_3.jpg",
+          "tw": 333,
+          "th": 479
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114737519581679818",
+      "url": "https://x.com/superfang119/status/2114737519581679818",
+      "author": "superfang119",
+      "author_name": "方知微",
+      "avatar": "https://pbs.twimg.com/profile_images/2071561807714811905/U2AFv-of_normal.jpg",
+      "created_at_utc": "2026-10-26T15:14:49.000Z",
+      "created_at_sh": "2026-10-26 23:14",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "参考 BennyDaBall_OG 的对比方式，把同一条霓虹人像提示词补齐八路：这轮我还是偏爱 gptimage2.5 的自然肤质和细碎闪片，Grok 的眼妆则更亮、更大颗粒。\n各路参数、尺寸不同，只比较这批首样的观感；你会选哪张？",
+      "prompt": "八模型霓虹人像对比，黑底4列2行。上排从左到右：1 Seedream 5.0 Pro、2 Qwen Image 2.1、3 Krea2 Turbo、4 gptimage2.5；下排：5 MOSS-Image、6 FLUX3 Klein、7 Grok Image、8 Z-Image Turbo。均为黑至玫红长发女性面部特写，蓝红灯光、闪片眼妆与亮面唇妆；构图、皮肤细节和光线强弱不同。各路完整首样等比排版，参数与输出尺寸不同。",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkNkoybsAA_lTP.jpg",
+          "w": 1200,
+          "h": 877,
+          "media_key": "3_2114736423102558208",
+          "file": "2114737519581679818_0.jpg",
+          "thumb": "2114737519581679818_0.jpg",
+          "tw": 480,
+          "th": 350
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114733661987786913",
+      "url": "https://x.com/RouteMux/status/2114733661987786913",
+      "author": "RouteMux",
+      "author_name": "RouteMux",
+      "avatar": "https://pbs.twimg.com/profile_images/2085259160028123136/XcCyDC0P_normal.jpg",
+      "created_at_utc": "2026-10-26T14:59:29.000Z",
+      "created_at_sh": "2026-10-26 22:59",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Image models, per image:\n\nNano Banana 2.1: 1K $0.025 · 2K $0.04 · 4K $0.08\nNano Banana Pro: 1K/2K $0.10 · 4K $0.18, 25% off\nGrok Imagine Image: $0.006, 70% off\nGrok Imagine Image 2.0: $0.012–$0.024, 70% off, edits\nGPT Image 2.5 Sunburst & Flare: now 2K $0.08 · 4K $0.12",
+      "prompt": "Image model prices per image against official prices. Nano Banana 2.1: 1K $0.025 vs $0.0336, 2K $0.04 vs $0.0504, 4K $0.08 vs $0.113. Nano Banana Pro: 1K and 2K $0.10 vs $0.134, 4K $0.18 vs $0.24, 25% off. Grok Imagine Image $0.006 vs $0.02, 70% off. Grok Imagine Image 2.0 $0.012 to $0.024 vs $0.04 to $0.08, 70% off. GPT Image 2.5 Sunburst and Flare at 2K $0.08 and 4K $0.12, no official per-image price.",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkK8KnWYAA2AY8.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2114733528784986112",
+          "file": "2114733661987786913_0.jpg",
+          "thumb": "2114733661987786913_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114730540092047436",
+      "url": "https://x.com/mustansant/status/2114730540092047436",
+      "author": "mustansant",
+      "author_name": "Mustansant",
+      "avatar": "https://pbs.twimg.com/profile_images/2111846222977748992/_S_SMooU_normal.jpg",
+      "created_at_utc": "2026-10-26T14:47:05.000Z",
+      "created_at_sh": "2026-10-26 22:47",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Recraft v4.1 vs Gpt image 2.5\nsame prompt, photorealistic portrait test\n\ngpt image 2.5 is a great model. but for human faces, recraft v4.1 gives less cliché, more original portraits that don't look like stock photos.\n\n@recraftai exceptional image model 🙌\n\nprompt below 👇",
+      "prompt": "Candid smartphone photo of an elderly man in his late sixties with olive, sun-tanned wheat-colored skin, squatting down on the sidewalk of an authentic old side street, right in front of a weathered wall completely covered in layers of colorful graffiti and tags, looking straight into the camera and posing with quiet confidence. He is dressed in a very stylish hipster outfit: oversized vintage corduroy jacket, loose patterned shirt, wide-leg pleated trousers, plain unbranded chunky retro sneakers, a knit beanie, thin round glasses and a few silver rings. He is the only person in the frame; the quiet street around him is empty, with worn paving stones, a drainpipe, peeling paint and a little everyday litter. Plain natural daylight, true-to-life colors, real skin with deep wrinkles, age spots, uneven skin tone, visible pores and stray grey stubble. Handheld, slightly tilted framing, phone-camera sharpening and a little grain, an ordinary unedited amateur snapshot, as if a friend took it randomly on their phone. Vertical 2:3 frame.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVkINwnWQAAKjLj.jpg",
+          "w": 1200,
+          "h": 900,
+          "media_key": "3_2114730532508418048",
+          "file": "2114730540092047436_0.jpg",
+          "thumb": "2114730540092047436_0.jpg",
+          "tw": 480,
+          "th": 360
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114687464459862119",
+      "url": "https://x.com/DeepBlueX0/status/2114687464459862119",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-26T11:55:55.000Z",
+      "created_at_sh": "2026-10-26 19:55",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT image 2.5 Prompt:\n\n山海经奇珍异兽 × 低多边形造型 × 二向色玻璃艺术 × 彩色透射与反射 × 空间光影 × 名称文字投影\n\n每张独立选择一种《山海经》中轮廓鲜明、适合玻璃表达的奇珍异兽，转化为简洁的空间艺术装置。依据原文保留体形与身份特征，确保关键结构及数量准确。10张异兽与主结构各异，每张重新变化姿态、玻璃构成、机位、构图、建筑空间与日光方向。\n\n以少量宽阔、大小有层次的多边形玻璃面建立连贯体积，仅在轮廓与主要结构转折处增加分面。以四边形及不规则多边形为主，局部三角面辅助转折，大面积平缓部位保持完整，内部空间简洁。\n\n躯干保持完整体块，肢体以简练折面表现关节与受力。角、翼、尾等依据自身形态采用宽阔薄面或简练多面体，与身体自然连接。优先保证辨识结构数量准确，再安排姿态与视角，使连接位置和末端便于辨认，轮廓间保留疏朗空隙。\n\n动作具有生物逻辑，身体朝向、重心与附属结构相互呼应，保留古拙、神秘的生命感，表面细节高度概括。\n\n相邻玻璃面沿共同边缘简洁衔接，以不同倾角建立体积。表面平整，薄板厚度与硬质边缘清楚，接缝克制，支撑或悬吊顺应重心，制作与安装可信。\n\n玻璃清透，背景可透过主要玻璃面辨认，前后表面的叠合保持清楚。依据异兽气质组织色彩，显色随朝向及透射、反射关系变化。相邻折面色彩有别，面内相对完整，边缘与少量交叠处细腻变化，保留无色透明区域。\n\n明确日光形成一组主要色光关系，彩色透射光与反射光落在地面或墙面，色块宽阔疏朗，位置与形状符合玻璃朝向和光路，辅助反光轻淡。\n\n隐蔽的小型投影灯通过文字字模与二向色滤色片，将异兽准确中文名投在墙面或地面的留白处，仅出现一次。采用清楚端正的楷书，尺寸随字数与空间调整，完整画面中可读，视觉分量低于主体。优先选择侧后方较暗墙面；地面选择透视倾斜较小的位置。\n\n名称沿用主要色光中的一种颜色，局部轻淡色差，亮度克制、字形清晰、边缘微柔。承接表面纹理自然可见，文字遵循平面透视，与主要彩色光块适当错开。\n\n简洁的中性色建筑环境，空间尺度、背景明度与光线随造型变化。主体完整入镜，四周留出舒适边距，兼顾异兽辨识、立体结构、空间光影与名称阅读。真实艺术装置摄影，自然曝光，玻璃与色光层次清楚，主体保持视觉重心。\n\nn=10，连续生成10张独立单图，每次1张，9:16竖幅。\n左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。",
+      "prompt": "山海经奇珍异兽 × 低多边形造型 × 二向色玻璃艺术 × 彩色透射与反射 × 空间光影 × 名称文字投影\n\n每张独立选择一种《山海经》中轮廓鲜明、适合玻璃表达的奇珍异兽，转化为简洁的空间艺术装置。依据原文保留体形与身份特征，确保关键结构及数量准确。10张异兽与主结构各异，每张重新变化姿态、玻璃构成、机位、构图、建筑空间与日光方向。\n\n以少量宽阔、大小有层次的多边形玻璃面建立连贯体积，仅在轮廓与主要结构转折处增加分面。以四边形及不规则多边形为主，局部三角面辅助转折，大面积平缓部位保持完整，内部空间简洁。\n\n躯干保持完整体块，肢体以简练折面表现关节与受力。角、翼、尾等依据自身形态采用宽阔薄面或简练多面体，与身体自然连接。优先保证辨识结构数量准确，再安排姿态与视角，使连接位置和末端便于辨认，轮廓间保留疏朗空隙。\n\n动作具有生物逻辑，身体朝向、重心与附属结构相互呼应，保留古拙、神秘的生命感，表面细节高度概括。\n\n相邻玻璃面沿共同边缘简洁衔接，以不同倾角建立体积。表面平整，薄板厚度与硬质边缘清楚，接缝克制，支撑或悬吊顺应重心，制作与安装可信。\n\n玻璃清透，背景可透过主要玻璃面辨认，前后表面的叠合保持清楚。依据异兽气质组织色彩，显色随朝向及透射、反射关系变化。相邻折面色彩有别，面内相对完整，边缘与少量交叠处细腻变化，保留无色透明区域。\n\n明确日光形成一组主要色光关系，彩色透射光与反射光落在地面或墙面，色块宽阔疏朗，位置与形状符合玻璃朝向和光路，辅助反光轻淡。\n\n隐蔽的小型投影灯通过文字字模与二向色滤色片，将异兽准确中文名投在墙面或地面的留白处，仅出现一次。采用清楚端正的楷书，尺寸随字数与空间调整，完整画面中可读，视觉分量低于主体。优先选择侧后方较暗墙面；地面选择透视倾斜较小的位置。\n\n名称沿用主要色光中的一种颜色，局部轻淡色差，亮度克制、字形清晰、边缘微柔。承接表面纹理自然可见，文字遵循平面透视，与主要彩色光块适当错开。\n\n简洁的中性色建筑环境，空间尺度、背景明度与光线随造型变化。主体完整入镜，四周留出舒适边距，兼顾异兽辨识、立体结构、空间光影与名称阅读。真实艺术装置摄影，自然曝光，玻璃与色光层次清楚，主体保持视觉重心。\n\nn=10，连续生成10张独立单图，每次1张，9:16竖幅。\n左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjhCMvacAAM7_G.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114687452946526208",
+          "file": "2114687464459862119_0.jpg",
+          "thumb": "2114687464459862119_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjhCM2b0AAAfmR.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114687452975976448",
+          "file": "2114687464459862119_1.jpg",
+          "thumb": "2114687464459862119_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjhCMxb0AA82hV.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114687452955004928",
+          "file": "2114687464459862119_2.jpg",
+          "thumb": "2114687464459862119_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjhCMvbIAAokTI.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2114687452946571264",
+          "file": "2114687464459862119_3.jpg",
+          "thumb": "2114687464459862119_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2114514850533527585",
+      "url": "https://x.com/Yeti_Images/status/2114514850533527585",
+      "author": "Yeti_Images",
+      "author_name": "Yeti Images",
+      "avatar": "https://pbs.twimg.com/profile_images/1947412110314536961/A8_LrVp8_normal.jpg",
+      "created_at_utc": "2026-10-26T00:30:00.000Z",
+      "created_at_sh": "2026-10-26 08:30",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "🧠Model: gpt-image-2.5-flare\n📷Prompt: A colossal exploration vessel drifts past a colossal spiral nebula, its glowing rings and dust lanes backlit by a distant supernova, while a ringed gas giant and a cluster o... See alt text for more\n#aiart",
+      "prompt": "A colossal exploration vessel drifts past a colossal spiral nebula, its glowing rings and dust lanes backlit by a distant supernova, while a ringed gas giant and a cluster o... See alt text for more",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVhEDRXWgAA2AbZ.jpg",
+          "w": 1200,
+          "h": 800,
+          "media_key": "3_2114514848042090496",
+          "file": "2114514850533527585_0.jpg",
+          "thumb": "2114514850533527585_0.jpg",
+          "tw": 480,
+          "th": 320
         }
       ],
       "nsfw_flag": false

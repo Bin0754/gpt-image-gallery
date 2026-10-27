@@ -34,6 +34,16 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2114563418644468156",  # johnAGI168: 2026-10-27 review, woman relaxing on bed, intimate bedroom, suggestive
+    "2114665717136310552",  # Adam38363368936: 2026-10-27 review, slip dress with cardigan sliding off shoulder, borderline suggestive
+    "2114753483912175859",  # mylesBaiM: 2026-10-27 review, fishnet stockings pose, suggestive
+    "2114835364602880326",  # RougeHalo_AI: 2026-10-27 review, revealing outfit, suggestive
+    "2114820382008152116",  # devgetsit: 2026-10-27 review, sultry fire dancer, revealing outfit
+    "2114539259004924123",  # alanblogsooooo: 2026-10-27 review, body-focused suggestive mirror selfie
+    "2114723911841862008",  # abxxai: 2026-10-27 review, swimwear body reference sheet, borderline
+    "2114723945136181702",  # abxxai: 2026-10-27 review, shirtless body reference sheet, borderline
+    "2114768364367430071",  # DeepBlueX0: 2026-10-27 review, low-cut lookbook, borderline suggestive
+    "2114723928786768066",  # unknown author: 2026-10-27 review, swimsuit pose, borderline suggestive
     "2114275521320386982",  # alanblogsooooo: 2026-10-26 review, body-focused suggestive coser pose
     "2113873415882866834",  # alanblogsooooo: 2026-10-25 review, body-focused suggestive mirror selfie
     "2114013548611317864",  # HumblyAlex: 2026-10-25 review, chat-screenshot commentary, not a prompt
@@ -131,6 +141,11 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2114564425134829621',  # AIwithZeeshi - wet swimsuit beauty ad, borderline suggestive (2026-10-27 review)
+    '2114824116943614049',  # YourAlphaMom - gym video, body-focused, borderline suggestive (2026-10-27 review)
+    '2114828449902899689',  # Alexneyef - gym video, body-focused, borderline suggestive (2026-10-27 review)
+    '2114708250935402521',  # aigenboss - model comparison commentary, not a prompt (2026-10-27 review)
+    '2114666738239627660',  # YardenCohe30362 - Kling vs Seedance comparison question, not a prompt (2026-10-27 review)
     '2114383271672856653',  # Miraai_creates - revealing armor outfit, borderline suggestive (2026-10-26 review)
     '2114466414551572626',  # johnmccoyx - model comparison commentary, not a prompt (2026-10-26 review)
     '2114272433503138075',  # NaoyaCreates - setup/cost note for a comparison, not a prompt (2026-10-26 review)
