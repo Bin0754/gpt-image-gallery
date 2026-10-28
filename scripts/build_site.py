@@ -138,6 +138,15 @@ HIDE_IDS = {
     '2111999943649227103',                         # @HigenekoTech comparison notes, not a prompt
     '2112539648887239167',                         # @heypickd Midjourney-vs-ChatGPT card alt text, not a prompt
 
+
+    # 2026-10-28 daily refresh NSFW/suggestive review
+    '2114978210526134579',  # @ice_love2_sugoi beach-volleyball bikini beauty (suggestive)
+    '2114984190890463375',  # @alanblogsooooo bridal lingerie corset + stockings (suggestive)
+    '2114918075753775545',  # @DeepBlueX0 清涼感官 lotus/hanfu low neckline (suggestive)
+    '2114913695252058504',  # @aiai_agt 地雷系彼女 short maid dress + stockings (suggestive)
+    '2114875883991470257',  # @aiai_agt neon-gal gamer stockings (uncertain → hide)
+    '2114946821583761814',  # @johnAGI168 angel/devil clubwear leather (suggestive)
+    '2114996079813148722',  # @static_stare translucent liquid-glass gown (sheer/suggestive)
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
@@ -243,6 +252,10 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     '2112140511687414204',  # KeyoAPI - commentary about a prompt, not a usable prompt
     '2112629397635092561',  # zeuuss_01 - character-sheet tutorial, not a Seedance prompt
 
+
+    # 2026-10-28 daily refresh NSFW / not-a-prompt review
+    '2115191029641175400',  # @YourAlphaMom Seedance-vs-Kling gym cleavage comparison (suggestive)
+    '2114966761489813857',  # @meAsifAi swimsuit boat shot; body is image prompt not Seedance video prompt
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page
