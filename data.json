@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-28T08:24:21+08:00",
-  "count": 623,
+  "generated_at": "2026-10-29T08:14:02+08:00",
+  "count": 656,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -1188,6 +1188,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115314672002076740",
+      "url": "https://x.com/Ciri_ai/status/2115314672002076740",
+      "author": "Ciri_ai",
+      "author_name": "Ciri",
+      "avatar": "https://pbs.twimg.com/profile_images/2026606469840515078/q7KYlfmC_normal.jpg",
+      "created_at_utc": "2026-10-28T05:28:13.000Z",
+      "created_at_sh": "2026-10-28 13:28",
+      "likes": 191,
+      "reposts": 15,
+      "bookmarks": 60,
+      "lang": "en",
+      "text": "Transform your photo into a 3D handmade knitted plush doll with GPT Image 2.5\n\nPrompt: Transform a Real Photograph into a 3D Handmade Knitted Plush Doll Comparison Poster\n\nUse the uploaded real photograph as the exclusive reference for the person's identity. Automatically analyze the person's facial shape, hairstyle, hair color, expression, clothing, accessories, and pose, then transform them into a cute, intricately crafted 3D handmade knitted plush doll. Create a vertical comparison poster featuring the original photograph on top and the finished knitted doll below.\n\n01 | Layout and Composition\n\nUse a 3:4 portrait aspect ratio, divided into two vertically stacked sections.\n\nUpper 25% — Original Photograph\n\n- Preserve the original photograph's authentic photographic quality, facial features, expression, clothing, and pose.\n- Center the photograph and maintain its original aspect ratio. Natural cropping is permitted when necessary.\n- Fill the areas on the left and right with a soft terracotta-pink color (\"#D97B70\").\n- Do not redraw, distort, beautify, retouch, or otherwise alter the original photograph.\n\nLower 75% — 3D Knitted Plush Doll\n\n- Use a pure white, seamless studio background.\n- Center the doll in a bust or half-body close-up composition.\n- Give the doll a large, full head with a clearly defined silhouette and moderate surrounding negative space.\n- Make the two sections meet directly, without divider lines, outer frames, titles, or text.\n\n02 | Character Design\n\nUse exaggerated proportions with an oversized head and a tiny body. The head should occupy approximately 55–65% of the doll's visible height.\n\nThe face should be broad, plump, and softly rounded, with a rounded-square shape. The body should be small, with short, rounded limbs and the proportions of an adorable collectible designer toy.\n\nSimplify the facial features:\n\n- Tiny black oval bead eyes.\n- A dimensional orange-brown fabric nose.\n- A simple, natural mouth shape.\n- Soft, pale pink blush on the cheeks.\n\nRecreate the person's original expression, whether smiling, surprised, calm, or otherwise, while preserving their distinctive identity and personality.\n\n03 | Materials and Yarn Details\n\nConstruct the face and body from fine, soft knitted fabric, with visible textile patterns, gentle stuffed volume, and delicate fiber details.\n\nCreate the hair entirely from sculpted yarn. Automatically reproduce the hairstyle from the original photograph, including:\n\n- Hairstyle, hair color, length, and parting.\n- Straight, curly, short, or long hair, as applicable.\n- Yarn thickness, curl patterns, and layered volume.\n\nEach hair section should display realistic yarn fibers and dimensional knitted structures.\n\nReinterpret clothing, hats, glasses, and other accessories using handmade knitting or textile-craft techniques. Preserve their original styles, colors, silhouettes, and recognizable details.\n\nOnly include elements that are actually visible in the source photograph.\n\n04 | Identity and Pose Preservation\n\nPreserve the person's defining characteristics from the original photograph, including hairstyle, accessories, clothing colors, facial expression, head angle, and primary gestures.\n\nThe doll's pose must correspond to the original person's pose. Reproduce visible hands naturally and maintain the correct number of fingers wherever they are clearly visible.\n\nDo not invent or add hats, glasses, jewelry, accessories, or other objects that are absent from the photograph.\n\nMaintain the relationship between the original person and the knitted doll so that the doll is immediately recognizable as a handcrafted textile interpretation of the same subject.\n\n05 | Photography and Lighting\n\nUse the premium product-photography aesthetic of a high-end designer collectible plush doll.\n\n- Pure white background.\n- Soft, even studio lighting.\n- Natural contact shadows.\n- Subtle dimensional depth and realistic fabric volume.\n- An 85mm portrait-lens aesthetic.\n- High-resolution macro-level textile details.\n- Authentic handmade materials with clean, soft colors.\n\nThe knitted doll should look like a tangible, physically crafted object that could exist in the real world, not a conventional computer-generated character.\n\nEmphasize the tactile qualities of the yarn, fine stitches, fabric fibers, soft stuffing, and carefully constructed facial features.\n\n06 | Negative Constraints\n\nDo not alter the original photograph in the upper section. Do not regenerate the real person or modify their appearance.\n\nAvoid:\n\n- Plastic materials or smooth, synthetic 3D skin.\n- Photorealistic human facial features.\n- Oversized anime eyes.\n- Flat cartoon illustrations or conventional animated-character aesthetics.\n- Exaggerated noses or mouths.\n- Complex backgrounds.\n- Additional people, body parts, or limbs.\n- Incorrect finger counts or malformed hands.\n- Invented accessories or props.\n- Text, logos, watermarks, decorative borders, or unnecessary embellishments.\n\nFinal Output\n\nCreate a polished 3:4 portrait comparison poster with a clear visual contrast between the original photograph and its knitted interpretation.\n\nThe upper section must display the untouched original photograph. The lower section must feature a corresponding, adorable 3D handmade knitted plush doll whose hairstyle, clothing, expression, and pose closely match the original person.\n\nCore objective: Preserve the real person's identity while translating their appearance into a beautifully crafted, tactile, oversized-head knitted collectible doll. The result should feel like professional product photography of an actual handmade textile art toy.",
+      "prompt": "Transform a Real Photograph into a 3D Handmade Knitted Plush Doll Comparison Poster\n\nUse the uploaded real photograph as the exclusive reference for the person's identity. Automatically analyze the person's facial shape, hairstyle, hair color, expression, clothing, accessories, and pose, then transform them into a cute, intricately crafted 3D handmade knitted plush doll. Create a vertical comparison poster featuring the original photograph on top and the finished knitted doll below.\n\n01 | Layout and Composition\n\nUse a 3:4 portrait aspect ratio, divided into two vertically stacked sections.\n\nUpper 25% — Original Photograph\n\n- Preserve the original photograph's authentic photographic quality, facial features, expression, clothing, and pose.\n- Center the photograph and maintain its original aspect ratio. Natural cropping is permitted when necessary.\n- Fill the areas on the left and right with a soft terracotta-pink color (\"#D97B70\").\n- Do not redraw, distort, beautify, retouch, or otherwise alter the original photograph.\n\nLower 75% — 3D Knitted Plush Doll\n\n- Use a pure white, seamless studio background.\n- Center the doll in a bust or half-body close-up composition.\n- Give the doll a large, full head with a clearly defined silhouette and moderate surrounding negative space.\n- Make the two sections meet directly, without divider lines, outer frames, titles, or text.\n\n02 | Character Design\n\nUse exaggerated proportions with an oversized head and a tiny body. The head should occupy approximately 55–65% of the doll's visible height.\n\nThe face should be broad, plump, and softly rounded, with a rounded-square shape. The body should be small, with short, rounded limbs and the proportions of an adorable collectible designer toy.\n\nSimplify the facial features:\n\n- Tiny black oval bead eyes.\n- A dimensional orange-brown fabric nose.\n- A simple, natural mouth shape.\n- Soft, pale pink blush on the cheeks.\n\nRecreate the person's original expression, whether smiling, surprised, calm, or otherwise, while preserving their distinctive identity and personality.\n\n03 | Materials and Yarn Details\n\nConstruct the face and body from fine, soft knitted fabric, with visible textile patterns, gentle stuffed volume, and delicate fiber details.\n\nCreate the hair entirely from sculpted yarn. Automatically reproduce the hairstyle from the original photograph, including:\n\n- Hairstyle, hair color, length, and parting.\n- Straight, curly, short, or long hair, as applicable.\n- Yarn thickness, curl patterns, and layered volume.\n\nEach hair section should display realistic yarn fibers and dimensional knitted structures.\n\nReinterpret clothing, hats, glasses, and other accessories using handmade knitting or textile-craft techniques. Preserve their original styles, colors, silhouettes, and recognizable details.\n\nOnly include elements that are actually visible in the source photograph.\n\n04 | Identity and Pose Preservation\n\nPreserve the person's defining characteristics from the original photograph, including hairstyle, accessories, clothing colors, facial expression, head angle, and primary gestures.\n\nThe doll's pose must correspond to the original person's pose. Reproduce visible hands naturally and maintain the correct number of fingers wherever they are clearly visible.\n\nDo not invent or add hats, glasses, jewelry, accessories, or other objects that are absent from the photograph.\n\nMaintain the relationship between the original person and the knitted doll so that the doll is immediately recognizable as a handcrafted textile interpretation of the same subject.\n\n05 | Photography and Lighting\n\nUse the premium product-photography aesthetic of a high-end designer collectible plush doll.\n\n- Pure white background.\n- Soft, even studio lighting.\n- Natural contact shadows.\n- Subtle dimensional depth and realistic fabric volume.\n- An 85mm portrait-lens aesthetic.\n- High-resolution macro-level textile details.\n- Authentic handmade materials with clean, soft colors.\n\nThe knitted doll should look like a tangible, physically crafted object that could exist in the real world, not a conventional computer-generated character.\n\nEmphasize the tactile qualities of the yarn, fine stitches, fabric fibers, soft stuffing, and carefully constructed facial features.\n\n06 | Negative Constraints\n\nDo not alter the original photograph in the upper section. Do not regenerate the real person or modify their appearance.\n\nAvoid:\n\n- Plastic materials or smooth, synthetic 3D skin.\n- Photorealistic human facial features.\n- Oversized anime eyes.\n- Flat cartoon illustrations or conventional animated-character aesthetics.\n- Exaggerated noses or mouths.\n- Complex backgrounds.\n- Additional people, body parts, or limbs.\n- Incorrect finger counts or malformed hands.\n- Invented accessories or props.\n- Text, logos, watermarks, decorative borders, or unnecessary embellishments.\n\nFinal Output\n\nCreate a polished 3:4 portrait comparison poster with a clear visual contrast between the original photograph and its knitted interpretation.\n\nThe upper section must display the untouched original photograph. The lower section must feature a corresponding, adorable 3D handmade knitted plush doll whose hairstyle, clothing, expression, and pose closely match the original person.\n\nCore objective: Preserve the real person's identity while translating their appearance into a beautifully crafted, tactile, oversized-head knitted collectible doll. The result should feel like professional product photography of an actual handmade textile art toy.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsbeCFagAE3syd.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115314652750184449",
+          "file": "2115314672002076740_0.jpg",
+          "thumb": "2115314672002076740_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsbeB6bQAA-oYX.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115314652704096256",
+          "file": "2115314672002076740_1.jpg",
+          "thumb": "2115314672002076740_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsbeBgaUAAOqwT.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115314652594982912",
+          "file": "2115314672002076740_2.jpg",
+          "thumb": "2115314672002076740_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsbeBla8AA8L7i.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115314652615995392",
+          "file": "2115314672002076740_3.jpg",
+          "thumb": "2115314672002076740_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108458612662128684",
       "url": "https://x.com/TaliaAariz/status/2108458612662128684",
       "author": "TaliaAariz",
@@ -1329,6 +1388,45 @@
           "file": "2113887497751253111_2.jpg",
           "thumb": "2113887497751253111_2.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115357570722566196",
+      "url": "https://x.com/MissDelulu9/status/2115357570722566196",
+      "author": "MissDelulu9",
+      "author_name": "Eesha",
+      "avatar": "https://pbs.twimg.com/profile_images/2048849430724608000/YOcZikwk_normal.jpg",
+      "created_at_utc": "2026-10-28T08:18:40.000Z",
+      "created_at_sh": "2026-10-28 16:18",
+      "likes": 184,
+      "reposts": 11,
+      "bookmarks": 77,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPROMPT:\n\nA real vertical smartphone travel snapshot of a young adult woman in her early 20s at a seaside viewpoint, framed from the top of her white baseball cap to the lower waist in a close front-facing medium portrait. She stands or leans near a wall,",
+      "prompt": "A real vertical smartphone travel snapshot of a young adult woman in her early 20s at a seaside viewpoint, framed from the top of her white baseball cap to the lower waist in a close front-facing medium portrait. She stands or leans near a wall,",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVtCe-jbQAAXua_.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115357549935673344",
+          "file": "2115357570722566196_0.jpg",
+          "thumb": "2115357570722566196_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVtCfgmbsAAo45W.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115357559075090432",
+          "file": "2115357570722566196_1.jpg",
+          "thumb": "2115357570722566196_1.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -2985,6 +3083,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115326211463553404",
+      "url": "https://x.com/Naiknelofar788/status/2115326211463553404",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-28T06:14:04.000Z",
+      "created_at_sh": "2026-10-28 14:14",
+      "likes": 101,
+      "reposts": 11,
+      "bookmarks": 63,
+      "lang": "en",
+      "text": "GPT image 2.5\n\nPROMPT: \n\nCreate a sophisticated minimalist travel poster featuring [CITY / COUNTRY / LANDMARK], inspired by modern Scandinavian design, architectural line art, and timeless vintage travel prints.\n\nIllustration:\nDepict the destination using clean, precise black outline drawings with simple geometric shapes, elegant architectural details, and minimal visual complexity. Include 2–3 recognizable landmarks or defining elements of the location, arranged harmoniously within a single composition. Preserve the distinctive silhouettes and recognizable features of each landmark.\n\nSignature design elements:\n\nA large, flat golden-yellow sun or circle positioned behind the architecture.\nThin, crisp black outlines with a consistent stroke weight.\nSimplified buildings, bridges, towers, monuments, or natural features.\nA warm ivory or cream background with subtle paper texture.\nA restrained palette of black, cream, and muted ochre, with no unnecessary colours.\nGenerous negative space for a clean, premium gallery-poster aesthetic.\n\nTypography:\nDisplay “[CITY / DESTINATION NAME]” prominently beneath the illustration in bold, uppercase, modern sans-serif lettering. Add “[COUNTRY NAME]” in smaller, widely spaced uppercase letters when appropriate.\n\nComposition:\nA vertical 2:3 poster, centred illustration, balanced architectural arrangement, generous margins, and a clean editorial layout. The design should look like a professionally printed art poster suitable for a contemporary interior.\n\nMood: Minimalist, architectural, iconic, elegant, modern, and timeless.\n\nImportant: Make the destination instantly recognizable. Use landmarks that genuinely belong to the selected location. Avoid photorealism, gradients, 3D effects, excessive decoration, crowded details, and extra text. Ensure all destination names are spelled correctly.",
+      "prompt": "Create a sophisticated minimalist travel poster featuring [CITY / COUNTRY / LANDMARK], inspired by modern Scandinavian design, architectural line art, and timeless vintage travel prints.\n\nIllustration:\nDepict the destination using clean, precise black outline drawings with simple geometric shapes, elegant architectural details, and minimal visual complexity. Include 2–3 recognizable landmarks or defining elements of the location, arranged harmoniously within a single composition. Preserve the distinctive silhouettes and recognizable features of each landmark.\n\nSignature design elements:\n\nA large, flat golden-yellow sun or circle positioned behind the architecture.\nThin, crisp black outlines with a consistent stroke weight.\nSimplified buildings, bridges, towers, monuments, or natural features.\nA warm ivory or cream background with subtle paper texture.\nA restrained palette of black, cream, and muted ochre, with no unnecessary colours.\nGenerous negative space for a clean, premium gallery-poster aesthetic.\n\nTypography:\nDisplay “[CITY / DESTINATION NAME]” prominently beneath the illustration in bold, uppercase, modern sans-serif lettering. Add “[COUNTRY NAME]” in smaller, widely spaced uppercase letters when appropriate.\n\nComposition:\nA vertical 2:3 poster, centred illustration, balanced architectural arrangement, generous margins, and a clean editorial layout. The design should look like a professionally printed art poster suitable for a contemporary interior.\n\nMood: Minimalist, architectural, iconic, elegant, modern, and timeless.\n\nImportant: Make the destination instantly recognizable. Use landmarks that genuinely belong to the selected location. Avoid photorealism, gradients, 3D effects, excessive decoration, crowded details, and extra text. Ensure all destination names are spelled correctly.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsl-P0aAAAWZtE.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115326201309036544",
+          "file": "2115326211463553404_0.jpg",
+          "thumb": "2115326211463553404_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsl-PwaYAA6JoQ.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115326201292283904",
+          "file": "2115326211463553404_1.jpg",
+          "thumb": "2115326211463553404_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsl-Pya4AAZu3V.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115326201300705280",
+          "file": "2115326211463553404_2.jpg",
+          "thumb": "2115326211463553404_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsl-P6aoAA911E.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115326201334243328",
+          "file": "2115326211463553404_3.jpg",
+          "thumb": "2115326211463553404_3.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2101514981841961338",
       "url": "https://x.com/mehwishkiran07/status/2101514981841961338",
       "author": "mehwishkiran07",
@@ -3879,6 +4036,35 @@
           "thumb": "2114638446430208257_3.jpg",
           "tw": 384,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115390623369007456",
+      "url": "https://x.com/Shoji_ai/status/2115390623369007456",
+      "author": "Shoji_ai",
+      "author_name": "Shoji Kai",
+      "avatar": "https://pbs.twimg.com/profile_images/1909166393603584001/bYy80jin_normal.jpg",
+      "created_at_utc": "2026-10-28T10:30:01.000Z",
+      "created_at_sh": "2026-10-28 18:30",
+      "likes": 77,
+      "reposts": 9,
+      "bookmarks": 2,
+      "lang": "",
+      "text": "【4匹を探せ】平安の絵巻風の、お祭りの邸🏯\n\n平安時代の絵巻のような、金の霞がたなびくお屋敷のお祭りです。\nいつもの猫3匹（茶トラ・ハチワレ・三毛）と、Shoji Catが、4か所にいます。全員見つけられた？\n\n答えは一番下の返信に👇\n\n画像はAI（GPT Image 2.5）で作りました。プロンプトは返信に。",
+      "prompt": "答え合わせ🐈\n赤い丸の中に4匹います。\n・茶トラ：上のほう、池の向こう岸の松の根もとの庭石\n・ハチワレ：左、殿舎の縁側の赤い漆の箱のそば\n・Shoji Cat：真ん中、舞楽の舞台で手を上げて踊っています\n・三毛：右上、主殿の階（きざはし）、履物が並んだ所\n\n———\n\nプロンプト：GPT Image 2.5\n\nA Japanese Heian-period picture scroll (emaki) painting, horizontal 3:2, in the spirit of a classic seek-and-find book: a grand aristocratic estate in full festival, seen from an extremely high and wide oblique bird's-eye view with the roofs lifted off so that you look down into the halls, so that everything is tiny and there is an enormous amount to look at. In the middle a south courtyard of white gravel with a raised red-railed dance platform where court dancers in red and green robes perform, with court musicians playing lutes, zithers, flutes and drums; long covered corridors and wooden verandas with hanging bamboo blinds and folding screens painted with landscapes; a large garden pond with islets, pine trees, an arched red bridge and a winding garden stream with irises; plain wooden pleasure boats (square-ended, no animal-head prows) with poets and ladies; courtiers kicking a ball among cherry blossoms and maples; a gatehouse with ox-carriages parked WITHOUT oxen; kitchens with cooks and servants carrying lacquer trays; children, guards, monks. Horizontal bands of flat gold-leaf mist with fine gold-dust flecks drift between the scenes, but never cover a person or a cat. About 180 minuscule people, each doing something. A standing person is only about 3% of the picture height.\n\nThe look is the point: the Heian \"tsukuri-e\" picture-scroll manner (as in the Tale of Genji scrolls): opaque mineral pigments (cinnabar red, malachite green, azurite blue, ochre, lead white) laid flat over a white ground, thin brown-black ink outlines, \"line for an eye, hook for a nose\" faces, long straight black hair and layered many-coloured robes on the ladies, black caps and stiff court robes on the men, fine craquelure in the pigment, aged silk-paper texture. Not a photograph, not 3D, not a modern illustration. The drawing fills the whole picture to all four edges: no frame, no border, no title strip, no seals.\n\nExactly one small logo: a small black lacquered board hanging from the eaves of a small gatehouse in the right half, about 4% of the picture width, with a white paw print whose big pad holds a swirling ocean wave, and the word \"Shoji\" in white cursive brush lettering to its right. Apart from that board there are no letters, words, numbers, kanji or kana anywhere: no scroll text, no captions, no seals; poem papers and letters are blank.\n\nTHE ONLY ANIMALS IN THE WHOLE PICTURE ARE FOUR CATS, and there are never more than four. Not five, not a spare one. No other animal at all: no oxen, horses, birds (no cranes or phoenixes), fish or carp, turtles, butterflies, dogs, dragons, lion-dogs, no animal masks, no animal-head boat prows, and no animals on screens, robes or ornaments. No person wears an animal head or costume. The four cats are tiny, all in the upper and middle part of the picture: their feet are between about 15% and 60% of the picture height measured from the top, and NONE is in the lower third (the lower third is only pond, boats, stream, irises, gravel, gold mist and plants). Each cat is in the open, never hidden behind anything. The three real cats are each only about 1.5% of the picture height (about 20 pixels in a 1360-pixel-high picture), under half the height of a standing person, and wear a thin red collar with a tiny gold bell:\n1. a black-and-white \"hachiware\" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on the wooden veranda of the left-hand hall beside a red lacquer box, in the left half;\n2. a brown mackerel tabby (warm brown fur with dark stripes, white muzzle and chest) sitting upright on a flat garden stone at the foot of a pine tree on the far bank of the pond near the red arched bridge, upper centre-left;\n3. a calico cat (white with orange and black patches) sitting on the wooden steps of the main hall below a bamboo blind, among a row of sandals, right of centre;\n4. Shoji Cat, an upright orange tabby cat about three heads tall in a black leather jacket, denim shorts, cream sneakers and black wayfarer sunglasses with blue and red lenses, dancing with one arm raised on the dance platform among the court dancers, in the middle of the picture, about one and a half times as tall as each of the other three cats.\nNo dark round objects, no piles of black hair or cloth, and no dark animal-like shapes that could be mistaken for a cat. No watermark.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsbVCsagAATR4g.jpg",
+          "w": 1200,
+          "h": 796,
+          "media_key": "3_2115314498294939648",
+          "file": "2115390623369007456_0.jpg",
+          "thumb": "2115390623369007456_0.jpg",
+          "tw": 480,
+          "th": 318
         }
       ],
       "nsfw_flag": false
@@ -5124,6 +5310,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115498807400251803",
+      "url": "https://x.com/churvikv/status/2115498807400251803",
+      "author": "churvikv",
+      "author_name": "Viki",
+      "avatar": "https://pbs.twimg.com/profile_images/1646825232663994368/QM8Iy2m3_normal.jpg",
+      "created_at_utc": "2026-10-28T17:39:54.000Z",
+      "created_at_sh": "2026-10-29 01:39",
+      "likes": 60,
+      "reposts": 8,
+      "bookmarks": 3,
+      "lang": "",
+      "text": "A path of light beside water.\n\nCreated in @dreamina_ai\nModel: GPT Image 2.5 Flare\n#DreaminaCPP \n\n🏞 Prompt:\nPhotorealistic magical lakeside promenade at night, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.\n\nPATH: the entire",
+      "prompt": "Photorealistic magical lakeside promenade at night, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.\n\nPATH: the entire",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVvCsH8WcAAp0Sd.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2115498513282789376",
+          "file": "2115498807400251803_0.jpg",
+          "thumb": "2115498807400251803_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108378068771537181",
       "url": "https://x.com/mehwishkiran07/status/2108378068771537181",
       "author": "mehwishkiran07",
@@ -5656,6 +5871,35 @@
           "thumb": "2115028235855503822_0.jpg",
           "tw": 480,
           "th": 318
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115351324938117579",
+      "url": "https://x.com/johnAGI168/status/2115351324938117579",
+      "author": "johnAGI168",
+      "author_name": "John",
+      "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_normal.jpg",
+      "created_at_utc": "2026-10-28T07:53:51.000Z",
+      "created_at_sh": "2026-10-28 15:53",
+      "likes": 57,
+      "reposts": 6,
+      "bookmarks": 24,
+      "lang": "",
+      "text": "ChatGPT Images 2.5  prompt 👇\n\nMedium shot, eye-level cinematic flash portrait of an extraordinarily striking 18-year-old East Asian woman portraying a rebellious, silver-haired anime schoolgirl inside a minimalist studio. Standing in an edgy, confident stance, she tilts her head",
+      "prompt": "Medium shot, eye-level cinematic flash portrait of an extraordinarily striking 18-year-old East Asian woman portraying a rebellious, silver-haired anime schoolgirl inside a minimalist studio. Standing in an edgy, confident stance, she tilts her head",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVs8yycXEAA9sQC.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115351293212430336",
+          "file": "2115351324938117579_0.jpg",
+          "thumb": "2115351324938117579_0.jpg",
+          "tw": 360,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -6838,6 +7082,45 @@
           "file": "2114191054044094672_0.jpg",
           "thumb": "2114191054044094672_0.jpg",
           "tw": 400,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115417525177778485",
+      "url": "https://x.com/harboriis/status/2115417525177778485",
+      "author": "harboriis",
+      "author_name": "Harboris",
+      "avatar": "https://pbs.twimg.com/profile_images/2110394532336668673/2R7s3kh-_normal.jpg",
+      "created_at_utc": "2026-10-28T12:16:55.000Z",
+      "created_at_sh": "2026-10-28 20:16",
+      "likes": 47,
+      "reposts": 4,
+      "bookmarks": 29,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\nUltra-realistic, playful conceptual fashion photograph of a cheerful young woman with a short, vibrant blue bob haircut, wispy bangs, and sunglasses resting on top of her head. She is laughing joyfully with her mouth open, looking back toward",
+      "prompt": "Ultra-realistic, playful conceptual fashion photograph of a cheerful young woman with a short, vibrant blue bob haircut, wispy bangs, and sunglasses resting on top of her head. She is laughing joyfully with her mouth open, looking back toward",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVt5A6xakAAGKAA.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2115417506664058880",
+          "file": "2115417525177778485_0.jpg",
+          "thumb": "2115417525177778485_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVt5BfDboAAjFb0.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2115417516403302400",
+          "file": "2115417525177778485_1.jpg",
+          "thumb": "2115417525177778485_1.jpg",
+          "tw": 384,
           "th": 480
         }
       ],
@@ -8670,6 +8953,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115316740498543016",
+      "url": "https://x.com/Goodmanprotocol/status/2115316740498543016",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-28T05:36:26.000Z",
+      "created_at_sh": "2026-10-28 13:36",
+      "likes": 32,
+      "reposts": 3,
+      "bookmarks": 10,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nUNIVERSAL PROMPT - PREMIUM MINIMALIST LAYERED PAPER-CUT EDITORIAL POSTER | 3:4\n\nUse the uploaded photograph as the sole source of the subject. Create a premium editorial poster, with each photograph processed and exported individually. Do not combine multiple images into a collage.\n\nCOMPOSITION & LAYOUT: Use a 3:4 vertical aspect ratio. Divide the canvas into two equal horizontal sections, each occupying exactly 50% of the total height. Position the dividing line precisely at the vertical midpoint. The two sections must meet seamlessly, with no borders, gaps, or spacing between them.\n\nPHOTO PRESERVATION: Preserve the original subject's identity, pose, architectural structures, natural lighting, realistic textures, and overall color atmosphere. Apply only subtle, art-directed color grading worthy of a high-end editorial magazine. If necessary, naturally extend the environmental background to fit the horizontal composition. Never stretch the subject, alter its proportions, or crop out important narrative elements.\n\nLAYERED PAPER-CUT REINTERPRETATION: Extract the photograph's most recognizable subject, silhouette, pose, and narrative relationships, then reinterpret them as minimalist, handcrafted layered paper-cut art and sculptural paper relief. Establish one central focal subject, simplifying the surrounding environment into distinct foreground, midground, and background paper layers.\n\nPAPERCRAFT & DEPTH: Create visual depth through precise cutting, folding, overlapping, masking, positive and negative space, and intentional use of whitespace. Preserve the subject's recognizability without mechanically reproducing every original detail. The result should feel artistically constructed by hand, with sophisticated dimensionality and a refined minimalist aesthetic.\n\nCOLOR PALETTE & MATERIALS: Extract a limited, harmonious color palette from the original photograph. Use warm ivory paper as the base, complemented by the dominant colors of the scene, deeper structural tones, and a restrained accent color. Render matte cardstock, delicate paper fibers, crisp cut edges, convincing physical thickness, and soft contact shadows under natural diffused lighting. The final artwork should feel tactile, realistic, and exquisitely crafted.\n\nTYPOGRAPHY & EDITORIAL DETAILS: Add typography exclusively within the lower half of the poster. Derive a short, compelling English headline from the photograph's subject or narrative. Complement it with 2–4 small supporting text elements, such as a serial number, material descriptors, category labels, or an extremely brief poetic phrase. Maintain elegant typography, deliberate spacing, and a sophisticated luxury-editorial hierarchy.\n\nDo not add years, invented locations, fictional coordinates, or unsupported factual details.\n\nFINAL RESULT: A premium 3:4 vertical editorial poster combining the recognizable essence of the original photograph with minimalist, handcrafted layered paper-cut artistry, tactile materials, precise composition, and restrained luxury-magazine typography. Ensure the upper and lower sections remain exactly equal in height, with the central division aligned precisely at 50% of the canvas.",
+      "prompt": "UNIVERSAL PROMPT - PREMIUM MINIMALIST LAYERED PAPER-CUT EDITORIAL POSTER | 3:4\n\nUse the uploaded photograph as the sole source of the subject. Create a premium editorial poster, with each photograph processed and exported individually. Do not combine multiple images into a collage.\n\nCOMPOSITION & LAYOUT: Use a 3:4 vertical aspect ratio. Divide the canvas into two equal horizontal sections, each occupying exactly 50% of the total height. Position the dividing line precisely at the vertical midpoint. The two sections must meet seamlessly, with no borders, gaps, or spacing between them.\n\nPHOTO PRESERVATION: Preserve the original subject's identity, pose, architectural structures, natural lighting, realistic textures, and overall color atmosphere. Apply only subtle, art-directed color grading worthy of a high-end editorial magazine. If necessary, naturally extend the environmental background to fit the horizontal composition. Never stretch the subject, alter its proportions, or crop out important narrative elements.\n\nLAYERED PAPER-CUT REINTERPRETATION: Extract the photograph's most recognizable subject, silhouette, pose, and narrative relationships, then reinterpret them as minimalist, handcrafted layered paper-cut art and sculptural paper relief. Establish one central focal subject, simplifying the surrounding environment into distinct foreground, midground, and background paper layers.\n\nPAPERCRAFT & DEPTH: Create visual depth through precise cutting, folding, overlapping, masking, positive and negative space, and intentional use of whitespace. Preserve the subject's recognizability without mechanically reproducing every original detail. The result should feel artistically constructed by hand, with sophisticated dimensionality and a refined minimalist aesthetic.\n\nCOLOR PALETTE & MATERIALS: Extract a limited, harmonious color palette from the original photograph. Use warm ivory paper as the base, complemented by the dominant colors of the scene, deeper structural tones, and a restrained accent color. Render matte cardstock, delicate paper fibers, crisp cut edges, convincing physical thickness, and soft contact shadows under natural diffused lighting. The final artwork should feel tactile, realistic, and exquisitely crafted.\n\nTYPOGRAPHY & EDITORIAL DETAILS: Add typography exclusively within the lower half of the poster. Derive a short, compelling English headline from the photograph's subject or narrative. Complement it with 2–4 small supporting text elements, such as a serial number, material descriptors, category labels, or an extremely brief poetic phrase. Maintain elegant typography, deliberate spacing, and a sophisticated luxury-editorial hierarchy.\n\nDo not add years, invented locations, fictional coordinates, or unsupported factual details.\n\nFINAL RESULT: A premium 3:4 vertical editorial poster combining the recognizable essence of the original photograph with minimalist, handcrafted layered paper-cut artistry, tactile materials, precise composition, and restrained luxury-magazine typography. Ensure the upper and lower sections remain exactly equal in height, with the central division aligned precisely at 50% of the canvas.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsdUGQbYAAGc4N.jpg",
+          "w": 736,
+          "h": 1104,
+          "media_key": "3_2115316681094684672",
+          "file": "2115316740498543016_0.jpg",
+          "thumb": "2115316740498543016_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsdUy_aUAAfKfv.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115316693102907392",
+          "file": "2115316740498543016_1.jpg",
+          "thumb": "2115316740498543016_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsdVovawAANq-V.jpg",
+          "w": 736,
+          "h": 981,
+          "media_key": "3_2115316707531341824",
+          "file": "2115316740498543016_2.jpg",
+          "thumb": "2115316740498543016_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsdWvWacAAf4rF.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115316726485381120",
+          "file": "2115316740498543016_3.jpg",
+          "thumb": "2115316740498543016_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2109581797944443143",
       "url": "https://x.com/Goodmanprotocol/status/2109581797944443143",
       "author": "Goodmanprotocol",
@@ -9081,6 +9423,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115351638353613255",
+      "url": "https://x.com/MrDasCreates/status/2115351638353613255",
+      "author": "MrDasCreates",
+      "author_name": "Mr Das",
+      "avatar": "https://pbs.twimg.com/profile_images/2099489608006582272/UunROOIJ_normal.jpg",
+      "created_at_utc": "2026-10-28T07:55:06.000Z",
+      "created_at_sh": "2026-10-28 15:55",
+      "likes": 30,
+      "reposts": 1,
+      "bookmarks": 6,
+      "lang": "",
+      "text": "Turn your photo into a cozy hand-crocheted amigurumi doll using GPT Image 2.5\n\nPrompt: Transform the uploaded photo into a hand-crocheted amigurumi style doll. Soft chunky yarn with visible stitches, oversized rounded head and tiny body, embroidered facial features with gentle",
+      "prompt": "Transform the uploaded photo into a hand-crocheted amigurumi style doll. Soft chunky yarn with visible stitches, oversized rounded head and tiny body, embroidered facial features with gentle",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVs9F1Ga8AEt2Ec.jpg",
+          "w": 958,
+          "h": 1200,
+          "media_key": "3_2115351620343230465",
+          "file": "2115351638353613255_0.jpg",
+          "thumb": "2115351638353613255_0.jpg",
+          "tw": 383,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs9F07agAAjm75.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115351620297064448",
+          "file": "2115351638353613255_1.jpg",
+          "thumb": "2115351638353613255_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs9F1DbAAAzaeh.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115351620330651648",
+          "file": "2115351638353613255_2.jpg",
+          "thumb": "2115351638353613255_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs9F0-aQAEDIXd.jpg",
+          "w": 901,
+          "h": 1200,
+          "media_key": "3_2115351620309630977",
+          "file": "2115351638353613255_3.jpg",
+          "thumb": "2115351638353613255_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107539874958221667",
       "url": "https://x.com/imGopalTiwari/status/2107539874958221667",
       "author": "imGopalTiwari",
@@ -9162,6 +9563,35 @@
           "file": "2113587892090249316_0.jpg",
           "thumb": "2113587892090249316_0.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115374169269645603",
+      "url": "https://x.com/cheke6966/status/2115374169269645603",
+      "author": "cheke6966",
+      "author_name": "Snon＠すのん",
+      "avatar": "https://pbs.twimg.com/profile_images/2039497213110530048/keG3y9Iv_normal.jpg",
+      "created_at_utc": "2026-10-28T09:24:38.000Z",
+      "created_at_sh": "2026-10-28 17:24",
+      "likes": 29,
+      "reposts": 1,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "プロンプト\nImage1 Image2 二人で仲良くご飯を作ってる様子\n異世界ファンタジーな感じ\n\n作：GPT Image 2.5",
+      "prompt": "Image1 Image2 二人で仲良くご飯を作ってる様子\n異世界ファンタジーな感じ\n\n作：GPT Image 2.5",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVtRVXIa4AAU3pY.jpg",
+          "w": 880,
+          "h": 1184,
+          "media_key": "3_2115373877409013760",
+          "file": "2115374169269645603_0.jpg",
+          "thumb": "2115374169269645603_0.jpg",
+          "tw": 356,
           "th": 480
         }
       ],
@@ -9366,6 +9796,45 @@
           "media_key": "3_2114946910377353216",
           "file": "2114946920372466002_1.jpg",
           "thumb": "2114946920372466002_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115387542355026051",
+      "url": "https://x.com/Ziha_ai/status/2115387542355026051",
+      "author": "Ziha_ai",
+      "author_name": "Ziha",
+      "avatar": "https://pbs.twimg.com/profile_images/2111845511917633536/ChbiaDiF_normal.jpg",
+      "created_at_utc": "2026-10-28T10:17:46.000Z",
+      "created_at_sh": "2026-10-28 18:17",
+      "likes": 28,
+      "reposts": 1,
+      "bookmarks": 9,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT \n\nPrompt:\n\nUltra-realistic fashion editorial photograph of a stylish young woman with a short, tousled dark brown bob haircut, soft bangs, striking eyes, and glossy red lipstick. She is wearing an oversized light gray ribbed knit turtleneck sweater with",
+      "prompt": "Ultra-realistic fashion editorial photograph of a stylish young woman with a short, tousled dark brown bob haircut, soft bangs, striking eyes, and glossy red lipstick. She is wearing an oversized light gray ribbed knit turtleneck sweater with",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVtdqNAagAA-gNH.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115387429607866368",
+          "file": "2115387542355026051_0.jpg",
+          "thumb": "2115387542355026051_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVtdulFaYAAr18l.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115387504790757376",
+          "file": "2115387542355026051_1.jpg",
+          "thumb": "2115387542355026051_1.jpg",
           "tw": 270,
           "th": 480
         }
@@ -9704,6 +10173,104 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115457601823801397",
+      "url": "https://x.com/Naiknelofar788/status/2115457601823801397",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-28T14:56:10.000Z",
+      "created_at_sh": "2026-10-28 22:56",
+      "likes": 27,
+      "reposts": 3,
+      "bookmarks": 12,
+      "lang": "",
+      "text": "GPT image 2.5\n\nPrompt:\nCreate a minimalist, elegant framed wall-art poster featuring [LANDMARK NAME], [CITY], [COUNTRY], inspired by timeless architectural line-art prints.\n\nDraw the landmark as a simple, continuous-looking black outline using clean, delicate strokes. Preserve",
+      "prompt": "Create a minimalist, elegant framed wall-art poster featuring [LANDMARK NAME], [CITY], [COUNTRY], inspired by timeless architectural line-art prints.\n\nDraw the landmark as a simple, continuous-looking black outline using clean, delicate strokes. Preserve",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVudeC-acAEAc7d.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115457589500866561",
+          "file": "2115457601823801397_0.jpg",
+          "thumb": "2115457601823801397_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVudeDCbQAAldgU.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115457589517697024",
+          "file": "2115457601823801397_1.jpg",
+          "thumb": "2115457601823801397_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVudeC9bMAAnQL6.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115457589496721408",
+          "file": "2115457601823801397_2.jpg",
+          "thumb": "2115457601823801397_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVudeDEb0AAtR3W.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115457589526122496",
+          "file": "2115457601823801397_3.jpg",
+          "thumb": "2115457601823801397_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115343032731992439",
+      "url": "https://x.com/iamsofiaijaz/status/2115343032731992439",
+      "author": "iamsofiaijaz",
+      "author_name": "Aijaz",
+      "avatar": "https://pbs.twimg.com/profile_images/1967066723779309573/aDWbkVgi_normal.jpg",
+      "created_at_utc": "2026-10-28T07:20:54.000Z",
+      "created_at_sh": "2026-10-28 15:20",
+      "likes": 27,
+      "reposts": 1,
+      "bookmarks": 10,
+      "lang": "en",
+      "text": "Images with Gpt image 2.5\n\nPrompt 👇",
+      "prompt": "1.A cinematic, dreamy, vintage film photograph of a young woman with long dark brown hair being blown wildly across her face by strong wind. She is captured in a candid side-profile, her head slightly turned toward the camera, eyes half-closed, lips gently parted, with a melancholic, ethereal expression. She wears a dark, textured outfit with warm brown tones. Her hair flows dramatically through the air, creating beautiful motion blur and organic shapes around her face. Soft, overcast natural daylight, muted olive-green and warm beige background, shallow depth of field, heavily blurred foreground, subtle halation, imperfect focus, strong analog film grain, soft highlights, earthy color grading, nostalgic 1970s editorial photography, 35mm film aesthetic, low contrast, atmospheric haze, spontaneous movement, intimate and poetic mood, realistic skin texture, painterly softness, imperfect composition, fine-art fashion photography. Vertical portrait, 4:5 aspect ratio, no text, no watermark.\n\n———\n\n2.A breathtaking, ethereal cinematic photograph of a young woman in a flowing ivory-white vintage dress, captured in profile with her eyes gently closed and her face lifted toward the wind. Her long, voluminous auburn hair explodes dramatically through the air in enormous flowing arcs, creating a surreal, painterly halo around her head and body. Her arms extend gracefully outward, the fabric of her dress and hair swirling together in a beautiful dance of movement. She stands in an open, windswept landscape beneath a pale, overcast sky, with distant dark olive-green hills fading into the background.\n\nArt direction: romantic fine-art photography, pre-Raphaelite painting meets vintage analog film, dreamlike motion blur, long-exposure movement, soft atmospheric haze, rich burnt-orange and copper-red tones, muted sage green, warm cream highlights, deep earthy shadows, visible 35mm film grain, subtle halation, imperfect focus, painterly textures, natural diffused lighting, soft contrast, organic color grading, emotionally evocative and otherworldly atmosphere.\n\nComposition: vertical portrait, full-body three-quarter view, subject positioned slightly left of center, dramatic sweeping hair filling the upper and right portions of the frame, flowing fabric and motion trails dominating the foreground, shallow depth of field, dynamic diagonal movement, spontaneous and unposed feeling.\n\nShot on vintage 35mm film, 50mm lens, f/2, slow shutter speed to capture flowing movement, high-end editorial art photography, fine-art museum aesthetic, photorealistic details blended with impressionistic motion, cinematic and timeless, 4:5 vertical aspect ratio.\n\nAvoid: cartoon style, CGI appearance, plastic skin, oversharpening, artificial colors, stiff poses, perfectly frozen hair, excessive digital clarity, text, watermarks.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVs1RC0bcAA-ql6.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2115343016911400960",
+          "file": "2115343032731992439_0.jpg",
+          "thumb": "2115343032731992439_0.jpg",
+          "tw": 384,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs1Re0aIAA1oj_.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2115343024427507712",
+          "file": "2115343032731992439_1.jpg",
+          "thumb": "2115343032731992439_1.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108403968372306010",
       "url": "https://x.com/Goodmanprotocol/status/2108403968372306010",
       "author": "Goodmanprotocol",
@@ -9875,6 +10442,35 @@
           "thumb": "2114514848881238084_0.jpg",
           "tw": 480,
           "th": 268
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115294031693652342",
+      "url": "https://x.com/liyue_ai/status/2115294031693652342",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-28T04:06:12.000Z",
+      "created_at_sh": "2026-10-28 12:06",
+      "likes": 26,
+      "reposts": 2,
+      "bookmarks": 8,
+      "lang": "",
+      "text": "GPT Image 2.5生成东方美学海报：花影回眸。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简爆款封面\n风格分支：女性审美高颜值型\n主体内容：一位古风女子以半身近景出现在画面中，微微侧身回眸，神情温柔安静\n情绪母题：柔美、明媚、含蓄吸引力",
+      "prompt": "主题方向：东方禅意极简爆款封面\n风格分支：女性审美高颜值型\n主体内容：一位古风女子以半身近景出现在画面中，微微侧身回眸，神情温柔安静\n情绪母题：柔美、明媚、含蓄吸引力",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsItEHbsAEaZPT.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115294020272631809",
+          "file": "2115294031693652342_0.jpg",
+          "thumb": "2115294031693652342_0.jpg",
+          "tw": 270,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -11068,6 +11664,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115254224422682852",
+      "url": "https://x.com/DeepBlueX0/status/2115254224422682852",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-28T01:28:01.000Z",
+      "created_at_sh": "2026-10-28 09:28",
+      "likes": 20,
+      "reposts": 1,
+      "bookmarks": 20,
+      "lang": "",
+      "text": "GPT image 2.5 Prompt:\n\n主体：动漫或游戏女性角色 ×《爱，死亡和机器人：齐马蓝》动画画风\n\n从主体池中随机抽取10个不同主体，每张呈现一个，保留各主体辨识特征。\n\n视觉语言：棱角化造型 × 夸张比例 × 硬边平涂 × 局部印刷颗粒 × 超现实尺度 × 局部齐马蓝。",
+      "prompt": "主体：动漫或游戏女性角色 ×《爱，死亡和机器人：齐马蓝》动画画风\n\n从主体池中随机抽取10个不同主体，每张呈现一个，保留各主体辨识特征。\n\n视觉语言：棱角化造型 × 夸张比例 × 硬边平涂 × 局部印刷颗粒 × 超现实尺度 × 局部齐马蓝。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVrkgCuaYAAsOz-.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115254214142353408",
+          "file": "2115254224422682852_0.jpg",
+          "thumb": "2115254224422682852_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVrkgCubAAANxmd.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2115254214142394368",
+          "file": "2115254224422682852_1.jpg",
+          "thumb": "2115254224422682852_1.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVrkgCyaAAE7PcB.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2115254214159106049",
+          "file": "2115254224422682852_2.jpg",
+          "thumb": "2115254224422682852_2.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVrkgCuagAApgSX.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115254214142361600",
+          "file": "2115254224422682852_3.jpg",
+          "thumb": "2115254224422682852_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2106608153614057523",
       "url": "https://x.com/iamsofiaijaz/status/2106608153614057523",
       "author": "iamsofiaijaz",
@@ -11691,6 +12346,35 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115301052170023298",
+      "url": "https://x.com/kabumira862571/status/2115301052170023298",
+      "author": "kabumira862571",
+      "author_name": "カーブミラー",
+      "avatar": "https://pbs.twimg.com/profile_images/1675467594609090560/WJp9rDF6_normal.jpg",
+      "created_at_utc": "2026-10-28T04:34:05.000Z",
+      "created_at_sh": "2026-10-28 12:34",
+      "likes": 18,
+      "reposts": 3,
+      "bookmarks": 1,
+      "lang": "ja",
+      "text": "GPT-Image 2.5\n#PromptShare\n自分風に変えてみてね😸\n\nPrompt（画像をアップロード）：\n与えた画像をもとにしたカメラロール。\nアスペクト比は縦長（4:5）で描画",
+      "prompt": "与えた画像をもとにしたカメラロール。\nアスペクト比は縦長（4:5）で描画",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsPFzaaUAEu8Hp.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2115301042355326977",
+          "file": "2115301052170023298_0.jpg",
+          "thumb": "2115301052170023298_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108833915360481778",
       "url": "https://x.com/bmx_ai13/status/2108833915360481778",
       "author": "bmx_ai13",
@@ -12258,6 +12942,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115399643731526022",
+      "url": "https://x.com/Goodmanprotocol/status/2115399643731526022",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-28T11:05:51.000Z",
+      "created_at_sh": "2026-10-28 19:05",
+      "likes": 16,
+      "reposts": 1,
+      "bookmarks": 8,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nUpload a photograph and transform it into a single, standalone poster. Do not create a collage or combine multiple images. Use a vertical 3:4 aspect ratio, divided into two strictly equal horizontal sections, each occupying exactly 50% of the canvas.",
+      "prompt": "Upload a photograph and transform it into a single, standalone poster. Do not create a collage or combine multiple images. Use a vertical 3:4 aspect ratio, divided into two strictly equal horizontal sections, each occupying exactly 50% of the canvas.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVtov0PaIAA23Fs.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115399620666990592",
+          "file": "2115399643731526022_0.jpg",
+          "thumb": "2115399643731526022_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVtowhMbMAAaJyM.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115399632734072832",
+          "file": "2115399643731526022_1.jpg",
+          "thumb": "2115399643731526022_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108905051716763932",
       "url": "https://x.com/liyue_ai/status/2108905051716763932",
       "author": "liyue_ai",
@@ -12660,6 +13383,35 @@
           "file": "2114576943568105921_0.jpg",
           "thumb": "2114576943568105921_0.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115276464903860564",
+      "url": "https://x.com/johnAGI168/status/2115276464903860564",
+      "author": "johnAGI168",
+      "author_name": "John",
+      "avatar": "https://pbs.twimg.com/profile_images/1905589492867854336/UBUMmQ1h_normal.jpg",
+      "created_at_utc": "2026-10-28T02:56:23.000Z",
+      "created_at_sh": "2026-10-28 10:56",
+      "likes": 14,
+      "reposts": 1,
+      "bookmarks": 9,
+      "lang": "",
+      "text": "梦华梦核美☁️\n\nChatGPT Images 2.5  prompt 👇\n\nMedium full shot, dramatic diagonal high-angle cinematic fantasy portrait of an ethereal 20-year-old forest nymph reclining gracefully on a lush mossy woodland bank. Resting softly along the emerald-green mossy tree roots, she tilts",
+      "prompt": "Medium full shot, dramatic diagonal high-angle cinematic fantasy portrait of an ethereal 20-year-old forest nymph reclining gracefully on a lush mossy woodland bank. Resting softly along the emerald-green mossy tree roots, she tilts",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVr4uhSW8AAkO6M.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115276453096910848",
+          "file": "2115276464903860564_0.jpg",
+          "thumb": "2115276464903860564_0.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -13119,6 +13871,45 @@
           "file": "2114557081860833571_3.jpg",
           "thumb": "2114557081860833571_3.jpg",
           "tw": 322,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115427118490206293",
+      "url": "https://x.com/miratechtool/status/2115427118490206293",
+      "author": "miratechtool",
+      "author_name": "Mira",
+      "avatar": "https://pbs.twimg.com/profile_images/2055761979986378752/2ZdUlsem_normal.jpg",
+      "created_at_utc": "2026-10-28T12:55:02.000Z",
+      "created_at_sh": "2026-10-28 20:55",
+      "likes": 12,
+      "reposts": 1,
+      "bookmarks": 2,
+      "lang": "",
+      "text": "Created by GPT Image 2.5 on @ChatGPT\n\nPrompt : Create a minimal, elegant watercolor-and-ink illustration poster with a soft handmade artist-sketchbook aesthetic. Show a young woman standing or slowly walking away from the viewer, full body visible, with long naturally flowing",
+      "prompt": "Create a minimal, elegant watercolor-and-ink illustration poster with a soft handmade artist-sketchbook aesthetic. Show a young woman standing or slowly walking away from the viewer, full body visible, with long naturally flowing",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVuBvkjWAAAw5c_.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115427104246333440",
+          "file": "2115427118490206293_0.jpg",
+          "thumb": "2115427118490206293_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVuBv_DWgAA-wRy.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115427111359905792",
+          "file": "2115427118490206293_1.jpg",
+          "thumb": "2115427118490206293_1.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -15083,6 +15874,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115292980613620073",
+      "url": "https://x.com/DeepBlueX0/status/2115292980613620073",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-28T04:02:01.000Z",
+      "created_at_sh": "2026-10-28 12:02",
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "",
+      "text": "GPT image 2.5 Prompt:\n\n掃描攝影 Scanography × 花朵與樹葉 × 超現實物件組合 × 真實數字掃描成像\n\nn=10，每次獨立生成一張9:16豎版圖片，逐張輸出，不製作拼圖。每張選擇不同的花朵或樹葉作為主體，從12種玩法中選擇不同方向，變化物件組合、排列與構圖，形成具有收藏價值的實驗掃描攝影系列。",
+      "prompt": "掃描攝影 Scanography × 花朵與樹葉 × 超現實物件組合 × 真實數字掃描成像\n\nn=10，每次獨立生成一張9:16豎版圖片，逐張輸出，不製作拼圖。每張選擇不同的花朵或樹葉作為主體，從12種玩法中選擇不同方向，變化物件組合、排列與構圖，形成具有收藏價值的實驗掃描攝影系列。\n\n12種玩法：花瓣解構、葉脈透視、機械共生、昆蟲棲息、植物珠寶、透明包裹、果實聯想、植物與文字、破碎與生長、植物標本、形態仿生、時間痕跡。\n\n每張選擇一種具有鮮明輪廓、結構或色彩的花朵或樹葉，保留其可辨識的自然形態。再選擇與植物具有形態呼應、材質反差或故事關聯的物件，讓彼此形成一個容易看懂、有想像力的視覺關係。每張合計使用2至5種物件，包含植物主體。\n\n花朵或樹葉佔據畫面的主要視覺面積，其他物件圍繞主體形成必要的互動、遮擋或延伸，保持主次分明。允許植物局部放大、貼近畫面邊緣或裁切，利用形狀、色彩與材質對比創造視覺衝擊力，保留適量留白。\n\n以真實平板掃描儀直接成像為視覺基礎。植物與物件貼放或略微離開掃描玻璃，畫面呈現近乎平面的空間與明確的接觸、疊壓關係。貼近玻璃的部分清晰，離開玻璃的部分自然變柔，保留掃描光源照亮物件表面的直接感，以及花瓣、葉脈和其他材質的細節。\n\n可依構圖需要使用透明材質疊層。部分作品可在掃描過程中移動植物或物件，讓局部形體沿掃描方向產生拉伸、壓縮或錯位；其餘靜止部分保持清晰。\n\n背景以深黑為主，也可依主體選擇純白或低飽和單色。控制物件數量與細節密度，讓植物主體輪廓清楚，畫面乾淨、有秩序，同時保留真實材質的細節。\n\n左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsHv8DaMAAYvAS.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115292970136252416",
+          "file": "2115292980613620073_0.jpg",
+          "thumb": "2115292980613620073_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsHv8GbgAAE8yF.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115292970148921344",
+          "file": "2115292980613620073_1.jpg",
+          "thumb": "2115292980613620073_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsHv8Ea4AA6vB6.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2115292970140491776",
+          "file": "2115292980613620073_2.jpg",
+          "thumb": "2115292980613620073_2.jpg",
+          "tw": 269,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsHv8EaIAAJ7NF.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115292970140442624",
+          "file": "2115292980613620073_3.jpg",
+          "thumb": "2115292980613620073_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097720524113580184",
       "url": "https://x.com/shirawiggles/status/2097720524113580184",
       "author": "shirawiggles",
@@ -16574,6 +17424,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2115451137746956538",
+      "url": "https://x.com/Goodmanprotocol/status/2115451137746956538",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-28T14:30:29.000Z",
+      "created_at_sh": "2026-10-28 22:30",
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 4,
+      "lang": "",
+      "text": "GPT Image 2.5\n\nPrompt:\nTransform the uploaded photograph into a sophisticated, premium editorial collage poster. Use the original image as the sole source of the subject, preserving its identity, distinctive features, natural colors, and recognizable details. Create one",
+      "prompt": "Transform the uploaded photograph into a sophisticated, premium editorial collage poster. Use the original image as the sole source of the subject, preserving its identity, distinctive features, natural colors, and recognizable details. Create one",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVuXk_WaMAAFX-i.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115451111717089280",
+          "file": "2115451137746956538_0.jpg",
+          "thumb": "2115451137746956538_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVuXl5DbYAAEj2q.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115451127206731776",
+          "file": "2115451137746956538_1.jpg",
+          "thumb": "2115451137746956538_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107782148724060549",
       "url": "https://x.com/NoravaleAI/status/2107782148724060549",
       "author": "NoravaleAI",
@@ -17369,6 +18258,94 @@
           "file": "2114038400735191523_1.jpg",
           "thumb": "2114038400735191523_1.jpg",
           "tw": 358,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115481245299909070",
+      "url": "https://x.com/DeepBlueX0/status/2115481245299909070",
+      "author": "DeepBlueX0",
+      "author_name": "DeepBlue深藍",
+      "avatar": "https://pbs.twimg.com/profile_images/2091542013942583296/c__eqR4H_normal.jpg",
+      "created_at_utc": "2026-10-28T16:30:07.000Z",
+      "created_at_sh": "2026-10-29 00:30",
+      "likes": 3,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT image 2.5 Prompt:\n\n# 四模块抽卡生图玩法\n## 一、核心公式\n主体 × 风格 × 构图 × 媒介\n主体：画谁，确定画面核心对象与身份识别特征。\n风格：采用什么视觉语言，确定整体审美、色彩、造型和画面气质。\n构图：如何安排画面，确定主体位置、景别、视角、空间关系和视觉重心。",
+      "prompt": "# 四模块抽卡生图玩法\n## 一、核心公式\n主体 × 风格 × 构图 × 媒介\n主体：画谁，确定画面核心对象与身份识别特征。\n风格：采用什么视觉语言，确定整体审美、色彩、造型和画面气质。\n构图：如何安排画面，确定主体位置、景别、视角、空间关系和视觉重心。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVuyqrHbMAA2MDB.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115480896178696192",
+          "file": "2115481245299909070_0.jpg",
+          "thumb": "2115481245299909070_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVuyqujaIAQhBXv.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115480897101373444",
+          "file": "2115481245299909070_1.jpg",
+          "thumb": "2115481245299909070_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVuyqyCaIAMnbmx.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115480898036703235",
+          "file": "2115481245299909070_2.jpg",
+          "thumb": "2115481245299909070_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVuyq0EaEAAp1C2.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115480898581958656",
+          "file": "2115481245299909070_3.jpg",
+          "thumb": "2115481245299909070_3.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115347250297897339",
+      "url": "https://x.com/iamsoulAI/status/2115347250297897339",
+      "author": "iamsoulAI",
+      "author_name": "Soul | AI",
+      "avatar": "https://pbs.twimg.com/profile_images/2080143856851652608/px5ei-Xs_normal.jpg",
+      "created_at_utc": "2026-10-28T07:37:40.000Z",
+      "created_at_sh": "2026-10-28 15:37",
+      "likes": 3,
+      "reposts": 2,
+      "bookmarks": 1,
+      "lang": "en",
+      "text": "Images with GPT image 2.5\n\nPrompt 👇",
+      "prompt": "A hyper-realistic, epic pirate battle on the open ocean during a violent storm. Two ruthless pirates clash aboard a wooden pirate ship, exchanging brutal punches, powerful blocks, and bone-crushing blows as waves crash over the deck. The camera circles them with dynamic handheld movements, capturing intense facial expressions, flying water droplets, splintering wood, and realistic impact effects. Suddenly, one pirate's eyes glow with supernatural energy as a swirling blue aura erupts around his fist. He delivers an earth-shattering punch, unleashing a massive shockwave that sends his opponent flying high into the stormy sky. The defeated pirate spins through the air above towering waves as lightning illuminates the clouds. The victorious pirate stands firmly on the rain-soaked deck, his coat whipping in the wind. Ultra-realistic physics, spectacular VFX, dramatic slow motion, IMAX cinematography, volumetric lighting, cinematic motion blur, 4K detail, vertical 9:16, epic fantasy-action atmosphere.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVs5G9JaQAAsmbv.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115347241636610048",
+          "file": "2115347250297897339_0.jpg",
+          "thumb": "2115347250297897339_0.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -20376,6 +21353,84 @@
           "thumb": "2114913812113740036_3.jpg",
           "tw": 480,
           "th": 269
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115447339196559512",
+      "url": "https://x.com/molyin_com/status/2115447339196559512",
+      "author": "molyin_com",
+      "author_name": "Molyin",
+      "avatar": "https://pbs.twimg.com/profile_images/2078692181280444416/ilGVs23G_normal.jpg",
+      "created_at_utc": "2026-10-28T14:15:23.000Z",
+      "created_at_sh": "2026-10-28 22:15",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Studio lighting, hyperrealistic ingredients, and zero artificial look. 📸🧀\nNo studio setup needed. Just pure, mouth-watering food styling and sophisticated typography for your next campaign.\n\nMade with GPT Image 2.5 on Molyin.\n\nGet the prompt 👇",
+      "prompt": "UNIVERSAL PROMPT - PREMIUM FOOD × TYPOGRAPHY EDITORIAL POSTER | 9:16\n\nCreate a premium, photorealistic food editorial poster featuring [FOOD / DISH NAME], combining luxury commercial food photography with oversized, elegant editorial typography.\n\nFOOD PRESENTATION: Showcase the dish as the hero subject, emphasizing its authentic ingredients, signature textures, natural colors, preparation details, and irresistible visual appeal. Style it with refined plating, realistic proportions, appetizing highlights, and meticulous attention to culinary authenticity.\n\nTYPOGRAPHY & COMPOSITION: Feature [DISH NAME] in enormous, sophisticated, high-contrast serif typography inspired by Bodoni or Didone typefaces. Use a carefully selected color that complements the food and background. Integrate the dish with the headline, allowing it to overlap selected letterforms naturally, moving between foreground and background to create convincing three-dimensional depth. Maintain clear readability and strong visual hierarchy.\n\nINGREDIENT DETAILS: Incorporate authentic ingredients associated with the dish through subtle visual elements, carefully placed garnishes, or refined editorial annotations. Include a concise ingredient line: [KEY INGREDIENTS]. Add a delicate culinary interaction where appropriate, such as a spoon lifting a bite, a fork cutting through the dish, a sauce drizzle, or fine ingredient particles falling through the composition.\n\nCOLOR PALETTE: Use a cohesive palette inspired by the dish, combining a sophisticated background tone, rich food-inspired colors, subtle highlights, and restrained metallic accents where appropriate. Maintain tonal harmony, luxurious contrast, and a premium editorial finish.\n\nEDITORIAL DETAILS: Include an elegant italic subtitle, [SUBTITLE / CULINARY TAGLINE], alongside small, purposeful labels such as “CRAFTED WITH CARE,” “[COUNTRY / REGION OF ORIGIN],” and “[DISH CATEGORY].” Adapt all wording to the subject. Keep supporting text minimal, meaningful, correctly spelled, and professionally aligned.\n\nLIGHTING & TEXTURE: Use refined studio lighting, realistic shadows, natural reflections, subtle depth of field, and hyperrealistic surface details. Capture the authentic textures of every ingredient, from delicate crumbs and creamy layers to glossy sauces, crisp edges, or fresh garnishes, as appropriate to the dish.\n\nART DIRECTION: Luxury culinary magazine meets premium restaurant advertising. Sophisticated, contemporary, visually striking, meticulously art-directed, and commercially polished. Balance oversized typography, realistic food photography, and generous negative space without overcrowding the composition.\n\nOUTPUT REQUIREMENTS: Vertical 9:16 aspect ratio, ultra-detailed, high-resolution, print-quality aesthetic, photorealistic food styling, refined typography, physically believable depth, and a clean, cohesive layout.\n\nAVOID: Watermarks, random logos, gibberish text, misspellings, excessive decorative elements, artificial food textures, unrealistic proportions, impossible object placement, distorted typography, cartoonish rendering, and cluttered composition.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVuT676aAAAySo5.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115447090704941056",
+          "file": "2115447339196559512_0.jpg",
+          "thumb": "2115447339196559512_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVuT673awAEahNF.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115447090692407297",
+          "file": "2115447339196559512_1.jpg",
+          "thumb": "2115447339196559512_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115311712769647068",
+      "url": "https://x.com/alanblogsooooo/status/2115311712769647068",
+      "author": "alanblogsooooo",
+      "author_name": "十豆加",
+      "avatar": "https://pbs.twimg.com/profile_images/1996248161199996928/mYEaNsD6_normal.jpg",
+      "created_at_utc": "2026-10-28T05:16:27.000Z",
+      "created_at_sh": "2026-10-28 13:16",
+      "likes": 1,
+      "reposts": 0,
+      "bookmarks": 1,
+      "lang": "zh",
+      "text": "特写病娇大头\n\nGPT Image 2.5提示词：\n1:1画幅.真实光学手机室内特写摄影结合高调柔焦磨皮精修质感，整体呈清透冷白、乌黑与浓郁桃花粉交织的低饱和柔光色调，带有梦幻的柔雾漫射效果。采用略高角度俯视的鼻梁以上局部极近景特写机位，一位肌肤冷白、妆容精致的病娇弱娇感女孩居中位于画面下半部，画面下边缘精准裁切于鼻梁中段与双颊苹果肌处，无前景遮挡。她的头部正对镜头并顺着俯视机位微微低垂，呈现出温顺乖巧且羞怯的低头动势，肩颈与躯干隐于画幅下方裁切线之外。画面聚焦于头面部局部，无手部入镜，双耳从鬓角发丝间微露，画面左侧的右耳耳骨穿戴着一枚带尖锥的银色金属耳骨环与多枚细小银饰，右侧的左耳点缀着一颗小巧银色耳钉。她留着乌黑顺滑的秀发并在头顶清晰分缝，用黑色发圈在两侧高高扎成对称的双马尾垂落至画面底端；额前修剪齐整的平直齐刘海轻拂双眉，两侧垂下修饰脸型的顺直鬓角发束。她的视线完全向下低垂，双眸呈半阖垂眸状态，上扬的黑色眼线与浓密纤长的簇状睫毛清晰分明，饱满卧蚕、双颊与鼻梁晕染着大面积微醺的桃花粉红晕，平直浅眉隐于刘海发丝间，低垂的上眼睑想要彻底闭合却在睫毛交叠的边缘克制地留出一线迷离缝隙。柔和的室内顶前光均匀洒下，在她的头顶发旋、齐刘海表面以及额头与鼻梁山根处凝聚出温润的丝光光泽与奶油高光，冷白如薄瓷的面部肌肤透出浓郁的粉红色次表面漫反射与柔雾绒感。背景是极简纯净的浅灰白色墙面留白，将梦核、微醺幻觉与留白的意境融入静谧的局部特写光影中，把发丝纹理与微醺粉晕肌理雕琢至像素级唯美。",
+      "prompt": "1:1画幅.真实光学手机室内特写摄影结合高调柔焦磨皮精修质感，整体呈清透冷白、乌黑与浓郁桃花粉交织的低饱和柔光色调，带有梦幻的柔雾漫射效果。采用略高角度俯视的鼻梁以上局部极近景特写机位，一位肌肤冷白、妆容精致的病娇弱娇感女孩居中位于画面下半部，画面下边缘精准裁切于鼻梁中段与双颊苹果肌处，无前景遮挡。她的头部正对镜头并顺着俯视机位微微低垂，呈现出温顺乖巧且羞怯的低头动势，肩颈与躯干隐于画幅下方裁切线之外。画面聚焦于头面部局部，无手部入镜，双耳从鬓角发丝间微露，画面左侧的右耳耳骨穿戴着一枚带尖锥的银色金属耳骨环与多枚细小银饰，右侧的左耳点缀着一颗小巧银色耳钉。她留着乌黑顺滑的秀发并在头顶清晰分缝，用黑色发圈在两侧高高扎成对称的双马尾垂落至画面底端；额前修剪齐整的平直齐刘海轻拂双眉，两侧垂下修饰脸型的顺直鬓角发束。她的视线完全向下低垂，双眸呈半阖垂眸状态，上扬的黑色眼线与浓密纤长的簇状睫毛清晰分明，饱满卧蚕、双颊与鼻梁晕染着大面积微醺的桃花粉红晕，平直浅眉隐于刘海发丝间，低垂的上眼睑想要彻底闭合却在睫毛交叠的边缘克制地留出一线迷离缝隙。柔和的室内顶前光均匀洒下，在她的头顶发旋、齐刘海表面以及额头与鼻梁山根处凝聚出温润的丝光光泽与奶油高光，冷白如薄瓷的面部肌肤透出浓郁的粉红色次表面漫反射与柔雾绒感。背景是极简纯净的浅灰白色墙面留白，将梦核、微醺幻觉与留白的意境融入静谧的局部特写光影中，把发丝纹理与微醺粉晕肌理雕琢至像素级唯美。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsYyB4bMAAceIK.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2115311697758203904",
+          "file": "2115311712769647068_0.jpg",
+          "thumb": "2115311712769647068_0.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsYyBoaIAA3gYh.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2115311697691025408",
+          "file": "2115311712769647068_1.jpg",
+          "thumb": "2115311712769647068_1.jpg",
+          "tw": 480,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -24044,6 +25099,278 @@
           "thumb": "2114920803460600114_0.jpg",
           "tw": 360,
           "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115418668331073735",
+      "url": "https://x.com/hello0cig/status/2115418668331073735",
+      "author": "hello0cig",
+      "author_name": "Olivia Brooks Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2111636914474455041/06ecR2MT_normal.jpg",
+      "created_at_utc": "2026-10-28T12:21:27.000Z",
+      "created_at_sh": "2026-10-28 20:21",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Follow please \nTurn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 16",
+      "prompt": "Night rooftop portrait, woman looking over shoulder, black backless dress, oversized olive leather jacket, sleek ponytail, flash lighting, blurred city lights, photorealistic.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVt6Dl-aAAAm44p.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115418652132638720",
+          "file": "2115418668331073735_0.jpg",
+          "thumb": "2115418668331073735_0.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115414510173343778",
+      "url": "https://x.com/Rose5303508870/status/2115414510173343778",
+      "author": "Rose5303508870",
+      "author_name": "AI Career Girl 💼",
+      "avatar": "https://pbs.twimg.com/profile_images/2111183672942768128/9zfV9yOU_normal.jpg",
+      "created_at_utc": "2026-10-28T12:04:56.000Z",
+      "created_at_sh": "2026-10-28 20:04",
+      "likes": 0,
+      "reposts": 1,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT\n\nPrompt: \n\nUltra-Realistic Cozy Bedroom Girl Photoshoot 💜📸\n\nCreate a cohesive set of six ultra-realistic, aesthetic smartphone photographs featuring the same beautiful young woman in a cozy, softly lit bedroom. All six photos must maintain the exact",
+      "prompt": "Ultra-Realistic Cozy Bedroom Girl Photoshoot 💜📸\n\nCreate a cohesive set of six ultra-realistic, aesthetic smartphone photographs featuring the same beautiful young woman in a cozy, softly lit bedroom. All six photos must maintain the exact",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVt2R4Za4AAeC18.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2115414499549437952",
+          "file": "2115414510173343778_0.jpg",
+          "thumb": "2115414510173343778_0.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115347298863714604",
+      "url": "https://x.com/yaokict/status/2115347298863714604",
+      "author": "yaokict",
+      "author_name": "yaokict-AIbubu",
+      "avatar": "https://pbs.twimg.com/profile_images/2110575364045238272/PHfqd_7h_normal.jpg",
+      "created_at_utc": "2026-10-28T07:37:51.000Z",
+      "created_at_sh": "2026-10-28 15:37",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "GPT Image 2.5 on ChatGPT   \nPrompt:\n\nA realistic vertical smartphone street snapshot of a slim East Asian woman around 26 years old standing at a rain-soaked urban bus stop, positioned slightly left of center. A dark blue city bus moves slowly behind her, blending with the wet",
+      "prompt": "A realistic vertical smartphone street snapshot of a slim East Asian woman around 26 years old standing at a rain-soaked urban bus stop, positioned slightly left of center. A dark blue city bus moves slowly behind her, blending with the wet",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVs2aPrbcAAo5_u.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2115344274493763584",
+          "file": "2115347298863714604_0.jpg",
+          "thumb": "2115347298863714604_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115346761795461313",
+      "url": "https://x.com/static_stare/status/2115346761795461313",
+      "author": "static_stare",
+      "author_name": "mo Ki",
+      "avatar": "https://pbs.twimg.com/profile_images/2007912925219225600/rNTIMBbj_normal.jpg",
+      "created_at_utc": "2026-10-28T07:35:43.000Z",
+      "created_at_sh": "2026-10-28 15:35",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT2 x 云海仙宫 x 国风CG x 提示词\n\n这组没放人，纯场景。一段提示词跑了四张：日出远景、桥上仰拍、黄昏点灯、雪后。\n前半段写宫殿长什么样，一直没动，每张只换最后一句镜头和时间，所以四张看着像同一个地方。\n\n图1提示词，直接复制：\n\nVertical 3:4 cinematic Chinese xianxia concept art, high-end game CG matte painting, Unreal Engine 5 look. A floating immortal palace complex above a sea of clouds: tiered white-jade terraces, vermilion pillars, sweeping dark-teal glazed tile roofs with upturned eaves, golden roof ornaments, long arched stone bridges linking floating peaks, waterfalls pouring off the cliff edges into the clouds, ancient pine trees clinging to the rocks, a few white cranes in flight. Camera: wide establishing shot from far away at sunrise, the whole palace on three floating peaks, warm gold rim light on the cloud tops, soft blue haze in the distance, strong depth and atmospheric perspective. Ultra detailed architecture, volumetric light rays through the clouds, no people, no text, no logo, no watermark.\n\n模型：GPT Image 2.5\n另外三张的提示词，评论区打 2 / 3 / 4 我发你。",
+      "prompt": "这组没放人，纯场景。一段提示词跑了四张：日出远景、桥上仰拍、黄昏点灯、雪后。\n前半段写宫殿长什么样，一直没动，每张只换最后一句镜头和时间，所以四张看着像同一个地方。\n\n图1提示词，直接复制：\n\nVertical 3:4 cinematic Chinese xianxia concept art, high-end game CG matte painting, Unreal Engine 5 look. A floating immortal palace complex above a sea of clouds: tiered white-jade terraces, vermilion pillars, sweeping dark-teal glazed tile roofs with upturned eaves, golden roof ornaments, long arched stone bridges linking floating peaks, waterfalls pouring off the cliff edges into the clouds, ancient pine trees clinging to the rocks, a few white cranes in flight. Camera: wide establishing shot from far away at sunrise, the whole palace on three floating peaks, warm gold rim light on the cloud tops, soft blue haze in the distance, strong depth and atmospheric perspective. Ultra detailed architecture, volumetric light rays through the clouds, no people, no text, no logo, no watermark.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVs4pBnXwAEeCXg.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115346727439941633",
+          "file": "2115346761795461313_0.jpg",
+          "thumb": "2115346761795461313_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs4pBfXYAAZaSE.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115346727406362624",
+          "file": "2115346761795461313_1.jpg",
+          "thumb": "2115346761795461313_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs4pBkWgAAE5EE.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115346727427276800",
+          "file": "2115346761795461313_2.jpg",
+          "thumb": "2115346761795461313_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVs4pBnWYAABngL.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2115346727439851520",
+          "file": "2115346761795461313_3.jpg",
+          "thumb": "2115346761795461313_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115314467332411817",
+      "url": "https://x.com/modelstoreai/status/2115314467332411817",
+      "author": "modelstoreai",
+      "author_name": "model.store",
+      "avatar": "https://pbs.twimg.com/profile_images/2100962098045992961/mcw81_7y_normal.jpg",
+      "created_at_utc": "2026-10-28T05:27:24.000Z",
+      "created_at_sh": "2026-10-28 13:27",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "the two frames it got, both from gpt image 2.5:\n\nfirst: a carved pumpkin lantern on a rain-wet cottage windowsill at night, misty valley village behind the glass\nlast (first frame as reference): the same valley from high above, pumpkin lanterns along every lane forming one giant grinning face\n\nseedance 2.5 prompt: push into the glowing left eye, fly through the light, out the window, rise over the village. rain on glass, candle crackle, a low whoosh, then wind and a distant church bell",
+      "prompt": "push into the glowing left eye, fly through the light, out the window, rise over the village. rain on glass, candle crackle, a low whoosh, then wind and a distant church bell",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVsbSBGXcAAtg43.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2115314446327312384",
+          "file": "2115314467332411817_0.jpg",
+          "thumb": "2115314467332411817_0.jpg",
+          "tw": 480,
+          "th": 270
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVsbSBMWIAAeFtY.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2115314446352392192",
+          "file": "2115314467332411817_1.jpg",
+          "thumb": "2115314467332411817_1.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115278678334841227",
+      "url": "https://x.com/hello0cig/status/2115278678334841227",
+      "author": "hello0cig",
+      "author_name": "Olivia Brooks Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2111636914474455041/06ecR2MT_normal.jpg",
+      "created_at_utc": "2026-10-28T03:05:11.000Z",
+      "created_at_sh": "2026-10-28 11:05",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 14",
+      "prompt": "Photorealistic mirror selfie, wavy brown hair, cream crop top, olive cargo pants, gold jewelry, iPhone, warm sunlight, white brick wall, Pinterest aesthetic.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVr6vZVaoAA7Rof.jpg",
+          "w": 960,
+          "h": 1200,
+          "media_key": "3_2115278667165376512",
+          "file": "2115278678334841227_0.jpg",
+          "thumb": "2115278678334841227_0.jpg",
+          "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115264465100853419",
+      "url": "https://x.com/shanfengfengybq/status/2115264465100853419",
+      "author": "shanfengfengybq",
+      "author_name": "f f",
+      "avatar": "https://pbs.twimg.com/profile_images/2111025861340315648/rsuHoJtu_normal.jpg",
+      "created_at_utc": "2026-10-28T02:08:42.000Z",
+      "created_at_sh": "2026-10-28 10:08",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "微软：MAI Image 2.7 发布，修图榜冲上第 2 🎨\n\n官方数据：AA 修图榜 Elo 1193，仅差 GPT Image 2.5 Sunburst 6 分；Arena Edit 第 3。\n官方：场景与风格领先次名 24 Elo。\n\n先上修图，文生图即将推出。\n\n#微软 #AI绘画",
+      "prompt": "微软官方配图：模糊的白色花朵与蓝天背景，中间文字写着 MAI-Image-2.7 让 MAI 重回修图第二名实验室",
+      "prompt_source": "alt",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVrt0g-WYAAZTHE.jpg",
+          "w": 1200,
+          "h": 672,
+          "media_key": "3_2115264461464297472",
+          "file": "2115264465100853419_0.jpg",
+          "thumb": "2115264465100853419_0.jpg",
+          "tw": 480,
+          "th": 269
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2115235851072315427",
+      "url": "https://x.com/Yeti_Images/status/2115235851072315427",
+      "author": "Yeti_Images",
+      "author_name": "Yeti Images",
+      "avatar": "https://pbs.twimg.com/profile_images/1947412110314536961/A8_LrVp8_normal.jpg",
+      "created_at_utc": "2026-10-28T00:15:00.000Z",
+      "created_at_sh": "2026-10-28 08:15",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "",
+      "text": "🧠モデル: gpt-image-2.5-flare\n📷プロンプト: 星戦士が古代遺跡でマクアリー風メカと対峙する、霧の惑星のシネマティックな風景。\n#aiart",
+      "prompt": "星戦士が古代遺跡でマクアリー風メカと対峙する、霧の惑星のシネマティックな風景。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVrTzDNWEAAWU71.jpg",
+          "w": 1200,
+          "h": 800,
+          "media_key": "3_2115235848991936512",
+          "file": "2115235851072315427_0.jpg",
+          "thumb": "2115235851072315427_0.jpg",
+          "tw": 480,
+          "th": 320
         }
       ],
       "nsfw_flag": false

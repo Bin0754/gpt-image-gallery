@@ -34,6 +34,9 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2115457308679676340",  # johnAGI168: 2026-10-29 review, witch costume corset and stockings pose, suggestive
+    "2115413787318906998",  # wushi123321: 2026-10-29 review, maid outfit with stockings, borderline suggestive
+    "2115366865338003602",  # liyue_ai: 2026-10-29 review, tight short one-shoulder dress pose, borderline suggestive
     "2114563418644468156",  # johnAGI168: 2026-10-27 review, woman relaxing on bed, intimate bedroom, suggestive
     "2114665717136310552",  # Adam38363368936: 2026-10-27 review, slip dress with cardigan sliding off shoulder, borderline suggestive
     "2114753483912175859",  # mylesBaiM: 2026-10-27 review, fishnet stockings pose, suggestive
@@ -150,6 +153,8 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2115350279076077786',  # apispace_ai - underwear couple in bathroom, sexual (2026-10-29 review)
+    '2115504077434228845',  # oliver031972 - POV gym mat cleavage shot, body-focused, suggestive (2026-10-29 review)
     '2114564425134829621',  # AIwithZeeshi - wet swimsuit beauty ad, borderline suggestive (2026-10-27 review)
     '2114824116943614049',  # YourAlphaMom - gym video, body-focused, borderline suggestive (2026-10-27 review)
     '2114828449902899689',  # Alexneyef - gym video, body-focused, borderline suggestive (2026-10-27 review)
