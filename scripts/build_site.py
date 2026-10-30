@@ -34,6 +34,23 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2115797066438045789",  # RTJLDR: price comparison text, not a prompt; suggestive images (2026-10-30 review)
+    "2115856638716379214",  # DrSadek_: model comparison commentary, not a prompt (2026-10-30 review)
+    "2115842097890660748",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
+    "2115840090656129334",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
+    "2115838061565161482",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
+    "2115836081107320968",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
+    "2115834066146648279",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
+    "2115831783203774541",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
+    "2115813710862094800",  # wushi123321: maid bedroom pose, suggestive (2026-10-30 review)
+    "2115813460541862120",  # AiVideos_eu: pricing news, not a prompt (2026-10-30 review)
+    "2115652305710383611",  # alanblogsooooo: body-focused pose, suggestive (2026-10-30 review)
+    "2115733642370830754",  # alanblogsooooo: body-focused pose, suggestive (2026-10-30 review)
+    "2115656128654622755",  # tsnmediahub: alt-text news card, not a prompt (2026-10-30 review)
+    "2115753085184446859",  # xiaoxiaodong: intro text, not a prompt (2026-10-30 review)
+    "2115704748888203597",  # kinocode3: alt-text news diagram, not a prompt (2026-10-30 review)
+    "2115599773453709374",  # kabumira862571: theme keywords only, not a real prompt (2026-10-30 review)
+    "2115940073602699334",  # kabumira862571: theme keywords only, not a real prompt (2026-10-30 review)
     "2115457308679676340",  # johnAGI168: 2026-10-29 review, witch costume corset and stockings pose, suggestive
     "2115413787318906998",  # wushi123321: 2026-10-29 review, maid outfit with stockings, borderline suggestive
     "2115366865338003602",  # liyue_ai: 2026-10-29 review, tight short one-shoulder dress pose, borderline suggestive
@@ -153,6 +170,12 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2115788980969185474',  # oliver031972: cleavage sports-bra vlog, suggestive (2026-10-30 review)
+    '2115874033803862236',  # Sjaano81: speed/cost comparison, not a prompt (2026-10-30 review)
+    '2115734110715236487',  # wootjie18: product ad, not a prompt (2026-10-30 review)
+    '2115862815898808553',  # PixelDojoAI: excerpt of an image prompt, not the video prompt (2026-10-30 review)
+    '2115830154538713121',  # whoisnilo: result description, not a real prompt (unsure) (2026-10-30 review)
+    '2115636407616123255',  # ZentrixHQ: one-line fragment, not a real prompt (2026-10-30 review)
     '2115350279076077786',  # apispace_ai - underwear couple in bathroom, sexual (2026-10-29 review)
     '2115504077434228845',  # oliver031972 - POV gym mat cleavage shot, body-focused, suggestive (2026-10-29 review)
     '2114564425134829621',  # AIwithZeeshi - wet swimsuit beauty ad, borderline suggestive (2026-10-27 review)

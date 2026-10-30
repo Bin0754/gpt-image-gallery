@@ -6,7 +6,7 @@
 
 [**🌐 在线浏览**](https://bin0754.github.io/gpt-image-gallery/) · [⬇ 下载数据](#-下载数据) · [🔁 刷新数据](#-刷新--复现数据) · [English](README.en.md)
 
-![作品](https://img.shields.io/badge/作品-656_组-7c9cff) ![图片](https://img.shields.io/badge/图片-1348_张-b18cff) ![License](https://img.shields.io/badge/code-MIT-blue)
+![作品](https://img.shields.io/badge/作品-683_组-7c9cff) ![图片](https://img.shields.io/badge/图片-1408_张-b18cff) ![License](https://img.shields.io/badge/code-MIT-blue)
 
 </div>
 
@@ -31,12 +31,12 @@
 
 | 项目 | 数值 |
 | --- | --- |
-| 作品（帖子） | **656** 组，来自 182 位作者 |
-| 图片 | **1348** 张（最长边 1200px JPEG + 480px 缩略图） |
-| 发布时间范围 | 2026-09-09 至 2026-10-29（北京时间，GPT Image 2.5 于 2026-09-08 前后发布） |
-| 提示词语言 | English 484，中文 143，日本語 26，其他 3 |
-| 提示词来源 | 帖子正文 465 · 作者本人回复 146 · 图片 ALT 文本 45 |
-| 最近更新 | 2026-10-29 08:14（北京时间） |
+| 作品（帖子） | **683** 组，来自 187 位作者 |
+| 图片 | **1408** 张（最长边 1200px JPEG + 480px 缩略图） |
+| 发布时间范围 | 2026-09-09 至 2026-10-30（北京时间，GPT Image 2.5 于 2026-09-08 前后发布） |
+| 提示词语言 | English 501，中文 152，日本語 27，其他 3 |
+| 提示词来源 | 帖子正文 483 · 作者本人回复 153 · 图片 ALT 文本 47 |
+| 最近更新 | 2026-10-30 08:14（北京时间） |
 
 收录规则：帖子须带图片、明确提到 GPT Image 2.5，并且能拿到**作者本人公开给出的提示词**（帖子正文 / 作者在同一会话中的自回复 / 图片 ALT 文本）。提示词“只在图片里”或“在评论区/链接里”的帖子不收录；同一作者的重复提示词去重；NSFW 及过于性感的内容不在公开页面展示。
 
@@ -48,8 +48,8 @@
 
 | 项目 | 数值 |
 | --- | --- |
-| 视频帖子 | **1342** 条（其中标注 Seedance 2.5 的 1341 条） |
-| 发布时间范围 | 2026-08-01 至 2026-10-29（北京时间） |
+| 视频帖子 | **1394** 条（其中标注 Seedance 2.5 的 1393 条） |
+| 发布时间范围 | 2026-08-01 至 2026-10-30（北京时间） |
 | 数据下载 | [`video_prompts.json`](https://bin0754.github.io/gpt-image-gallery/video_prompts.json) · [`video_prompts.csv`](https://bin0754.github.io/gpt-image-gallery/video_prompts.csv)（UTF-8 带 BOM）：`id, date, model, author, post_url, likes, language, prompt_source, prompt, mp4, duration_s` |
 
 收录规则同上（须有视频 + 作者本人给出的提示词，去重，过滤性感/NSFW 内容）。仓库只保存封面图（`posters/`，最长边 480px）；视频本身不入库，点开卡片直接播放 X 的原始 mp4（`video.twimg.com`），播放失败时可点「在 X 上观看」。模型标签只按帖子原文标注，其他 Seedance 版本若收录会单独放在「其他 Seedance」筛选里。

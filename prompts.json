@@ -2,8 +2,8 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-29T08:14:02+08:00",
-  "count": 656,
+  "generated_at": "2026-10-30T08:14:39+08:00",
+  "count": 683,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -148,6 +148,20 @@
         "images/2114585881059459119_0.jpg",
         "images/2114585881059459119_1.jpg",
         "images/2114585881059459119_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115679456140702100",
+      "prompt": "Create an ultra-luxurious fashion editorial reference sheet featuring the exact same adult European female fashion model in six distinct camera perspectives, arranged in a perfectly aligned 2-column × 3-row grid. The entire composition takes place in a seamless warm ivory studio with a subtle creamy gradient, sophisticated negative space, and a refined high-fashion magazine aesthetic.\n\nMODEL IDENTITY — LOCKED ACROSS ALL SIX PANELS\n\nA tall, slender European runway model with porcelain-fair skin, sculpted cheekbones, a refined oval face, expressive hazel-green eyes, naturally defined eyebrows, soft rose-pink lips, an elegant jawline, and realistic skin texture. Shoulder-length dark chestnut hair with natural waves, a subtle off-center part, and delicate flyaway strands. Understated makeup, luminous skin, and a composed, quietly confident expression.\n\nMaintain precisely the same face, eye color, hairstyle, hair length, skin tone, age, body proportions, and identity in every panel. She must look like one real person photographed during a single luxury fashion shoot, not six similar-looking models.\n\nWARDROBE AND STYLING\n\nA sophisticated emerald-green luxury athleisure ensemble featuring a sculpted fitted sports bra and matching high-waisted leggings. Premium technical fabric with a subtle satin sheen, realistic stretch, refined seams, natural fabric tension, and impeccable tailoring. Minimalist styling with no jewelry, accessories, visible branding, or distracting details.\n\nSIX DISTINCT CAMERA PERSPECTIVES\n\nPanel 1 — Classic Editorial Portrait:\nEye-level camera, straight-on perspective, centered composition, balanced facial proportions, relaxed shoulders, and direct eye contact. Establish the model's definitive visual identity.\nPanel 2 — Powerful Low-Angle Portrait:\nCamera positioned below waist level and tilted slightly upward toward the model. Elongated silhouette, confident posture, dramatic runway presence, and a sophisticated sense of power. Preserve realistic anatomy and natural facial proportions.\n\nPanel 3 — Elevated High-Angle Portrait:\nCamera positioned above the model, looking downward at approximately 40 degrees. The model raises her gaze toward the lens, creating an elegant, intimate editorial composition with natural perspective distortion.\nPanel 4 — Artistic Dutch Angle:\nCamera rotated approximately 20 degrees clockwise. The model maintains a poised, confident stance while the diagonal composition introduces visual tension, modern magazine energy, and a contemporary luxury-campaign aesthetic.\n\nPanel 5 — Direct Overhead Perspective:\nTrue bird's-eye camera positioned vertically above the model, pointing straight down at 90 degrees. The model looks directly upward into the lens. Her shoulders, torso, hair, and outfit are arranged naturally within the frame. Accurate overhead geometry, no artificial stretching.\nPanel 6 — Extreme Floor-Level Perspective:\nTrue worm's-eye viewpoint with the camera positioned almost at floor level, pointing upward. The model looks down toward the lens with calm confidence. Strong architectural perspective, elegant silhouette, believable proportions, and dramatic fashion-editorial depth.\n\nPHOTOGRAPHIC DIRECTION\nHigh-end European luxury fashion campaign, contemporary Vogue-inspired editorial photography, rich emerald-green color against warm ivory, natural skin microtexture, realistic pores, fine hair detail, lifelike eyes, physically accurate fabric reflections, sophisticated tonal contrast, soft directional studio key light, delicate rim lighting, subtle contact shadows, controlled highlights, and cinematic color science.\n\nSimulate a professional full-frame camera with an 85mm portrait lens aesthetic for standard views, intelligently adapting focal length and camera distance for overhead and extreme low-angle perspectives. Maintain consistent studio lighting, exposure, white balance, wardrobe color, and overall visual identity across all six photographs.\nPhotorealistic commercial photography, premium art direction, refined retouching without plastic skin, anatomically accurate body structure, crisp subject detail, realistic perspective, exceptionally high image quality.\n\nGRID AND COMPOSITION\nExactly six individual photographs in a clean 2-column × 3-row contact sheet. Equal-sized rectangular panels, consistent aspect ratios, perfectly straight alignment, uniform gutters, thin white spacing, and a balanced overall silhouette. Every panel must read as a separate photograph from the same shoot, with camera position as the primary variable.\n\nMaintain a cohesive luxury editorial appearance throughout. No panel overlap, no inconsistent crops, no random pose changes, and no visual distractions.",
+      "author": "Just_Anika_Here",
+      "author_url": "https://x.com/Just_Anika_Here",
+      "post_url": "https://x.com/Just_Anika_Here/status/2115679456140702100",
+      "date": "2026-10-29T13:37:44+08:00",
+      "likes": 305,
+      "language": "en",
+      "images": [
+        "images/2115679456140702100_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1433,6 +1447,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115753007606325367",
+      "prompt": "プロンプト：GPT Image 2.5\n\nA photograph of a huge, lovingly hand-built Japanese N-gauge model railway layout, square 1:1, in the spirit of a classic seek-and-find book: seen from an extremely high and wide oblique angle, as if from a ladder above the whole layout, so that everything is tiny and there is an enormous amount to look at. The layout is divided into clear districts by tracks, a river and hills. Left: a plaster mountain with a stone-arch viaduct, a lit tunnel mouth of light grey stonework (never black), terraced fields, hiking paths and a small mountain village with a wooden station. Centre: a big terminal station with a glass-roofed train shed, several platforms with waiting passengers, a footbridge across the tracks, a station plaza with a fountain, buses and taxis, a small kiosk with a green-and-white striped awning, and a clock tower. Right: a freight yard with a crane and plain unmarked containers, a roundhouse and turntable with steam locomotives, and a small unmanned halt with a platform shelter. Lower part of the picture: a river with a steel girder rail bridge and a road bridge, riverbank paths with strolling people and a photographer, fields, a road with cars, rows of trees and passing trains. About eight model trains (an express, a local train, freight trains, a steam train, a tram) run on the tracks. About 180 minuscule hand-painted figurines of people, each doing something: passengers, a station master, porters with luggage carts, people queueing at the kiosk, workers in the freight yard, hikers, farmers, strollers, children. A standing person is only about 3% of the picture height.\n\nThe look is the point: it must look like a real photograph of a handmade model railway: static-grass flocking, foam lichen trees, painted plaster hills and rock faces, ballasted track, plastic buildings with a slight sheen, tiny figurines with faces made of dabs of paint, soft studio lighting and a true tilt-shift miniature look: sharp in the middle band, with a gentle blur only in the top and bottom 12%. Not a real city, not a flat illustration, not a CG render. The picture fills the whole frame to all four edges: no table edge, no room, no hands, no frame, no border, no caption.\n\nExactly one small logo: a small black station name board on the little unmanned halt in the right half of the picture, about 4% of the picture width, with a white paw print whose big pad holds a swirling ocean wave, and the word \"Shoji\" in white cursive brush lettering to its right. Apart from that board there are no letters, words, numbers or digits anywhere: no station names, no destination boards, no timetables, no train numbers, no advertisements, no signs; the clock face has plain tick marks only.\n\nTHE ONLY ANIMALS IN THE WHOLE PICTURE ARE FOUR CATS, and there are never more than four. Not five, not a spare one, and no look-alike twin of any cat. No other animal at all: no cows, horses, sheep, ducks, birds, dogs or fish, no animal figurines or animal pictures. No person wears an animal head or costume. The four cats are tiny hand-painted model figurines like the people, all in the upper and middle part of the picture: their feet are between about 15% and 60% of the picture height measured from the top, and NONE is in the lower third (the lower third is only river, bridges, riverbank paths, fields, roads, trees and trains). Each cat is in the open, never hidden behind anything. The three real cats are each TINY: only about 0.7% of the picture height (about 14 pixels in a 2048-pixel-high picture), about a quarter of the height of a standing person, and wear a thin red collar with a tiny gold bell:\n1. a black-and-white \"hachiware\" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on a platform bench of the central station, in the left half;\n2. a brown mackerel tabby (warm brown fur with dark stripes, white muzzle and chest) sitting upright on a flat grey rock on the grassy hillside above the tunnel beside the mountain path, upper left;\n3. a calico cat (white with orange and black patches) sitting upright in the doorway of the station kiosk with the striped awning, right of centre;\n4. Shoji Cat, an upright standing orange tabby cat figurine about three heads tall in a black leather jacket, denim shorts, cream sneakers and black wayfarer sunglasses with blue and red lenses, standing in the crowd on the station plaza with one arm pointing, in the middle of the picture, about one and a half times as tall as each of the other three cats.\nNo dark round objects, no black tunnel mouths, no piles of black cloth or coal, and no dark animal-like shapes that could be mistaken for a cat. No watermark.\n\n———\n\n答え合わせ🐈\n赤い丸の中に4匹います。\n・茶トラ：左上、トンネルの上の丘の岩\n・ハチワレ：左、駅のホームのベンチ\n・三毛：右、駅前の売店の入口（縞の日よけの下）\n・Shoji Cat：真ん中、駅前広場の人混みで腕を伸ばしています",
+      "author": "Shoji_ai",
+      "author_url": "https://x.com/Shoji_ai",
+      "post_url": "https://x.com/Shoji_ai/status/2115753007606325367",
+      "date": "2026-10-29T18:30:00+08:00",
+      "likes": 79,
+      "language": "ja",
+      "images": [
+        "images/2115753007606325367_0.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
       "id": "2100578364549628228",
       "prompt": "Ultra-realistic fashion portrait of a stylish young woman with long, voluminous wavy black hair, wearing a beige baseball cap, oversized dark sunglasses, an olive-green utility jacket over a fitted beige ribbed top. She gently holds the brim of her cap with one hand and pulls the jacket hood with the other, wearing minimal silver rings and long almond-shaped glossy nails. Natural soft makeup, nude glossy lips, elegant feminine features, relaxed confident expression.\n\nClose-up street-style fashion photography, slightly turned pose, soft natural daylight, neutral beige background, muted earthy color palette, realistic skin texture, detailed fabric texture, cinematic depth of field, subtle shadows, luxury fashion editorial aesthetic, 85mm lens, shallow depth of field, photorealistic, high detail, 8K, Instagram fashion photography, vertical 4:5 composition.\n\n———\n\nUltra-realistic full-body street-style fashion photograph of a stylish young woman walking confidently across a city zebra crossing. She has long dark brown hair tied into a messy high bun with a few loose strands framing her face, wearing slim black rectangular sunglasses, a fitted white short-sleeve cropped T-shirt, oversized distressed gray wide-leg jeans with multiple ripped details, and clean white sneakers. She carries a large black leather shoulder bag and holds a takeaway coffee cup in one hand. Minimal jewelry and a simple wristwatch.\n\nCandid urban photography, natural walking pose, one leg forward, relaxed expression, looking slightly to the side, photographed from a slightly elevated angle. Bright natural daylight, realistic skin texture, detailed hair strands, authentic fabric and denim texture, sharp subject, subtle natural shadows, busy asphalt road with bold white zebra-crossing stripes, shallow depth of field, cinematic editorial street photography, 35mm lens, photorealistic, high detail, 8K, vertical 4:5 composition.",
       "author": "Alina_with_Ai",
@@ -1461,6 +1489,20 @@
         "images/2114638446430208257_1.jpg",
         "images/2114638446430208257_2.jpg",
         "images/2114638446430208257_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115813691874832890",
+      "prompt": "Create an ultra-realistic 6-photo lifestyle collage featuring the same naturally beautiful young European woman in her early 20s, arranged in a seamless 3-column × 2-row grid. She has warm olive skin, natural freckles across her cheeks and nose,",
+      "author": "john_my07",
+      "author_url": "https://x.com/john_my07",
+      "post_url": "https://x.com/john_my07/status/2115813691874832890",
+      "date": "2026-10-29T22:31:08+08:00",
+      "likes": 78,
+      "language": "en",
+      "images": [
+        "images/2115813691874832890_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -1659,6 +1701,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115660670666682604",
+      "prompt": "Create a highly detailed, charming mixed-media illustration using a real mirror selfie as the reference. Show a young woman standing inside a modern elevator, taking a mirror selfie with her smartphone. She has long, dark hair, round glasses, a relaxed expression, and wears a light blue and white striped cropped button-up shirt, loose-fitting blue denim shorts, and chunky white sneakers.\n\nBeside her, create a cute 2D hand-drawn anime version of the same woman, matching her hairstyle, outfit, body proportions, phone, and pose. The illustrated character should have oversized expressive eyes, round glasses, rosy cheeks, long messy black hair, and playful proportions. Both versions should pose with one arm resting over their heads in a casual, coordinated mirror-selfie pose.\n\nArt style: A beautiful blend of realistic photography and sketchbook-style anime illustration. Use loose black ink outlines, visible pencil strokes, textured watercolor shading, soft pastel colors, hand-drawn highlights, and slightly rough sketch lines. The illustrated character should look as if she has been drawn directly over the original photograph.\n\nBackground: A realistic elevator with dark metallic walls, reflective panels, visible floor tiles, and small framed children's drawings attached to the walls. Decorate the entire scene with playful hand-drawn doodles, including pink hearts, yellow stars, purple sparkles, a smiling cloud, a cute bunny face, a little flower, and a pink ribbon. Add a black illustrated tote bag with a tiny teddy bear charm beside the cartoon character.\n\nLighting and details: Soft indoor lighting, natural skin tones, realistic denim texture, detailed fabric folds, subtle reflections on the elevator walls, charming imperfections in the sketch lines, and a cozy pastel aesthetic. Keep the real person photorealistic while the illustrated character remains clearly cartoon-like.\n\nComposition: Full-body vertical portrait, 4:5 aspect ratio, both the real person and illustrated character visible from head to shoes, standing side by side with matching poses. Keep the doodles scattered naturally around the subjects without covering their faces. High detail, visually balanced, cute Japanese stationery aesthetic, creative social media art, polished mixed-media finish.\n\nImportant: Preserve the original person's facial features, hairstyle, clothing, pose, and phone placement as closely as possible. Make the cartoon character look like a hand-drawn version of the same person, not a different character. Avoid extra fingers, distorted hands, duplicated phones, blurry faces, and excessive doodles.",
+      "author": "Ziha_ai",
+      "author_url": "https://x.com/Ziha_ai",
+      "post_url": "https://x.com/Ziha_ai/status/2115660670666682604",
+      "date": "2026-10-29T12:23:05+08:00",
+      "likes": 70,
+      "language": "en",
+      "images": [
+        "images/2115660670666682604_0.jpg",
+        "images/2115660670666682604_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2109867363743215809",
       "prompt": "Create a stunning, photorealistic travel photograph of a person standing at the exact real-world location of [LANDMARK], holding an open pocket-sized sketchbook in the foreground. The sketchbook contains a beautiful, hand-drawn black-ink architectural sketch of that exact landmark, with fine pen strokes, intricate details, natural imperfections, and handwritten travel-journal notes.\n\nThe magic is in the composition: The real landmark stands directly behind the sketchbook, perfectly aligned with its hand-drawn version, creating a beautiful visual connection between the real world and the artist’s drawing. The sketch should look like someone visited the place, sat nearby, and carefully drew the architecture by hand.\n\nCapture the person’s hand naturally holding the sketchbook, with the landmark clearly visible in the background. Use shallow depth of field, soft natural daylight, realistic shadows, subtle film grain, and an authentic travel-photography aesthetic.\n\nThe sketchbook should have slightly textured cream-colored pages, a simple binding, and a delicate ribbon bookmark. The drawing must remain monochrome, using only black ink and fine pencil lines.\n\nImportant details:\n\nKeep the actual landmark architecturally accurate and instantly recognizable.\nMatch the sketch to the real building’s exact structure, proportions, windows, towers, and distinctive features.\nMake the background location feel authentic, including its surrounding streets and buildings.\nKeep the hand and sketchbook sharp, with the real landmark slightly softened but still recognizable.\nNatural human hand anatomy, realistic perspective, professional travel photography.\nNo cartoon effects, no 3D render, no artificial-looking architecture, no excessive filters.\n\nOverall mood: Artistic, nostalgic, authentic, and travel-journal inspired — like a beautiful moment captured during a real trip.\n\nAspect ratio: 4:5, vertical composition.",
       "author": "Naiknelofar788",
@@ -1729,6 +1786,21 @@
         "images/2112853906682515579_0.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2115689766155120839",
+      "prompt": "UNIVERSAL PROMPT - CARTOON CHARACTER × BRAND LOGO PARODY POSTER\n\nCreate a humorous, high-quality cartoon illustration poster featuring [BRAND NAME / LOGO] reimagined as a playful visual parody. Transform the brand’s recognizable logo, symbol, product, or typography into a creative physical environment where [CARTOON CHARACTER(S)] interact with it in a funny, exaggerated, story-driven way.\n\nCONCEPT & STORYTELLING: Build an imaginative scene around the brand’s identity, using clever visual metaphors, slapstick comedy, exaggerated actions, dynamic poses, and expressive cartoon reactions. The brand logo must become an integral part of the scene rather than simply appearing as a label. For example, characters can ride, climb, chase, stretch, repair, bounce off, or play around with a giant three-dimensional interpretation of the logo or product.\n\nART STYLE: Premium hand-drawn comic illustration, expressive cartoon anatomy, bold clean outlines, energetic motion lines, exaggerated facial expressions, playful sound effects, vibrant colors, polished cel shading, and detailed ink work. Use the visual language of classic animated slapstick cartoons combined with contemporary commercial illustration.\n\nCOMPOSITION: One standalone poster in a vertical 3:4 aspect ratio. Place the main visual concept prominently in the center, with the brand name or recognizable logo clearly visible near the bottom. Maintain a clean white or subtly off-white background, balanced negative space, and a professional poster layout. Include small supporting details only when they strengthen the joke or story.\n\nBRAND INTEGRATION: Preserve the brand’s recognizable name, signature colors, and essential logo structure wherever appropriate, creatively adapting the design into the illustrated scene. Make the visual pun immediately understandable and memorable.\n\nFINISHING DETAILS: Crisp high-resolution illustration, clean edges, professional commercial artwork, consistent character proportions, readable typography, rich but controlled colors, and a cohesive composition. Add the small footer text “For Fun Purpose Only” at the bottom.\n\nCUSTOMIZATION VARIABLES:\n\n- Brand: [BRAND NAME]\n- Logo or product: [LOGO / PRODUCT]\n- Characters: [CHARACTER NAMES]\n- Visual joke: [FUNNY CONCEPT]\n- Brand colors: [COLORS]\n\nIMPORTANT: Every poster must feature a new, original visual gag tailored to the selected brand. Avoid generic logo placement, random characters, cluttered backgrounds, and unrelated decorative elements. Prioritize clever storytelling, immediate visual recognition, and humorous interaction between the characters and the brand.",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2115689766155120839",
+      "date": "2026-10-29T14:18:42+08:00",
+      "likes": 67,
+      "language": "en",
+      "images": [
+        "images/2115689766155120839_0.jpg",
+        "images/2115689766155120839_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2106075684577984560",
@@ -1837,6 +1909,23 @@
       "language": "en",
       "images": [
         "images/2115092422091026831_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115692463645958589",
+      "prompt": "Create a premium retro-modern travel art poster featuring [CITY / COUNTRY / LANDMARK], inspired by vintage Japanese travel posters, mid-century modern illustration, and minimalist architectural art.\n\nMain illustration:\nBuild a beautiful layered composition featuring the destination’s most iconic landmarks, recognizable architecture, skyline, and cultural elements. Arrange them at different depths to create a cinematic miniature cityscape. Include 2–4 distinctive landmarks that genuinely belong to the chosen location.\n\nSignature visual style:\n\nA large, oversized circular sun or moon positioned behind the skyline.\nDreamy sunset gradients blending dusty coral, muted terracotta, peach, pale gold, and smoky teal or slate blue.\nClean geometric shapes, simplified silhouettes, and elegant architectural outlines.\nAtmospheric mountain ranges, stylized clouds, distant skyscrapers, bridges, temples, towers, or traditional rooftops where appropriate.\nSubtle layering, soft shadows, and a balanced composition inspired by vintage screen-printed travel artwork.\nA refined, slightly nostalgic colour palette with a smooth matte finish and minimal visual clutter.\n\nPoster layout:\nPlace the illustration inside a neat rectangular artwork panel with a thin dark border. Surround it with a generous warm-white or ivory margin, creating the appearance of a sophisticated framed gallery print.\n\nBelow the illustration, display the exact destination name — “[DESTINATION NAME]” — in thin, widely spaced uppercase lettering. Keep the typography elegant, understated, and centred.\n\nMood: Dreamy, cinematic, nostalgic, sophisticated, peaceful, and effortlessly stylish.\n\nFormat: Vertical 4:5 composition, premium wall-art aesthetic, crisp details, harmonious geometry, beautiful negative space, and a polished editorial finish.\n\nImportant: Preserve the recognizable silhouettes and architectural characteristics of the actual landmarks. Make the destination instantly identifiable. Avoid photorealism, 3D renders, excessive details, cartoon characters, and unnecessary text. Ensure the destination name is spelled correctly.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2115692463645958589",
+      "date": "2026-10-29T14:29:25+08:00",
+      "likes": 63,
+      "language": "en",
+      "images": [
+        "images/2115692463645958589_0.jpg",
+        "images/2115692463645958589_1.jpg",
+        "images/2115692463645958589_2.jpg",
+        "images/2115692463645958589_3.jpg"
       ],
       "prompt_source": "post"
     },
@@ -2595,6 +2684,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115803636320358657",
+      "prompt": "Create a premium fashion editorial reference sheet featuring the exact same girl from my reference image, arranged in a perfectly aligned 2-column × 3-row grid with six distinct camera angles.\n\nIdentity lock: Preserve her exact facial features, skin tone, eye color, hairstyle, age, and body proportions from the reference image. She must remain unmistakably the same person in every panel.\n\nWardrobe: An elegant emerald-green fitted sports bra and matching high-waisted leggings, premium satin-finish technical fabric, realistic seams, and no logos or accessories.\n\nSix camera perspectives:\n\n1. Front portrait: Eye-level, direct eye contact, relaxed shoulders.\n2. Low angle: Camera below the model, looking upward for a powerful runway aesthetic.\n3. High angle: Camera above her at 40 degrees, with her gaze lifted toward the lens.\n4. Dutch angle: Camera tilted 20 degrees for a contemporary editorial composition.\n5. Bird’s-eye view: Camera directly overhead at 90 degrees, model looking up.\n6. Floor-level view: Camera almost touching the floor, looking upward for dramatic architectural perspective.\n\nVisual style: Ultra-realistic luxury fashion campaign, seamless warm ivory studio, soft directional lighting, delicate shadows, natural skin texture, detailed hair, realistic fabric reflections, refined magazine-quality color grading, and crisp commercial photography.\n\nComposition: Exactly six equal-sized photographs in a clean 2 × 3 grid, uniform white gutters, consistent lighting and wardrobe, and perfectly aligned panels. Only the camera angle changes; maintain the same identity and believable anatomy throughout.\n\nNo text, watermarks, logos, duplicated faces, artificial skin, or inconsistent character features.",
+      "author": "mehvishs25",
+      "author_url": "https://x.com/mehvishs25",
+      "post_url": "https://x.com/mehvishs25/status/2115803636320358657",
+      "date": "2026-10-29T21:51:11+08:00",
+      "likes": 47,
+      "language": "en",
+      "images": [
+        "images/2115803636320358657_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2113216293163905378",
       "prompt": "答え合わせ🐈\n赤い丸の中に4匹います。\n・ハチワレ：左の綿あめ屋のカウンター、綿あめのあいだ\n・Shoji Cat：盆踊りの輪の中で一緒に踊っています\n・茶トラ：右の射的屋の景品棚\n・三毛：その下、ヨーヨー釣りの水槽のふち\n\n———\n\nプロンプト：GPT Image 2.5\n\nA vintage Showa-era offset-lithograph printed illustration, horizontal 3:2, a \"find the hidden cats\" picture in the spirit of a classic seek-and-find book: a night festival (engi-nichi) in the grounds of a Japanese shrine, seen from a high, wide bird's-eye view so that everything is small and there is a huge amount to look at. In the middle stands a tall wooden drummers' tower (yagura) with a red-and-white striped curtain and two taiko drummers on top; a ring of about twenty bon-dance dancers circles it, and strings of glowing paper lanterns run from the tower out to the stalls. Two long rows of stalls with striped canvas awnings line the left and right of the central ground: cotton candy, takoyaki, candy apples, a shooting gallery, water-balloon fishing, balloons, roasted corn. Behind them a stone torii gate, stone steps up to a small shrine hall, big old trees, and a dark blue night sky with fireworks. In front, a crowd of about 150 tiny people in yukata and happi coats: children with balloons and candy apples, a child on a father's shoulders, a vendor flipping takoyaki, a policeman guiding the crowd. A standing person is only about 3% of the picture height, every figure drawn tiny and crisp.\n\nThe look is the point: printed with only four spot inks, vermilion red, teal blue, mustard yellow and sumi black, on aged cream paper. All other colors come from overprinting (red over yellow = orange, blue over yellow = green, blue plus black = night sky). Thin black key lines, flat color areas, visible halftone dot screens for the glow of lanterns and fireworks, slight misregistration with thin colored fringes, uneven ink, paper fibre, yellowed foxing and tiny printing specks. It must read as a real old printed page, not a digital painting. Full bleed, no border, no registration marks, no signature.\n\nExactly one small logo: a modest dark wooden signboard hanging at the front of the shooting-gallery stall in the right half, about 5% of the picture width, showing a cream cat paw print whose big pad holds a swirling ocean wave, with the word \"Shoji\" in cream cursive brush lettering to its right. Apart from that sign there are no letters, words or numbers anywhere; lanterns, curtains and awnings show only stripes, dots and pictures.\n\nExactly four cats are hidden in the scene and no other cat or animal anywhere (no fish, birds, insects, dogs, foxes, stone guardian lion-dogs, animal masks, cat ears or cat silhouettes). The four cats stand in the same row of stalls, at the same distance, and are all tiny: the three real cats each only about 1.5% of the picture height, about two fifths of a standing person, Shoji Cat a little taller; easy to overlook but findable, never hidden behind anything, none in the lower third of the picture:\n1. a black-and-white \"hachiware\" cat (black head and back, a white blaze splitting the face, white chest and paws) sitting upright on the counter of the cotton-candy stall on the left, among the cotton candies next to a white tub;\n2. a brown mackerel tabby (warm brown fur with dark stripes, white muzzle and chest) sitting upright on a shelf board of the prize shelf of the shooting-gallery stall on the right, among the round prizes;\n3. a calico cat (white with orange and black patches) sitting upright on the top rim of the water-balloon fishing tank below the shooting gallery;\n4. Shoji Cat, an upright orange tabby cat about three heads tall in a black leather jacket, denim shorts, cream sneakers and black wayfarer sunglasses with blue and red lenses, dancing the bon dance with both arms raised among the human dancers in the open sand around the tower, a little taller than the other three cats.\nThe first three cats wear a thin red collar with a tiny gold bell. No dark round objects or dark animal-like shapes that could be mistaken for a cat. No watermark.",
       "author": "Shoji_ai",
@@ -2990,6 +3093,20 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115781753508122867",
+      "prompt": "Using my uploaded photo, turn me into a fun Neo-inspired version of myself. Keep my face and features recognizable. Dress me in a Matrix Neo-inspied outfit with Neo accessories, trench coat, sunglasses and a Neo dodging bullets Matrix vibe. Put me in a parking lot after a rainfall scenery, bent backwards dodging bullets. Make it realistic, intense, and high quality. 8k resolution, 16:9 format, octane render.\n\nMade on @AIMemeCreator 🐸 Use my code SUPERPRODUCERSETH for 50 free credits  \n\n🔄 Tweak it & make it yours\n🎨 Quote this post with your results.\n🔁 Share it so more artists can join.\n🤝 Make new creative friends.\n❤️ Support each other's art.\n\nHappy Friday Eve 🥳",
+      "author": "SethCritchley",
+      "author_url": "https://x.com/SethCritchley",
+      "post_url": "https://x.com/SethCritchley/status/2115781753508122867",
+      "date": "2026-10-29T20:24:14+08:00",
+      "likes": 38,
+      "language": "en",
+      "images": [
+        "images/2115781753508122867_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2107682063591915638",
       "prompt": "\"subject\": {\n\"type\": \"young adult woman\",\n\"appearance\": \"fair skin with subtle freckles, green-gray eyes, defined brows, full natural lips\",\n\"hair\": \"short vintage auburn hair, swept back with soft volume\",\n\"expression\": \"calm, serious, slightly mysterious\",\n\"gaze\": \"looking directly into the camera\"\n},\n\"wardrobe\": {\n\"top\": \"cream vintage blouse\",\n\"scarf\": \"rust-orange patterned neck scarf tied loosely\"\n},\n\"setting\": {\n\"location\": \"inside a classic 1950s turquoise convertible\",\n\"environment\": \"sunny rural landscape with softly blurred hills in the background\",\n\"car\": \"vintage turquoise body, chrome trim, warm brown leather interior\"\n},\n\"composition\": {\n\"aspect_ratio\": \"4:5\",\n\"framing\": \"tight portrait through the open car window\",\n\"camera_position\": \"outside the car at eye level\",\n\"foreground\": \"turquoise car door and chrome window frame partially framing the woman\",\n\"focus\": \"sharp focus on face and eyes\",\n\"background\": \"strongly blurred with shallow depth of field\"\n},\n\"lighting\": {\n\"type\": \"warm natural sunlight\",\n\"quality\": \"soft directional sunlight with gentle facial shadows\",\n\"mood\": \"warm nostalgic summer afternoon\"\n},\n\"visual_style\": {\n\"style\": \"photorealistic vintage film photography\",\n\"era\": \"1950s–1960s Americana\",\n\"color_grading\": \"warm muted tones with turquoise, amber and orange dominance\",\n\"texture\": \"subtle analog film grain, slight vintage softness\",\n\"lens\": \"cinematic portrait lens with shallow depth of field\"\n},\n\"negative_prompt\": [\n\"modern car\",\n\"modern clothing\",\n\"studio lighting\",\n\"overly polished digital skin\",\n\"plastic skin\",\n\"heavy makeup\",\n\"wide-angle distortion\",\n\"extra people\",\n\"text\",\n\"watermark\",\n\"deformed face\",\n\"extra fingers\"\n]\n}",
       "author": "Just_Anika_Here",
@@ -3063,6 +3180,21 @@
       "images": [
         "images/2114692879633600755_0.jpg",
         "images/2114692879633600755_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115754147853000972",
+      "prompt": "UNIVERSAL PROMPT - JAPANESE MINIMALIST MANGA EDITORIAL POSTER | 3:4\n\nTransform each uploaded photograph into its own premium Japanese minimalist manga editorial poster. Process every image independently, never combining images or reusing previous",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2115754147853000972",
+      "date": "2026-10-29T18:34:32+08:00",
+      "likes": 37,
+      "language": "en",
+      "images": [
+        "images/2115754147853000972_0.jpg",
+        "images/2115754147853000972_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -3829,6 +3961,23 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115820077312524439",
+      "prompt": "Create a collectible vintage postage-stamp art poster for [DESTINATION]. Feature its most recognizable landmark inside an ornate stamp border with perforated edges, subtle postal cancellation marks, faded ink, antique cream paper, destination name and elegant muted colours. Highly detailed, authentic printmaking aesthetic, vertical 4:5.",
+      "author": "Naiknelofar788",
+      "author_url": "https://x.com/Naiknelofar788",
+      "post_url": "https://x.com/Naiknelofar788/status/2115820077312524439",
+      "date": "2026-10-29T22:56:31+08:00",
+      "likes": 26,
+      "language": "en",
+      "images": [
+        "images/2115820077312524439_0.jpg",
+        "images/2115820077312524439_1.jpg",
+        "images/2115820077312524439_2.jpg",
+        "images/2115820077312524439_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108650680684839381",
       "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic moody waterfall portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a",
       "author": "imGopalTiwari",
@@ -4170,6 +4319,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115827211223912551",
+      "prompt": "Create a vertical 3:4 before-and-after image split into two stacked panels of equal height.\n\nTOP PANEL (before): the original photograph exactly as provided, completely unedited - same subject,",
+      "author": "harboriis",
+      "author_url": "https://x.com/harboriis",
+      "post_url": "https://x.com/harboriis/status/2115827211223912551",
+      "date": "2026-10-29T23:24:51+08:00",
+      "likes": 22,
+      "language": "en",
+      "images": [
+        "images/2115827211223912551_0.jpg",
+        "images/2115827211223912551_1.jpg",
+        "images/2115827211223912551_2.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2099845870116372912",
       "prompt": "9:16 竖屏，韩国偶像居家私密肖像，单人主体，一位二十多岁的成年韩国女偶像跪坐在落地窗旁的柔软地毯上，从男友坐在她对面的视角拍摄。她穿超大号白衬衫与不暴露的黑色短底装，衬衫袖口盖住部分手背；长黑发松散扎成低马尾，脸侧留有自然碎发。身体朝向右侧，头部微微低下，视线落在双手捧着的奶油色马克杯上，唇角带着刚睡醒般的浅笑；一只手握杯柄，另一只手包住杯身。半身侧面构图，略低机位，前景带一点虚化的被角。阴天窗光形成柔和高光与低对比阴影，薄雾般黑柔滤镜、奶油灰色调、微弱镜头漏光、水润真实肤质、轻微胶片颗粒和不完美手持构图，营造安静自然、完全沉浸于当下的亲密抓拍感。",
       "author": "Mrpinecone888",
@@ -4255,6 +4420,20 @@
       "images": [
         "images/2113969225740284023_0.jpg",
         "images/2113969225740284023_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115753690325733870",
+      "prompt": "A hyper-realistic, cinematic close-up portrait of a young woman standing near a window during a gentle rain. Her dark, damp hair clings softly to her temples and shoulders, giving her a fresh, natural look. She has a scattering of delicate freckles across her cheeks and nose, expressive eyes, and a serene, subtle smile. Warm, golden backlighting catches the edges of her wet hair and illuminates her profile, creating a glowing halo effect. The background is dark and moody, filled with rain-streaked glass and soft, shimmering bokeh lights that add depth and a dreamy atmosphere to the shot.",
+      "author": "Muzammil_OX",
+      "author_url": "https://x.com/Muzammil_OX",
+      "post_url": "https://x.com/Muzammil_OX/status/2115753690325733870",
+      "date": "2026-10-29T18:32:43+08:00",
+      "likes": 21,
+      "language": "en",
+      "images": [
+        "images/2115753690325733870_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -4873,6 +5052,40 @@
       "prompt_source": "reply"
     },
     {
+      "id": "2115748718553038974",
+      "prompt": "动漫或游戏成年女性角色 × 奥斯曼花押式书法 × 角色形态转译 × 纸本钴蓝与金\n\n每张随机选择一位不同的动漫或游戏成年女性角色，提取其清晰可辨的发型、服装、配饰与代表性意象，将发丝、衣袖、裙摆或飘带自然融入花押笔画，形成一枚完整的角色主题徽印。\n\n保留花押骨架：底部交织的书法笔画、三根平行高竖、左侧两层嵌套大椭圆环，以及向右伸展的修长横笔。角色形态与笔画相互连接，整体轮廓清楚，人物保持清晰可辨。\n\n钴蓝粗笔画以金线勾边，笔画和环内部分区域饰以该角色相关的细密纹样。人物及装饰采用统一的奥斯曼宫廷细密画笔法，细线勾勒、平面设色，粗笔画与细纹形成清晰对比。可适量融入角色代表色。\n\n米白色纸本，墨、不透明水彩与金的平面质感。徽印完整可见，周围大面积留白，平整正视。\n\n每张独立抽取角色与相关纹饰，变化角色形态融入方式、徽印比例和画面位置，同批角色与主要组合不重复。\n\nn=10，连续生成10张独立单图，每次生成1张，不拼图、不做宫格或分屏。竖版9:16。左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2115748718553038974",
+      "date": "2026-10-29T18:12:57+08:00",
+      "likes": 15,
+      "language": "zh",
+      "images": [
+        "images/2115748718553038974_0.jpg",
+        "images/2115748718553038974_1.jpg",
+        "images/2115748718553038974_2.jpg",
+        "images/2115748718553038974_3.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2115652859513757874",
+      "prompt": "动漫或游戏成年女性角色 × 法式科幻漫画 × 简化构图与留白 × 线描平涂动画\n\n每张随机选择一位不同的动漫或游戏成年女性角色，保留标志性发型、服装轮廓与关键配饰，转化为具有自然比例的动画人物。\n\n人物与外星环境或异象产生自然互动，动作、表情和视线呈现一个连贯的电影瞬间。随机变化地貌、异象、人物动作、景别与构图。\n\n以清晰线描、简洁色块和少量分层阴影表现人物与环境。人物面部、头发和服装具有经过概括的立体形体，整体线条与设色统一。\n\n外星地貌以清楚的轮廓和少量结构线呈现。每张选择一个主要异象，画面保留大面积天空、地表或空旷空间。人物大小由景别决定，远景、中景与特写均保留适当留白。环境光自然影响人物与服装。\n\n以硫黄色与蓝色辉光为色彩线索，结合橙色、蓝紫色及少量粉红或青色，每张自由调整色彩主次。画面简洁、空旷，具有孤独而迷幻的气氛。\n\n每张采用不同角色与画面组合，变化地貌、异象、人物互动、景别和主要构图，减少同批重复。\n\nn=10，连续生成10张独立单图，每次生成1张，不拼图、不宫格、不分屏。竖版9:16。\n\n左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2115652859513757874",
+      "date": "2026-10-29T11:52:03+08:00",
+      "likes": 15,
+      "language": "zh",
+      "images": [
+        "images/2115652859513757874_0.jpg",
+        "images/2115652859513757874_1.jpg",
+        "images/2115652859513757874_2.jpg",
+        "images/2115652859513757874_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2098309691877241146",
       "prompt": "创作一幅受【北京】启发的精致极简艺术海报。使用【北京】的标志性历史建筑作为中心视觉元素，但将其转化为优雅的当代编辑艺术作品，而非传统的地图，背景带有现代城市建筑的剪影轮廓。\n\n动线周围开满了盛放的月季花，细节丰富细腻，灵感源自迪奥（Dior）花卉系列与 Pietro Ruffo 的艺术风格，手绘细腻的花卉在纯白背景板上梦幻般地自然交织缠绕。\n\n画面采用手绘线条，红金相间，红色花瓣搭配金色勾边轮廓，建筑主体使用金色线条勾勒，线条简约纯粹，无杂乱繁复感。纯白色背景，顶部留出大面积空白，远景上方现代建筑若隐若现，虚实结合。色彩富有层次感而不显扁平，无杂乱、无照片级真实感、无过多文字、无国旗、无泛泛的旅游拼贴、无厚重边框。\n\n垂直海报构图，9:16 纵横比，高细节但视觉极简。",
       "author": "xueyu1125",
@@ -5172,6 +5385,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115815163165384861",
+      "prompt": "UNIVERSAL PROMPT - PLAYFUL BRAND EDITORIAL POSTER | 3:4\n\nCreate a premium 3:4 vertical brand poster using the uploaded photograph, featuring [BRAND / SUBJECT / THEME] and the headline [CUSTOM TEXT].\n\nSTYLE: Blend vivid photography, expressive lowercase",
+      "author": "Goodmanprotocol",
+      "author_url": "https://x.com/Goodmanprotocol",
+      "post_url": "https://x.com/Goodmanprotocol/status/2115815163165384861",
+      "date": "2026-10-29T22:36:59+08:00",
+      "likes": 12,
+      "language": "en",
+      "images": [
+        "images/2115815163165384861_0.jpg",
+        "images/2115815163165384861_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2110654410682478987",
       "prompt": "古风妖冶感，数码直闪颗粒，强情绪视觉张力，85mm近景，半脸裁切，红唇轻启、眼神勾人，国风时尚海报",
       "author": "spark_chenlin",
@@ -5448,6 +5676,20 @@
       "images": [
         "images/2113991711294955661_0.jpg",
         "images/2113991711294955661_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115645640718139888",
+      "prompt": "主题方向：东方禅意极简爆款封面\n风格分支：女性审美冷艳型\n主体内容：一位古风女子站在画面中央偏下位置，肩颈与上半身清晰可见，轻薄披帛被风吹起\n情绪母题：清冷、精致、安静张力\n场景与意象：宝石蓝背景色块、月光白披帛、女子、少量浅银色发饰\n构图与空间：9:16竖版构图，人物为主视觉，披帛向上扬起形成动势，顶部和侧边保留完整留白用于标题\n色彩控制：高明度冷白作为人物与局部过渡基底，宝石蓝用于背景主色块，月光白用于披帛与服装，浅银用于发饰高光；避免整图发蓝发灰\n光线与质感：清透冷光感，边缘利落，画面低灰度，现代东方封面质感\n画幅比例：9:16\n补充要求：人物气质要高级、清冷、好看，披帛要有强视觉动线，整体像女性向高端封面，画面留白处配上合适的文字",
+      "author": "liyue_ai",
+      "author_url": "https://x.com/liyue_ai",
+      "post_url": "https://x.com/liyue_ai/status/2115645640718139888",
+      "date": "2026-10-29T11:23:22+08:00",
+      "likes": 10,
+      "language": "zh",
+      "images": [
+        "images/2115645640718139888_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -5960,6 +6202,35 @@
         "images/2115292980613620073_3.jpg"
       ],
       "prompt_source": "alt"
+    },
+    {
+      "id": "2115794498005672269",
+      "prompt": "16:9横版，高精度Niji系半写实日系动漫电影摄影风格，\n\nNiji-inspired anime aesthetics,\npremium semi-realistic anime illustration,\ncinematic 2.5D anime portrait,\nhigh-end Japanese fantasy anime character art,\nexquisite anime facial",
+      "author": "liyue_ai",
+      "author_url": "https://x.com/liyue_ai",
+      "post_url": "https://x.com/liyue_ai/status/2115794498005672269",
+      "date": "2026-10-29T21:14:52+08:00",
+      "likes": 7,
+      "language": "zh",
+      "images": [
+        "images/2115794498005672269_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115616126310965370",
+      "prompt": "城市火车站台上，一位年轻帅气的东亚男子站在画面中心稍偏右的位置，逼真的竖版手机街头快照。一列带有绿色条纹的银色列车在身后以水平运动模糊效果疾驰而过。从腰部高度的低角度拍摄，近距离半身至大腿中部构图，手持拍摄，略显不完美，呈现真实随性的街拍质感。\n\n一头深黑色中长碎发，带有自然层次和蓬松纹理，发梢在站台风中向左飘扬。超大号棕色渐变墨镜遮住了他的眼睛；头部微微上扬，下颌线条清晰，嘴唇自然放松，带着冷峻、疏离又略显慵懒的表情。精致的东亚男性五官，立体鼻梁，干净利落的脸部轮廓，略微突出的颧骨，带有少年感的高级时尚气质。自然干净的皮肤，呈现真实的面部细节。\n\n身穿暖白色修身短袖上衣，略微宽松的圆领设计，柔软的罗纹棉质面料，带有细微的自然褶皱，下摆自然停留在腰部附近，隐约展现修长的身体比例。低腰宽松复古灰棕色牛仔裤，裤腿自然垂落，带有轻微水洗做旧质感。颈部佩戴多层细金色项链，手腕搭配简约金属手链，肩上随意背着黑色皮革斜挎包，整体呈现高级复古 Y2K 男性街头穿搭风格。\n\n暖米色皮肤，颈部、锁骨、手臂和面部保留自然皮肤纹理，身材修长匀称，肩膀略宽，肌肉线条自然不过分夸张。凉爽的荧光站台灯光，金属反光，黄色触觉铺装，混凝土地面，列车窗户中模糊的乘客。\n\n真实的手机摄影噪点，轻微广角感，自然曝光，微弱的动态模糊，真实的环境阴影，没有刻意摆拍的感觉。整体呈现随手抓拍的电影感街头时尚摄影，冷调都市氛围，高级且自然的男性时尚大片质感。\n\n画面比例：9:16，竖版构图，超写实摄影风格。",
+      "author": "ChrisSlacker",
+      "author_url": "https://x.com/ChrisSlacker",
+      "post_url": "https://x.com/ChrisSlacker/status/2115616126310965370",
+      "date": "2026-10-29T09:26:05+08:00",
+      "likes": 7,
+      "language": "zh",
+      "images": [
+        "images/2115616126310965370_0.jpg",
+        "images/2115616126310965370_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2097720524113580184",
@@ -7234,6 +7505,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2115805289773412734",
+      "prompt": "a carved pumpkin on a wooden porch step at dusk, the face is a sleepy cat with whiskers cut into the skin, candle glow inside, light drizzle, 35mm photo\n\nall three are in one text-to-image tab:",
+      "author": "FastMoroAI",
+      "author_url": "https://x.com/FastMoroAI",
+      "post_url": "https://x.com/FastMoroAI/status/2115805289773412734",
+      "date": "2026-10-29T21:57:45+08:00",
+      "likes": 2,
+      "language": "en",
+      "images": [
+        "images/2115805289773412734_0.jpg",
+        "images/2115805289773412734_1.jpg",
+        "images/2115805289773412734_2.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
       "id": "2097678119314575676",
       "prompt": "生成一个哈登从进入NBA到现在，历届抢七大战的数据分析信息图。",
       "author": "jojogh_007",
@@ -8031,6 +8318,38 @@
         "images/2115311712769647068_1.jpg"
       ],
       "prompt_source": "post"
+    },
+    {
+      "id": "2115812999349129643",
+      "prompt": "未竟之美 × 具象主题开放抽卡 × 完整与缺失的视觉关系 × 多元艺术媒介\n\n从《石头记》的未完成性、断臂维纳斯的残缺之美及艺术史中的未完成作品获得启发，探索形体、结构、材料与时间中的未竟美学。\n\n优先选择能在单张画面中直观呈现未完成状态的具象主题，让已完成或保存的部分与未竟部分形成审美张力。\n\n【开放式抽卡】\n\n每张独立组合以下变量，各组保持开放。\n\n1. 具象主体：\n自由探索具有鲜明形态与审美价值的主体，优先选择未完成状态容易通过单张画面辨识的对象。\n\n2. 未竟机制：\n根据主体自由探索不同的未完成状态，每张确定一种主要机制。机制应与主体及所选媒介的逻辑相符。\n\n3. 完整与未竟：\n根据主体和未竟机制，设计已完成或保存的部分与未竟部分之间的关系。自由变化其位置、比例、边界和过渡方式，使未竟状态融入主体自身的形态与结构。\n\n4. 艺术媒介：\n自由选择与主体及未竟机制相适应的真实或实验性媒介，遵循对应的制作方式、物理特征与变化逻辑。\n\n5. 构图与呈现：\n根据主体与未完成状态，自由选择景别、视角、空间、背景和光线，呈现作品的形态及其未竟特征。\n\n【核心视觉逻辑】\n\n未完成状态清晰可辨，主体保持可识别性与审美价值。未竟状态具有合理的结构与材料依据，并保留与其形成过程相符的痕迹。\n\n完整与未竟的比例自由变化，不固定对半分割，也不要求每张都有破损。边界、过渡与空间关系自然可信，让观众能够想象未呈现的部分或最终完成的样子。\n\n叙事、象征与情绪可以自然产生，以具象视觉表现为优先，不依赖文字说明。\n\n【视觉品质】\n\n遵循所选媒介的造型、材质、光影与制作逻辑。形体清晰，完成部分具有可信的精细度，未完成部分保留真实材料或工艺特征。\n\n细节的来源、尺度与分布合理，减少无意义碎纹、异常斑驳、密集杂点、过度锐化和装饰堆积。避免随机破坏、人体结构错误、画面模糊及缺乏依据的材质混杂。\n\n【系列规则】\n\nn=10，连续生成10张独立单图，每次生成1张。每张探索不同的具象主题、未竟机制、艺术媒介与构图。\n\n优先形成不同的整体轮廓、材料关系与视觉结构，减少主体类型、未竟呈现方式及画面组织的重复。每张都是独立成立的艺术作品，共同呈现未竟之美的不同形式。\n\n竖版9:16，不拼图、不宫格、不分屏。\n\n左下签名：深蓝色实心圆点在前，白色手写体「DeepBlue」在后。",
+      "author": "DeepBlueX0",
+      "author_url": "https://x.com/DeepBlueX0",
+      "post_url": "https://x.com/DeepBlueX0/status/2115812999349129643",
+      "date": "2026-10-29T22:28:23+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2115812999349129643_0.jpg",
+        "images/2115812999349129643_1.jpg",
+        "images/2115812999349129643_2.jpg",
+        "images/2115812999349129643_3.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2115715556951417000",
+      "prompt": "GPT image 2.5 prompt ：\n生成一张专业商业广告公司设计的精品咖啡品牌秋季限定产品海报，4:5 竖版，高清。\n\n设计风格：现代欧美精品咖啡品牌视觉，Editorial Advertising Design，融合高级杂志排版、真实产品摄影与秋季生活方式美学。\n\n【整体构图】\n\n采用完整的商业平面海报设计，具有明确的字体层级、图文布局、视觉动线和精致留白。\n\n主色调：南瓜橙 #C96932、奶油白 #F5E9D5、深咖啡棕 #35251C。\n\n画面采用上方标题区、中间产品视觉区、下方信息区的三段式布局。\n\n背景是温暖的奶油米色，结合秋日下午阳光、柔和的欧式咖啡馆建筑虚影和少量橙红色枫叶。画面简洁，不堆砌装饰。\n\n【顶部排版】\n\n左上角放置小号品牌标识：\n一个简洁的橙色南瓜线条图标\nPUMPKIN & CO.\n\n右上角使用小型胶囊形标签：\nAUTUMN EDITION\n2026\n\n画面上方偏左位置使用超大号、高级复古衬线字体，深咖啡棕色，分两行排版：\n\nFALL IN\nLOVE.\n\n标题采用具有明显粗细对比的时尚杂志衬线字体，字母精致，行距紧凑，产生强烈的视觉冲击。\n\n主标题下方增加小号副标题：\nYOUR SEASONAL COFFEE RITUAL\n\n【中心产品主视觉】\n\n一杯真实的南瓜拿铁外带热咖啡放置在浅米色石材桌面上。\n\n纸杯米白色，杯身中间环绕真实的牛皮纸杯套，杯套上清晰印有橙色南瓜图案和品牌名称 PUMPKIN & CO.\n\n杯子使用完整闭合的低矮白色塑料外带热饮杯盖，具有真实饮口、凸起边缘和塑料纹理。\n\n杯盖严格保持真实热饮杯盖结构，不出现任何奶油尖顶、冰淇淋、奶泡堆积或裸露咖啡液体。\n\n一缕柔和半透明的白色热气从饮口自然升起，轻盈、细腻。\n\n采用真实商业产品摄影质感，杯子作为视觉中心，体积突出，比例正常，产品清晰锐利。\n\n杯子旁点缀一个小型橙色南瓜、两根肉桂棒和少量自然散落的秋叶。装饰元素保持克制。\n\n左上方温暖阳光照亮纸杯，在桌面形成真实、统一的自然阴影。\n\n【底部商业信息】\n\n在画面底部设置精致的信息排版区，采用清晰的网格布局。\n\n左侧使用较大的现代无衬线字体：\n\nPUMPKIN\nSPICE LATTE\n\n下方使用小号文字：\nWARM SPICES · SMOOTH ESPRESSO\nTHE TASTE OF FALL\n\n右下角放置一个精致的南瓜橙色圆形印章，内部清晰写着：\n\nLIMITED\nEDITION\n\n底部横向分隔线下方安排品牌广告语：\n\nSIP THE SEASON.\n\n【设计要求】\n\n必须呈现完整的商业海报设计，海报上的标题、副标题、品牌名称、产品名称、广告语和限定标签都要实际生成在画面中。\n\n排版具有专业设计感，字体大小层级鲜明，标题具有明显视觉冲击，产品与文字互不遮挡。\n\n使用专业字体组合：高对比复古衬线字体搭配简洁现代无衬线字体。\n\n保持统一的品牌视觉识别系统，版式精致、有节奏感，留白合理。\n\n所有英文必须正确拼写，文字边缘清晰，避免乱码、错字、重复文字。\n\n画面既有真实摄影的产品质感，又有高级平面设计的商业完成度。\n\n避免普通手机照片、缺少文字的产品摄影、过度复杂的装饰、夸张 CGI、奶油堆顶、冰淇淋形状、假塑料质感、光影错误。\n\n最终效果是一张可以用于咖啡品牌秋季营销活动、社交媒体推广、门店展示的高级商业广告海报。",
+      "author": "Adam38363368936",
+      "author_url": "https://x.com/Adam38363368936",
+      "post_url": "https://x.com/Adam38363368936/status/2115715556951417000",
+      "date": "2026-10-29T16:01:11+08:00",
+      "likes": 1,
+      "language": "zh",
+      "images": [
+        "images/2115715556951417000_0.jpg",
+        "images/2115715556951417000_1.jpg"
+      ],
+      "prompt_source": "reply"
     },
     {
       "id": "2107636141109153812",
@@ -9646,6 +9965,98 @@
         "images/2115235851072315427_0.jpg"
       ],
       "prompt_source": "post"
+    },
+    {
+      "id": "2115852721198621072",
+      "prompt": "[Create an extraordinary speculative science infographic titled exactly \"THE FUTURE OF HUMAN EVOLUTION\", featuring an enormous futuristic human figure standing in the center of an endless coral-pink desert beneath a magnificent electric-blue",
+      "author": "92digitalartArt",
+      "author_url": "https://x.com/92digitalartArt",
+      "post_url": "https://x.com/92digitalartArt/status/2115852721198621072",
+      "date": "2026-10-30T01:06:14+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2115852721198621072_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115791209402621974",
+      "prompt": "Prompt for #1. Swap the [brackets]:\n\n\"Vertical indie film poster. [A lone cyclist] under [a street lamp on a rain-soaked bridge] at night. Navy shadows, amber light, subtle grain. Exact title \"[AFTER THE RAIN]\" in large cream sans-serif, upper third. Quiet lower edge.\"\n\n———\n\nAll six poster prompts (film, concert, product, cafe, exhibition, travel), copy-ready:",
+      "author": "LChris430846",
+      "author_url": "https://x.com/LChris430846",
+      "post_url": "https://x.com/LChris430846/status/2115791209402621974",
+      "date": "2026-10-29T21:01:48+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2115791209402621974_0.jpg",
+        "images/2115791209402621974_1.jpg",
+        "images/2115791209402621974_2.jpg",
+        "images/2115791209402621974_3.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
+      "id": "2115782072606597311",
+      "prompt": "Emerald green beret and dress, pearl necklace, joyful café portrait, soft natural light, vintage black-and-white background, cinematic elegance.",
+      "author": "hello0cig",
+      "author_url": "https://x.com/hello0cig",
+      "post_url": "https://x.com/hello0cig/status/2115782072606597311",
+      "date": "2026-10-29T20:25:30+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2115782072606597311_0.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
+      "id": "2115708621149389198",
+      "prompt": "楼下那几家小店做成了桌面模型：早点摊、奶茶店、修车铺、深夜面馆。\n拍法是假装用微距镜头拍一个木底座上的手工模型，45 度往下看，边缘虚一点，小人只有两厘米高。\n前面写模型材质和拍法那段四张都没动，只换店、时间和主色，底色也跟着换。\n\n图1 早点摊提示词，直接复制：\n\nVertical 3:4 miniature diorama photo of a tiny Chinese street-corner shop built as a handmade scale model, sitting on a square wooden display base about 20 cm wide, seen from a 45-degree isometric angle slightly above. Real macro photography with tilt-shift shallow depth of field, crisp detail in the center and soft blur at the edges. Handcrafted materials: painted resin, tiny wooden planks, real fabric awnings, miniature potted plants, hand-lettered paper signs, small warm LED lights inside the shop. A few tiny painted figurines about 2 cm tall, plain everyday clothes, faces too small to see detail. Clean seamless plain background in a soft matching color, soft studio key light from the upper left. Cozy, detailed, tidy, no real brands, no logo, no watermark. Shop: a breakfast jianbing stall with a red-and-white striped awning, a round iron griddle with a half-made crepe, stacks of egg cartons, a thermos and steamed buns in a bamboo steamer, a tiny scooter parked in front. Time: early morning, pale golden sunrise light, a thin wisp of steam rising. Palette: tomato red, cream, warm yellow. Background: soft butter yellow. Shop sign reads 早点.",
+      "author": "static_stare",
+      "author_url": "https://x.com/static_stare",
+      "post_url": "https://x.com/static_stare/status/2115708621149389198",
+      "date": "2026-10-29T15:33:37+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2115708621149389198_0.jpg",
+        "images/2115708621149389198_1.jpg",
+        "images/2115708621149389198_2.jpg",
+        "images/2115708621149389198_3.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2115665600278335987",
+      "prompt": "Golden-hour autumn selfie, preserve my face, long flowing dark hair, black leather jacket, black turtleneck, warm sunlight, orange leaves, photorealistic 9:16.",
+      "author": "hello0cig",
+      "author_url": "https://x.com/hello0cig",
+      "post_url": "https://x.com/hello0cig/status/2115665600278335987",
+      "date": "2026-10-29T12:42:40+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2115665600278335987_0.jpg"
+      ],
+      "prompt_source": "reply"
+    },
+    {
+      "id": "2115610458883535230",
+      "prompt": "本期 prompt\niPhone手机实拍感，雪夜路灯下的东方女性人像，自然光手持抓拍，轻微噪点，真实皮肤纹理。人物：28岁左右东方女性，齐肩黑发微卷，淡妆，皮肤保留毛孔与自然纹理，拒绝过度磨皮，拒绝塑料感。表情：安静地望向远处雪花，眼神柔和放松。服装：米白色长款羊毛大衣，内搭深灰高领毛衣，深色直筒长裤，黑色短靴，围一条驼色围巾。姿态：站在路灯下，一手插在大衣口袋里，一手轻轻拢住围巾，身体微微侧向镜头。道具：路灯杆上积了一层薄雪，脚边一只深色帆布袋。环境：前景是飘落的雪花和虚化的路灯光晕，中景是人物与路灯，远景是雪夜老街的店铺灯光和停着的自行车。光线：暖黄色路灯为主光源，从头顶斜前方打下来，色温约3200K，冷蓝色的雪夜环境光做衬托，暖冷对撞。相机：iPhone 15 Pro主摄24mm，f/1.78，手持抓拍，竖构图，人物全身至膝盖以上景别，浅景深，背景光斑bokeh。调色：自然白平衡，轻微暖调，film grain颗粒感，暗部保留细节。情绪：冬夜静谧温暖的氛围。画风：真实照片感，非插画非渲染。质量标签：highly detailed, photorealistic, natural skin texture, candid photography。负面约束：No oil painting, No anime, No 3D render, No deformed hands, No plastic skin, No over-smoothing, No text watermark。",
+      "author": "JimmyCarsttle",
+      "author_url": "https://x.com/JimmyCarsttle",
+      "post_url": "https://x.com/JimmyCarsttle/status/2115610458883535230",
+      "date": "2026-10-29T09:03:34+08:00",
+      "likes": 0,
+      "language": "zh",
+      "images": [
+        "images/2115610458883535230_0.jpg",
+        "images/2115610458883535230_1.jpg",
+        "images/2115610458883535230_2.jpg"
+      ],
+      "prompt_source": "reply"
     },
     {
       "id": "2097418434929705291",
