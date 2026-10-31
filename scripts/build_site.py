@@ -167,6 +167,11 @@ HIDE_IDS = {
     '2114875883991470257',  # @aiai_agt neon-gal gamer stockings (uncertain → hide)
     '2114946821583761814',  # @johnAGI168 angel/devil clubwear leather (suggestive)
     '2114996079813148722',  # @static_stare translucent liquid-glass gown (sheer/suggestive)
+
+    # 2026-10-31 daily refresh NSFW review
+    '2116013902563586137',  # @johnAGI168 black crop top + stockings armchair pose (suggestive)
+    '2116161404923220295',  # @liyue_ai low-cut top lounging (uncertain → hide)
+    '2116191790504046669',  # @johnAGI168 crop-top couple on sofa (uncertain → hide)
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
@@ -284,6 +289,12 @@ VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewe
     # 2026-10-28 daily refresh NSFW / not-a-prompt review
     '2115191029641175400',  # @YourAlphaMom Seedance-vs-Kling gym cleavage comparison (suggestive)
     '2114966761489813857',  # @meAsifAi swimsuit boat shot; body is image prompt not Seedance video prompt
+
+    # 2026-10-31 daily refresh NSFW review
+    '2116284031067476106',  # @YourAlphaMom cleavage selfie (suggestive)
+    '2116111120566247680',  # @dreamydigiarts skin-tight bodysuit selfie (suggestive)
+    '2116197269636595940',  # @Niaoshubaba process commentary, no actual prompt
+    '2116029909667827737',  # @ayzalnooor24521 character/outfit reference-sheet image prompt, not a Seedance video prompt
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page

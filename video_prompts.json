@@ -2,8 +2,8 @@
   "name": "Seedance 视频提示词 / Seedance video prompts (GPT Image 2.5 提示词图库)",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/videos.html",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-10-30T08:14:40+08:00",
-  "count": 1394,
+  "generated_at": "2026-10-31T08:10:38+08:00",
+  "count": 1428,
   "license": "Code: MIT. Videos and prompts belong to their original authors on X; mp4 links point to X (video.twimg.com) and may expire.",
   "fields": {
     "model": "Seedance version named in the post (Seedance 2.5 / Seedance 2.0 / ...)",
@@ -915,6 +915,27 @@
       ]
     },
     {
+      "id": "2116043962465079357",
+      "model": "Seedance 2.5",
+      "prompt": "ZOMBIE CITY: LAST STAND — SEEDANCE 2.5 PROMPT\n\nENGINE DIRECTIVE: Create exactly 30 seconds of photorealistic Hollywood-style zombie action, 16:9 widescreen, 60fps where supported. Use @image1 for protagonist identity, @image2 for zombie design, and @image3 for the ruined city environment.\n\nCHARACTER CONTINUITY: Preserve @image1's exact face, hairstyle, beard, skin tone, and body structure. Outfit: distressed olive-green field jacket, black shirt, charcoal cargo pants, black gloves, rugged combat boots, crossbody survival bag, and a steel machete. Keep the same appearance throughout.\n\nZOMBIES — @image2: Two distinct infected humans with pale grey-green decaying skin, cloudy eyes, damaged faces, torn dirty clothing, and aggressive movements. Zombie A wears a ripped grey shirt and dark trousers; Zombie B wears a torn burgundy hoodie and black jeans.\n\nLOCATION — @image3: A devastated downtown street with cracked asphalt, abandoned cars, shattered storefronts, damaged buildings, scattered debris, drifting smoke, and overcast daylight. Maintain consistent geography and lighting.\n\nTIMELINE:\n\n00–03s: Wide cinematic reveal of the ruined city. The protagonist notices two zombies approaching from opposite sides and draws his machete.\n\n03–06s: Zombie A charges. The protagonist dodges its grab and counters with a fast, controlled machete strike. Zombie A collapses.\n\n06–09s: Zombie B rushes from beside an abandoned sedan, attempting to grab and bite the protagonist.\n\n09–12s: Close handheld camera captures the protagonist blocking the attack, breaking free, and pushing Zombie B away.\n\n12–15s: Low-angle tracking shot as Zombie B lunges again. The protagonist dodges and prepares a counterattack.\n\n15–18s: Dynamic side tracking as the protagonist outmaneuvers the zombie on the cracked roadway.\n\n18–21s: Zombie B attacks again. The protagonist pivots, breaks its balance, and forces it to its knees.\n\n21–24s: He delivers a decisive final strike. Zombie B falls motionless. Keep violence non-graphic.\n\n24–27s: The protagonist stands between both defeated zombies, breathing heavily while holding the machete.\n\n27–30s: Close-up of his determined face, followed by a wide reveal of distant zombie silhouettes approaching through the smoky intersection. End on a suspenseful cinematic hook.\n\nAUDIO: Original dark survival-action score, realistic footsteps, zombie snarls, weapon swishes, impacts, wind, distant alarms, and heavy breathing.\n\nQUALITY: Stable identity, consistent wardrobe and weapons, realistic physics, cinematic camera transitions, detailed textures, natural motion blur, synchronized audio, no teleportation, no morphing, no extra limbs, no location changes, and no graphic gore.",
+      "author": "Xaroon_x",
+      "author_url": "https://x.com/Xaroon_x",
+      "post_url": "https://x.com/Xaroon_x/status/2116043962465079357",
+      "date": "2026-10-30T13:46:09+08:00",
+      "likes": 427,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116043714338668544/vid/avc1/1280x720/NKoIV9Lg3EB_zzdX.mp4",
+          "duration_s": 45.1,
+          "poster": "posters/2116043962465079357_0.jpg",
+          "width": 1672,
+          "height": 941
+        }
+      ]
+    },
+    {
       "id": "2114988834408869936",
       "model": "Seedance 2.5",
       "prompt": "Create an ultra-photorealistic, emotionally explosive, high-budget Korean supernatural revenge action scene inside a modern South Korean high school classroom.\n\nThe scene must feature aggressive bullying, a shocking physical slap, intense emotional confrontation, terrifying supernatural awakening, spectacular telekinetic destruction, and a powerful revenge climax.\n\nThe atmosphere should resemble a premium live-action Korean supernatural thriller, combining realistic human performances, brutal emotional tension, sophisticated cinematography, and physically convincing supernatural action.\n\nDURATION: Exactly 30 seconds.\n\nFORMAT: 16:9 widescreen, 4K cinematic quality, 24fps.\n\nCAMERA STYLE: Dynamic handheld cinematography, fast whip pans, dramatic push-ins, intense facial close-ups, low-angle hero shots, realistic camera shake during impacts, and occasional brief slow-motion accents.\n\nLIGHTING: Bright natural afternoon sunlight entering through large classroom windows, mixed with realistic overhead classroom lighting.\n\nENVIRONMENT: Authentic Korean high school classroom containing wooden desks, metal-framed chairs, notebooks, backpacks, textbooks, pencils, a large green chalkboard, wall clocks, classroom decorations, and approximately 20 Korean students.\n\nAll characters are 18-year-old final-year students.\n\nMAIN HEROINE — THE GIRL WITH SECRET POWERS @image (12) \n\nShe secretly possesses extraordinarily powerful telekinetic abilities.\n\nHer abilities include controlling hundreds of objects simultaneously, generating invisible shockwaves, lifting heavy furniture, stopping moving objects, and restraining people without touching them.\n\nWhenever she activates her powers, her irises develop a subtle electric-pink glow.\n\nThe glow must remain concentrated inside her irises.\n\nNo glowing hands, visible magical energy, pink lightning, or laser beams.\n\nHer power manifests entirely through invisible force and environmental destruction.\n\nMAIN ANTAGONIST — THE CLASSROOM QUEEN @Image \n\nAn arrogant 18-year-old Korean female student with long dark-brown hair, fashionable makeup, and a cruel, intimidating personality.\n\nShe wears a traditional navy-and-white Korean school uniform with a short pleated skirt.\n\nShe is accompanied by two female friends who encourage her bullying.\n\nHer personality changes dramatically from arrogant confidence to overwhelming terror after witnessing the heroine's abilities.\n\nSHOT 1 — THE NOTEBOOK HUMILIATION\n\n0–4 SECONDS\n\nWide cinematic shot of a busy Korean classroom during the afternoon.\n\nStudents are chatting and laughing.\nThe heroine {@image (12) stands confidently beside her classroom desk, adjusting her schoolbag over her shoulder as she prepares to leave. Suddenly, an arrogant female @Image bully storms toward her, aggressively grabs her schoolbag, and throws it onto the floor. The heroine turns sharply, staring at the bully with a cold, fearless expression. The bully steps closer, deliberately bumps her shoulder, and mocks her in front of the entire classroom. Several students begin laughing while others watch nervously. The heroine refuses to back down, creating an intense face-to-face confrontation.\n\nBULLY: \"Look at this pathetic little girl!\"\n\nShe @Image picks up one notebook and violently tears several pages from the notebook.\n\nPaper fragments scatter across the desk.\n\nHer two friends laugh loudly.\n\nThe heroine stands up and reaches toward her notebook.\n\nHEROINE: \"Give it back.\"\n\nThe bully smirks.\n\nSHOT 2 — THE HARD SLAP\n\n4–8 SECONDS\n\nMedium close-up showing both girls standing face-to-face.\n\nThe bully aggressively shoves the heroine backward against her desk.\n\nThe heroine steadies herself.\n\nShe looks directly at the bully.\n\nHEROINE: \"Don't touch me again.\"\n\nThe bully's expression turns furious.\n\nSuddenly, she swings her right hand and delivers ONE HARD, SHARP, OPEN-PALM SLAP across the heroine's @image (12) left cheek.\n\nIMPORTANT: Show the complete slap in one continuous medium shot.\n\nThe bully's palm makes visible contact with the heroine's cheek.\n\nThe heroine's head snaps sideways from the impact.\n\nHer hair @image (12) whips dramatically across her face.\n\nA loud, realistic slap echoes throughout the classroom.\n\nThe heroine stumbles one step sideways and catches herself against a desk.\n\nNo blood or visible injury.\n\nSeveral students gasp.\n\nOthers laugh nervously.\n\nThe bully @Image leans forward with a cruel smile.\n\nBULLY: \"Know your place.\"\n\nThe heroine remains silent.\n\nSHOT 3 — THE TERRIFYING AWAKENING\n\n8–12 SECONDS\n\nExtreme cinematic close-up of the heroine's face.\n\nHer cheek is slightly red from the slap.\n\nShe slowly turns her head toward the bully.\n\nHer expression changes from shock to terrifying emotional stillness.\n\nHer jaw tightens.\n\nHer breathing becomes controlled.\n\nA single tear forms in her eye.\n\nSuddenly, her irises begin glowing a subtle electric pink.\n\nThe classroom clock stops ticking.\n\nA nearby pencil begins vibrating.\n\nThe torn notebook pages freeze in midair.\n\nA falling eraser stops inches above the floor.\n\nThe entire classroom becomes unnaturally quiet.\n\nThe bully notices the floating paper.\n\nHer smile disappears.\n\nBULLY: \"What... are you?\"\n\nThe heroine whispers:\n\nHEROINE: \"Your worst mistake.\"\n\nSHOT 4 — THE FIRST TELEKINETIC EXPLOSION\n\n12–16 SECONDS\n\nThe bully angrily attempts to slap the heroine a second time.\n\nShe raises her right hand.\n\nBefore the slap lands, her arm suddenly bend in midair.\n\nAn invisible telekinetic force prevents her from moving.\n\nHer eyes widen in panic.\n\nThe heroine slowly raises two fingers.\n\nBOOM.\n\nA massive invisible telekinetic shockwave erupts.\n\nThe bully is thrown backward across the classroom and lands on a pile of overturned chairs.\n\nSeveral empty desks slide violently across the floor.\n\nBooks launch upward.\n\nLoose papers spiral through the air.\n\nA metal chair flips over.\n\nStudents scream and duck behind their desks.\n\nThe heroine remains completely stationary.\n\nHer electric-pink eyes glow with supernatural intensity.\n\nHer hair moves gently in the displaced air.\n\nSHOT 5 — THE CLASSROOM BECOMES A NIGHTMARE\n\n16–21 SECONDS\n\nFast-paced supernatural action sequence.\n\nThe bully struggles to stand.\n\nOne of her friends grabs a textbook and throws it toward the heroine.\n\nThe heroine does not move.\n\nThe flying textbook suddenly freezes inches from her face.\n\nShe slowly turns her eyes toward the book.\n\nIt violently reverses direction and slams into an empty classroom cupboard.\n\nThe cupboard doors burst open.\n\nDozens of textbooks launch into the air.\n\nThree empty student desks rise several feet above the floor.\n\nMetal chairs rotate violently.\n\nPencils and notebooks spiral around the heroine.\n\nThe camera performs a fast 180-degree orbit around her.\n\nHer hair blows backward.\n\nHer expression remains cold and fearless.\n\nThe bully crawls backward in terror.\n\nBULLY: \"Stop! Please!\"\n\nThe heroine slowly walks toward her.\n\nSHOT 6 — ABSOLUTE SUPERNATURAL DOMINANCE\n\n21–25 SECONDS\n\nLow-angle cinematic tracking shot.\n\nThe heroine approaches the terrified bully.\n\nBehind her, dozens of chairs, books, pencils, and desks remain suspended in midair.\n\nThe bully attempts to escape.\n\nThe heroine slowly closes her fingers.\n\nThe bully suddenly freezes in place.\n\nAn invisible force lifts her several inches above the classroom floor.\n\nHer feet dangle helplessly.\n\nShe struggles to move.\n\nThe heroine stops directly in front of her.\n\nHer electric-pink eyes narrow. @image (12) slaps bully @Image on the face three times so hard on her left cheek and right cheek with her right hand.\n\nHEROINE: \"You should've kept your hands to yourself.\"\n\nThe heroine slowly lowers her hand.\n\nThe bully drops safely into an empty chair.\n\nShe trembles in fear.\n\nSHOT 7 — THE FINAL TELEKINETIC DESTRUCTION\n\n25–28 SECONDS\n\nExtreme close-up of the heroine's glowing pink eyes.\n\nThe classroom becomes completely silent.\n\nHundreds of torn notebook pages remain suspended throughout the room.\n\nHeavy desks and chairs hover behind her.\n\nThe heroine slowly closes her fist.\n\nAn enormous invisible shockwave explodes outward.\n\nEvery suspended desk, chair, book, and pencil crashes simultaneously onto unoccupied areas of the classroom.\n\nA violent metallic impact echoes throughout the building.\n\nThe chalkboard shakes.\n\nClassroom windows rattle.\n\nDust rises from the floor.\n\nThe bully screams and shields her face.\n\nNo objects strike the students.\n\nThe heroine stands perfectly still in the center of the destruction.\n\nSHOT 8 — THE FINAL WARNING\n\n28–30 SECONDS\n\nLow-angle close-up.\n\nThe bully sits trembling in her chair, surrounded by overturned furniture.\n\nThe heroine stands over her.\n\nHer glowing pink eyes slowly return to their natural color.\n\nShe calmly picks up her torn notebook.\n\nShe leans slightly toward the bully.\n\nHEROINE: \"Next time, think twice.\"\n\nThe heroine turns and walks toward the classroom door.\n\nBehind her, every student remains frozen in shock.\n\nHard cut to black.\n\nSOUND DESIGN\n\nAuthentic Korean classroom ambience.\n\nNatural student conversations and laughter.\n\nRealistic paper tearing.\n\nOne extremely sharp, loud open-palm slap.\n\nSudden silence following the slap.\n\nDeep supernatural sub-bass during eye activation.\n\nMetallic vibrations.\n\nViolent furniture scraping.\n\nHeavy desk collisions.\n\nRealistic student screams.\n\nExplosive telekinetic pressure waves.\n\nA final massive synchronized crash.\n\nNo background music.\n\nNo narration.\n\nNo subtitles.\n\nNo text overlays.\n\nSTRICT VISUAL REQUIREMENTS\n\nMaintain identical character identities throughout all shots.\n\nThe heroine must always have long platinum-blonde hair, the same school uniform, and consistent facial features.\n\nThe bully must always have long dark-brown hair and a navy school uniform.\n\nThe initial slap must look physically convincing, with accurate arm movement, palm-to-cheek contact, realistic head reaction, and synchronized impact sound.\n\nShow exactly one successful slap.\n\nThe attempted second slap must be stopped telekinetically.\n\nThe heroine's electric-pink eyes must remain subtle and realistic.\n\nNo pink lasers, magical particles, glowing hands, or visible energy beams.\n\nAll telekinetic effects must appear to originate from an invisible supernatural force.\n\nFlying furniture must demonstrate believable weight, inertia, collisions, and gravity.\n\nThe heroine must never appear physically exhausted while using her abilities.\n\nShe should look increasingly calm as the destruction becomes more intense.\n\nAvoid character morphing, face distortion, unnatural hands, extra fingers, inconsistent clothing, and unrealistic body movement.\n\nNo blood, gore, or graphic injuries.\n\nThe final result must look like a professionally produced Korean supernatural revenge movie.",
@@ -1478,6 +1499,27 @@
           "poster": "posters/2110248837432439129_0.jpg",
           "width": 1921,
           "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2115998995449589895",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 15-second high-quality 3D animated comedy video in a polished Pixar-inspired family animation style. Set the scene inside a warm, modern hospital maternity room. Maintain consistent character designs, facial features, clothing, and proportions throughout the video.\n\nScene 1 (0–2 seconds):\nClose-up of a pregnant woman's belly during an ultrasound examination. A doctor holds an ultrasound scanner against her belly while the monitor in the background displays a cute animated baby moving and waving.\n\nScene 2 (2–4 seconds):\nReveal an excited young couple beside the examination bed. The husband is a handsome young man with messy brown hair, round glasses, and a blue shirt. His pregnant wife has blonde shoulder-length hair and wears a soft pink maternity outfit. Both look excited as they watch the ultrasound screen.\n\nScene 3 (4–6 seconds):\nCut to a close-up of the husband's face. His expression suddenly changes from excitement to complete shock. His eyes widen, his mouth drops open, and he raises one hand in disbelief as he realizes something unexpected.\n\nScene 4 (6–9 seconds):\nShow the ultrasound monitor displaying multiple adorable babies instead of just one. Three or four cute animated babies appear together, smiling, waving their tiny hands, and moving playfully. The couple is completely surprised.\n\nScene 5 (9–12 seconds):\nCut to the pregnant wife looking shocked and confused. Her eyes widen, her mouth opens, and she gestures toward her husband as if asking him what is happening. The husband appears overwhelmed and dramatically falls backward onto the hospital floor.\n\nScene 6 (12–15 seconds):\nWide shot of the maternity room. The pregnant woman sits on the examination bed in disbelief while a female medical professional stands beside her. The husband lies dramatically on the floor after fainting from shock. Finish with a close-up of the ultrasound monitor showing the adorable babies waving happily.\n\nVisual Style: Premium 3D animated family comedy, expressive cartoon facial animations, realistic fabric textures, soft cinematic lighting, warm hospital environment, smooth character movements, exaggerated comedic reactions, detailed ultrasound monitor, vibrant colors, professional animation quality.\n\nCamera: Smooth cinematic camera movements, close-ups, reaction shots, and wide shots with seamless transitions.\n\nFormat: Vertical 9:16, 4K resolution, 24 FPS, approximately 15 seconds.\n\nImportant: Make the humor come from the unexpected multiple-babies ultrasound reveal and the father's exaggerated fainting reaction. No subtitles, no logos, no watermarks.",
+      "author": "Zarnab_with_Ai",
+      "author_url": "https://x.com/Zarnab_with_Ai",
+      "post_url": "https://x.com/Zarnab_with_Ai/status/2115998995449589895",
+      "date": "2026-10-30T10:47:28+08:00",
+      "likes": 299,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115998966588620800/vid/avc1/720x1280/yoPizl0jCmVXD267.mp4",
+          "duration_s": 14.5,
+          "poster": "posters/2115998995449589895_0.jpg",
+          "width": 720,
+          "height": 1280
         }
       ]
     },
@@ -2322,6 +2364,27 @@
       ]
     },
     {
+      "id": "2116170771446075527",
+      "model": "Seedance 2.5",
+      "prompt": "HALLOWEEN: THE TWO GHOSTS OF BLACKWOOD LANE\n\nENGINE DIRECTIVE: Exactly 45 seconds, 16:9, 60fps target, photorealistic Hollywood horror, cinematic action, realistic VFX, one continuous story.\n\nREFERENCES: @image2 = protagonist identity and outfit. @image3 = Pumpkin Ghost design. @image4 = Halloween Victorian street, pumpkins, iron gate and courtyard. @video1 = exact 30-second video's final frame; use only to match the continuation beginning at 00:30.\n\n00:00–00:05 | HAUNTED STREET: Establish Blackwood Lane at midnight. Wet cobblestones, Victorian houses, blue moonlight, drifting fog, glowing jack-o'-lanterns. Hero stands holding an ash-wood stake. Two ghosts emerge: Ghost One, a pale female wraith with long black hair, icy-blue eyes and a torn black gown; Ghost Two, a towering undead undertaker with a battered top hat, charcoal coat and white eyes.\n\n00:05–00:12 | FIRST ATTACK: Wraith lunges from the left. Hero dodges and blocks with the stake. Undertaker attacks from the right, smashing a wooden crate. Realistic impacts, spectral particles, black smoke and dynamic tracking shots.\n\n00:12–00:20 | SUPERNATURAL FIGHT: Both ghosts surround the hero. He rings a brass hand bell, releasing a supernatural shockwave that pushes them back. Fog, orange pumpkin reflections and blue spectral light remain consistent.\n\n00:20–00:30 | GATE AND SHADOW: Hero dodges a double attack and runs toward the rusted iron gate. He forces it open and reaches the courtyard. Behind the gate, an enormous black shadow slowly rises above the iron bars. End exactly on the original video's final frame, with the hero staring at the gigantic shadow.\n\n00:30–00:35 | PUMPKIN GHOST REVEAL: Continue directly from @video1. The shadow reveals the giant Pumpkin Ghost from @image3: cracked orange-black pumpkin head, molten glowing eyes, jagged mouth, twisted stem, massive black-vine body and root-like claws. It tears open the gate and attacks.\n\n00:35–00:40 | FINAL BATTLE: Hero dodges crushing claws, counters with the wooden stake and gets pushed backward by black smoke. He spots the glowing orange core in the monster's chest, evades its final strike and drives the stake into the core.\n\n00:40–00:45 | MONSTER DEFEATED: Orange cracks spread across the Pumpkin Ghost. Its head fractures and its body disintegrates into black smoke, dead vines and glowing embers. Hero pulls back the stake and stands victorious beside the damaged gate.\n\nAUDIO: Continuous original horror score, eerie whispers, wind, gate creaks, heavy impacts, supernatural growls and synchronized sound effects.\n\nCONTINUITY: Preserve protagonist identity, wardrobe, props, ghost designs and location. No teleportation, random scene changes, text or watermarks. End at exactly 45.0 seconds.",
+      "author": "Xaroon_x",
+      "author_url": "https://x.com/Xaroon_x",
+      "post_url": "https://x.com/Xaroon_x/status/2116170771446075527",
+      "date": "2026-10-30T22:10:03+08:00",
+      "likes": 243,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116170434211454976/vid/avc1/1280x720/hu6lvVsBiv9R1CF_.mp4",
+          "duration_s": 45.1,
+          "poster": "posters/2116170771446075527_0.jpg",
+          "width": 1672,
+          "height": 941
+        }
+      ]
+    },
+    {
       "id": "2112546442497658934",
       "model": "Seedance 2.5",
       "prompt": "THE WAREHOUSE ASSASSIN HUNT — TELEKINETIC FURY\n\nFORMAT: 30 seconds | 16:9 widescreen | 4K | 24 FPS | Ultra-photorealistic live-action | Hollywood blockbuster | Korean martial arts action | Supernatural telekinetic combat\n\nVISUAL STYLE\n\nCreate an extraordinarily intense, ultra-photorealistic live-action action sequence combining brutal, fast-paced Korean martial arts choreography with spectacular Hollywood supernatural combat.\n\nThe fight must feel dangerous, aggressive, physically grounded, and relentlessly energetic.\n\nEvery attack has convincing momentum. Every punch and kick has believable physical impact. Telekinetic powers produce enormous environmental destruction without looking cartoonish.\n\nCINEMATOGRAPHY: ARRI Alexa 35 realism, 24mm and 35mm anamorphic lenses, aggressive low-angle tracking shots, rapid whip-pans, dynamic handheld movements, wide-angle combat choreography, sudden camera push-ins, realistic motion blur, cinematic depth, natural human skin textures, visible pores, realistic sweat, and physically accurate lighting.\n\nMaintain clear spatial continuity and coherent choreography. Use fast camera movements without making the action unreadable.\n\nNo artificial CGI-looking humans, no plastic skin, no anime, no exaggerated slow motion, no excessive neon effects.\n\nCHARACTER IDENTITY LOCK\n\nMAIN HEROINE — @image (12)\n\nA striking woman @image (12) . Preserve the exact facial identity, hairstyle, skin tone, facial proportions, body proportions, and recognizable appearance of Image 1 throughout the entire sequence.\n\nHer hair remains consistent throughout, becoming slightly disheveled during the fight.\n\nPersonality: Fearless, cold, calculating, exceptionally intelligent, and dangerously calm.\n\nShe is an extraordinarily skilled martial artist who secretly possesses overwhelmingly powerful telekinetic abilities.\n\nShe never screams or panics. She fights with precision, efficiency, and complete confidence.\n\nTELEKINETIC POWER SIGNATURE:\n\nWhenever she activates her powers, her irises develop a subtle electric-pink glow.\n\nThe glow is concentrated within her natural irises, not across her entire eyes.\n\nHer telekinesis is invisible. Objects move through an unseen force rather than colorful magical beams.\n\nEnvironmental indicators include trembling metal objects, vibrating shelving units, swirling dust, loose screws rising into the air, and subtle pressure distortions.\n\nHer powers are activated through minimal finger movements, controlled wrist gestures, and intense eye contact.\n\nENEMY CHARACTERS @Image \n\nEight professional adult assassins wearing distinct dark tactical clothing.\n\nBlack fitted tactical jackets, charcoal cargo trousers, protective gloves, combat boots, and lightweight protective vests.\n\nTheir faces remain distinguishable.\n\nThey are highly trained, aggressive, physically capable, and coordinated.\n\nSome attack with punches, kicks, and grappling techniques. Others carry short metal batons.\n\nTheir movements must feel like authentic professional stunt choreography rather than random fighting.\n\nENVIRONMENT\n\nAn enormous abandoned industrial warehouse during late afternoon.\n\nHigh steel-truss ceilings, dusty concrete flooring, rusted overhead pipes, enormous metal storage shelves, stacked wooden shipping crates, tall towers of empty cardboard boxes, hanging chains, steel worktables, industrial tool racks, old forklifts, scattered metal equipment, and broken windows.\n\nStrong shafts of warm daylight enter through dirty skylights, illuminating airborne dust.\n\nCool industrial shadows contrast with warm sunlight.\n\nThe warehouse is vast, giving the camera room to capture spectacular wide-angle action.\n\n00:00–00:04 — THE HUNT BEGINS\n\nOpen with an aggressive handheld tracking shot following the heroine as she runs between towering warehouse shelves.\n\nHeavy boots echo against the concrete floor.\n\nThree assassins emerge from behind stacked crates, cutting off her escape.\n\nA fourth attacker suddenly lunges toward her from the side.\n\nShe instantly ducks beneath his punch, pivots on one foot, and delivers a powerful spinning kick to his chest.\n\nHe flies backward into a stack of empty cardboard boxes.\n\nThe boxes explode outward.\n\nWithout hesitation, she turns toward the remaining attackers.\n\nCamera rapidly pushes toward her determined expression.\n\n00:04–00:08 — THE BRUTAL CLOSE-QUARTERS FIGHT\n\nTwo assassins charge simultaneously.\n\nThe heroine blocks the first attacker's punch, strikes his torso with a sharp elbow, and executes a fast spinning back kick.\n\nThe second attacker swings a metal baton toward her head.\n\nShe bends backward to avoid the strike.\n\nThe baton passes inches above her face.\n\nHer eyes briefly flash electric pink.\n\nThe baton suddenly stops moving in midair.\n\nWith a tiny flick of her fingers, she sends it flying across the warehouse, embedding it into a wooden crate.\n\nThe attacker freezes in disbelief.\n\nShe immediately drives a powerful kick into his chest.\n\nCamera follows the impact with a fast lateral tracking movement.\n\n00:08–00:12 — THE INVISIBLE FORCE\n\nThree more assassins rush toward her from different directions.\n\nOne attacker leaps from a low shipping crate.\n\nThe heroine raises her left hand.\n\nThe airborne attacker abruptly freezes, suspended horizontally above the concrete floor.\n\nHer electric-pink irises glow subtly.\n\nShe rotates her wrist.\n\nThe suspended man spins sideways and crashes into a pile of empty cardboard boxes.\n\nA second attacker attempts to grab her from behind.\n\nWithout turning around, she telekinetically throws him backward into a padded stack of packing materials.\n\nThe third attacker stops, visibly terrified.\n\nThe heroine slowly turns toward him.\n\nHer expression remains emotionless.\n\n00:12–00:16 — THE WAREHOUSE STARTS TO TREMBLE\n\nThe remaining assassins regroup near a massive steel worktable.\n\nThey surround the heroine in a semicircle.\n\nOne attacker shouts:\n\n\"WHAT THE HELL ARE YOU?\"\n\nShe doesn't answer.\n\nExtreme close-up of her face.\n\nHer eyes develop a beautiful, subtle electric-pink glow.\n\nThe camera slowly pushes closer.\n\nA tiny metal screw begins vibrating on the floor.\n\nThen another.\n\nLoose wrenches, bolts, screwdrivers, steel chains, and small metal tools begin rattling across nearby worktables.\n\nThe assassins exchange frightened looks.\n\nThe entire warehouse fills with the sound of vibrating metal.\n\n00:16–00:21 — THE METAL STORM\n\nThe heroine slowly raises both hands.\n\nHUNDREDS OF LOOSE METAL TOOLS SUDDENLY LEVITATE INTO THE AIR.\n\nWrenches, screwdrivers, steel bolts, loose chains, nuts, metal brackets, and industrial tools rise from every corner of the warehouse.\n\nThe objects form a gigantic, violently rotating vortex around the heroine.\n\nCamera executes a spectacular 360-degree orbit around her.\n\nThe metallic storm spins faster and faster.\n\nSparks burst from occasional collisions between the floating objects.\n\nDust spirals upward from the concrete floor.\n\nHer hair and clothing move naturally in the turbulent air.\n\nShe stands completely motionless at the center of the storm.\n\nHer eyes glow electric pink.\n\nThe assassins stagger backward, shielding their faces.\n\n00:21–00:26 — THE DEVASTATING TELEKINETIC SHOCKWAVE\n\nThe assassins make one final desperate attempt to charge her.\n\nThe heroine sharply closes both hands into fists.\n\nThe rotating metal storm instantly freezes.\n\nAbsolute silence for half a second.\n\nShe whispers:\n\n\"Wrong girl.\"\n\nThen she violently thrusts both arms outward.\n\nAN ENORMOUS INVISIBLE TELEKINETIC SHOCKWAVE EXPLODES THROUGH THE WAREHOUSE.\n\nAll remaining assassins are launched backward simultaneously.\n\nThey fly across the concrete floor and crash into enormous stacks of empty cardboard boxes.\n\nThe boxes collapse in spectacular cascading waves.\n\nLoose papers, dust, packing foam, and cardboard fragments erupt into the air.\n\nSteel shelving units shake violently.\n\nThe suspended metal tools shoot outward into empty storage racks and wooden crates, away from the attackers.\n\nCamera captures the destruction in a massive low-angle wide shot.\n\nThe heroine remains completely untouched at the center.\n\n00:26–00:30 — THE ICONIC FINAL WALK\n\nA thick cloud of dust slowly settles across the destroyed warehouse.\n\nThe assassins lie defeated among scattered cardboard boxes and packing materials.\n\nThe heroine lowers her hands.\n\nThe remaining suspended tools gently fall to the concrete floor with metallic clattering sounds.\n\nHer eyes gradually return to their natural color.\n\nShe calmly adjusts her sleeve and begins walking toward the warehouse exit.\n\nOne defeated assassin looks up and whispers:\n\n\"Impossible...\"\n\nWithout looking back, she makes a tiny gesture with two fingers.\n\nA heavy metal warehouse door swings open by itself.\n\nShe walks through it into bright afternoon sunlight.\n\nFINAL FRAME: Wide cinematic rear shot of the heroine walking away while the destroyed warehouse remains behind her.\n\nCut to black.\n\nSOUND DESIGN\n\nIntense cinematic percussion, deep sub-bass impacts, aggressive martial arts punches, heavy bootsteps, metal scraping, chains rattling, flying tools, collapsing cardboard boxes, powerful shockwave bass, realistic environmental echoes, and a restrained electric hum whenever her telekinesis activates.\n\nMusic builds progressively toward the metal-storm climax.\n\nAt 00:21, briefly remove the music before the final devastating shockwave.\n\nNo narration, no subtitles, no text overlays, no watermark.\n\nSTRICT GENERATION RULES\n\nPreserve the heroine's exact facial identity, hairstyle, outfit, and body proportions throughout.\n\nMaintain realistic human anatomy, accurate hands, and coherent combat movements.\n\nEvery strike must have believable physical contact and momentum.\n\nKeep telekinetic abilities invisible except for environmental movement and subtle electric-pink irises.\n\nNo giant pink laser beams, glowing hands, magical symbols, or exaggerated auras.\n\nMetal objects must rotate around the heroine without striking her.\n\nKeep all characters spatially consistent within the warehouse.\n\nAvoid duplicate attackers, disappearing objects, and inconsistent injuries.\n\nNo graphic gore or visible blood.\n\nThe heroine must remain calm, fearless, and overwhelmingly powerful.\n\nPrioritize intense close-quarters fighting, spectacular telekinetic destruction, and expensive Hollywood blockbuster realism.",
@@ -3156,6 +3219,27 @@
           "mp4": "https://video.twimg.com/amplify_video/2110227043174735873/vid/avc1/1280x720/yRIcUVnyFR5jJ5jV.mp4",
           "duration_s": 30.0,
           "poster": "posters/2110227233294139529_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2116109973495456233",
+      "model": "Seedance 2.5",
+      "prompt": "ULTRA-REALISTIC HALLOWEEN SURVIVAL HORROR | 30 SECONDS | INTENSE PHYSICAL COMBAT | FOUND FOOTAGE\n\nA beautiful young adult woman hf_20261028_095530_f33e186f-6768-43a5-8e88-559c75112ad0",
+      "author": "Just_sharon7",
+      "author_url": "https://x.com/Just_sharon7",
+      "post_url": "https://x.com/Just_sharon7/status/2116109973495456233",
+      "date": "2026-10-30T18:08:27+08:00",
+      "likes": 207,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116109485399764992/vid/avc1/1280x720/xjSE6lVmMDxJR5kA.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116109973495456233_0.jpg",
           "width": 1280,
           "height": 720
         }
@@ -4023,6 +4107,27 @@
       ]
     },
     {
+      "id": "2115998489012507126",
+      "model": "Seedance 2.5",
+      "prompt": "A cinematic fantasy scene featuring a beautiful young Asian woman with long dark hair, wearing a simple beige medieval dress, cooking flatbread on a traditional outdoor iron grill beside a gigantic adorable pink-and-white dragon.\n\nThe scene takes place outside a rustic medieval stone cottage, surrounded by a beautiful countryside landscape during golden-hour sunset.\n\nThe woman gently places fresh dough on the hot grill while the enormous dragon watches curiously beside her. Suddenly, the dragon playfully breathes a powerful stream of fire toward the grill, accidentally burning the bread. The woman reacts with surprise and steps back.\n\nThe dragon looks embarrassed and lowers its head. The woman smiles, picks up another piece of dough, and continues cooking. The dragon carefully watches as she places fresh flatbread on the grill.\n\nShow detailed close-up shots of the dragon's glowing golden eyes, realistic pink scales, sharp facial details, and the bread slowly cooking over the fire. The dragon gently helps toast the bread with controlled flames.\n\nFinally, the woman happily breaks the freshly baked golden-brown flatbread in half and shares it with the dragon. The dragon affectionately leans toward her, creating a heartwarming friendship moment.\n\nVisual Style: Ultra-realistic cinematic fantasy, photorealistic dragon, highly detailed textures, natural character movements, warm golden-hour lighting, realistic fire and smoke simulation, beautiful medieval atmosphere, expressive facial emotions, professional filmmaking, shallow depth of field, smooth camera movements, 4K quality, 16:9 aspect ratio.\n\nImportant: Maintain consistent character and dragon appearance throughout the entire video. Natural interactions, realistic physics, no sudden character changes, no text, no subtitles, no watermark.",
+      "author": "mehwishkiran07",
+      "author_url": "https://x.com/mehwishkiran07",
+      "post_url": "https://x.com/mehwishkiran07/status/2115998489012507126",
+      "date": "2026-10-30T10:45:27+08:00",
+      "likes": 176,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115998440698306560/vid/avc1/1280x720/ol7H7_wX5w5Nm4-S.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2115998489012507126_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2108742072299880919",
       "model": "Seedance 2.5",
       "prompt": "Prompt video 📷 \n..\n..\n\nYe lo is video ka Seedance prompt (~30 sec, 16:9):\n\n**Prompt:**\n\nCinematic live-action Korean action-comedy short, 16:9, realistic photographic look, bright natural daylight pouring through tall school-corridor windows, soft pastel sage-green and cream walls, pale blue classroom doors, polished grey floor with glossy reflections, slight film grain, smooth stabilized camera with quick punch-in cuts.\n\n**Main character:** A elegant Korean female teacher with a sleek black low bun, thin round gold-rimmed glasses, small pearl earrings, champagne satin sleeveless blouse, black leather pencil skirt, black sheer tights, black stiletto heels, carrying a navy hardcover book. She is always relaxed and gently smiling, never rushed, never out of breath.\n\n**Attackers:** A crowd of zombie-like students in navy tracksuits and dark uniforms, lurching, crawling and charging down the corridor with blank, snarling faces.\n\n**0–5s:** Teacher steps out of a classroom door, one hand holding the book, the other casually pushing a charging zombie student aside as he stumbles past. Cut to a close-up profile of her calm smile, glasses catching the light, classroom blurred behind. She raises one finger to her ear with a playful, relaxed gesture while students lie collapsed behind her.\n\n**5–12s:** Wide shot down the long corridor. A horde of dark-clad zombie students runs toward her while a few already crawl on the floor. She stands still, hugging the book at her side. One zombie lunges; she sidesteps and redirects him with a light palm push so he spins away. Another leans against the wall, dazed.\n\n**12–20s:** Low-angle shot of her stiletto heels: she kicks one zombie into a handstand-style flip, his body toppling in slow motion. Close-up of a zombie screaming, then her open palm gently stopping his face in the frame. Quick, elegant counters: wrist twist, hip toss, heel tap, all effortless.\n\n**20–25s:** Wide top-down corridor shot. The whole horde now lies sprawled across the floor in heaps, groaning. She walks back through the door, straightens her blouse, picks up her book from the desk and turns to the class with a warm smile. Subtitle-style line in her mouth: \"Now, where were we?\"\n\n**25–30s:** Classroom interior. Students in navy blazers sit at wooden desks, stunned and wide-eyed, a girl with a short black bob in front staring at the teacher. Close-up profile of the teacher in front of the green chalkboard, glasses reflecting window light, giving a calm, gentle, slightly mischievous smile. Slow push-in on her face to end.\n\n**Style notes:** Comedic contrast: calm, graceful teacher vs chaotic zombie horde. Fight moves are clean and light, no heavy contact. Subtle slow-motion on flips and kicks, then snap back to real speed. Sound: running footsteps, heel clicks, soft whooshes, a playful light jazz groove, quiet classroom ambience at the end.\n\n**Negative:** no text overlay, no watermark, no gore, no blood, no face distortion, no extra limbs, no cartoon look.\n\nChaho to isko 15s x 2 parts mein split kar dun, ya Hindi dialogue wali Indian school setting mein adapt kar dun?",
@@ -4317,6 +4422,27 @@
       ]
     },
     {
+      "id": "2116066465379922312",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 30-second ultra-realistic, AAA-quality cinematic zombie apocalypse gaming sequence, set in an affluent gated residential neighbourhood in the English countryside, UK.\nENVIRONMENT & ATMOSPHERE:\n\nShow an expensive English residential community with large detached brick houses, elegant gardens, trimmed hedges, stone driveways, luxury parked cars, tall windows and beautiful traditional British architecture. It is late evening during sunset. The sun is slowly disappearing behind the rooftops, creating a deep orange, muted golden and dark purple sky. Long shadows stretch across the gardens and streets\n\nThe atmosphere must gradually transition from peaceful suburban life into extreme psychological horror. Create an oppressive, claustrophobic feeling, with houses, fences, hedges and narrow residential streets making the environment feel enclosed and trapped.\n\nTIMELINE & ACTION:\n\n0–5 SECONDS:\n\nInterior of a luxurious English home. A woman in her 30s is casually doing household chores in the kitchen while listening to music. Warm sunset light enters through large windows. Show realistic everyday movements, natural body posture and subtle facial expressions. Cinematic camera movement.\n5–9 SECONDS:\n\nThe music suddenly stops. Complete silence. The woman pauses naturally and looks slightly confused. She slowly turns her head towards the window. Her expression changes from relaxed to concerned. No exaggerated acting.\n\n9–15 SECONDS:\n\nShe cautiously approaches the window and gently moves the curtain aside. Reveal a horrifying wide-angle view of the entire affluent neighbourhood filled with zombies. Some zombies stand close to the front doors of neighbouring houses, some are visible on rooftops, while others wander aimlessly through carefully maintained gardens and driveways. Several zombies are approaching houses. The setting sun creates eerie silhouettes and long shadows.\n15–21 SECONDS:\n\nCut to the woman's point of view. Show the street packed with zombies between expensive houses. Slowly reveal several zombies moving towards her own house. Use realistic distance, natural walking cycles and believable environmental movement. No sudden teleportation or unnatural animation.\n21–26 SECONDS:\n\nShe quickly turns towards her entrance. Through the narrow entrance hallway, she notices zombies approaching outside her front door. She rushes towards the already-closed front door and checks the lock, urgently securing it again. Her movement must remain physically believable and anatomically correct.\n26–30 SECONDS:\n\nShe steps backwards and leans against the locked door, breathing heavily. Close-up of her frightened face. In the background, faint zombie footsteps and distant unsettling noises. Suddenly, three heavy knocks hit the front door. Cut instantly to black.\nVISUAL QUALITY:\n\nPhotorealistic Unreal Engine 5 style graphics, premium AAA survival horror game cinematography, realistic human anatomy, lifelike facial expressions, physically accurate character movement, realistic zombie walking animation, cinematic depth of field, volumetric sunset lighting, atmospheric shadows, detailed English architecture, professional camera work, subtle film grain, realistic environmental physics.\nCAMERA:\n\nSmooth controlled cinematic tracking shots, realistic handheld camera for suspense, wide establishing shots of the neighbourhood, close-up facial reactions and carefully composed point-of-view shots.\nSTRICT NEGATIVE INSTRUCTIONS:\n\nNo cartoon visuals, no anime, no artificial-looking CGI, no exaggerated facial expressions, no unnatural body movements, no distorted anatomy, no extra limbs, no floating objects, no teleporting zombies, no sliding feet, no robotic walking.",
+      "author": "JuliaClarky",
+      "author_url": "https://x.com/JuliaClarky",
+      "post_url": "https://x.com/JuliaClarky/status/2116066465379922312",
+      "date": "2026-10-30T15:15:34+08:00",
+      "likes": 168,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116066206059032576/vid/avc1/1280x720/XhigASMSP_Ww-3uf.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116066465379922312_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2115640720535302581",
       "model": "Seedance 2.5",
       "prompt": "Seedance 2.5 Prompt\nCreate a 30-second, 16:9 photorealistic cinematic battle in daytime Times Square, New York City.\n\nCORE REVISION\nThere is NO entrance sequence.\nThe protagonist does NOT emerge from inside a building.\nBegin at frame zero with both giant machines already fighting outdoors.\n\nThe opening image shows the protagonist resisting the enemy's mouth beam with its enormous energy saber, its feet sliding backward and excavating the ground.\n\nSCALE AND WORLD CONTINUITY\nBoth combatants have a fixed standing height of 350 METERS.\nTheir physical dimensions and limb proportions remain unchanged throughout.\nCrouching changes posture, never body size.\n\nIgnore all height labels and human comparison figures printed on the reference sheets.\n\nThis battle spans MULTIPLE CITY BLOCKS around Times Square.\nThe giants do not fit neatly inside a normal street.\nTheir feet span roadways and adjacent building footprints.\nPeople and vehicles remain tiny relative to them.\n\nEstablish a recognizable, approximately 150-meter-tall rectangular building beside the battle area. When a giant stands upright at a comparable distance, this building reaches approximately its lower thigh, below its hips.\nPreserve this building's dimensions and position. Reuse it in later wide shots as a visual scale reference.\nTaller skyscrapers may extend above the giants; do not shrink every building.\n\nFor the first FOUR SECONDS, use one continuous distant, elevated three-quarter wide shot:\nBoth combatants, their feet, the ground and the scale-reference building are visible together.\nUse a constant focal length and lateral camera movement parallel to the action.\nNo zoom, sudden overhead cut, camera rush toward the subjects or airborne somersault.\nThe action is immediate and violent; the continuous shot is not a static introduction.\n\nREFERENCE ASSIGNMENTS\nImage 1: the protagonist giant robot.\nPreserve its red-and-white armor, horned head, dark mechanical frame, silhouette and distinctive details.\nLEFT hand: gigantic red energy beam saber.\nRIGHT arm: detachable forearm-and-fist rocket punch.\nKeep the right forearm attached until its final launch.\n\nImage 2: the enemy mechanical kaiju.\nPreserve its bone-white armor, spikes, monstrous mechanical head, dark machinery and red illuminated details.\nIts weapons are a blue-white MOUTH BEAM and full-body charges.\nIts interior is entirely mechanical.\n\nImage 3: the protagonist's cockpit pilot.\nPreserve the black-and-gold oni armor, horned helmet, red details and skull motifs.\nShow the pilot seated and restrained inside the cockpit for one second.\nThe pilot is not a third giant combatant.\n\nUse the images as design references only. Do not reproduce reference-sheet layouts, labels or backgrounds.\n\nVISUAL DIRECTION\nNatural daylight, detailed machinery, strong silhouettes, structural steel, shattered concrete, glass and layered dust.\n\nThe machines accelerate explosively. Heavy architectural debris falls and collapses behind their movement with visible inertia.\n\nKeep impacts and weapon contact readable.\nUse motivated tracking, whip pans and brief impact shake.\nMaintain spatial continuity and consistent movement directions.\nNo prolonged slow motion.\n\nSECOND-BY-SECOND ACTION\n\n00–01:\nContinuous wide opening. The protagonist is already being pushed backward by the kaiju's mouth beam, bracing its LEFT-hand saber diagonally against it. Both giants and the reference building are visible. Their scale is clear immediately.\n\n01–02:\nContinue the same lateral tracking shot. The protagonist's heels excavate enormous trenches across the roadway and adjacent building foundations. Heavy slabs overturn behind its feet.\n\n02–03:\nWithout cutting or changing focal length, follow the protagonist rotating its saber and torso to redirect the beam away from its body. The enemy remains visible at the other end of the beam.\n\n03–04:\nContinue the same shot as the redirected beam strikes the upper floors of a different, taller skyscraper. Glass and structural sections erupt outward while the protagonist regains traction. Keep the scale-reference building intact.\n\n04–05:\nExactly one second at human street level. Track backward with people fleeing falling debris along a side street. Only a distant section of the protagonist's enormous lower leg is visible between buildings, extending beyond the top of frame. No full-body giant in this shot.\n\n05–06:\nA low lateral close shot follows the protagonist's immense foot stopping its slide. Its sole spans the roadway and part of an adjacent building footprint, crushing pavement and foundations.\n\n06–07:\nCut to an upper-body three-quarter shot as the enemy's beam ceases. The protagonist releases the block, brings its LEFT-hand saber outward and immediately drives forward.\n\n07–08:\nReturn to a wide lateral view with recognizable buildings. The protagonist accelerates across the damaged blocks in two powerful strides. Its body remains the same size relative to the skyline.\n\n08–09:\nTrack at torso height as the protagonist delivers a fast LEFT-handed saber strike into the kaiju's shoulder armor. Show the blade contacting and cutting the armor.\n\n09–10:\nA moving three-quarter shot follows large shoulder plates shearing away. The kaiju recoils, then lowers its head and torso to counterattack.\n\n10–11:\nA wide side view shows the kaiju accelerating into a full-body charge across the devastated blocks. Its lower legs smash through remaining low structures.\n\n11–12:\nTrack the collision in a readable wide shot. The kaiju slams into the protagonist's chest, driving it backward while both giants retain ground contact. Multiple building corners crumble along their path.\n\n12–13:\nExactly one second inside the cockpit. Image 3's armored pilot is violently jolted against the restraints while gripping the controls. Preserve the horned helmet and armor. Instrument light flickers across the mask.\n\n13–14:\nReturn outside with a lateral tracking shot. The protagonist slides backward through rubble, its lower body crushing structures along the edge of the battle corridor. Do not conceal its entire body inside a building.\n\n14–15:\nA low three-quarter view shows the protagonist bending its knees and bracing its still-attached RIGHT hand against the ground to halt the slide. Keep its limb lengths and proportions unchanged.\n\n15–16:\nFrom an elevated wide angle, the kaiju charges again. The protagonist makes a sharp lateral sidestep, opening a clear path for the enemy's momentum.\n\n16–17:\nTrack the kaiju overshooting. Its lower body plows through a row of shorter buildings, sending rooftops and floor slabs sideways. The protagonist turns toward its exposed flank.\n\n17–18:\nA torso-level tracking shot follows one powerful diagonal LEFT-handed saber cut across the kaiju's chest. The strike splits the armor and exposes internal machinery.\n\n18–19:\nMove alongside the damaged chest as heavy armor sections peel away. Cables snap and the internal power assembly sparks. The kaiju remains active.\n\n19–20:\nReturn to the opening wide viewpoint. The protagonist disengages across the ruined blocks while the kaiju turns to face it. Re-establish both giants against the same intact scale-reference building.\n\n20–21:\nPush toward the kaiju's head as it opens its jaws and charges its strongest mouth beam. Its damaged chest sheds sparks and metal fragments.\n\n21–22:\nTrack beside the protagonist's RIGHT shoulder as it aims its fist directly at the kaiju's open mouth. Forearm locking mechanisms release. The LEFT-hand saber stays clear of the firing line.\n\n22–23:\nA medium-wide side view clearly shows the RIGHT forearm and clenched fist detaching together and launching. Rocket exhaust drives a massive ground-level cloud of dust backward.\n\n23–24:\nRace beside the rocket fist above the destroyed blocks. Its fixed dimensions remain consistent against passing buildings. The enemy's open mouth is directly ahead.\n\n24–25:\nA lateral three-quarter shot shows the kaiju firing into the incoming fist. The rocket punch drives through the mouth-beam stream, forcing energy around its knuckles. Keep the metal fist visible.\n\n25–26:\nShow the decisive impact from the side. The rocket fist smashes into the OPEN MOUTH and destroys the beam-emitter machinery inside the head. Mechanical jaws and head armor fracture outward.\n\n26–27:\nPull back rapidly as the head ruptures and destruction propagates through the upper torso. The previously cut chest bursts open, ejecting internal machinery and armor.\n\n27–28:\nA wide shot shows complete mechanical breakup. The remaining torso, arms and legs disintegrate into shattered armor, broken joints, cables and metal fragments. No intact enemy body remains.\n\n28–29:\nTrack across the falling wreckage as enormous components strike the devastated ground. Smaller fragments rain down through the daylight. Show recognizably mechanical scrap rather than a featureless fireball.\n\n29–30:\nFinish on a low, wide moving shot of the victorious protagonist and the enemy's inert scrap field. Include the same scale-reference building to confirm the protagonist's unchanged size.\nThe LEFT hand holds the saber. The RIGHT forearm remains absent.\nEnd with the enemy visibly and completely defeated.\n\nSOUND\nNO BGM. NO MUSIC.\nUse heavy servos, grinding metal, beam discharge, saber energy, rocket ignition, structural collapse, breaking glass and falling wreckage.\n\nThe civilian shot includes footsteps and frightened nonverbal reactions.\nThe cockpit shot includes muffled impacts, restraint tension, control vibration and mechanical alarms.\nThe final strike has a distinct metallic impact followed by internal ruptures and cascading scrap collisions.\n\nRESTRICTIONS\nNo building-interior emergence or entrance sequence.\nNo changing the giants' scale to fit a street, doorway or building opening.\nNo sudden size changes between close shots and wide shots.\nNo miniature-looking architecture or enlarged pedestrians and vehicles.\nNo character fusion, design swaps, extra limbs or extra combatants.\nNo unrequested weapons.\nNo rocket-fist duplication, regeneration or unexplained reattachment.\nNo organic gore.\nNo dialogue, narration, subtitles, title cards or added logo overlays.\nNo smoke or whiteout concealing the decisive impact.\nThe final enemy state must be inert scrap, not a standing or partly intact body.",
@@ -4334,6 +4460,27 @@
           "poster": "posters/2115640720535302581_0.jpg",
           "width": 3840,
           "height": 2160
+        }
+      ]
+    },
+    {
+      "id": "2115985609919791253",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 30-second ultra-realistic cinematic fantasy lifestyle video set in a magical autumn pumpkin café at night. Vertical 9:16 aspect ratio, premium commercial cinematography, realistic human movements, beautiful composition, warm amber lighting, deep burgundy and burnt-orange tones, soft shadows, shallow depth of field, natural skin texture, and smooth cinematic camera movements.\n\nScene 1 (0–5 seconds): A charming European-style café hidden beside an autumn forest, glowing lanterns hanging from tree branches, tiny pumpkins lining the stone pathway, golden leaves gently falling, cinematic slow dolly-in.\n\nScene 2 (5–10 seconds): A stylish young woman with long dark hair, wearing a sophisticated dark brown autumn outfit and a soft black beret, enters the cozy café. She gently hangs her coat and smiles as warm candlelight illuminates her face.\n\nScene 3 (10–15 seconds): Macro close-up of her hands preparing a pumpkin spice latte, steamed milk swirling into rich espresso, cinnamon dust floating through warm light, realistic coffee foam and delicate steam.\n\nScene 4 (15–20 seconds): She sits beside a rain-speckled window with a ceramic latte cup, miniature glowing pumpkins on the table, autumn leaves drifting outside, a peaceful candid expression, elegant camera orbit.\n\nScene 5 (20–25 seconds): She walks through a tiny enchanted night market filled with amber lanterns, handmade pumpkin decorations, glowing shop windows, subtle magical fireflies, beautiful cinematic bokeh.\n\nScene 6 (25–30 seconds): Final intimate close-up as she takes a sip of her latte and smiles softly. Warm lights shimmer in the background, gentle camera push-in, dreamy atmospheric ending.\n\nMaintain consistent character appearance, outfit, facial features, and color grading across every scene. Ultra-detailed textures, photorealistic visuals, natural motion, 4K quality, 24fps, professional film lighting, seamless transitions, aesthetically pleasing framing, premium social-media reel quality.\n\nAvoid cartoon visuals, distorted hands, extra fingers, face morphing, flickering lights, inconsistent clothing, abrupt cuts, artificial skin, text overlays, subtitles, logos, and watermarks.",
+      "author": "aynellex",
+      "author_url": "https://x.com/aynellex",
+      "post_url": "https://x.com/aynellex/status/2115985609919791253",
+      "date": "2026-10-30T09:54:17+08:00",
+      "likes": 167,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115985495402655744/vid/avc1/1280x720/tdq0a03upenaBaKQ.mp4",
+          "duration_s": 30.0,
+          "poster": "posters/2115985609919791253_0.jpg",
+          "width": 1280,
+          "height": 720
         }
       ]
     },
@@ -5934,6 +6081,27 @@
       ]
     },
     {
+      "id": "2116218836051705967",
+      "model": "Seedance 2.5",
+      "prompt": "Overall style: Photorealistic cinematic live-action, handheld/slightly shaky camera, natural daylight mixed with stall lighting, busy Korean street market alley, realistic physics, motion blur",
+      "author": "Just_sharon7",
+      "author_url": "https://x.com/Just_sharon7",
+      "post_url": "https://x.com/Just_sharon7/status/2116218836051705967",
+      "date": "2026-10-31T01:21:02+08:00",
+      "likes": 134,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116218751842480128/vid/avc1/1280x720/12HLvzPdU9EyjS7o.mp4",
+          "duration_s": 13.5,
+          "poster": "posters/2116218836051705967_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2112389433102336024",
       "model": "Seedance 2.5",
       "prompt": "Create a hilarious 15-second photorealistic cinematic video in 4K, 16:9 widescreen. A realistic emperor penguin behaves like a serious corporate executive in a modern glass skyscraper office. Natural animal movement, realistic feathers, detailed reflections, professional lighting, and perfectly timed physical comedy. No cartoon style, no dialogue, no subtitles, no watermarks.\n[0–3 seconds] — The Entrance: A tiny emperor penguin wearing a perfectly fitted black business suit and carrying a miniature leather briefcase confidently waddles through automatic glass office doors. Busy employees stop walking and stare in disbelief. The camera tracks backward at the penguin’s eye level.",
@@ -6560,6 +6728,27 @@
           "poster": "posters/2114905319629541736_0.jpg",
           "width": 720,
           "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "2116152639402696785",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 30-second ultra-realistic live-action video featuring a naturally beautiful young Korean woman in her early 20s spending time with a friend in an older residential neighborhood in Korea on a warm late-summer afternoon.\n\nThe video should feel like genuine footage casually recorded on an early 2000s consumer digital camcorder. It should not look like a commercial, K-drama, music video, staged production, or cinematic film. Keep everything simple, candid, engaging, and natural.\n\n**Character Consistency**\n\nThe main character has shoulder-length dark brown-black hair with soft, natural waves, subtle makeup, realistic skin texture, and a relaxed, expressive face.\n\nShe wears:\n- A fitted white short-sleeve top.\n- Light blue straight-leg jeans.\n- White sneakers.\n- A small dark brown shoulder bag.\n- A delicate silver necklace.\n\nMaintain perfect character consistency throughout the entire video. Her facial features, hairstyle, clothing, accessories, body proportions, and the same bottled drink must remain identical in every shot.\n\n**Location and Environment**\n\nA quiet, older Korean residential neighborhood featuring:\n- Narrow concrete alleys and small side streets.\n- Low-rise brick villa-style apartment buildings (빌라) and small apartment complexes.\n- Brick and concrete walls, with potted plants and small rooftop or doorstep gardens.\n- Parked bicycles.\n- Utility poles with tangled overhead electrical and cable wires.\n- A small neighborhood mini-mart or convenience store with an open front and a drink refrigerator.\n- Shaded walkways, narrow stairways, and apartment entrances with metal gates.\n\nThe environment should feel lived-in, ordinary, and authentic. Avoid recognizable landmarks, identifiable brands, readable signage, advertisements, or commercial activity. Any signs or labels should be blurred, generic, or out of focus.\n\n**Visual Style and Camera Direction**\n\nAuthentic handheld early 2000s consumer DV camcorder footage.\n\nUse:\n- Natural handheld camera shake.\n- Imperfect framing and spontaneous camera movements.\n- Occasional autofocus breathing and focus hunting.\n- Slight automatic exposure fluctuations.\n- Soft digital image detail.\n- Faded, slightly washed-out colors.\n- Subtle digital video noise.\n- Natural motion blur.\n- Occasional accidental zooming.\n\nThe person filming should behave like a friend casually recording everyday moments. The characters should react naturally to the camera.\n\nAbsolutely no gimbal shots, drone footage, stabilized camera movements, slow motion, beauty filters, or polished cinematic aesthetics.\n\n**Storyboard and Timeline**\n\n**00:00–00:05, Leaving the Apartment**\nShe walks out of her apartment building through a metal gate, adjusts her shoulder bag, notices the camera, and smiles naturally. Her friend casually follows behind while filming.\n\n**00:05–00:10, Buying a Cold Drink**\nShe buys a bottled cold drink from a small neighborhood mini-mart. She gently presses the cold bottle against her cheek, laughs as the camera zooms in on her face, and casually says in Korean: \"오늘 진짜 덥다.\" (It's so hot today.)\n\n**00:10–00:15, Walking Through the Neighborhood**\nThe two friends walk along a quieter residential alley. A gentle breeze moves her hair. She turns back toward the camera, looks directly into the lens, and smiles naturally.\n\n**00:15–00:20, A Playful Moment**\nShe sits on a low wall beside an apartment garden. Her friend notices a tiny leaf caught in her hair and points it out. She removes the leaf herself and bursts into natural laughter.\n\n**00:20–00:25, Sharing a Drink**\nThey continue walking together. She briefly takes the bottled drink from her friend, takes a casual sip, hands it back, and smiles toward the camera.\n\n**00:25–00:30, Saying Goodbye**\nAt the apartment entrance, she turns toward the camera, waves casually, and says in Korean: \"내일 봐.\" (See you tomorrow.)\n\nShe walks inside the apartment building. Her friend continues recording for one additional second as the door closes. The footage then abruptly cuts to black.\n\n**Audio and Sound Design**\n\nUse only authentic environmental sounds recorded naturally within the scene:\n- Footsteps on concrete.\n- Distant passing traffic.\n- Bicycle sounds.\n- Summer cicadas (매미) and other insects.\n- Ambient residential neighborhood sounds.\n- Mini-mart refrigerator humming.\n- Bottle handling and movement.\n- Rustling leaves.\n- Faint conversations in Korean and distant neighborhood chatter.\n\nInclude only natural character dialogue. No background music, voiceover, artificial sound effects, subtitles, captions, explanatory text, logos, watermarks, or random text.\n\n**Realism and Physical Accuracy**\n\nEvery movement must feel spontaneous and physically believable.\n\nEnsure realistic:\n- Walking and sitting movements.\n- Drinking and handling the bottle.\n- Hair movement in the breeze.\n- Facial expressions and hand gestures.\n- Natural interactions between friends.\n\nAvoid exaggerated acting, identity drift, wardrobe changes, distorted hands, extra fingers, duplicate characters, teleportation, CGI-like appearances, or physically impossible movements.\n\n**Final Direction:** The finished video should look like a genuine personal memory captured by a friend on an inexpensive early 2000s digital camcorder in Korea. It should feel imperfect, nostalgic, intimate, spontaneous, and completely believable, as if someone found an old home video from the summer of 2003.",
+      "author": "Ciri_ai",
+      "author_url": "https://x.com/Ciri_ai",
+      "post_url": "https://x.com/Ciri_ai/status/2116152639402696785",
+      "date": "2026-10-30T20:58:00+08:00",
+      "likes": 123,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116152214003789824/vid/avc1/1280x720/qurBoSSXxgvULHyw.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116152639402696785_0.jpg",
+          "width": 1920,
+          "height": 1080
         }
       ]
     },
@@ -8328,6 +8517,27 @@
       ]
     },
     {
+      "id": "2115987815129575931",
+      "model": "Seedance 2.5",
+      "prompt": "Create a photorealistic cinematic fantasy video, approximately 38 seconds long.\n\nA young woman with long reddish-brown hair, wearing a vintage cream blouse and dark brown dress, encounters a giant pink dragon in an outdoor wooden playground surrounded by lush green trees.\n\nThe dragon has realistic pink scales, large wings, sharp horns, and expressive eyes. The woman cautiously approaches the dragon near a wooden seesaw. The dragon gently moves its head and wings, interacting with her.\n\nShe walks around the playground, sits on the wooden seesaw, and suddenly loses her balance, falling onto the ground. The dragon slowly approaches her, lowering its head as if checking whether she is okay.\n\nShow realistic character movements, natural body language, detailed dragon animation, cinematic camera angles, smooth tracking shots, realistic lighting, natural outdoor atmosphere, and seamless scene transitions.\n\nStyle: Ultra-realistic fantasy movie, cinematic 4K, highly detailed textures, natural motion, professional film color grading.\n\nNo text, no subtitles, no watermark.",
+      "author": "Arzoo12sh",
+      "author_url": "https://x.com/Arzoo12sh",
+      "post_url": "https://x.com/Arzoo12sh/status/2115987815129575931",
+      "date": "2026-10-30T10:03:02+08:00",
+      "likes": 95,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115987766014300160/vid/avc1/1280x718/2MU6AVQG1U5xh8RM.mp4",
+          "duration_s": 38.3,
+          "poster": "posters/2115987815129575931_0.jpg",
+          "width": 1280,
+          "height": 718
+        }
+      ]
+    },
+    {
       "id": "2109937430317207753",
       "model": "Seedance 2.5",
       "prompt": "Seedance 2.5 Prompt:\n\nCinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin.\n\nCHARACTER: Kagura @[Image1], a 10-heads-tall martial artist with a wild spiky crimson mane, bare muscular bronzed torso, draped scarlet coat billowing violently, black pleated trousers, thick brass wrist cuffs.\n\nSETTING: The Ridge of Shattered Bells @[Image2] . Suspended colossal iron bridge chains spanning a void, hurricane-force winds, howling blizzard mist, distant violet lightning strikes.\n\nCINEMATOGRAPHY & CHOREOGRAPHY (7 CUTS | 30 SECONDS):\n00:00-00:03 (Shot 1 | Macro Tease): Macro close-up on heavy brass wrist cuffs catching violet lightning glints; snow flurries blow horizontally across clenched bronzed knuckles.\n00:03-00:07 (Shot 2 | Hair & Wind Reveal): Low-angle push-in on Kagura's back as gale winds whip his flaming crimson mane and scarlet coat like wings; slow profile turn reveals his manic golden eye.\n00:07-00:11 (Shot 3 | Environmental Scale): Extreme wide establishing cut; Kagura stands balanced on a single swinging bridge chain over the bottomless foggy abyss as lightning illuminates the ravine.\n00:11-00:15 (Shot 4 | The Threat Falls): High-angle look-up; a massive three-ton cracked bronze temple bell snaps its chain above, plummeting directly toward his position through the mist.\n00:15-00:20 (Shot 5 | The Catch): Speed-ramp tracking shot; Kagura doesn't dodge—he drops his stance, planting his woven sandals into the chain links, catching the colossal falling bell with ONE bare hand; shockwave parts the clouds.\n00:20-00:25 (Shot 6 | The Shatter Strike): Extreme close-up of his manic grin, snapping wide to a low-angle tracking shot as he coils his right fist and unleashes an upward punch into the bell's bronze shell, completely shattering it into floating geometric fragments.\n00:25-00:30 (Shot 7 | Poster Hero Frame): Locked extreme low-angle hero shot; bronze shrapnel rains harmlessly into the abyss around him; Kagura stands unbothered, laughing into the hurricane gale as lightning crowns his crimson mane. Hold for 3 seconds. clear three-layer depth: foreground rusted iron chain links cropped in silhouette, Kagura fully resolved in midground with maximum contrast, background storm clouds and lightning dissolved in 75% atmospheric haze. Weighty natural character animation, cloth, hair and snow reacting to violent winds.\nSOUND: Howling hurricane winds, sudden deafening metallic snap of chain, deep thunder crack, massive bronze impact thud, explosive shattering bell resonance decaying into Kagura's booming solitary laugh. Negative: photorealism, glossy CGI, 3D smooth plastic, cartoon outlines, anime lines, lineart, camera drift, soft airbrush gradients, extra",
@@ -8534,6 +8744,27 @@
           "poster": "posters/2115734710206754943_0.jpg",
           "width": 1920,
           "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2116064076266934491",
+      "model": "Seedance 2.5",
+      "prompt": "A luxurious 3D product commercial in a vertical 9:16 aspect ratio. The video begins with a glowing golden droplet falling gracefully into shimmering, reflective pink water, creating a soft ripple. The camera smoothly pans and zooms out to reveal an arrangement of high-end skincare products by Medicube on tiered clear glass pedestals, surrounded by floating translucent glass bubbles, glowing golden particles, and soft abstract pink ribbons. The bottles and jars—including red, pink, and teal glass serums, metallic tubes, and a pink cream jar filled with glowing pink spheres—glisten under warm, ethereal studio lighting. A hand gently dips a small spatula into the capsule cream. The scene transitions into a polished final product lineup display with elegant typography reading \"YOUR GLASS-SKIN ROUTINE\". High-end, cinematic, glossy, and aesthetic commercial look with smooth motion.",
+      "author": "AyeshaEvie",
+      "author_url": "https://x.com/AyeshaEvie",
+      "post_url": "https://x.com/AyeshaEvie/status/2116064076266934491",
+      "date": "2026-10-30T15:06:05+08:00",
+      "likes": 93,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116064037733896192/vid/avc1/720x1280/Wap6okf2ibAH8_yO.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2116064076266934491_0.jpg",
+          "width": 720,
+          "height": 1280
         }
       ]
     },
@@ -11373,6 +11604,27 @@
       ]
     },
     {
+      "id": "2116076376109265405",
+      "model": "Seedance 2.5",
+      "prompt": "Create a cinematic, ultra-realistic scene of a mysterious samurai wearing black traditional armor and a wide straw hat, slowly walking through a lush green Japanese forest. Smooth side-tracking camera, natural movement, soft sunlight filtering through trees, detailed armor, atmospheric lighting, photorealistic 4K, 16:9.",
+      "author": "Hassanlaurent",
+      "author_url": "https://x.com/Hassanlaurent",
+      "post_url": "https://x.com/Hassanlaurent/status/2116076376109265405",
+      "date": "2026-10-30T15:54:57+08:00",
+      "likes": 65,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116076329674416128/vid/avc1/720x1280/ZvzC0t6TYilZOGhi.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2116076376109265405_0.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ]
+    },
+    {
       "id": "2110584239775510790",
       "model": "Seedance 2.5",
       "prompt": "Create a 15-second ultra-realistic early-2000s Sony MiniDV home video in 16:9 landscape format, filmed by another person.\n\nThe same 24-year-old Korean woman with long, loose dark hair, minimal makeup, and realistic skin wears her familiar oversized maroon",
@@ -11451,6 +11703,27 @@
           "mp4": "https://video.twimg.com/amplify_video/2112153853814804480/vid/avc1/1280x720/L8X4eWpDdoqfd7oQ.mp4",
           "duration_s": 30.1,
           "poster": "posters/2112153909892714880_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2116027587365625889",
+      "model": "Seedance 2.5",
+      "prompt": "Create an ultra-realistic live-action revenge-comedy scene inside a busy Seoul subway station during the evening rush hour. Natural handheld camera movement, realistic physical interactions, expressive facial reactions, and fast-paced Korean action-comedy energy. No animation or video-game visuals.\n\nCHARACTERS:\n\nA stylish young adult Korean woman in her early 20s with long black hair, wearing a fitted black crop top, blue denim jeans, and white sneakers. She is sitting on a subway platform bench, enjoying a large pink cotton candy while waiting for her train.\n\nA young Korean man in his 20s wearing a loose black T-shirt, cargo pants, and sneakers, holding a half-full plastic water bottle.\n\nACTION SEQUENCE:\n\nThe woman sits comfortably on the subway platform bench, enjoying her cotton candy. She takes a bite, smiles, and occasionally looks toward the approaching train tracks. Her handbag rests beside her.\n\nThe man walks past, notices her, and stops with a mischievous grin. He deliberately squeezes his water bottle, splashing water all over her head and clothes. Her pink cotton candy gets soaked and collapses in her hand.\n\nShe freezes, looks at her ruined cotton candy, then slowly turns toward him with an irritated expression.\n\nThe man bursts into laughter, pointing at her and pretending it was just a harmless joke. She looks at him silently, then gives him a surprisingly sweet smile.\n\nAs he turns away, she picks up her own water bottle from her handbag, shakes it vigorously, and sprays a strong stream of water directly across his face and chest.\n\nHe jumps backward in shock, dropping his bottle. Nearby passengers turn around, some laughing and others recording the incident on their phones.\n\nThe man angrily approaches her, but she quickly steps aside, causing him to stumble into an empty station bench. His water bottle rolls away across the platform.\n\nShe picks up her ruined cotton candy, looks at him, and says sarcastically:\n\n\"Next time, try minding your own business.\"\n\nShe calmly sits back down, checks the train arrival display, and continues waiting as if absolutely nothing happened.\n\nFINAL SHOT: The train arrives behind her. She gives the camera a confident little wink while the completely soaked man stands in the background, looking embarrassed.\n\nSOUND DESIGN: Subway announcements, train rumbling in the distance, footsteps, cotton candy wrapper sounds, water splashing, surprised passenger reactions, laughter, and her clear dialogue. No overpowering background music.\n\nVISUAL REQUIREMENTS: Clearly establish the subway platform, bench, tracks, and approaching train. Show the man deliberately splashing water on her first and visibly ruining the cotton candy. Her revenge must be clear, satisfying, and physically believable. Maintain consistent faces, clothing, props, and location throughout.\n\nNEGATIVE PROMPT: No blood, serious injuries, cartoon physics, distorted anatomy, face inconsistency, disappearing props, duplicated bottles, unrealistic water effects, random scene changes, subtitles, logos, or watermarks.",
+      "author": "AIwithSynthia",
+      "author_url": "https://x.com/AIwithSynthia",
+      "post_url": "https://x.com/AIwithSynthia/status/2116027587365625889",
+      "date": "2026-10-30T12:41:05+08:00",
+      "likes": 64,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116027511939457024/vid/avc1/1280x720/vOEnpRmRcgishxaC.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116027587365625889_0.jpg",
           "width": 1280,
           "height": 720
         }
@@ -11661,6 +11934,27 @@
           "mp4": "https://video.twimg.com/amplify_video/2115304378450284544/vid/avc1/720x1280/Q4cvguxG4FMKO6WA.mp4",
           "duration_s": 28.1,
           "poster": "posters/2115304762363220459_0.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "2115986042063040941",
+      "model": "Seedance 2.5",
+      "prompt": "Cinematic ultra-realistic music-video short film, 16:9, 30 seconds, 24fps, shot like a high-budget world-tour concert film, fast match cuts on every beat, smooth tracking shots, dramatic lighting that changes with each location, shallow depth of field, crisp detail, subtle film grain, high-energy and stylish mood.\n🧑 MAIN CONCEPT: One young man in his mid-20s, short curly black hair, a confident bright smile, a wireless headset microphone, runs and dances forward along a long, narrow, glossy elevated platform (like a runway). The platform is always the same, but the world around it and his outfit change abruptly every 2 to 3 seconds. The camera mostly follows him from behind at low-to-mid angle with fast, smooth tracking and match cuts. Keep his face and hair identical in every shot.\n🎹 0–3s: Backstage at a stadium. He walks toward camera in a white tracksuit with gold stripes and clean white sneakers, a light glowing behind him, dancers and technicians moving around. He pulls on his headset mic, grins, and steps out onto the platform.\n🌃 3–6s: A neon-lit Tokyo-style street at night in light rain, with glowing signs, wet pavement reflecting pink and blue light, and crowds with umbrellas on both sides. He wears a black leather jacket, white t-shirt and black jeans, sprinting forward with splashes under his feet and a huge smile.\n🏜️ 6–9s: A vast golden desert at sunrise with towering sand dunes. He wears a long sand-colored coat, a scarf and aviator goggles pushed up on his head, striding on the platform as wind whips sand and cloth around him, a distant caravan on the horizon.\n🏔️ 9–12s: A snowy mountain ridge under a sky filled with green and purple northern lights. He wears a thick white parka with a fur-lined hood and black gloves, dancing and spinning on the platform, snow swirling in the air, breath visible in the cold.\n🏝️ 12–15s: A tropical beach at golden hour with palm trees, turquoise waves and a huge cheering crowd with glowing wristbands on both sides. He wears a colorful floral shirt, white shorts and sunglasses, dancing forward with a carefree stride as the camera tracks from behind.\n🏛️ 15–19s: An ancient stone amphitheatre at dusk, torches burning along the arches, thousands of spectators in the stands. He wears a deep-red velvet jacket with gold embroidery and black trousers, walking slowly down the platform, then raising both arms in triumph as embers float up around him.\n🚀 19–23s: A futuristic night city with floating lights, tall glass towers and a giant glowing moon. He wears a sleek silver space-style jacket with glowing blue lines, a black cap and slim black pants, standing in the centre with arms stretched wide, silhouetted against a beam of white light.\n🎆 23–30s: A giant open-air stadium at night, packed with fans waving glowing lights. He now wears a gold sequin blazer, black shirt and black boots, dancing with powerful steps, spins, jumps and fast arm swings. Massive fireworks explode overhead and a wave of golden confetti and smoke rushes across the stage and fills the frame. Cut to black on the final beat.\n🎧 AUDIO: A modern high-energy pop-rap beat with deep bass, every outfit change landing on a beat, roaring crowd cheers, rain, wind and fireworks sounds between sections, a heavy bass drop at the final fireworks followed by sudden silence.\n🎬 STYLE: Realistic cinematic music-video energy, smooth natural movement, bold color grading for each location, non-graphic, no text, no subtitles, no logos, no watermark.",
+      "author": "KrishnaBio1",
+      "author_url": "https://x.com/KrishnaBio1",
+      "post_url": "https://x.com/KrishnaBio1/status/2115986042063040941",
+      "date": "2026-10-30T09:56:00+08:00",
+      "likes": 61,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115871296378802176/vid/avc1/720x1280/9BYTeZFIaja_2P7V.mp4",
+          "duration_s": 30.0,
+          "poster": "posters/2115986042063040941_0.jpg",
           "width": 720,
           "height": 1280
         }
@@ -12507,6 +12801,27 @@
       ]
     },
     {
+      "id": "2116159204134199440",
+      "model": "Seedance 2.5",
+      "prompt": "Girl = a calm capable young woman around 26, dark hair pulled back, sharp steady eyes, a faint brow scar, a dark fitted jacket, a single white earbud. Controlled and secretly dangerous. Face per reference. Appearance only.\nAttackers = attackers disguised as airplane cabin crew in flight-attendant uniforms with cold menacing faces, advancing down the aisle with concealed weapons drawn. Appearance only.\nPassengers = ordinary airplane passengers of various ages in casual travel clothes, calm at first then frightened. Appearance only.\nPlaneext = a large passenger airplane flying through a dark night sky among moonlit clouds, blinking navigation lights, deep blue-black night, moonlit fuselage, calm high altitude. Environment only.\nPlaneint = the interior cabin of a passenger airplane at night, rows of seats down a narrow aisle, dim overhead lighting and reading lights, closed window shades, overhead bins, a galley at the front, a calm night-flight atmosphere that turns tense. Environment only.\n\nSCENE: a tense cinematic thriller aboard a night flight. A passenger plane cruises calmly through a dark cloudy night sky; inside, passengers sit quietly, among them a calm young woman with an earbud in. Suddenly the plane shakes and the cabin lights flicker and dim, and attackers disguised as cabin crew emerge and advance down the aisle with weapons. The woman rises and fights them. Moody, high-tension, intense.\n\nTECHNICAL: 16:9, cinematic thriller grade, cool moody blue-black night palette, dim flickering cabin light, dynamic handheld and confined-space camera angles, shallow depth of field, motion blur, fine film grain, photorealistic, high-tension quality.\n\nCUTS:\nCUT 1 (0-5s): EXTERIOR — a wide cinematic shot of the passenger plane cruising calmly through the dark moonlit clouds at night, navigation lights blinking. Peaceful, vast, still. Slow drift.\nCUT 2 (5-9s): INTERIOR — the camera moves through the dim calm cabin, passengers seated quietly, settling on the young woman in her seat with an earbud in, eyes half-closed, relaxed. Ordinary night flight.\nCUT 3 (9-14s): Suddenly the plane SHAKES — a jolt. The cabin lights flicker, dimming and brightening unevenly. Passengers stir, alarmed, gripping armrests. The woman's eyes open, instantly alert. Tension spikes. Handheld unsteady shake.\nCUT 4 (14-19s): From the galley at the front, attackers disguised as cabin crew emerge, cold-faced, drawing concealed weapons, and advance down the aisle. Low-angle shot making them menacing. Passengers recoil in fear. The woman stands, calm and ready.\nCUT 5 (19-26s): The fight erupts in the cramped aisle — the woman takes on the attackers with fast skilled close-quarters combat, using the seats and tight space, striking and dropping them one by one. The lights flicker through the chaos. Dynamic confined-space angles, intense.\nCUT 6 (26-30s): The last attacker drops. The woman stands alone in the dim shaking aisle, breathing hard, as frightened passengers stare. The cabin lights steady. Cool, tense final frame. END.\n\nRULES: References are appearance only, do not recreate. Keep the woman consistent across every cut. Action is intense but not gory — no blood or graphic wounds, impacts sold through motion and body mechanics in the confined cabin. Cool moody night grade with flickering dim cabin light throughout. Follow the sequence: plane exterior calm → interior and the girl → the shaking and dimming lights → attackers emerge → she fights and wins. Sound design: the low hum of the plane, calm cabin ambience, the sudden jolt and rattle, electrical buzz of flickering lights, panicked passenger gasps, brutal impact hits and grunts in the fight, a tense driving score. Final frame cool and steady, clean.",
+      "author": "SirGlavan_",
+      "author_url": "https://x.com/SirGlavan_",
+      "post_url": "https://x.com/SirGlavan_/status/2116159204134199440",
+      "date": "2026-10-30T21:24:05+08:00",
+      "likes": 54,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116157993330843648/vid/avc1/1280x720/VMWCe0lfVtRwI9SQ.mp4",
+          "duration_s": 28.1,
+          "poster": "posters/2116159204134199440_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2109467882153480285",
       "model": "Seedance 2.5",
       "prompt": "以提供的人物参考图为基础，保持人物原有的面部特征、五官比例及整体气质，生成一段超高清、电影级写实风格的日系街头生活短片。\n\n场景设定在阳光明媚的清晨，充满生活气息的日本街道上。街道两侧分布着各式各样的小店，招牌与建筑错落有致，远处不时有骑自行车的行人和缓慢经过的车辆，营造真实自然的城市日常氛围。\n\n人物站在路边安全区域内，一头柔顺的黑色长发自然披散。微风轻轻吹动发梢，几缕发丝随风掠过脸颊。温暖的晨光从侧前方洒落，照亮人物的面部轮廓与发丝，形成柔和通透的自然光晕。\n\n人物拥有精致协调的五官、挺拔的鼻梁、自然细腻的肌肤，整体散发清纯温柔、略带慵懒的学姐气质。单肩背着一只黑色高级质感皮包，双手随意握着手机，身体姿态舒展放松。\n\n镜头以手持街拍的方式缓缓靠近，伴随轻微自然晃动。人物先低头看手机，随后被街边的声音吸引，轻轻抬头，目光不经意间与镜头交汇，露出自然放松的神情。整个过程没有刻意摆拍的感觉。\n\n微风吹过街道，几片梧桐树叶缓缓飘落。背景中的行人、车辆与树影自然运动，建筑表面呈现真实细腻的光影变化。\n\n画面采用清新日系胶片快照色调，明亮通透，色彩柔和，保留真实皮肤纹理与自然光线层次。构图略带随性与不规则感，模拟摄影师在街头偶然捕捉到的生活瞬间。\n\n4K 超高清画质，24fps，真实物理光照，自然景深，细腻动态表现，人物面部高度一致，动作流畅连贯，无明显 AI 生成痕迹。\n\n负面提示词： 过度磨皮、塑料皮肤、夸张美颜、五官变形、人物换脸、手指畸形、肢体扭曲、头发穿模、背景闪烁、车辆变形、动作僵硬、镜头剧烈抖动、过度锐化、虚假光影、卡通质感、CG 渲染感。",
@@ -12587,6 +12902,27 @@
           "poster": "posters/2113499568730247612_0.jpg",
           "width": 1440,
           "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2116068481649246490",
+      "model": "Seedance 2.5",
+      "prompt": "Create a premium Hollywood-style live-action cinematic sequence featuring two versions of the same woman.\n\n15-second scene breakdown:\n0–2s: A woman in black desperately climbs a steep, wet volcanic cliff above a raging ocean.\n2–4s: A massive wave crashes over her. She loses her grip and struggles to survive.\n4–6s: Exhausted, trembling, and close to giving up, she struggles to climb again.\n6–8s: The camera reveals another version of herself in ivory white, standing higher up the cliff.\n8–11s: The rescuer reaches down. Their left hands meet in a dramatic cinematic close-up, and she pulls the climber upward.\n11–13s: The woman in black gets completely onto the platform. Once safe, they embrace tightly.\n13–15s: An emotional close-up captures their reunion as the final subtitle appears:\n\n\"Only you can save yourself.\"\n\nVisual direction: Premium Hollywood realism, realistic ocean physics, natural human movements, dramatic camera choreography, consistent character identities, cinematic lighting, emotional storytelling, and powerful background music.\n\nImportant: Maintain anatomical accuracy, realistic hand contact, continuous rescue movement, and consistent spatial positioning. No teleportation or unexplained cuts.\n\nThe goal is to make every frame feel like a scene from a real Hollywood survival movie.\n\nWhat would YOU create with this level of cinematic AI video generation?",
+      "author": "MeenakshiYACS",
+      "author_url": "https://x.com/MeenakshiYACS",
+      "post_url": "https://x.com/MeenakshiYACS/status/2116068481649246490",
+      "date": "2026-10-30T15:23:35+08:00",
+      "likes": 53,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116068395577958400/vid/avc1/720x1280/-aUxl9RWP8k3tdeb.mp4",
+          "duration_s": 15.0,
+          "poster": "posters/2116068481649246490_0.jpg",
+          "width": 720,
+          "height": 1280
         }
       ]
     },
@@ -13326,6 +13662,27 @@
       ]
     },
     {
+      "id": "2116139825057431916",
+      "model": "Seedance 2.5",
+      "prompt": "MOSCOW, 2026 — THE UNION STILL EXISTS\n30 seconds | 16:9 | hyper-realistic alternate-history recreation | documentary realism | MULTISHOT\nFICTIONAL",
+      "author": "Diplomeme",
+      "author_url": "https://x.com/Diplomeme",
+      "post_url": "https://x.com/Diplomeme/status/2116139825057431916",
+      "date": "2026-10-30T20:07:04+08:00",
+      "likes": 46,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116139743415312384/vid/avc1/1280x720/qAj-Gz__sqsRIVg6.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116139825057431916_0.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2109259050726920221",
       "model": "Seedance 2.5",
       "prompt": "Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic Southeast Asian/Korean woman. No changes in appearance between shots.\n\nScene: A cozy apartment kitchen at sunrise, wooden countertops, small window overlooking a quiet neighborhood, ceramic mugs, fresh fruit, bread, eggs, and a little potted plant. Warm golden sunlight enters through the window. Peaceful, intimate morning atmosphere.\n\nStyle: RAW HANDHELD REALISM, early-2000s home-video aesthetic, casual camera sway, micro-shakes, frequent reframing, natural autofocus hunting, imperfect framing, occasional motion blur, slightly soft image quality, realistic skin texture, visible pores, natural facial expressions. Candid, spontaneous, unposed feeling. Camera operated casually by a friend, with occasional direct-to-camera interaction.\n\nTimeline & Dialogues\n\n00:00–00:04 — Sleepy Morning\nShe enters the kitchen, yawning slightly, rubbing her eyes, and opening the curtains. Golden sunlight fills the room.\n\nDialogue (sleepy, softly laughing): \"Good morning... I seriously need coffee.\"\n00:04–00:08 — Making Coffee\nShe scoops coffee into a mug, pours hot water, and stirs slowly. The camera moves closer to capture the steam.\nDialogue (playful): \"Okay, first things first. Coffee before anything else.\"\n\n00:08–00:12 — Breakfast Preparation\nShe cracks an egg into a frying pan, accidentally drops a tiny piece of shell, and laughs while removing it.\nDialogue (laughing naturally): \"Oh my God... I'm such a professional chef.\"\n\n00:12–00:16 — Toast Disaster\nShe checks her toast, realizes one side is slightly burnt, and holds it toward the camera with a disappointed expression.\n\nDialogue (sarcastically): \"Wow. Five-star breakfast, everyone.\"\n00:16–00:21 — Preparing the Plate\nShe arranges scrambled eggs, toast, and sliced strawberries on a small ceramic plate. She steals a strawberry and eats it while glancing mischievously at the camera.\nDialogue (cheerful): \"Actually... this looks pretty good!\"\n\n00:21–00:25 — First Bite\n\nShe sits beside the window, takes a bite of toast, chews naturally, and nods with a satisfied smile. The handheld camera drifts slightly out of focus before recovering.\nDialogue (after swallowing): \"Mmm. Okay, that's better than I expected.\"\n\n00:25–00:30 — Funny Ending\n\nShe lifts her coffee mug toward the camera, takes a sip, then immediately reacts because it's too hot. She laughs and gently puts the mug down.\nDialogue (laughing): \"Ah! Too hot! Okay... good morning to me.\"\n\nThe camera shakes slightly as the person filming laughs. Natural abrupt cut.\n\nCamera & Audio\nCamera: Handheld consumer MiniDV camcorder, imperfect zooms, spontaneous close-ups, occasional cropped headroom, natural exposure fluctuations, authentic home-video texture. No cinematic camera movement, no beauty filters, no artificial skin smoothing.\n\nAudio: Natural kitchen ambience, birds outside, frying sounds, ceramic dishes, coffee stirring, soft footsteps, natural breathing, and clearly audible conversational dialogue. No background music, subtitles, or voiceover.\nDialogue delivery: Casual American-accented English, spontaneous delivery, natural pauses, little laughs, subtle changes in tone, realistic lip synchronization. She speaks only during the assigned moments, with enough time for each sentence.\n\nOutput: 30 seconds, 16:9 landscape, photorealistic, continuous character and outfit consistency, natural human motion, realistic hand-object interactions, believable everyday atmosphere.",
@@ -13658,6 +14015,27 @@
           "poster": "posters/2113838186397081764_0.jpg",
           "width": 1280,
           "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2116061110663295188",
+      "model": "Seedance 2.5",
+      "prompt": "A cinematic 15 seconds, 9 : 16 vertical. Nine connected shots with hard cuts.\n\nGLOBAL STYLE\nGenre: supernatural martial-arts action.\nVisual style: photorealistic cinematic, epic scale.\nMood: brutal domination of a helpless heroine, then an overwhelming comeback.\nPalette: cool desaturated city grays, black wardrobe, chrome. A translucent black-purple smoke aura appears only after the heroine rises.\nPacing: extreme speed. Speed-ramped slow motion only at the heroine's counterattack impacts.\n\nREFERENCE ROLES\n\n@ Image1: identity, face, hair and wardrobe of the HEROINE.\n\n@ Image2: identity and wardrobe of ENEMY 1, ENEMY 2 and ENEMY 3.\n\n@ Image3: location layout, buildings, debris and lighting.\n\nSUBJECT AND SETTING\n\nHEROINE: adult woman from @ Image1. Split-dye hair, black on her right side and white on her left side, small mole under her left eye, black spiked choker, black crop tank top with grey \"YUDAY\" logo, black fingerless arm warmers with chains, studded belt, wallet chain, wide black cargo pants, chunky black boots.\n\nENEMIES: three identical adult men from @ image. Black caps, dark rectangular sunglasses, black short-sleeve suit jackets, white open-collar shirts, gold chains, chrome cybernetic arms engraved with koi and peony irezumi. Extremely fast, extremely heavy punches. They cross long distances in an instant blur and never stand still.\n\nSETTING: the empty, damaged Shibuya scramble crossing from @ image3. Overcast daylight. Glass office facade and tilted lamp pole on the left; red storefronts, barricades and a fallen bicycle on the right; a tall dark tower with a broken giant screen on the right; Shibuya 109 in the background.\n\nFIRST FRAME AND BLOCKING\n\nThe heroine stands alone on the central crosswalk, facing camera, arms relaxed.\n\nEnemies are far apart in irregular, random positions, not a ring or symmetrical formation:\n\nENEMY 1 on the far right sidewalk near the barricades, about 15 m away.\n\nENEMY 2 far back on the left near the tilted lamp pole, about 25 m away.\n\nENEMY 3 far in the background, left of center near Shibuya 109, about 40 m away.\n\nCamera stays on the same side throughout, facing Shibuya 109.\n\nSHOT TIMELINE\n\n0–1.5s — Shot 1:\n\nWide. ENEMY 1 crosses the distance in an instant blur and lands a full-power chrome punch into her midsection. A ring of distorted air bursts from the impact. She has no time to react: her body folds and is thrown sideways toward screen-left, limp, arms and legs swinging loosely.\n\nCamera: fast lateral whip following her. Hard cut.\n\n1.5–3s — Shot 2:\n\nLow angle. While she is still flying helplessly, ENEMY 2 closes the distance in a blur and drives a rising uppercut into her back. A transparent air-pressure ring bursts below her. The force throws her limp body straight upward, past the rooftops and higher than Shibuya 109. Hair and arms trail loosely, eyes half-closed and dazed. Only heat-haze air distortion ripples around her body, no trail.\n\nCamera: extreme fast tilt up following her. Hard cut.\n\n3–4.5s — Shot 3:\n\nHigh-altitude wide shot, the city grid tiny far below. Her limp body hangs at the peak of the throw. ENEMY 3 leaps up from the far background to her height and slams a downward hammer punch into her torso. A huge transparent air-burst ring forms. She is smashed straight down by the punch, limp and helpless, with a cone of rippling air-pressure distortion ahead of her body. No smoke, fire, glow or trail.\n\nCamera: dives down behind her. Hard cut.\n\n4.5–6s — Shot 4:\n\nWide top-down angle. Her limp body slams back-first into the crossing center. The asphalt shatters into a large, deep crater several meters wide. Slabs crack, lift and tilt outward, crosswalk stripes break apart. A ring-shaped dust shockwave sweeps across the intersection, chunks and glass fly outward, nearby windows crack.\n\nCamera: locked, heavy impact shake. Hard cut.\n\n6–7.5s — Shot 5:\n\nLow ground-level shot. She lies motionless on her back in the crater center, dusty, among broken asphalt. Dust drifts, small debris trickles down, then her fingers twitch. Far in the background, out of focus, the three enemies have landed in scattered positions far apart: right sidewalk, left near the glass facade, and the far back crater edge.\n\nCamera: slow creeping push-in. Hard cut.\n\n7.5–9.5s — Shot 6:\n\nMedium-wide. She pushes up on one hand and knee, trembling, breathing hard, and rises. White steam pours from her skin and clothes, then thickens into a translucent black-purple kinetic aura: matte, smoke-like wisps mixed with heat distortion, turbulent air, swirling dust and pressure ripples blasting small debris away. All three enemies charge at her in fast blurs from different distances, reaching her one after another.\n\nCamera: fast low-angle push-in. Hard cut.\n\n9.5–11s — Shot 7:\n\nWide. ENEMY 1 lunges in and throws a full-power punch at her. Before it lands she vanishes: only a translucent black-purple smoke silhouette remains, a pressure ring bursts at her feet, and a streak of torn dust and smoke marks her path. His fist tears through the smoke silhouette. In the same instant she reappears directly behind him, surprise attack: a dash strike into his back, then, as he staggers, a low body blow to his abdomen.\n\nSpeed ramp: slow motion for about 0.6s at impact. A translucent black-purple smoke shockwave ring expands from the contact point, his cap and sunglasses fly off, dust and debris hang in the air. Snap back to full speed: ENEMY 1 is thrown screen-right through the barricades into a metal storefront shutter, which buckles in a dust burst.\n\nCamera: fast tracking shot. Hard cut.\n\n11–12.5s — Shot 8:\n\nMedium-wide. ENEMY 2 arrives from screen-left mid-attack, firing a rapid punch combo at her. She vanishes again, leaving a black-purple smoke silhouette that his punches tear apart, and instantly reappears behind him. Surprise attack: she spins into a heel kick into his back before he can turn.\n\nSpeed ramp: slow motion at contact. A translucent black-purple smoke pressure wave bursts outward, loose glass lifts off the ground, his sunglasses shatter and fly off. Snap back to full speed: ENEMY 2 is blasted screen-left into the glass office facade, which explodes into a storm of shattering glass.\n\nCamera: whip pan left. Hard cut.\n\n12.5–15s — Shot 9:\n\nWide, eye level. Only two people are in frame: the heroine and ENEMY 3. ENEMY 1 and ENEMY 2 are gone. The heroine stands on the right, clearly visible: split black-and-white hair, bare arms, black crop top. ENEMY 3 leaps from the left and dives at her with a hammer punch. She vanishes into a shapeless puff of black-purple smoke; his fist smashes the empty asphalt. She reappears behind him and leaps into a volley kick to his back, lifting him off the ground. As he falls toward her, she drives an explosive uppercut.\n\nSpeed ramp: slow motion at the uppercut contact. A massive black-purple smoke shockwave ring forms, debris hangs in the air. Snap back to full speed: ENEMY 3 is launched vertically into the broken giant screen on the right tower in a burst of sparks and glass.\n\nFinal frame: ENEMY 3 alone, embedded in the sparking giant screen.\n\nCamera: fast tilt up following ENEMY 3.\n\nPHYSICS AND CHOREOGRAPHY\n\nFictional cinematic contact only.\n\nShots 1–4: the heroine is completely helpless. She never blocks, parries or guards. All three hits land cleanly on her body and she is thrown limp, arms and legs loose.\n\nShots 7–9: she never blocks or parries. Her extreme speed is clearly visible: each time an enemy attacks, she vanishes and reappears directly behind him in an instant, then strikes from behind as a surprise attack.\n\nEnemies never stand idle or wait to be hit.\n\nHer vertical rise and fall are driven only by the force of the punches, with no propulsion from her feet or body.\n\nHair, chains, jackets and dust react to every impact. No blood or gore.\n\nVFX\n\nShots 1–3: transparent distorted-air burst rings that grow larger with each hit; heat-haze distortion around her body during the rise and fall. No smoke trails, fire, light trails or glow at her feet.\n\nShots 6–9: the aura is translucent black-purple smoke with heat distortion, turbulent air and dust. Matte and non-emissive: no glow, no light, no flames.\n\nShots 7–9: smoke silhouettes left where she vanishes, pressure rings at her feet, dust-and-smoke streaks along her path, black-purple smoke shockwave rings at each contact, debris suspended in slow motion. Her face, eye color, hair split and wardrobe never transform.\n\nLIGHTING\nSoft overcast daylight, constant direction. The aura casts no light. White-blue spark light in the final shot.\n\nAUDIO\nAmbience: empty city wind.\nSFX: dash whooshes, heavy impact thuds and air-burst cracks (shots 1–3); rushing wind in the rise and fall; massive crater boom (shot 4); muffled ringing silence (shot 5); heavy breathing, steam hiss, low rumble (shot 6); a sharp air-pop each time she vanishes and reappears; each counter impact a sonic boom dropping into a deep slow-motion bass thump, then crashes of metal, glass and sparks (shots 7–9).\n\nDialogue: none.\n\nMusic: aggressive phonk beat in shots 1–4, silence in shot 5, hard bass drop at shot 7 hitting on every impact.\n\nCONTINUITY AND CONSTRAINTS\nKeep the heroine's face, split hair (black on her right, white on her left), choker, logo top, arm warmers and cargo pants identical to @Image1.\nExactly three enemies, all matching @Image2.\nENEMY 1 attacks first and is defeated first; ENEMY 2 second; ENEMY 3 third.\nThe crater stays at the crossing center after shot 4.\nPlanned changes only: dust on her clothes, the crater, steam, the smoke aura, enemy caps and sunglasses flying off, damaged surfaces.\n\nAvoid: blocking, parrying or guarding by the heroine; rocket thrust, jet flames or light trails from her feet; meteor fire trails; glowing, neon or red aura; red afterimages; enemies grouped close or in a ring; enemies standing still, waiting, posing or watching; extra characters, weapons, blood, flames, face morphing, wardrobe changes, duplicated limbs.",
+      "author": "iamsofiaijaz",
+      "author_url": "https://x.com/iamsofiaijaz",
+      "post_url": "https://x.com/iamsofiaijaz/status/2116061110663295188",
+      "date": "2026-10-30T14:54:17+08:00",
+      "likes": 44,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116060977477345280/vid/avc1/720x1280/SWXIzfGgDCLv4Ka_.mp4",
+          "duration_s": 15.1,
+          "poster": "posters/2116061110663295188_0.jpg",
+          "width": 1080,
+          "height": 1920
         }
       ]
     },
@@ -18016,6 +18394,69 @@
       ]
     },
     {
+      "id": "2116185518211768790",
+      "model": "Seedance 2.5",
+      "prompt": "Scene 1 — The Grand Entrance (0–5 seconds)\n\nA beautiful, modern young woman enters an ultra-luxury restaurant in a stylish city at night. She wears a stunning designer outfit: a fitted emerald-green dress, elegant heels, delicate gold jewelry, a luxury handbag, and beautifully styled long hair. Her face has realistic skin texture, natural pores, expressive eyes, and lifelike facial movements. The restaurant is filled with elegantly dressed men, women, couples, and families, all featuring unique, photorealistic faces and natural body movements. Warm golden chandeliers, glass walls, polished marble floors, and cinematic lighting create a premium atmosphere.\n\nScene 2 — The Hungry Imagination (5–10 seconds)\n\nThe woman sits at a beautiful table near a window. A waiter hands her a menu. She looks at the menu, smiles slightly, and closes her eyes for a moment, imagining the most delicious meal in the world. Show a subtle magical golden glow around her head as her thoughts become visible through delicate sparkling particles. The camera slowly moves closer to her expressive face, capturing her excitement and natural smile.\n\nScene 3 — Magic Comes to Life (10–18 seconds)\n\nSuddenly, the menu floats gently into the air! Golden sparkles swirl above the table, forming a miniature magical galaxy. From the swirling light, an extraordinary feast materializes plate by plate: creamy Alfredo pasta with rising steam, perfectly grilled steak, crispy golden fries, colorful sushi, fresh strawberries, a luxurious chocolate cake, and a sparkling pink mocktail. Every dish appears through realistic magical particle effects, with detailed food textures, natural steam, glossy sauces, and mouthwatering close-ups. Nearby diners turn their heads in amazement, showing realistic expressions of surprise.\n\nScene 4 — The Impossible Dessert (18–25 seconds)\n\nThe woman thinks about eating a chocolate cake, and suddenly a tiny chocolate fountain rises from the center of the table. A beautiful chocolate cake floats gently above the plate while fresh strawberries orbit around it like little planets. She laughs in disbelief, reaches out, and takes a bite. Chocolate melts naturally on the fork, and her delighted facial expression looks completely authentic. The magical effects remain elegant, believable, and cinematic.\n\nScene 5 — The Magical Twist (25–30 seconds)",
+      "author": "Creator_arti11",
+      "author_url": "https://x.com/Creator_arti11",
+      "post_url": "https://x.com/Creator_arti11/status/2116185518211768790",
+      "date": "2026-10-30T23:08:39+08:00",
+      "likes": 20,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116185382811561984/vid/avc1/720x1280/WqUmpIfiZxt-HRNr.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116185518211768790_0.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "2116142508400853013",
+      "model": "Seedance 2.5",
+      "prompt": "FORMAT: 30 seconds, vertical 9:16, photorealistic. A fast-cut compilation of real smartphone clips from",
+      "author": "voyzai",
+      "author_url": "https://x.com/voyzai",
+      "post_url": "https://x.com/voyzai/status/2116142508400853013",
+      "date": "2026-10-30T20:17:44+08:00",
+      "likes": 20,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116141289003495424/vid/avc1/720x1280/mHvYD73UlUPSfpee.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116142508400853013_0.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "2116139223497793929",
+      "model": "Seedance 2.5",
+      "prompt": "Create a cinematic 2D anime-style martial arts training sequence featuring a young athletic woman",
+      "author": "MohdAdnanA86218",
+      "author_url": "https://x.com/MohdAdnanA86218",
+      "post_url": "https://x.com/MohdAdnanA86218/status/2116139223497793929",
+      "date": "2026-10-30T20:04:41+08:00",
+      "likes": 20,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116139170783735808/vid/avc1/1280x664/kbti_hHe8idWCdsl.mp4",
+          "duration_s": 13.0,
+          "poster": "posters/2116139223497793929_0.jpg",
+          "width": 1280,
+          "height": 664
+        }
+      ]
+    },
+    {
       "id": "2099789697086034248",
       "model": "Seedance 2.5",
       "prompt": "Create a cinematic, photorealistic 30-second live-action video set inside a modern American high school cafeteria during lunch. A beautiful young female student with shoulder-length blonde hair, wearing a loose gray hoodie, dark jeans, white sneakers and a black backpack, walks between crowded tables while students eat, talk and interact around her.\n\nStart with a natural medium shot of the girl walking through the busy cafeteria. Use realistic handheld camera movement, shallow depth of field, warm cinematic lighting, natural skin texture, realistic facial expressions and authentic high-school atmosphere.\n\nAs she reaches the center of the cafeteria, a male student suddenly knocks a tray from her hands. She looks down for a moment before slowly raising her palms. A mysterious emerald-green energy begins glowing around her fingers. Tiny particles and sparks rise from the floor as a supernatural aura develops around her body.\n\nTransition smoothly into an intense superhero-style action sequence. The male student charges toward her, but she quickly sidesteps and moves behind him with extraordinary speed. She performs a series of precise martial-arts-inspired strikes, powerful kicks and rapid defensive movements while green energy follows her hands and feet.\n\nUse cinematic slow motion during the strongest impact, followed by rapid handheld cuts. Students quickly leave their tables and move toward the cafeteria walls. Chairs slide across the floor while trays and cups fall naturally. Emerald light reflects realistically across tables, windows and characters, with subtle volumetric lighting, dust, sparks and motion blur.\n\nInclude a dramatic moment where the girl performs a powerful flying kick surrounded by bright emerald energy, sending the opponent backward into an empty row of tables.\n\nNear the end, silence returns to the cafeteria. The glowing energy fades away and she calmly picks up her backpack and walks toward the doors. End with a medium close-up of her face with a calm, confident expression.\n\nVisual style: photorealistic Hollywood superhero movie, cinematic color grading, realistic teenage/high-school environment, detailed faces, natural skin, realistic clothing and hair physics, realistic lighting, subtle film grain, shallow depth of field, professional cinematography, dynamic camera movement, high-detail VFX, realistic particle effects, 4K cinematic quality.\n\nCamera: handheld tracking shots, medium shots, close-ups, low-angle action shots, smooth whip-pans, controlled motion blur, occasional slow motion during attacks.\n\nAspect ratio: 16:9.\nDuration: approximately 30 seconds.\nNo text, no subtitles, no logos, no watermark, no distorted faces, no extra fingers, no unnatural anatomy.",
@@ -18457,6 +18898,27 @@
       ]
     },
     {
+      "id": "2116020268506419571",
+      "model": "Seedance 2.5",
+      "prompt": "30 second 16:9 landscape, 24fps, photoreal premium lifestyle commercial in the style of a fast get-ready-to-run vlog. Crisp natural daylight, soft white minimal apartment, warm skin tones, shallow depth of field, clean modern color grade with bright whites and deep navy accents. Fast rhythmic editing, one cut roughly every 1 to 2 seconds, every cut lands on a hand action or a footstep. No on-screen text, no captions, no logos, no readable lettering anywhere on products, packaging, clothing or buildings.\n\nCHARACTER: athletic man, late 20s, buzzed short hair, trimmed beard, thin gold chain, thin silver bracelet on right wrist. Starts in a loose white crew tee and navy compression shorts.\n\nPRODUCT: a futuristic slip-on running shoe with a seamless sprayed-on one-piece ivory knit upper that hugs the foot like a sock, no laces, a chunky navy segmented sole made of hollow cushioning pods, and one large charcoal abstract curl shape sprayed on the side panel. Matching white ribbed crew socks.\n\n0 to 2s: Bright white kitchen, marble island. Medium shot, he faces camera holding a large plain white shoebox against his chest, raises one eyebrow, slight smirk. Hook moment.\n\n2 to 4s: Overhead top-down on white marble. His hand taps the matte white lid twice, then slides it off in one smooth motion revealing folded white tissue paper.\n\n4 to 7s: Overhead. Fingers peel the tissue back, revealing the pair nested heel to toe. Both hands lift one shoe toward the lens, a finger traces the pod sole, then flips it to show the pale insole.\n\n7 to 9s: Macro close-up. His thumb presses into the ivory knit upper, it dents and springs back instantly. Slight rack focus to the sprayed charcoal curl.\n\n9 to 11s: Overhead. He slides open a small white box and pulls out a pair of white ribbed crew socks.\n\n11 to 13s: Bedroom doorway, locked-off full body, ceiling fan turning behind. Jump cut on a shoulder roll: white tee instantly becomes a white mesh running tank. He tugs the hem straight.\n\n13 to 15s: Low camera on light oak floor, bed softly blurred behind. Both hands pull a crew sock up his calf. Cut, one shoe drops into frame and bounces once on the floor.\n\n15 to 18s: Low side angle. His foot slides into the shoe in one push, he hooks a finger in the heel and pulls, the knit stretches and snaps snug around the ankle. Cut to front view, both feet planted together, weight shifts heel to toe.\n\n18 to 20s: Macro. Thumb flips open a white earbud case, a tiny green status light glows, he plucks one earbud. Cut, he slides a white phone into the thigh pocket of his compression shorts.\n\n20 to 22s: Close-up portrait, he settles a white running cap low, then slides on wraparound sport sunglasses with mirrored magenta lenses, stares straight into the lens.\n\n22 to 24s: Wide hallway shot, he strides out of frame left past the bedroom, quick and purposeful.\n\n24 to 27s: Outdoors, bright midday sun, ground-level camera on a gray brick sidewalk beside a glass office building and green trees. His shoe strikes the brick right in front of the lens, the pod sole compresses and rebounds, then a second foot passes in a light jog.\n\n27 to 29s: Handheld selfie camera held at arm's length, he jogs past glass storefronts, cap and magenta lenses catching sun, exhales sharply, small nod.\n\n29 to 30s: Looking-down first-person view at both shoes striding over sunbaked speckled asphalt, crisp hard shadows of his legs, a few fallen yellow leaves. Cut to black on the footfall.\n\nAUDIO: diegetic only, no music, no voiceover, no narration. Lid tap and cardboard slide, crisp tissue rustle, soft knit squeeze, sock fabric stretch, shoe bounce thud on wood, heel snap, earbud case click, pocket zip, light footsteps on wood, then outdoor ambience with distant traffic, birds, rhythmic shoe strikes on brick and asphalt, his steady breathing while running.\n\nLAST FRAME: top-down first-person view of the two ivory shoes mid-stride on sunlit asphalt with sharp leg shadows. Strictly no on screen text, no titles, no logos, no watermark, no lettering of any kind.",
+      "author": "bmx_ai13",
+      "author_url": "https://x.com/bmx_ai13",
+      "post_url": "https://x.com/bmx_ai13/status/2116020268506419571",
+      "date": "2026-10-30T12:12:00+08:00",
+      "likes": 18,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115974889299652608/vid/avc1/864x496/buWkYj4HlwBEe25_.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116020268506419571_0.jpg",
+          "width": 864,
+          "height": 496
+        }
+      ]
+    },
+    {
       "id": "2083384155770081469",
       "model": "Seedance 2.5",
       "prompt": "A major tip. If your prompt goes above 10,000 characters, translate it into Chinese as it has fewer characters per word. \n\n\"画面 (VISUALS)：\n全局摄影与风格指导： 高质量、惊悚的真人电影级恐怖风格。宽高比为 1:1 正方形。灯光营造出一种压抑、令人产生幽闭恐惧的混合氛围，交织着闪烁的中性白色 LED 灯与刺眼、脉冲式的琥珀色及血红色应急频闪灯，极力凸显深夜地铁站环境中的恐惧与孤立感。视觉美学优先考虑深邃、漆黑的阴影，以及银色金属装置和浅中性灰色瓷砖墙上高对比度的湿润反光。摄影完全避免停滞、重复的背部跟拍，而是采用高度动态、充满动感的手法，不断改变速度、屏幕方向和摄像机位置，以营造一种不可预测、令人恐惧的动作起伏感。快速移动时的物理运动模糊、大气雾感以及极具冲击力的照片级逼真水体物理效果至关重要。主角是 @image1（一位金发女性）。在所有镜头中，请保持完全相同的人物和发型，不可有任何偏差。\n场景 1 (Scene 1)： 高角度对角线俯视全景，捕捉地下灾难瞬间爆发的庞大规模。一股巨大、骇人的浑浊洪水——夹杂着翻滚的黑色泥浆、看不见的碎片和白色泡沫——从左后方的地铁站台猛烈喷涌而出，将车站的死寂瞬间粉碎。在画面的中左侧，@image1 立即做出反应，带着绝对的、双眼圆睁的绝望，向远处最右侧漆黑的应急竖井全速狂奔。该镜头在一个极具不祥预兆的混乱画面中，瞬间确立了压倒性的环境威胁、主角的脆弱性以及唯一一条极其危险的逃生路线。\n场景 2 (Scene 2)： 沿着 @image1 平行移动的低角度对角线跟拍，捕捉她以极高速度、惊恐万分地冲向一排金属闸机。她没有盲目地用身体撞击障碍物；相反，完全凭借肾上腺素的爆发，她将脚重重地踩在湿滑的瓷砖上猛力蹬起，完成了一个极其拼命的、全身越过闸机的腾空动作。摄像机在起跳至跳跃最高点的过程中运用了短暂而高度风格化的慢动作效果，在闪烁的红色应急灯背景下清晰地定格了她悬空的姿态。就在她即将落地的前一瞬，画面猛然恢复实时速度，极大地强调了她落地时那沉重、震颤的物理冲击力。就在她双脚触地的瞬间，身后汹涌的浑浊洪水彻底吞噬了闸机，狂暴地扭曲并折断了沉重的金属。\n场景 3 (Scene 3)： 极具威胁感地贴近地面的低角度固定镜头，直指一扇沉重、正在快速下降的钢制防水卷帘门。@image1 从惊慌失措的狂奔完美过渡为在被水淹没的地板上进行低姿态、摩擦式的滑铲，拼命将自己推过迅速缩小的缝隙。就在她的脚尖掠过门槛的绝对瞬间，巨大的钢制卷帘门带着毁灭性的最终冲击力猛砸在混凝土地面上，暂时将恐怖封锁在了门后。\n场景 4 (Scene 4)： 短促的近乎头顶上方的跟拍。车站的结构完整性全面崩溃。混凝土地板在她的脚后跟后方仅几英寸处不断碎裂、塌陷，坠入黑暗咆哮的深渊。@image1 突然改变轨迹，从画面的左下角转向右上角，极其惊险地斜向跃至一块暂时稳定的残存地板上。她刚刚蹬地的那个位置立刻崩塌，被黑暗无情吞没。\n场景 5 (Scene 5)： 一块巨大、沉重的天花板指示牌从其加固支架上撕裂，斜向砸向地面，眼看就要将她压碎并彻底封死通道。在完全没有减速或打破狂奔节奏的情况下，@image1 在即将遭受致命撞击的前一刻完成了一个极其利落的 90 度急转，将全身抛入一条狭窄、令人窒息的侧面维修通道。摄像机在她穿过镜头的瞬间执行了一个暴烈的快速甩镜头（whip-pan），极具侵略性地强调了方向的突变以及这条黑暗新隧道的强烈幽闭恐惧感。几分之一秒后，巨大的指示牌在她身后重重砸在地上，将主通道彻底埋葬在黑暗和浓重的灰尘之中。\n场景 6 (Scene 6)： 涵盖垂直应急竖井整个底部的低角度固定全景。就在 @image1 抵达生锈爬梯的瞬间，她刚才避开的那扇钢制卷帘门在极度反常的巨大水压下发生扭曲并向外炸裂。一堵巨大的浑浊水墙，夹杂着咆哮的白色水花和毁灭性的力量，疯狂涌入这个狭窄的维修空间。她拒绝放弃，利用最后一步冲刺的惯性，将自己猛地抛向生锈的金属横档。洪水猛烈地撞击她下方的墙壁，翻滚的水面极度危险地逼近她的脚部，仿佛一个活着、挣扎着的怪物，企图将她拖入深渊。\n场景 7 (Scene 7)： 极高角度俯拍，从上方出口处垂直向下俯视深邃、黑暗的应急竖井。@image1 保持着疯狂向上的势头，以极其消耗体力的极速攀爬着垂直爬梯。摄像机随着她的进度快速向上后退，而下方黑暗中反常且快速上涨的水位正狂暴地追赶着她，在骇人的巨浪中吞没了一根又一根横档。她终于够到了上方唯一一个敞开的矩形维修舱口，拼命用双手死死抓住湿滑的混凝土边缘。镜头在她头部和肩膀破水而出、突破地表的那一确切瞬间切断。\n场景 8 (Scene 8)： 深夜里一条荒凉、被雨水打湿的柏油路的低角度广角镜头。这里的灯光与地下的环境形成强烈对比，清晰地分离了背光的明亮白色雨滴与头顶路灯散发的温暖却病态的光晕。@image1 带着绝望的惯性从那个矩形维修舱口猛冲而出，将身体狠狠地摔在湿滑的路面上。她立即连滚带爬地站起来，头也不回地冲进倾盆大雨中，保持着极度惊恐的逃生姿态。就在这千钧一发之际，一道高压、巨大的黑色水柱从她身后的同一个舱口垂直喷发，在夜空下的道路上猛烈爆炸成巨大的、反常的白色水雾间歇泉。她迅速跑出画面，向着黑暗、多雨的阴影处斜向狂奔。\n场景 9 (Scene 9)： 缓慢的跟拍全景。@image1 在一条废弃、昏暗的城市小巷中气喘吁吁地狂奔，倾盆大雨将她浑身湿透。她终于放慢了脚步，重重地靠在一堵潮湿、斑驳的砖墙上，大口喘息着，似乎以为自己已经逃脱了那场地下的噩梦。突然，她脚边深深的水坑开始剧烈震动，泛起一种极其反常频率的涟漪。一个巨大且令人窒息的阴影笼罩了整条小巷。摄像机充满恐惧地、缓慢地向上倾斜，揭示出从舱口喷发出的巨大水柱并没有落回地面——它在半空中凝聚并冻结，完全违背了地心引力。这团庞大的液体开始缓慢地扭曲、拉伸、变形，最终化作一个参差不齐、没有面孔的人形怪物，数百英尺高地耸立在城市天际线之上。这个实体缓慢地低下它巨大的、水构成的头颅，将其不可见、充满恶意的目光直接锁定在瘫痪、极度恐惧的 @image1 身上，随后缓缓举起一只巨大的手，企图将整个街区碾成粉末。\n音效与对话 (AUDIO & DIALOGUE)：\n全局音频指导： 音频环境的基调是一段快速、极具攻击性的电影级打击乐配乐，它随着局势的不断恶化而无情地增强。声音设计刻意将特定、具有强烈冲击力的音效推至混音的最前台，在关键动作（落地、撞击、汹涌的洪水）发生时大幅压过音乐，以极大地提升主角那种发自肺腑的恐慌、震惊与孤立感。\n场景 1 音效 (Scene 1 SFX)： 远处传来金属结构因受力而发出的不祥呻吟声，紧接着是震耳欲聋、爆炸般的轰鸣——巨大的主水管破裂，混凝土在巨大的压力下猛烈碎裂。\n场景 2 音效 (Scene 2 SFX)： 湿鞋在光滑瓷砖上打滑时发出的急促、疯狂的吱吱声。在短暂的慢动作跨越期间，音频音量极具侵略性地骤降，只剩下 @image1 沉重、沉闷且充满恐惧的心跳声。落地时，一声极其清脆、震荡的沉闷“砰”声回荡开来，紧接着是金属闸机被汹涌的洪水连根拔起时发出的极其暴烈、撕裂般的金属尖啸。\n场景 3 音效 (Scene 3 SFX)： 身体在潮湿、布满沙砾的地板上滑行时发出的刺耳、令人痛苦的金属摩擦声。该场景结束于一声极其可怖、震耳欲聋的回声巨响（SLAM）——沉重的钢制卷帘门砸向地面，引发了一阵震动低频的深沉轰鸣。\n场景 4 音效 (Scene 4 SFX)： 持续、深沉、灾难性的隆隆声震动着整个声场。厚重的混凝土像脆弱的骨头一样断裂并发出的清脆断裂声，随后是它们坠入似乎无底深渊的声响。\n场景 5 音效 (Scene 5 SFX)： 天花板上固定金属螺栓断裂时发出的高频尖啸声。指示牌砸在地板上引发了一阵仿佛能震碎骨头的巨大撞击声（CRASH），彻底主导了混音，并粗暴地切断了她身后回荡的车站环境音，取而代之的瞬间是狭窄维修通道里那种紧绷、死寂且令人幽闭恐惧的声学环境。\n场景 6 音效 (Scene 6 SFX)： 加固卷帘门发生灾难性失效时发出的一声突兀、爆炸性的轰鸣（BOOM）。高压水流涌入狭小封闭空间时那种震耳欲聋、汹涌澎湃的轰隆声，被严重扭曲，听起来几乎像是某种巨大野兽从喉咙深处发出的咆哮。她的手脚拼命抓住金属梯子横档时发出的尖锐、疯狂的铿锵声。\n场景 7 音效 (Scene 7 SFX)： 回荡着的急促呼吸声和 @image1 因体力透支而发出的疯狂、恐慌的喘息声。不断上涨的洪水在混凝土竖井向上回荡时产生的极其恐怖的极速奔涌声，每一秒钟都在以指数级变得更响亮、更具压迫感，仿佛要淹没所有其他的物理声音。\n场景 8 音效 (Scene 8 SFX)： 倾盆大雨重重砸在坚硬柏油路面上发出的沉重打击声。主角猛烈、绝望地吸入新鲜空气的声音，紧接着是湿润路面上疯狂、水花四溅的脚步声。一次突然的、雷鸣般的喷发——一声低频的深沉轰鸣，伴随着高压水柱猛烈喷射进寒冷夜空时的狂暴嘶嘶声。\n场景 9 音效 (Scene 9 SFX)： 混乱、富有驱动力的打击乐配乐缓慢而充满不祥预兆地完全淡出，只剩下大雨的孤立声响和 @image1 靠在砖墙上那断断续续、充满恐惧的喘息声。环境雨声开始极其反常地扭曲，变形并降调成一种低沉、震动且令人毛骨悚然的嗡嗡声。整个场景结束于一声震耳欲聋、扭曲现实的电影级重低音下潜——这种声音如此低沉、不自然且充满压迫感，暗示着某种极其庞大、不可名状的邪恶降临——随后在最后那一刻极其突兀地切入绝对的死寂。\"",
@@ -18747,6 +19209,27 @@
           "poster": "posters/2115775665643426258_0.jpg",
           "width": 1080,
           "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "2116009719127314849",
+      "model": "Seedance 2.5",
+      "prompt": "VIDEO PROMPT:Cinematic action sequence, 16:9, gritty realistic style. Setting: a run-down Korean night classroom at 10 PM, peeling dark-green walls, flickering fluorescent tubes, wooden desks, old brown sofa, scattered books, dusty air. Subtitle \"10 PM, night class\" appears at the start.\n\nShot 1: Medium close-up. A huge bald muscular man in a black tank top and gold chains smirks and puts his hand on the shoulder of a young woman with long straight black hair, wearing a light-blue sleeveless top and a black-and-white striped track jacket. Students watch nervously in the background. She stays calm.\n\nShot 2: She suddenly turns and throws him across the room; he crashes onto a desk, books and papers flying.\n\nShot 3–6: A fast-paced one-woman fight against several more men (a heavy man in grey sweats, a curly-haired man swinging a bottle, a man in an olive jacket). Dynamic handheld camera, whip pans, slow-motion impact moments, hair whipping with each move, desks and chairs breaking.\n\nFinal shot: Wide, low-angle. The room is wrecked, bodies on the floor, dust floating in the light. She stands still and composed, jacket slipping off her shoulders. Subtitle: \"(Class dismissed.)\"\n\nMood: tense to explosive to cool. Color grade: desaturated green-grey with a pop of light blue. Audio: heavy impact sounds, breaking wood, a quiet final beat.",
+      "author": "Sadiya_50",
+      "author_url": "https://x.com/Sadiya_50",
+      "post_url": "https://x.com/Sadiya_50/status/2116009719127314849",
+      "date": "2026-10-30T11:30:05+08:00",
+      "likes": 17,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116009638609190912/vid/avc1/1280x720/29viMTCfeo-QCdSf.mp4",
+          "duration_s": 25.5,
+          "poster": "posters/2116009719127314849_0.jpg",
+          "width": 1280,
+          "height": 720
         }
       ]
     },
@@ -19818,6 +20301,27 @@
           "poster": "posters/2115303797706920360_0.jpg",
           "width": 854,
           "height": 480
+        }
+      ]
+    },
+    {
+      "id": "2116017216747720918",
+      "model": "Seedance 2.5",
+      "prompt": "Create a ~20-second, 16：9 vertical, 24fps live-action Halloween fantasy comedy short.\nConcept: “The Cat Witch’s Prank”\nOverall tone:\nCute Halloween, cat POV, light fantasy, playful chase comedy, and polished social-media short-film energy.\nThe mood should feel warm, mischievous, slightly magical, and funny — never scary, violent, disturbing, or horror-driven.\nKeep the visuals photorealistic and cinematic, like a high-quality Halloween pet commercial.\nMain Character\nThe main character is one small orange tabby cat.\nAppearance:\nSmall body\nRound face\nShort orange tabby fur\nAmber eyes\nSlightly oversized black witch hat\nDeep purple hat band\nSmall orange-and-black bow tie around the neck\nThe same exact cat must remain consistent throughout the entire video.\nDo not change the breed, fur color, body size, face, hat, or accessories.\nThere is only one cat in the entire film.\nNo humans appear.\nCamera Style\nThe video is primarily shown from the cat’s first-person point of view.\nKeep the camera low, close to the cat’s eye level, with subtle natural movement as if the cat is sneaking through the environment.\nOccasionally show:\nThe cat’s orange front paws\nThe tip or edge of the witch hat entering the top of frame\nThe cat’s shadow on the ground\nBrief reflections of the cat in glass, windows, or metal decorations\nThese details should make it clear that the viewer is experiencing the scene through the witch cat.\nAvoid excessive cuts.\nKeep movement continuous and spatial relationships easy to follow.\n0–4 sec — Sneaking Toward the Pumpkins\n\nHalloween midnight.\nA quiet suburban front porch lit by warm amber porch lights.\nThree jack-o’-lanterns of different sizes sit near the front door.\nThe porch includes subtle Halloween decorations, a few fallen leaves, candles, and wooden steps.\nFrom the cat’s low first-person POV, the camera slowly moves forward.\nTwo small orange paws carefully step across the wooden porch.\nThe pointed tip of the witch hat occasionally swings into the top edge of frame.\nThe cat quietly approaches the largest jack-o’-lantern.\nSound:\nSoft paw steps on wood, distant crickets, and subtle playful sneaking music.\nThe cat stops directly in front of the pumpkin.\n4–8 sec — The Spell\nThe cat lifts one front paw.\nA tiny ring of soft purple magic appears just in front of the paw.\nThe magic should feel delicate, cute, and mischievous — not powerful or explosive.\nThe paw gently swipes through the air.\nAll three jack-o’-lanterns suddenly glow purple through their eyes.\nThe cat pauses for about 0.3 seconds.\nThe camera slowly leans closer toward one pumpkin.\nThe pumpkin suddenly gives a tiny shake.\nThe cat freezes in surprise.\nSound:\nA soft “ting,” a tiny “poof,” followed by a small squeak.\n8–12 sec — The Prank Goes Wrong\nThe largest jack-o’-lantern begins a cute magical transformation.\nDo not make it explode or become grotesque.\nFour tiny mouse-like feet appear underneath it.\nTwo small rounded mouse ears pop out from the sides.\nA thin mouse tail appears behind it.\nThe pumpkin itself stays round, recognizable, and pumpkin-shaped.\nThe second and third jack-o’-lanterns transform the same way.\nNow all three pumpkin mice begin scampering quickly across the porch.\nFrom the cat POV, the camera takes one small step backward.\nOne pumpkin mouse turns and faces the cat.\nPause for about 0.3 seconds.\nAll three pumpkin mice squeak together:\n“Squeak!”\nThen they suddenly charge toward the cat.\n12–17 sec — Reverse Chase\nThe cat immediately turns and runs.\nThe first-person camera moves quickly but remains readable and controlled as the cat runs back across the porch.\nVisible in frame:\nFast-moving orange paws\nThe witch hat tip bouncing wildly near the top of frame\nThe cat’s shadow racing across the wooden floor\nThe camera briefly looks backward.\nAll three glowing pumpkin mice are chasing the cat.\nTheir tiny legs move rapidly while they squeak:\n“Squeak, squeak, squeak!”\nOne pumpkin mouse runs too fast and bumps into another.\nBoth roll once across the porch, quickly pop back upright, and immediately continue chasing.\nKeep the moment cute and slapstick, never dangerous.\nThe playful Halloween music speeds up into a fast comedic rhythm.\n17–20 sec — Final Twist\nThe cat hides behind a large porch planter.\nThe camera slowly peeks around the edge of the planter.\nEverything suddenly becomes quiet.\nThe three pumpkin mice are gone.\nThe cat relaxes.\nPause for about 0.5 seconds.\nThen one tiny pumpkin mouse slowly rises into frame from directly below the camera, extremely close to the cat.\nIt looks up.\n“Squeak?”\nThe cat suddenly jerks backward in surprise.\nThe witch hat falls off and lands directly in front of the camera.\nCUT TO BLACK.\nFinal sound:\nOne surprised “Meow!”\nThen a tiny comedic magical “poof.”\nVisual Direction\nPhotorealistic live-action pet cinematography.\nColor palette:\nWarm orange pumpkin light, deep blue nighttime shadows, and subtle purple magic accents.\nThe pumpkin mice should feel:\nCute, round, tactile, believable, and lightly magical.\nThey must not have:\nSharp teeth, disturbing faces, grotesque features, blood, or horror elements.\nThe cat’s movements must follow realistic feline behavior:\nLight footsteps, natural pauses, believable body reactions, realistic running, and natural ear and tail responses.\nMagic effects should stay small, elegant, clean, and playful.\nAvoid oversized fantasy VFX.\nSound Design\nNo human dialogue.\nUse:\nSoft cat paw sounds\nSmall meows\nMouse squeaks\nLight magical ting and poof effects\nPumpkin rolling sounds\nWitch hat falling sound\nPlayful Halloween background music\nMusic pacing:\nSneaky and quiet at first, faster during the transformation, energetic and comedic during the chase, then suddenly quiet before the final punchline.\nAvoid\nNo humans.\nNo second cat.\nNo breed changes.\nNo cat transforming into a human.\nNo talking cat.\nNo realistic horror monsters.\nNo blood.\nNo injuries.\nNo sharp teeth.\nNo disturbing faces.\nNo horror sound design.\nNo extreme camera shake.\nNo pumpkin explosions.\nNo extra limbs.\nNo subtitles.\nNo logos.\nNo watermarks.",
+      "author": "ImaStudio_ai",
+      "author_url": "https://x.com/ImaStudio_ai",
+      "post_url": "https://x.com/ImaStudio_ai/status/2116017216747720918",
+      "date": "2026-10-30T11:59:52+08:00",
+      "likes": 13,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116015908368035841/vid/avc1/1280x720/FtheYQbH0pmGTtRa.mp4",
+          "duration_s": 20.7,
+          "poster": "posters/2116017216747720918_0.jpg",
+          "width": 3840,
+          "height": 2160
         }
       ]
     },
@@ -21040,6 +21544,27 @@
       ]
     },
     {
+      "id": "2116145309357142072",
+      "model": "Seedance 2.5",
+      "prompt": "the clock hits 5pm, she vaults a desk, slides down the stairs, jumps over a taxi and catches a cocktail mid-slide.\n\nKling 4.0: $1.98\nSeedance 2.5: $1.73\nMiniMax H3: $0.60\nWan",
+      "author": "openclipsai",
+      "author_url": "https://x.com/openclipsai",
+      "post_url": "https://x.com/openclipsai/status/2116145309357142072",
+      "date": "2026-10-30T20:28:52+08:00",
+      "likes": 9,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116145095963480064/vid/avc1/1280x720/gvSVnkY7vuRE_GvN.mp4",
+          "duration_s": 15.1,
+          "poster": "posters/2116145309357142072_0.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    {
       "id": "2109261220360470867",
       "model": "Seedance 2.5",
       "prompt": "Create a 30-second ultra-realistic Korean high-school K-drama comedy clip set in a bright school hallway. Use the attached image as the exact character reference, keeping both characters' faces, hairstyles, outfits, body proportions, and overall appearance perfectly consistent. The boy wears a navy button cardigan over a light blue shirt, beige trousers and black shoes. The girl has long straight black hair, a white sundress, a mint-green cardigan and white sneakers. Many students in grey and navy outfits, holding green folders, crowd around and watch.\n\nThe clip opens with a handheld close-up of the boy's irritated face as a blurred sleeve swipes across the lens. The camera moves to a medium shot: the boy and girl argue and shove each other in front of a green bulletin board and wooden lockers. He points his finger at her face; the students gasp and cover their mouths.\n\nThe girl spins, her hair and skirt flying, and hits him with a fast side kick. He stumbles sideways and falls, with quick comedic cuts and the crowd reacting. The camera moves into a tense close-up two-shot, faces inches apart: he talks angrily with hand gestures while she stays calm with a confident smirk. A low-angle floor shot shows her white sneakers lunging forward and his leg flying up. The camera slowly pulls back to a wide hallway shot: the boy lies flat on the floor, the girl stands tall above him, and the whole crowd freezes in shock.\n\nUse photorealistic K-drama cinematography with handheld camera movement, whip pans, quick zooms, shallow depth of field, natural skin tones, soft daylight from the hallway windows and natural motion blur. Natural audio only: natural lip-sync, hallway echo, crowd gasps and murmurs, footsteps on the polished floor and impact sounds. No music, no narration, no subtitles, no text, no watermark, no beauty filters, no CGI look, no outfit changes, and no character changes.",
@@ -21225,6 +21750,27 @@
           "poster": "posters/2115803094818922745_0.jpg",
           "width": 864,
           "height": 496
+        }
+      ]
+    },
+    {
+      "id": "2116008783256408120",
+      "model": "Seedance 2.5",
+      "prompt": "Actually, I originally used Onryō for the woman in white, a vampire for the gentleman, and an antlered creature for the forest figure. But for some reason, Seedance 2.5 kept rejecting the prompt.\n\nPrompt:\n\nTITLE: THE LAST ARRIVAL\n\nSTYLE: Cinematic supernatural mystery, atmospheric, elegant, moody, photorealistic live-action\n\nCORE IDEA:\nAt midnight in a fictional modern city, three mysterious figures from different supernatural traditions encounter a strange train that appears from the fog. The mood is eerie and suspenseful, but not violent or graphic.\n\nVISUAL STYLE:\nRainy streets, soft neon reflections, gentle fog, moody blue and silver lighting, quiet empty avenues, cinematic camera movement, realistic live-action style, atmospheric and mysterious, not frightening, no gore, no disturbing imagery.\n\nCHARACTERS:\nTHE GENTLEMAN: A pale elegant man in a long dark vintage coat, calm and reserved.\n\nTHE WOMAN IN WHITE: A mysterious East Asian woman with long dark hair and a flowing white robe, graceful and silent.\n\nTHE FOREST FIGURE: A tall nature spirit with branch-like antlers, dark wooden textures, and soft amber eyes.\n\nTHE GUIDE: A quiet conductor in a vintage dark uniform, face softly hidden in shadow.\n\n[SHOT 1 — 0–5s]\nEXT. FICTIONAL CITY CENTER — MIDNIGHT\n\nA quiet city street at night during light rain. Reflections shimmer on the pavement. The Gentleman stands beneath a glowing streetlamp and notices a stairway leading underground.\n\nCAMERA:\nSlow cinematic aerial descent into a medium shot.\n\nAUDIO:\n<Light rainfall>\n<Distant soft thunder>\n(Soft ambient music with gentle mystery)\n\nTRANSITION:\nSoft cut.\n\n[SHOT 2 — 5–10s]\nEXT. STAIRWAY ENTRANCE\n\nThe Woman in White slowly walks up the stairs through drifting mist. Behind her, the Forest Figure appears calmly through the fog. They pause and look toward a bright light in the distance.\n\nCAMERA:\nLow-angle tracking shot with smooth motion.\n\nAUDIO:\n<Soft footsteps>\n<Light wind>\n(Gentle rising strings)\n\nTRANSITION:\nClean cut.\n\n[SHOT 3 — 10–15s]\nEXT. CITY STREET — CONTINUOUS\n\nThe three figures meet under a glowing sign. Nearby lights fade one by one, and a cool silver glow spreads across the street. The figures quietly turn in the same direction.\n\nCAMERA:\nThree close-ups, then a centered wide shot.\n\nAUDIO:\n<Soft electric hum fading>\n<One distant bell tone>\n(Music softens briefly)\n\nTRANSITION:\nSlow reveal into fog.\n\n[SHOT 4 — 15–22s]\nEXT. FOGGY STREET — CONTINUOUS\n\nA vintage silver train glides smoothly out of the fog along the empty street. Warm light glows from its windows. Inside, calm passengers sit quietly in silence. In the last carriage stands the Guide.\n\nThe three figures step aside and watch.\n\nCAMERA:\nWide tracking shot alongside the train, ending with a gentle push toward the last carriage.\n\nAUDIO:\n<Soft train rumble>\n<Subtle metallic resonance>\n(Ethereal choir texture, very soft)\n\nTRANSITION:\nMatch cut toward the doorway.\n\n[SHOT 5 — 22–27s]\nINT. LAST CARRIAGE\n\nThe Guide slowly raises one hand in a welcoming gesture. The passengers turn their attention toward the camera. The train doors open, revealing a long softly lit corridor.\n\nCAMERA:\nCentered dolly-in with symmetrical framing.\n\nAUDIO:\n<Soft door chime>\n<Quiet ambient hum>\n\n{GUIDE, English, calm gentle voice: \"Your seat is ready.\"}\n\nTRANSITION:\nGentle cut.\n\n[SHOT 6 — 27–30s]\nPOV — TRAIN DOORWAY\n\nThe camera slowly moves toward the open doorway. Inside, the corridor stretches into soft glowing light. The lights dim one by one in the distance. The doors close slowly.\n\nCut to black.\n\nAUDIO:\n<Soft train door closing>\n<One final bell tone>\n(Music fades into silence)\n\nFINAL REQUIREMENTS:\nNo blood, no gore, no violence, no disturbing body movement, no jump scare, no public place names, no city brand names, no real-world transit names, no text on screen, no subtitles, no logos.\n\nKeep the tone mysterious, elegant, atmospheric, cinematic, and emotionally intriguing.",
+      "author": "junwatu",
+      "author_url": "https://x.com/junwatu",
+      "post_url": "https://x.com/junwatu/status/2116008783256408120",
+      "date": "2026-10-30T11:26:22+08:00",
+      "likes": 8,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116008348520947712/vid/avc1/1280x720/WkyET3IbSjSKkflM.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116008783256408120_0.jpg",
+          "width": 1280,
+          "height": 720
         }
       ]
     },
@@ -21608,6 +22154,48 @@
           "mp4": "https://video.twimg.com/amplify_video/2115887594089160704/vid/avc1/720x1280/BPHAZpLSOFsURsjM.mp4",
           "duration_s": 16.1,
           "poster": "posters/2115888021690012081_0.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "2116190896060502059",
+      "model": "Seedance 2.5",
+      "prompt": "a ballerina on a rooftop in the rain, a pirouette, a leap over a puddle and an arabesque against the city lights.\n\nKling 4.0: $1.32\nKling 3.0: $0.63\nSeedance 2.5: $1.15\nSeedance 2.0: $0.76\n\nOld or new, which one would you pick? The full prompt is in the comments 👇\n\n*price per 10s clip at 720p on OpenClips MAX",
+      "author": "openclipsai",
+      "author_url": "https://x.com/openclipsai",
+      "post_url": "https://x.com/openclipsai/status/2116190896060502059",
+      "date": "2026-10-30T23:30:01+08:00",
+      "likes": 7,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116176918290563072/vid/avc1/1280x720/RwiG9g97GiP02HO9.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2116190896060502059_0.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2116159292302614943",
+      "model": "Seedance 2.5",
+      "prompt": "Real amateur iPhone video, vertical, filmed handheld at night at a crowded Halloween house party by someone crouching in front of a couch, the phone held at face level very close to the two women on the couch. Harsh direct phone flash mixed with warm orange string lights and flickering candles inside carved pumpkins in the background, fake cobwebs on the walls, adult guests in Halloween costumes blurred behind them, shaky handheld camera, auto-exposure flicker, visible digital noise and grain, slight motion blur, candid unedited footage, no cinematic color grading, messy and unpolished, nothing symmetrical, looks like a real video posted on social media. From the very first frame, two different beautiful young women sit side by side on the couch, close to the camera, they do not look alike, both are real gorgons like Medusa. The woman on the left has tanned skin, freckles, green eyes, red lipstick and wears a red velvet dress; instead of hair, dozens of thin live green and black snakes of different lengths grow from her head. The woman on the right has pale skin, dark eyes, a small nose piercing, black lipstick and wears a black lace dress; instead of hair, dozens of thin live red-and-black striped snakes of different lengths grow from her head. The snakes are real living snakes with real snake heads, shiny scales and flicking tongues, each snake moving on its own in a different direction, constantly writhing, curling, rising and dropping, never still, clearly visible under the flash. Both women hold their cupped hands up in front of their faces, and the filmer's hand enters the frame with a clear plastic bag of colorful gummy worms and pours the whole bag into their hands. The woman on the left quickly puts a gummy worm into her mouth, and one of her own snakes instantly snatches it right out of her lips. Then chaos: the snakes from both heads strike at the gummy worms in their hands one after another at different moments, chaotically, in all directions, snakes from the left head steal worms from the right woman's hands and fight with her snakes, hissing, gummy worms flying, the two snake hairdos tangling together in several messy places at once. The women's heads get yanked toward each other and stuck together by the tangled snakes. The woman on the left is furious, yanking her head and yelling at her own snakes, while the woman on the right first freezes in shock, then bursts out laughing so hard she snorts, a moment later the left woman cracks and starts laughing too, the snakes still chewing gummy worms and writhing around their faces, the camera shaking because the filmer is laughing. Real physics of the snakes and their movement, natural sounds only: hissing snakes, plastic bag rustling, angry yelling, snorting laughter, the filmer's laughter, muffled Halloween party music and chatter in the background.",
+      "author": "devgetsit",
+      "author_url": "https://x.com/devgetsit",
+      "post_url": "https://x.com/devgetsit/status/2116159292302614943",
+      "date": "2026-10-30T21:24:26+08:00",
+      "likes": 7,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116158740147650560/vid/avc1/720x1280/GzctHVqtX019j8sZ.mp4",
+          "duration_s": 15.1,
+          "poster": "posters/2116159292302614943_0.jpg",
           "width": 1080,
           "height": 1920
         }
@@ -22324,6 +22912,27 @@
           "poster": "posters/2115053129729479028_0.jpg",
           "width": 1920,
           "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2115978966913917276",
+      "model": "Seedance 2.5",
+      "prompt": "Wide establishing: Wide shot, woman standing calmly near the train doors looking ahead, two men in black jackets close behind her, one reaching toward her handbag, passengers seated in background.\nExtreme close-up: Extreme close-up of a man's hand slidi",
+      "author": "sophiawithai",
+      "author_url": "https://x.com/sophiawithai",
+      "post_url": "https://x.com/sophiawithai/status/2115978966913917276",
+      "date": "2026-10-30T09:27:53+08:00",
+      "likes": 5,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115978288250404864/vid/avc1/1268x718/JayBXLPiRYcHbCm7.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2115978966913917276_0.jpg",
+          "width": 1268,
+          "height": 718
         }
       ]
     },
@@ -25390,6 +25999,48 @@
           "poster": "posters/2115324667510849610_0.jpg",
           "width": 720,
           "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "2116243784585576641",
+      "model": "Seedance 2.5",
+      "prompt": "Create a premium cinematic UGC-style perfume commercial for ACQUA DI GIO perfume by",
+      "author": "zaviaanroy",
+      "author_url": "https://x.com/zaviaanroy",
+      "post_url": "https://x.com/zaviaanroy/status/2116243784585576641",
+      "date": "2026-10-31T03:00:10+08:00",
+      "likes": 1,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116243739589181440/vid/avc1/720x1280/HXlSs64cc3oDtXpt.mp4",
+          "duration_s": 30.0,
+          "poster": "posters/2116243784585576641_0.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "2116242996371091717",
+      "model": "Seedance 2.5",
+      "prompt": "GLOBAL STYLE: Vertical 9:16, 30 seconds, eight shots. A Halloween dance short. Handmade claymation stop-motion look with feature-film quality character animation, appealing rounded character design, expressive squash and stretch, plasticine clay texture with subtle fingerprints, miniature handmade set, warm cinematic candlelight and blue moonlight. The characters move with slightly choppy stop-motion timing, while the camera moves smoothly. The camera work starts calm and gets bigger, faster and more dramatic shot by shot, then stops dead still in the last shot for the punchline. Fast, funny and full of energy; a little spooky only at the very start. Cuts land on the beat. Consistent character design in every shot.\nREFERENCES: @Image1 is Maki, a small chubby clay mummy; keep its cream clay bandages, the dark gap with two big white round eyes with black pupils, the curled bandage end on top of its head, the pumpkin-orange bow tie and the pumpkin-orange high-top sneakers with cream toe caps and a round cream patch on the side exactly. @Image2 shows the three tiny clay jack-o'-lantern dancers with thin brown stick arms and legs and glowing carved grins, normal in the top row and wrapped in bandages like mini mummies in the bottom row; they wear no bow ties and no shoes. @Image3 is the midnight ballroom set: a glossy checkered floor, a candle chandelier, a tall arched window with a full moon, red velvet curtains, a staircase on the right, glowing jack-o'-lanterns, and an old wooden coffin with a single lid leaning against the wall on the left.\nSHOT 1 (0-3s): Wide, eye-level, a locked-off camera with a very slow push-in. The coffin is on the left third of the frame; the moonlit window and the chandelier are on the right. The coffin lid creaks open just a crack, and two round white eyes glint in the dark gap.\nSHOT 2 (3-6s): Full shot, slightly low angle. The lid bursts open in a puff of dust. Maki leaps out toward the upper right with its arms and legs spread wide in a star pose, the soles of its sneakers toward the camera. The camera tilts up with the leap and pans a little to the right, then Maki lands with a squashy bounce.\nSHOT 3 (6-10s): Medium wide tracking shot at floor height. The camera dollies to the right alongside Maki as it does a big, fast tap-step shuffle from left to right in the foreground, sneakers squeaking on the checkered floor. Behind it on the left, the three jack-o'-lantern dancers from @Image2 pop up out of the floor one, two, three in little bursts of clay crumbs.\nSHOT 4 (10-14s): Low angle with a wide lens, so Maki's sneakers look big in the foreground. The camera pushes in fast and arcs a little toward the front. Maki in the center and the three dancers on both sides hit the same dance moves in sync, then freeze on the beat: one index finger pointing up, the other hand on the hip.\nSHOT 5 (14-18s): Full shot, eye-level. Maki closes its eyes with a happy smile and spins faster and faster like a top in the center of the floor; long bandage strips start to unravel and spiral around it. The dancers on the left and right press their hands to their cheeks in shock. The camera orbits half a circle around Maki at waist height, speeding up with the spin.\nSHOT 6 (18-22s): The camera keeps rotating and cranes up quickly in a spiral until it looks straight down from just under the chandelier. Seen from above, huge bandage ribbons swirl across the checkered floor in one giant spiral. Maki in the center raises both arms with its eyes closed, and the ribbons wrap the three dancers into the mini mummies from @Image2. Maki stays mostly wrapped and keeps its look.\nSHOT 7 (22-26s): The camera swoops down fast from high above to a low angle, then whips around in front of Maki and the three mini-mummy dancers as they jump high together and freeze in mid-air in a big matching pose with arms spread wide. Paper bats and autumn leaves burst around them like confetti. They land, and Maki's eyes turn into dizzy spirals like in @Image1.\nSHOT 8 (26-30s): A hard cut to the exact framing of Shot 1, with the camera locked and still. Dizzy Maki wobbles, steps on its own trailing bandage end, slips, and tumbles head first from right to left into the open coffin, sneakers kicking up in the air. The lid slams shut, and only at that moment the camera gives a small shake. On the right, the three mini-mummy dancers cover their faces. Hold on the closed coffin for the last second.\nAUDIO: An original instrumental Halloween dance track with no vocals, about 128 beats per minute. It opens with a low creak and a spooky hum; the music kicks in with a big hit when the lid bursts open: a bouncy, punchy spooky electro-swing groove with brass stabs, walking bass, hand claps and a theremin-like synth. It grows with the camera, peaks during the overhead spiral, and lands one huge final hit on the mid-air pose. A record scratch stops the music as Maki slips, followed by a cartoon tumble, a loud lid slam and silence. Add sneaker squeaks, clay squishes on every landing, three pops for the dancers, and whooshing ribbons.\nAvoid: any text, letters, numbers, subtitles, captions, logos, brand names, watermarks, pencil-sketch look, real people, gore, blood, scary realistic faces, bow ties or shoes on the pumpkin dancers, extra limbs, flickering, sudden style changes, smooth plastic CGI look, choreography copied from famous music videos.",
+      "author": "by2lGwfvhOkrAV2",
+      "author_url": "https://x.com/by2lGwfvhOkrAV2",
+      "post_url": "https://x.com/by2lGwfvhOkrAV2/status/2116242996371091717",
+      "date": "2026-10-31T02:57:02+08:00",
+      "likes": 1,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116242965337358336/vid/avc1/480x854/qup_j2EPcSTRWcyw.mp4",
+          "duration_s": 29.0,
+          "poster": "posters/2116242996371091717_0.jpg",
+          "width": 480,
+          "height": 854
         }
       ]
     },
@@ -29317,6 +29968,69 @@
           "poster": "posters/2115867367884665157_0.jpg",
           "width": 1280,
           "height": 556
+        }
+      ]
+    },
+    {
+      "id": "2116291555497558500",
+      "model": "Seedance 2.5",
+      "prompt": "Create a complete 15-second Halloween creature-party comedy in horizontal 16：9, accompanied by an original Halloween pop song with English vocals.\n\nPrioritise adorable characters, playful tussling, expressive reactions, and a clear comedic twist. Cosmetics are story props only. No product beauty shots, logo close-ups, or advertising-style ending.\n\nVISUAL STYLE\nPolished 3D animation with soft, fluffy fur, rounded little paws, and expressive eyes. A warm cream and pumpkin-orange palette with lilac accents. Soft, bright lighting. Cute, lively, and mischievous—never dark or frightening.\n\nSETTING\nA Halloween dressing room just before a party: a low vanity, a round mirror, glowing pumpkin lanterns, paper bats, and colourful fairy lights. On the vanity are a powder puff, an eyeshadow palette, makeup brushes, and one uncapped berry-red lipstick. Keep the props sparse enough to leave room for clear character movement.\n\nTHREE CONSISTENT CHARACTERS\n• An orange kitten wearing a crooked miniature witch hat. Impatient and expressive; its pupils widen and its tail rises when it spots something exciting.\n• A cream-coloured puppy wearing a short purple vampire cape. Loves admiring itself. A slightly crooked star is already painted on one cheek.\n• A white bunny wearing a pumpkin headband. Looks innocent but is the cleverest of the three. Its long ears move expressively.\n\nKeep their appearances, costumes, and relative sizes consistent. Their stylised paws can naturally grasp objects but must never become human hands.\n\nTIMELINE — EXACTLY 15 SECONDS\n\n0–3s | THE DISCOVERY\nStart immediately with all three creatures squeezed together in front of the mirror, busily applying Halloween makeup.\nThe puppy pats its nose with a powder puff and gives a tiny sneeze. The kitten’s witch hat slips down, and it quickly pushes it back into place.\n\nThe bunny picks up the only berry-red lipstick. The kitten and puppy notice it simultaneously, their eyes lighting up.\n\nThey exchange an unmistakable “Me first!” look and reach towards it on a strong musical beat. Enter the conflict quickly. No establishing shot.\n\n3–7s | THE TUSSLE\n\nThe kitten gets hold of the lipstick first. The puppy gently grips the kitten’s lipstick-holding wrist and pulls it closer. The kitten wraps its other paw around its own wrist and pulls back.\nMake the contact relationships unmistakable: the kitten holds the same lipstick throughout; the puppy pulls the kitten’s wrist, never the exposed lipstick tip.\nThey tug left once, then right once, in time with the beat. Their bodies lean comically, their little feet shuffle on the rug, and their ears and cape bounce with the movement.\n\nThe kitten puffs out its cheeks. The puppy wrinkles its nose. Both remain focused on the lipstick. The struggle feels like baby animals competing over a toy—gentle and funny, never aggressive.\n\nThe bunny watches from side to side, raises a paw as if trying to intervene, then realises neither is paying attention.\n\n7–11s | THE COMEDIC TWIST\n\nThe tugging briefly reaches a stalemate, with the lipstick held steady between them.\n\nThe bunny gets an idea. It quietly leans in and lightly brushes the puppy’s nose with the spare powder puff.\nThe puppy gives a short sneeze and releases the kitten’s wrist. Still pulling backwards, the kitten accidentally draws one bold berry-red streak across its own cheek with the lipstick. The lipstick touches only the cheek, well away from the eyes.\nThe music briefly stops. All three freeze.\n\nThe kitten looks in the mirror, touches its cheek, then suddenly lifts its chin and proudly poses like a supermodel, treating the accidental streak as its own brilliant Halloween makeup invention.\n\nThe puppy and bunny go from surprise to uncontrollable giggles, their ears twitching and shoulders bouncing.\n\nClearly show the sequence: accident, reaction, then confidently turning the mistake into a look.\n\n11–15s | THE PARTY FINISH\n\nThe chorus returns. The kitten proudly strikes a playful claw pose. The puppy and bunny squeeze in on either side.\n\n———\n\nTogether, they perform two simple synchronised movements: sway from side to side, then raise their paws in a cute “Boo!” pose.\n\nTheir rivalry has turned into shared fun. The kitten still has the red cheek streak, the puppy still has powder on its nose, and the laughing bunny has one ear higher than the other.\n\nHold their final silly group-photo pose for the last half-second, with warm pumpkin lights glowing behind them.\n\nEnd on their faces, personalities, and friendship. Cosmetics remain incidental props on the vanity. No isolated product shot.\n\nORIGINAL MUSIC — SPECIFIC DIRECTION\nCompose an original 15-second English-language Halloween bubblegum-pop song at approximately 120 BPM in 4/4 time. Sweet, playful, catchy, and bouncy.\n\nUse:\n• A soft but clearly defined kick drum.\n• Crisp handclaps and a light shaker.\n• Short, springy bass notes.\n• A recurring four-note melodic hook played by xylophone and a plucked synth.\n• Small touches of toy piano and mysterious glockenspiel.\n\nUse playful minor-key colour to suggest Halloween while keeping the overall mood bright and adorable. No heavy bass, horror screams, or epic orchestral scoring.\n\nUse a clear, cheerful, playful pop singing voice with a smiling delivery. Add gentle layered backing vocals to “Boo!” Keep the melody original; do not quote an existing song.\n\nUse these four short lyric lines. Leave space for character reactions and comedy. Do not rush the singing:\n\n“Boo! Boo! Who are you?”\n“A little monster, cute like you!”\n“Oops! That’s my spooky look!”\n“Boo! Boo! Look at you!”\n\nMUSIC AND ACTION TIMING\n0–3s: Sing the first line during the makeup activity and discovery of the lipstick.\n3–7s: Sing the second line during the tussle. Synchronise the left and right pulls with distinct drum beats.\n7–9s: Pause the singing, leaving only light plucked accompaniment. After the sneeze, punctuate the accidental cheek streak with one short xylophone note, followed by approximately half a second of comedic silence.\n9–12s: Sing the third line as the kitten confidently reveals its accidental makeup look.\n12–15s: Sing the final line over the group dance. Finish with coordinated handclaps and a short, playful musical ending. Do not cut the music off abruptly.\n\nCHARACTER VOCALISATIONS AND FOLEY\nThe creatures never speak intelligible words and never lip-sync to the background song.\n\nGive each an original, distinct vocal personality:\n• Kitten: short, impatient mews, little grunts, and huffs.\n• Puppy: soft whimpers, playful murmurs, and a tiny sneeze.\n• Bunny: light squeaks, happy babbling, and giggles.\n\nKeep the sounds natural, adorable, and comfortable to hear. Do not imitate any existing animated character’s signature voice.\n\nAdd subtle paw friction, shuffling footsteps, and cape rustling during the tussle. Lower the music slightly around important vocal reactions. Make the sneeze and comedic pause clearly audible without startling volume spikes.\n\nCAMERA AND CONTINUITY\nUse medium shots that clearly show the relationship between all three characters, with closer framing for essential facial reactions.\n\nMaintain consistent screen direction and spatial relationships. Use clean cuts at story beats, without decorative transitions or excessive cutting.\n\nEvery action needs a readable anticipation, movement, and reaction. Keep the creatures alive through eye movement, ear movement, breathing, and small body adjustments. No stiff, motionless toy-like posing.\n\nExactly three characters and one central lipstick. No extra limbs, intersecting paws, duplicated props, teleporting lipstick, flickering fur, or disappearing makeup.\n\nGenerate a complete, ready-to-share 15-second video with integrated editing, original English singing, music, and synchronised sound effects, requiring as little additional post-production as possible.\n\nNo subtitles, text overlays, watermarks, or logo presentation.",
+      "author": "Vorla_AI",
+      "author_url": "https://x.com/Vorla_AI",
+      "post_url": "https://x.com/Vorla_AI/status/2116291555497558500",
+      "date": "2026-10-31T06:10:00+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116065476522754048/vid/avc1/1278x720/_I319V5URM4NQARS.mp4",
+          "duration_s": 15.1,
+          "poster": "posters/2116291555497558500_0.jpg",
+          "width": 1918,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2116196479257997378",
+      "model": "Seedance 2.5",
+      "prompt": "Cinematic dreamlike fantasy, photoreal, macro-photography look, one continuous unbroken shot with no cuts, 30 seconds. The man from @Image1 is normal human size, but everything in the world around him is 50–100x larger than normal. Soft golden-hour light, volumetric haze, floating pollen particles, warm pastel palette, shallow depth of field. The camera flows smoothly with him the entire time.\n\n0–4s: Extreme close-up of a giant dewdrop on a blade of grass, the man's sleeping face reflected inside it. Slow rack focus reveals him lying on soft moss, surrounded by grass blades towering like a green forest of skyscrapers.\n\n4–8s: He opens his eyes and sits up, looking around in awe. Camera rises with him, revealing dandelion seed heads the size of hot-air balloons drifting across the hazy sky.\n\n8–12s: A ladybug the size of a car walks past, glossy red shell catching the light. He steps back, frozen. The ladybug pauses, turns its head toward him, then calmly walks on. He laughs in disbelief.\n\n12–16s: A single giant dandelion seed floats down beside him. He grabs its stem, a breeze lifts it, and he rises into the air. Camera rises alongside him.\n\n16–20s: He floats over the meadow. Below, a rain puddle stretches like a lake with a white paper boat as big as a ship. A huge brass pocket watch lies open in the grass, its second hand sweeping past like a crane arm.\n\n20–24s: He drifts down onto a giant open book, its pages rising and falling in the wind like slow ocean waves. He lands and stumbles across printed letters as tall as he is. The page begins to turn beneath him and he runs along it.\n\n24–27s: He leaps off the edge of the turning page and lands on the rim of an enormous porcelain teacup, steam rising around him like clouds.\n\n27–30s: He sits on the rim, legs dangling, watching the sunset through the steam. Camera pulls back slowly into an extreme wide shot revealing the full dreamscape: the tiny man on a giant teacup, beside a giant book, a giant watch, and an ocean of towering grass, all glowing gold.\n\nSound: soft ambient synth pad building slowly, gentle wind, deep slowed-down buzz from the ladybug, slow heavy ticking of the giant watch, soft wind chime notes at the end, no dialogue.",
+      "author": "digitalarnab",
+      "author_url": "https://x.com/digitalarnab",
+      "post_url": "https://x.com/digitalarnab/status/2116196479257997378",
+      "date": "2026-10-30T23:52:12+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2116196077603024897/vid/avc1/1280x720/rEzvtmL6-8G0hHb_.mp4",
+          "duration_s": 30.1,
+          "poster": "posters/2116196479257997378_0.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "id": "2116195238771601726",
+      "model": "Seedance 2.5",
+      "prompt": "VIDEO PROMPT — 20 seconds. Aspect ratio 16:9. Look: premium cinematic cel-shaded 3D anime (high-end game-cinematic quality), bold saturated colors, crisp ink outlines, hard-edged shadows, highly detailed armor and scales, volumetric clouds, heavy debris and dust physics, subtle film grain. Color scheme: electric blue lightning versus molten orange fire and a golden sunset. Lens: wide 24mm for action, 85mm for close-ups. Camera feel: fast, aggressive, sweeping action camera with tracking, whip moves and big crane reveals; quick cuts in the battle, then a slow, calm ending. Pacing: frantic for 13 seconds, then quiet and epic.\n\nCHARACTERS:\n- THE WARRIOR: young woman, early 20s, slim and athletic, pale skin, short spiky silver-white hair with longer front strands, sharp anime face, glowing ice-blue eyes. Long crimson scarf-cape around her neck and shoulders, its tails always whipping in the wind. Black armored bodice with gold trim and a gold emblem, black-and-gold gauntlets over fingerless black gloves, layered black-and-red battle skirt, black thigh-high boots with white straps. Weapon: a broken spear (dark shaft, gold bands, a jagged short steel head).\n- THE DRAGON: colossal four-legged armored dragon, the size of a fortress tower. Obsidian-black plated armor scales with glowing molten-orange cracks all over, rows of jagged spikes along the neck and back, curved black horns, glowing orange eyes with slit pupils, a ribbed golden-orange belly, enormous dark-red bat-like wings.\n\nLOCATION: an ancient floating sky fortress of grey stone (wide flat platforms, square stone pillars, crenellated walls, a central square tower) high above an endless sea of golden clouds and a distant ocean at sunset. Low sun on the horizon, storm-grey clouds above.\n\nSHOT 1 (00:00.0-00:01.8) — Claw smash. Low-angle close-up at ground level: the dragon's giant black clawed forefoot slams onto a stone platform, cracks glowing orange, rubble and dust bursting out. Fast pull-back to a low wide shot: the dragon's head and forearm fill the frame; the tiny warrior, red scarf flying, is on its forearm and stabs the broken spear into a glowing orange crack. MUST SHOW: a burst of blue sparks where the spear hits.\nSHOT 2 (00:01.8-00:02.9) — Thrown. Wide shot against the sunset sky: the dragon snaps its wrist off-screen and the warrior is hurled through the air past two square stone pillars; one pillar shatters, a big stone block tumbles; she flies over the fortress edge and drops out of frame.\nSHOT 3 (00:02.9-00:04.3) — Awakening. Medium close-up, camera falling with her, storm-grey clouds rushing upward behind her: she falls facing the lens, arms spread, scarf billowing above, eyes glowing blue. She grips the broken spear in both hands; blue lightning crackles around her arms and the spear. MUST SHOW: the spear transforms into a long glowing electric-blue blade wrapped in jagged arcs of lightning.\nSHOT 4 (00:04.3-00:04.8) — Rebound. Wide side view midair: she flies horizontally with the glowing blue blade forward and kicks off a large falling rock fragment, launching back upward.\nSHOT 5 (00:04.8-00:06.0) — The charge. Wide shot: the dragon stands on a crenellated stone wall, wings fully spread, horns up, against the stormy sunset. The warrior streaks toward it from the left leaving a jagged blue lightning trail, then dives at it blade raised overhead.\nSHOT 6 (00:06.0-00:07.0) — Through the fire. Wide side shot: the dragon unleashes a colossal torrent of orange-yellow fire that fills the frame; the warrior cuts straight through it with the blue blade, the fire splitting around her.\nSHOT 7 (00:07.0-00:07.6) — Impact. Medium-wide: the fire stream explodes against the stone wall, rocks and flames flying; the warrior lands on the wall in a crouch, the blade glowing blue.\nSHOT 8 (00:07.6-00:09.3) — The run. Tracking shot along the dragon's side, dust and falling debris everywhere: the warrior sprints up its dark-red wing and spiked back toward its neck, blade trailing blue light; thin blue lightning veins spread across the black armor. Camera rises to a side view of her on top of the dragon's neck.\nSHOT 9 (00:09.3-00:10.8) — Lightning sword. Wide rear shot, symmetrical: the warrior stands on the dragon's spiked neck between its two raised wing tips, seen from behind, the low sun glowing on the horizon straight ahead over golden clouds. She raises the blade overhead and it erupts into a gigantic column of blue lightning shooting into the sky. MUST SHOW: the towering spectral lightning blade, many times her height, with forked branches. Scarf whips sideways.\nSHOT 10 (00:10.8-00:11.9) — The eyes. Extreme close-up of the dragon's face filling the frame: two huge orange slit-pupil eyes widen; the molten-orange cracks across its black scales turn electric blue, starting from the edges. Locked-off with a slight push-in.\nSHOT 11 (00:11.9-00:12.5) — The slash. Same wide rear shot as SHOT 9: the giant blue blade comes down in one colossal slash; a blinding white flash fills the frame.\nSHOT 12 (00:12.5-00:13.3) — Shatter. Low angle from behind the warrior: the dragon's armor explodes into hundreds of glowing orange-black fragments flying past the lens; blue lightning crackles around her legs.\nSHOT 13 (00:13.3-00:17.6) — Aftermath. Over-the-shoulder shot from behind her right side, she stands on the last stone platform above the sea of clouds: far away the dragon has crashed into the ocean, and a gigantic golden wave and spray column rises against the sunset, then slowly sinks. Her blade still glows blue, then the lightning fades and it returns to the broken spear, held low at her side. She lifts her gloved forearm and wipes soot from her cheek. Scarf tails whip in the wind; the sun flares warm gold. Slow gentle drift.\nSHOT 14 (00:17.6-00:19.6) — Final view. Extreme wide aerial shot: the ruined floating fortress hangs above the clouds, waterfalls pouring off its edges into the mist, small floating rock islands and fragments around it, the sun on the horizon. The tiny warrior stands alone on top of the central tower. MUST SHOW: one final thin blue lightning bolt flashes down from the sky above the fortress. Very slow push-in.\nSHOT 15 (00:19.6-00:20.1) — Cut to black.\n\nSOUND: no dialogue, no narration. Epic orchestral instrumental score with heavy taiko drums and choir building through the fight, cutting to near-silence on the white flash, then a soft, warm string resolve for the aftermath and final view. SFX: a thunderous claw slam and cracking stone (SHOT 1); a sharp metal clang and sparks; whooshing wind and shattering pillar (SHOT 2); crackling, rising electric hum (SHOT 3); a deep roar and the roaring rush of fire (SHOT 6); explosion and falling rocks (SHOT 7); pounding footsteps on scales (SHOT 8); a booming thunderclap as the lightning blade rises (SHOT 9); a low rumbling growl (SHOT 10); a massive thunder crack and a deep boom (SHOT 11); shattering armor and debris (SHOT 12); a distant huge splash and wind (SHOT 13); waterfalls and one faint final thunder roll (SHOT 14).",
+      "author": "Miraai_creates",
+      "author_url": "https://x.com/Miraai_creates",
+      "post_url": "https://x.com/Miraai_creates/status/2116195238771601726",
+      "date": "2026-10-30T23:47:16+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "reply",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/ext_tw_video/2116195217686896640/pu/vid/avc1/1280x720/7_vy3XfHBAO_RbZj.mp4?tag=12",
+          "duration_s": 20.1,
+          "poster": "posters/2116195238771601726_0.jpg",
+          "width": 1280,
+          "height": 720
         }
       ]
     }
