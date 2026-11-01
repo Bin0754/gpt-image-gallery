@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-10-31T08:10:36+08:00",
-  "count": 719,
+  "generated_at": "2026-11-01T08:11:42+08:00",
+  "count": 742,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -291,6 +291,65 @@
           "file": "2103139749540339890_0.jpg",
           "thumb": "2103139749540339890_0.jpg",
           "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116358392579338599",
+      "url": "https://x.com/Ziha_ai/status/2116358392579338599",
+      "author": "Ziha_ai",
+      "author_name": "Ziha",
+      "avatar": "https://pbs.twimg.com/profile_images/2111845511917633536/ChbiaDiF_normal.jpg",
+      "created_at_utc": "2026-10-31T02:35:35.000Z",
+      "created_at_sh": "2026-10-31 10:35",
+      "likes": 333,
+      "reposts": 29,
+      "bookmarks": 265,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a highly detailed, hand-drawn 2D cartoon character illustration in a stylish, edgy, modern animated graphic novel aesthetic.\n\nCharacter: A quirky young man with an oversized head, slim body, slightly messy spiky hair, thick oversized black glasses, small black ear studs, and a confident, slightly unimpressed expression. Exaggerated facial features with expressive eyes, a small nose, and a subtle smirk.\n\nPose: Waist-up portrait, body turned slightly sideways, head tilted upward, eyes looking off to the side, relaxed and casual posture.\n\nOutfit: Oversized black streetwear T-shirt with bold orange graphic lettering, natural fabric folds, and subtle shading.\n\nArt Style: Clean bold black ink outlines, exaggerated cartoon proportions, smooth cel shading, warm skin tones, crisp highlights, subtle textured brushwork, polished hand-drawn animation aesthetic.\n\nBackground: Solid vibrant mustard yellow, minimal and uncluttered, with generous negative space around the character.\n\nComposition: Vertical 9:16 poster, character positioned in the center, slightly below the middle, head and upper torso fully visible.\n\nQuality: High-resolution digital illustration, professional character design, expressive personality, consistent linework, cinematic lighting.\n\nNo watermark, no extra objects, no border, no photorealism.",
+      "prompt": "Create a highly detailed, hand-drawn 2D cartoon character illustration in a stylish, edgy, modern animated graphic novel aesthetic.\n\nCharacter: A quirky young man with an oversized head, slim body, slightly messy spiky hair, thick oversized black glasses, small black ear studs, and a confident, slightly unimpressed expression. Exaggerated facial features with expressive eyes, a small nose, and a subtle smirk.\n\nPose: Waist-up portrait, body turned slightly sideways, head tilted upward, eyes looking off to the side, relaxed and casual posture.\n\nOutfit: Oversized black streetwear T-shirt with bold orange graphic lettering, natural fabric folds, and subtle shading.\n\nArt Style: Clean bold black ink outlines, exaggerated cartoon proportions, smooth cel shading, warm skin tones, crisp highlights, subtle textured brushwork, polished hand-drawn animation aesthetic.\n\nBackground: Solid vibrant mustard yellow, minimal and uncluttered, with generous negative space around the character.\n\nComposition: Vertical 9:16 poster, character positioned in the center, slightly below the middle, head and upper torso fully visible.\n\nQuality: High-resolution digital illustration, professional character design, expressive personality, consistent linework, cinematic lighting.\n\nNo watermark, no extra objects, no border, no photorealism.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV7Quk7bIAAKMYo.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116358373516189696",
+          "file": "2116358392579338599_0.jpg",
+          "thumb": "2116358392579338599_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV7Quk-bUAEJYa8.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116358373528784897",
+          "file": "2116358392579338599_1.jpg",
+          "thumb": "2116358392579338599_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV7Quk7aMAALngX.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116358373516128256",
+          "file": "2116358392579338599_2.jpg",
+          "thumb": "2116358392579338599_2.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV7Quk6bYAAL0af.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116358373512011776",
+          "file": "2116358392579338599_3.jpg",
+          "thumb": "2116358392579338599_3.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -1896,6 +1955,65 @@
           "file": "2103337256237113379_1.jpg",
           "thumb": "2103337256237113379_1.jpg",
           "tw": 380,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116418536684109990",
+      "url": "https://x.com/oggii_0/status/2116418536684109990",
+      "author": "oggii_0",
+      "author_name": "Oogie",
+      "avatar": "https://pbs.twimg.com/profile_images/2008212741434269696/N7S0tqfn_normal.jpg",
+      "created_at_utc": "2026-10-31T06:34:34.000Z",
+      "created_at_sh": "2026-10-31 14:34",
+      "likes": 149,
+      "reposts": 8,
+      "bookmarks": 17,
+      "lang": "en",
+      "text": "Transform your photo into a minimalist pastel crayon art poster using GPT Image 2.5\n\nPrompt: Transform each uploaded photograph into a separate, independent, high-end editorial design poster. Process every photograph individually and generate one standalone poster per image. Never combine multiple photographs into a collage.\n\nOverall Format & Composition\n\n- Aspect ratio: 3:4 vertical portrait.\n- Divide the canvas into two perfectly equal horizontal sections.\n- The upper and lower sections must each occupy exactly 50% of the total canvas height.\n- Maintain a precise 50/50 division with no borders, frames, or transition strips.\n\nUpper Half — Original Photograph\n\nPreserve the original photograph in the upper half, maintaining the subject's identity, structure, pose, proportions, realistic textures, natural lighting, shadows, and original color atmosphere.\n\nApply only subtle, sophisticated color grading to achieve the visual quality of an art magazine, independent publication, or contemporary photography exhibition.\n\nYou may naturally extend the surrounding environment or background to fit the composition, but never stretch, distort, reshape, or alter the original subject.\n\nThe photograph should remain authentic and recognizable, with an understated, refined editorial aesthetic.\n\nLower Half — Minimalist Pastel Crayon Illustration\n\nFirst, interpret the photograph to identify its most memorable central subject, visual relationship, structural direction, emotional atmosphere, and underlying visual metaphor.\n\nReconstruct this visual memory as a minimalist pastel crayon doodle illustration on lightly textured vintage-style paper.\n\nDo not reproduce every object in the photograph. Avoid literal, complete tracing or detailed conversion. Instead, retain only the most recognizable silhouettes, gestures, directions, proportions, and defining visual elements that establish a clear connection with the original photograph.\n\nUse artistic simplification, selective exaggeration, reduction, and subtle recomposition to create an illustration that feels expressive, spontaneous, and visually distinctive.\n\nMain Subject — Hand-Drawn Crayon Aesthetic\n\nDraw the primary subject using bold, coarse-grained pastel chalk and crayon outlines.\n\nThe lines should feel:\n\n- Slightly thick, loose, and naturally imperfect.\n- Dry, grainy, and powdery, with visible pigment texture.\n- Irregular, with occasional broken strokes, faded patches, and subtle hand-drawn wobble.\n- Softly rounded at the ends, with naturally incomplete and open contours.\n\nInside the subject, introduce only a few minimal pastel color accents, simple grids, stripes, dots, or spontaneous scribbles to suggest its essential structure.\n\nAvoid realistic shading, dimensional rendering, excessive detail, or fully filled-in shapes. The illustration should feel like an expressive hand-drawn study rather than a polished digital drawing.\n\nSurrounding Doodles — Consistent Visual Language\n\nAny small decorative elements surrounding the main subject must use exactly the same crayon and chalk drawing language.\n\nReduce secondary elements to simple, instantly recognizable symbols made with just one or a few loose strokes.\n\nStars, flowers, plants, objects, environmental details, and abstract symbols should appear:\n\n- Simple, naive, playful, and spontaneous.\n- Primarily constructed from single-line outlines.\n- Slightly irregular, open, and imperfect.\n- Minimally colored, with very limited pastel fills.\n\nAvoid polished icons, decorative stickers, vector graphics, or separate miniature illustrations.\n\nComposition — Negative Space as the Main Design Element\n\nMaintain the visual relationship of a small-scale stamp-like illustration surrounded by generous negative space.\n\nArrange the main subject according to its natural direction, proportions, and visual center of gravity.\n\nThe illustration may be asymmetrically positioned, slightly off-center, suspended in space, placed near an edge, or partially cropped.\n\nAllow the main subject and a very small number of supporting doodle symbols to form a loose but intentional visual cluster.\n\nLeave the remaining space deliberately empty.\n\nNegative space must function as a primary compositional element. Create visual rhythm through:\n\n- Empty space versus concentrated detail.\n- Clustering versus separation.\n- Contrasts in scale and proportion.\n- Asymmetry and visual imbalance.\n- A sense of breathing room, distance, and intentional pauses.\n\nLess is more. Never fill the entire lower section. Resist the temptation to add unnecessary decorative elements.\n\nBackground — Clean, Light Paper Texture\n\nUse an extremely light, bright, clean paper background.\n\nSuitable tones include:\n\n- Creamy white.\n- Ivory white.\n- Pale warm white.\n- Soft off-white.\n- Very light almond white.\n- Extremely pale neutral white.\n\nIntelligently match the paper's subtle undertone to the overall color temperature of the original photograph.\n\nThe paper should retain only a very subtle natural fiber texture and fine grain.\n\nAvoid backgrounds that appear brown, yellow, muddy, dark gray, heavily aged, stained, or excessively vintage.\n\nThe background must remain significantly brighter than the illustration's outlines and color accents, ensuring that every crayon stroke, doodle, and decorative element remains crisp, distinct, and clearly visible.\n\nNever allow the illustration to blend into the background.\n\nColor Palette — Extracted from the Original Photograph\n\nExtract 2–4 of the most vibrant, appealing, and emotionally representative colors from the original photograph.\n\nReinterpret these colors into a bright, soft, harmonious pastel crayon palette.\n\nDepending on the photograph, the palette may naturally include:\n\n- Peach pink.\n- Apricot orange.\n- Butter yellow.\n- Mint green.\n- Sky blue.\n- Soft lavender.\n\nPrioritize light, cheerful, warm, and visually friendly pastel tones.\n\nThe main subject's outlines should use clearly distinguishable colors that contrast against the light paper background, such as coral pink, soft blue, turquoise green, warm orange, lavender, or deeper creamy pastel tones.\n\nMaintain a restrained and cohesive palette. Every color should feel intentional and connected to the original photograph.\n\nFinal Artistic Direction\n\nThe final poster should feel like a sophisticated experimental art publication combining authentic photography with spontaneous, minimalist, hand-drawn pastel illustration.\n\nThe upper half should communicate realism, atmosphere, and photographic depth.\n\nThe lower half should communicate memory, emotion, abstraction, and artistic interpretation.\n\nThe relationship between both halves should be immediately recognizable without requiring a literal reproduction of the photograph.\n\nPrioritize artistic intelligence, visual restraint, expressive imperfections, delicate textures, and generous negative space.\n\nThe result should feel curated, contemporary, playful, poetic, and gallery-worthy — like a limited-edition art print from an independent creative studio.",
+      "prompt": "Transform each uploaded photograph into a separate, independent, high-end editorial design poster. Process every photograph individually and generate one standalone poster per image. Never combine multiple photographs into a collage.\n\nOverall Format & Composition\n\n- Aspect ratio: 3:4 vertical portrait.\n- Divide the canvas into two perfectly equal horizontal sections.\n- The upper and lower sections must each occupy exactly 50% of the total canvas height.\n- Maintain a precise 50/50 division with no borders, frames, or transition strips.\n\nUpper Half — Original Photograph\n\nPreserve the original photograph in the upper half, maintaining the subject's identity, structure, pose, proportions, realistic textures, natural lighting, shadows, and original color atmosphere.\n\nApply only subtle, sophisticated color grading to achieve the visual quality of an art magazine, independent publication, or contemporary photography exhibition.\n\nYou may naturally extend the surrounding environment or background to fit the composition, but never stretch, distort, reshape, or alter the original subject.\n\nThe photograph should remain authentic and recognizable, with an understated, refined editorial aesthetic.\n\nLower Half — Minimalist Pastel Crayon Illustration\n\nFirst, interpret the photograph to identify its most memorable central subject, visual relationship, structural direction, emotional atmosphere, and underlying visual metaphor.\n\nReconstruct this visual memory as a minimalist pastel crayon doodle illustration on lightly textured vintage-style paper.\n\nDo not reproduce every object in the photograph. Avoid literal, complete tracing or detailed conversion. Instead, retain only the most recognizable silhouettes, gestures, directions, proportions, and defining visual elements that establish a clear connection with the original photograph.\n\nUse artistic simplification, selective exaggeration, reduction, and subtle recomposition to create an illustration that feels expressive, spontaneous, and visually distinctive.\n\nMain Subject — Hand-Drawn Crayon Aesthetic\n\nDraw the primary subject using bold, coarse-grained pastel chalk and crayon outlines.\n\nThe lines should feel:\n\n- Slightly thick, loose, and naturally imperfect.\n- Dry, grainy, and powdery, with visible pigment texture.\n- Irregular, with occasional broken strokes, faded patches, and subtle hand-drawn wobble.\n- Softly rounded at the ends, with naturally incomplete and open contours.\n\nInside the subject, introduce only a few minimal pastel color accents, simple grids, stripes, dots, or spontaneous scribbles to suggest its essential structure.\n\nAvoid realistic shading, dimensional rendering, excessive detail, or fully filled-in shapes. The illustration should feel like an expressive hand-drawn study rather than a polished digital drawing.\n\nSurrounding Doodles — Consistent Visual Language\n\nAny small decorative elements surrounding the main subject must use exactly the same crayon and chalk drawing language.\n\nReduce secondary elements to simple, instantly recognizable symbols made with just one or a few loose strokes.\n\nStars, flowers, plants, objects, environmental details, and abstract symbols should appear:\n\n- Simple, naive, playful, and spontaneous.\n- Primarily constructed from single-line outlines.\n- Slightly irregular, open, and imperfect.\n- Minimally colored, with very limited pastel fills.\n\nAvoid polished icons, decorative stickers, vector graphics, or separate miniature illustrations.\n\nComposition — Negative Space as the Main Design Element\n\nMaintain the visual relationship of a small-scale stamp-like illustration surrounded by generous negative space.\n\nArrange the main subject according to its natural direction, proportions, and visual center of gravity.\n\nThe illustration may be asymmetrically positioned, slightly off-center, suspended in space, placed near an edge, or partially cropped.\n\nAllow the main subject and a very small number of supporting doodle symbols to form a loose but intentional visual cluster.\n\nLeave the remaining space deliberately empty.\n\nNegative space must function as a primary compositional element. Create visual rhythm through:\n\n- Empty space versus concentrated detail.\n- Clustering versus separation.\n- Contrasts in scale and proportion.\n- Asymmetry and visual imbalance.\n- A sense of breathing room, distance, and intentional pauses.\n\nLess is more. Never fill the entire lower section. Resist the temptation to add unnecessary decorative elements.\n\nBackground — Clean, Light Paper Texture\n\nUse an extremely light, bright, clean paper background.\n\nSuitable tones include:\n\n- Creamy white.\n- Ivory white.\n- Pale warm white.\n- Soft off-white.\n- Very light almond white.\n- Extremely pale neutral white.\n\nIntelligently match the paper's subtle undertone to the overall color temperature of the original photograph.\n\nThe paper should retain only a very subtle natural fiber texture and fine grain.\n\nAvoid backgrounds that appear brown, yellow, muddy, dark gray, heavily aged, stained, or excessively vintage.\n\nThe background must remain significantly brighter than the illustration's outlines and color accents, ensuring that every crayon stroke, doodle, and decorative element remains crisp, distinct, and clearly visible.\n\nNever allow the illustration to blend into the background.\n\nColor Palette — Extracted from the Original Photograph\n\nExtract 2–4 of the most vibrant, appealing, and emotionally representative colors from the original photograph.\n\nReinterpret these colors into a bright, soft, harmonious pastel crayon palette.\n\nDepending on the photograph, the palette may naturally include:\n\n- Peach pink.\n- Apricot orange.\n- Butter yellow.\n- Mint green.\n- Sky blue.\n- Soft lavender.\n\nPrioritize light, cheerful, warm, and visually friendly pastel tones.\n\nThe main subject's outlines should use clearly distinguishable colors that contrast against the light paper background, such as coral pink, soft blue, turquoise green, warm orange, lavender, or deeper creamy pastel tones.\n\nMaintain a restrained and cohesive palette. Every color should feel intentional and connected to the original photograph.\n\nFinal Artistic Direction\n\nThe final poster should feel like a sophisticated experimental art publication combining authentic photography with spontaneous, minimalist, hand-drawn pastel illustration.\n\nThe upper half should communicate realism, atmosphere, and photographic depth.\n\nThe lower half should communicate memory, emotion, abstraction, and artistic interpretation.\n\nThe relationship between both halves should be immediately recognizable without requiring a literal reproduction of the photograph.\n\nPrioritize artistic intelligence, visual restraint, expressive imperfections, delicate textures, and generous negative space.\n\nThe result should feel curated, contemporary, playful, poetic, and gallery-worthy — like a limited-edition art print from an independent creative studio.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8HbngaoAAqSju.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116418520930230272",
+          "file": "2116418536684109990_0.jpg",
+          "thumb": "2116418536684109990_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8HbnwbAAEfq2R.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116418520997363713",
+          "file": "2116418536684109990_1.jpg",
+          "thumb": "2116418536684109990_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8HbnsaQAAkRgH.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116418520980537344",
+          "file": "2116418536684109990_2.jpg",
+          "thumb": "2116418536684109990_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8HbngbsAAQAVF.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116418520930299904",
+          "file": "2116418536684109990_3.jpg",
+          "thumb": "2116418536684109990_3.jpg",
+          "tw": 360,
           "th": 480
         }
       ],
@@ -3812,6 +3930,45 @@
           "thumb": "2109460736275866103_3.jpg",
           "tw": 384,
           "th": 479
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116389496627364114",
+      "url": "https://x.com/Goodmanprotocol/status/2116389496627364114",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-31T04:39:11.000Z",
+      "created_at_sh": "2026-10-31 12:39",
+      "likes": 89,
+      "reposts": 3,
+      "bookmarks": 40,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nUNIVERSAL PROMPT - MAGICAL TROMPE-L'ŒIL 3D OPTICAL ILLUSION\n\n[SUBJECT / THEME]\n\nCreate an extraordinary magical trompe-l'œil optical illusion featuring [SUBJECT / THEME], designed to create a breathtaking visual effect that appears to break through the boundaries between the depicted surface and the real world.\n\nMake the main subject appear to dramatically emerge from the surface into the surrounding environment, creating an astonishing illusion of extreme three-dimensional depth and physical presence.\n\nSeamlessly blend fantasy with reality using hyperrealistic textures, perfectly aligned perspective, natural environmental lighting, precisely rendered cast shadows, dramatic scale, and realistic spatial integration.\n\nSet the scene within a photorealistic urban or interior environment. Make the subject appear physically integrated into its surroundings, as though it is genuinely breaking through the architectural surface.\n\nVISUAL STYLE: Magical realism, hyperrealistic trompe-l'œil, extreme 3D depth, seamless fantasy-to-reality transition, cinematic atmosphere, photorealistic rendering, intricate details, realistic lighting and shadows, surreal yet believable composition, and astonishing visual impact.\n\nFINAL RESULT: An exceptionally convincing optical illusion that makes the subject appear physically present in the real world, making it almost impossible to distinguish the illusion from reality. Generate for coca cola",
+      "prompt": "UNIVERSAL PROMPT - MAGICAL TROMPE-L'ŒIL 3D OPTICAL ILLUSION\n\n[SUBJECT / THEME]\n\nCreate an extraordinary magical trompe-l'œil optical illusion featuring [SUBJECT / THEME], designed to create a breathtaking visual effect that appears to break through the boundaries between the depicted surface and the real world.\n\nMake the main subject appear to dramatically emerge from the surface into the surrounding environment, creating an astonishing illusion of extreme three-dimensional depth and physical presence.\n\nSeamlessly blend fantasy with reality using hyperrealistic textures, perfectly aligned perspective, natural environmental lighting, precisely rendered cast shadows, dramatic scale, and realistic spatial integration.\n\nSet the scene within a photorealistic urban or interior environment. Make the subject appear physically integrated into its surroundings, as though it is genuinely breaking through the architectural surface.\n\nVISUAL STYLE: Magical realism, hyperrealistic trompe-l'œil, extreme 3D depth, seamless fantasy-to-reality transition, cinematic atmosphere, photorealistic rendering, intricate details, realistic lighting and shadows, surreal yet believable composition, and astonishing visual impact.\n\nFINAL RESULT: An exceptionally convincing optical illusion that makes the subject appear physically present in the real world, making it almost impossible to distinguish the illusion from reality. Generate for coca cola",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV7tAuta0AEX-Z4.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116389471705026561",
+          "file": "2116389496627364114_0.jpg",
+          "thumb": "2116389496627364114_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV7tBcKbMAEK5VB.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116389483906281473",
+          "file": "2116389496627364114_1.jpg",
+          "thumb": "2116389496627364114_1.jpg",
+          "tw": 360,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -6921,6 +7078,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2116402481995583602",
+      "url": "https://x.com/Naiknelofar788/status/2116402481995583602",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-31T05:30:47.000Z",
+      "created_at_sh": "2026-10-31 13:30",
+      "likes": 52,
+      "reposts": 2,
+      "bookmarks": 13,
+      "lang": "en",
+      "text": "GPT image 2.5\n\nPrompt:\nCreate a striking minimalist retro travel poster featuring [CITY / COUNTRY / LANDMARK], inspired by mid-century modern graphic design, vintage cultural posters, abstract geometric art and ancient symbolic illustration.\n\n1. Overall composition\n\nCreate a vertical 2:3 poster with a clean, flat graphic-design aesthetic. Use a large solid-colour background surrounded by a contrasting outer border.\n\n2. Destination typography\n\nDisplay the destination name prominently across the top in oversized, bold, geometric uppercase lettering. Typography should feel artistic, distinctive and inspired by the visual identity of the location.\n\n3. Cultural symbols and illustrations\n\nIncorporate 3–5 simplified graphic elements that genuinely represent the selected destination, such as:\n\n* Recognizable architectural landmarks.\n* Traditional cultural symbols, patterns or motifs.\n* Local plants, flowers, animals or natural elements.\n* Famous mountains, rivers, deserts or coastlines.\n* Historic objects, decorative symbols or regional art forms.\n\nArrange these elements as separate artistic compositions rather than realistic scenes.\n\n4. Landscape illustration\n\nUse simplified geometric mountain ranges, architectural silhouettes, rolling hills, desert dunes, coastlines or other location-specific landscapes.\n\nInclude a small silhouette of a locally relevant animal, tree or other distinctive element in the foreground where appropriate.\n\n5. Graphic style\n\n* Flat vector-style illustrations.\n* Bold geometric shapes and clean outlines.\n* Abstract symbolic artwork.\n* Strong negative space.\n* Minimalist silhouettes.\n* Smooth curves and angular patterns.\n* Subtle vintage print texture.\n* No photorealism or 3D effects.\n\n6. Unique colour identity\n\nIMPORTANT: Select a completely different, destination-inspired colour palette for every new poster.\n\nDo not automatically reuse the same colours. Choose 3–5 harmonious colours inspired by the location’s natural landscape, architecture, cultural heritage, traditional textiles or regional identity.\n\nUse one dominant background colour, one contrasting illustration colour, one accent colour and a warm neutral for secondary details.\n\n7. Final presentation\n\nPremium collectible travel-art poster, vertical 2:3 format, balanced composition, bold typography, sophisticated colour blocking, clean geometric illustrations and timeless vintage graphic-design aesthetics.\n\nImportant: Make every poster visually unique while maintaining the same overall design language. Use authentic destination-specific symbols, accurate local script where appropriate, and correctly spelled destination names. Avoid generic decorative symbols that do not belong to the selected location.",
+      "prompt": "Create a striking minimalist retro travel poster featuring [CITY / COUNTRY / LANDMARK], inspired by mid-century modern graphic design, vintage cultural posters, abstract geometric art and ancient symbolic illustration.\n\n1. Overall composition\n\nCreate a vertical 2:3 poster with a clean, flat graphic-design aesthetic. Use a large solid-colour background surrounded by a contrasting outer border.\n\n2. Destination typography\n\nDisplay the destination name prominently across the top in oversized, bold, geometric uppercase lettering. Typography should feel artistic, distinctive and inspired by the visual identity of the location.\n\n3. Cultural symbols and illustrations\n\nIncorporate 3–5 simplified graphic elements that genuinely represent the selected destination, such as:\n\n* Recognizable architectural landmarks.\n* Traditional cultural symbols, patterns or motifs.\n* Local plants, flowers, animals or natural elements.\n* Famous mountains, rivers, deserts or coastlines.\n* Historic objects, decorative symbols or regional art forms.\n\nArrange these elements as separate artistic compositions rather than realistic scenes.\n\n4. Landscape illustration\n\nUse simplified geometric mountain ranges, architectural silhouettes, rolling hills, desert dunes, coastlines or other location-specific landscapes.\n\nInclude a small silhouette of a locally relevant animal, tree or other distinctive element in the foreground where appropriate.\n\n5. Graphic style\n\n* Flat vector-style illustrations.\n* Bold geometric shapes and clean outlines.\n* Abstract symbolic artwork.\n* Strong negative space.\n* Minimalist silhouettes.\n* Smooth curves and angular patterns.\n* Subtle vintage print texture.\n* No photorealism or 3D effects.\n\n6. Unique colour identity\n\nIMPORTANT: Select a completely different, destination-inspired colour palette for every new poster.\n\nDo not automatically reuse the same colours. Choose 3–5 harmonious colours inspired by the location’s natural landscape, architecture, cultural heritage, traditional textiles or regional identity.\n\nUse one dominant background colour, one contrasting illustration colour, one accent colour and a warm neutral for secondary details.\n\n7. Final presentation\n\nPremium collectible travel-art poster, vertical 2:3 format, balanced composition, bold typography, sophisticated colour blocking, clean geometric illustrations and timeless vintage graphic-design aesthetics.\n\nImportant: Make every poster visually unique while maintaining the same overall design language. Use authentic destination-specific symbols, accurate local script where appropriate, and correctly spelled destination names. Avoid generic decorative symbols that do not belong to the selected location.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV741ZXbAAAYw3P.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116402471136591872",
+          "file": "2116402481995583602_0.jpg",
+          "thumb": "2116402481995583602_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV741ZcaEAApiyf.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116402471157501952",
+          "file": "2116402481995583602_1.jpg",
+          "thumb": "2116402481995583602_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV741ZlaYAA10HV.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116402471195271168",
+          "file": "2116402481995583602_2.jpg",
+          "thumb": "2116402481995583602_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV741ZbawAAmBep.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116402471153352704",
+          "file": "2116402481995583602_3.jpg",
+          "thumb": "2116402481995583602_3.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2109267428387717579",
       "url": "https://x.com/imGopalTiwari/status/2109267428387717579",
       "author": "imGopalTiwari",
@@ -7190,6 +7406,55 @@
           "thumb": "2114665845158793317_0.jpg",
           "tw": 480,
           "th": 318
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116437758029992102",
+      "url": "https://x.com/harboriis/status/2116437758029992102",
+      "author": "harboriis",
+      "author_name": "Harboris",
+      "avatar": "https://pbs.twimg.com/profile_images/2110394532336668673/2R7s3kh-_normal.jpg",
+      "created_at_utc": "2026-10-31T07:50:57.000Z",
+      "created_at_sh": "2026-10-31 15:50",
+      "likes": 50,
+      "reposts": 4,
+      "bookmarks": 27,
+      "lang": "en",
+      "text": "GPT Image 2.5 \n\nA little moment of freedom, turned into art\n\nPrompt:\nCreate one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster.\n\nOVERALL FORMAT\n\nStrict 3:4 vertical composition.\n\nDivide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio.\n\nThe top half occupies exactly 50% of the canvas.\n\nThe bottom half occupies exactly 50% of the canvas.\n\nThe two sections should feel visually connected as one refined art publication cover.\n\nTOP HALF - ORIGINAL PHOTOGRAPH\n\nPreserve the original photograph as faithfully as possible.\n\nKeep the main composition, subjects, identity, facial features, body proportions, poses,\n\nexpressions, clothing, objects, and spatial relationships unchanged.\n\nPreserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood.\n\nApply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication.\n\nThe image should remain photorealistic and authentic, never overly retouched or artificially stylized.\n\nIf necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background.\n\nBackground extension must feel seamless and photographic.\n\nNever stretch, distort, reshape, replace, or alter the main subject.\n\nBOTTOM HALF - MINIMAL HAND-DRAWN PAPER ILLUSTRATION\n\nExtract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration.\n\nPreserve:\n\nThe most recognizable subject\n\nEssential silhouette and proportions\n\nKey pose or gesture\n\nImportant objects\n\nThe core narrative relationship between people and objects\n\nHighly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition.",
+      "prompt": "Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster.\n\nOVERALL FORMAT\n\nStrict 3:4 vertical composition.\n\nDivide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio.\n\nThe top half occupies exactly 50% of the canvas.\n\nThe bottom half occupies exactly 50% of the canvas.\n\nThe two sections should feel visually connected as one refined art publication cover.\n\nTOP HALF - ORIGINAL PHOTOGRAPH\n\nPreserve the original photograph as faithfully as possible.\n\nKeep the main composition, subjects, identity, facial features, body proportions, poses,\n\nexpressions, clothing, objects, and spatial relationships unchanged.\n\nPreserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood.\n\nApply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication.\n\nThe image should remain photorealistic and authentic, never overly retouched or artificially stylized.\n\nIf necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background.\n\nBackground extension must feel seamless and photographic.\n\nNever stretch, distort, reshape, replace, or alter the main subject.\n\nBOTTOM HALF - MINIMAL HAND-DRAWN PAPER ILLUSTRATION\n\nExtract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration.\n\nPreserve:\n\nThe most recognizable subject\n\nEssential silhouette and proportions\n\nKey pose or gesture\n\nImportant objects\n\nThe core narrative relationship between people and objects\n\nHighly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8Y5PtaoAAdVPU.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116437721636052992",
+          "file": "2116437758029992102_0.jpg",
+          "thumb": "2116437758029992102_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8Y6CabsAAZE3e.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116437735246639104",
+          "file": "2116437758029992102_1.jpg",
+          "thumb": "2116437758029992102_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8Y6uzagAAATw6.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116437747162578944",
+          "file": "2116437758029992102_2.jpg",
+          "thumb": "2116437758029992102_2.jpg",
+          "tw": 360,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -8933,6 +9198,65 @@
       "nsfw_flag": false
     },
     {
+      "id": "2116504517797937513",
+      "url": "https://x.com/Naiknelofar788/status/2116504517797937513",
+      "author": "Naiknelofar788",
+      "author_name": "simeon-sanai",
+      "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_normal.jpg",
+      "created_at_utc": "2026-10-31T12:16:14.000Z",
+      "created_at_sh": "2026-10-31 20:16",
+      "likes": 38,
+      "reposts": 2,
+      "bookmarks": 19,
+      "lang": "en",
+      "text": "GPT image 2.5\nPrompt:Create an extraordinary contemporary editorial travel poster featuring [CITY / COUNTRY / LANDMARK], inspired by modern Japanese graphic design, Swiss typography, minimalist architecture, Bauhaus geometry and sophisticated cultural illustration.\n\n1. Overall composition\nCreate a vertical 2:3 art poster with a warm, softly textured background and a clean, modern editorial layout.\n\nBuild the composition using overlapping architectural elements, geometric patterns, abstract shapes and carefully arranged cultural details.\n\n2. Typography and destination identity\nDisplay the destination name in oversized, bold geometric uppercase typography at the top.\nAdd the country name beneath it in a smaller, elegant modern sans-serif font.\nIncorporate authentic local-language typography vertically along one side where appropriate.\nUse small arrows, lines, dots, geometric markers and editorial annotations as supporting design elements.\nMake typography an important visual part of the artwork rather than simply a caption.\n\n3. Iconic landmarks\nFeature 3–5 recognizable elements representing the destination.\n\nInclude a combination of:\nIts most famous architectural landmark.\nTraditional architecture, temples, towers, monuments or buildings.\nRecognizable modern skyline or structures.\nCultural symbols, local animals, flowers or traditional objects.\nDistinctive geographical features such as mountains, coastlines or rivers.\n\nArrange the landmarks in overlapping layers, creating an artistic architectural collage with different scales and perspectives.\n\n4. Signature graphic elements\nIncorporate:\nA large geometric sun or circular shape behind the landscape.\nRepeating waves, arches or semicircular patterns.\nAbstract geometric blocks and colour panels.\nDelicate dotted grids and thin connecting lines.\nStylized mountain ranges or landscape silhouettes.\nSmall cultural illustrations integrated naturally into the composition.\n\n5. Destination-specific colour palette\nCRITICAL: Generate a unique colour identity for every destination.\n\nDo not reuse a fixed colour combination across all posters.\nAutomatically select 4–6 harmonious colours inspired by the actual location’s:\n\nNatural landscape and climate.\nTraditional architecture and cultural heritage.\nRegional textiles, crafts and artistic traditions.\nLocal flowers, vegetation, water and surrounding scenery.\n\nUse one dominant background colour, one primary contrasting colour, one or two architectural accent colours and a complementary neutral.\n\n6. Artistic direction\n\nContemporary Japanese editorial illustration.\nSwiss modernist graphic design.\nFlat geometric shapes combined with subtly detailed architectural illustration.\nStrong visual hierarchy.\nSophisticated colour blocking.\nClean lines and carefully balanced negative space.\nSubtle paper grain and premium matte print texture.\nModern, artistic and culturally distinctive.\n\n7. Final presentation\n\nVertical 2:3 collectible travel-art poster, sophisticated typography, layered landmark composition, elegant cultural details, visually striking colour combinations and premium international graphic-design aesthetic.\n\nImportant: Preserve the architectural identity of actual landmarks. Use genuine destination-specific symbols and correctly spelled names. Every new destination should have its own visual personality while maintaining the same overall editorial design language. Avoid generic tourist imagery, photorealism, excessive decoration and unnecessary text.",
+      "prompt": "Create an extraordinary contemporary editorial travel poster featuring [CITY / COUNTRY / LANDMARK], inspired by modern Japanese graphic design, Swiss typography, minimalist architecture, Bauhaus geometry and sophisticated cultural illustration.\n\n1. Overall composition\nCreate a vertical 2:3 art poster with a warm, softly textured background and a clean, modern editorial layout.\n\nBuild the composition using overlapping architectural elements, geometric patterns, abstract shapes and carefully arranged cultural details.\n\n2. Typography and destination identity\nDisplay the destination name in oversized, bold geometric uppercase typography at the top.\nAdd the country name beneath it in a smaller, elegant modern sans-serif font.\nIncorporate authentic local-language typography vertically along one side where appropriate.\nUse small arrows, lines, dots, geometric markers and editorial annotations as supporting design elements.\nMake typography an important visual part of the artwork rather than simply a caption.\n\n3. Iconic landmarks\nFeature 3–5 recognizable elements representing the destination.\n\nInclude a combination of:\nIts most famous architectural landmark.\nTraditional architecture, temples, towers, monuments or buildings.\nRecognizable modern skyline or structures.\nCultural symbols, local animals, flowers or traditional objects.\nDistinctive geographical features such as mountains, coastlines or rivers.\n\nArrange the landmarks in overlapping layers, creating an artistic architectural collage with different scales and perspectives.\n\n4. Signature graphic elements\nIncorporate:\nA large geometric sun or circular shape behind the landscape.\nRepeating waves, arches or semicircular patterns.\nAbstract geometric blocks and colour panels.\nDelicate dotted grids and thin connecting lines.\nStylized mountain ranges or landscape silhouettes.\nSmall cultural illustrations integrated naturally into the composition.\n\n5. Destination-specific colour palette\nCRITICAL: Generate a unique colour identity for every destination.\n\nDo not reuse a fixed colour combination across all posters.\nAutomatically select 4–6 harmonious colours inspired by the actual location’s:\n\nNatural landscape and climate.\nTraditional architecture and cultural heritage.\nRegional textiles, crafts and artistic traditions.\nLocal flowers, vegetation, water and surrounding scenery.\n\nUse one dominant background colour, one primary contrasting colour, one or two architectural accent colours and a complementary neutral.\n\n6. Artistic direction\n\nContemporary Japanese editorial illustration.\nSwiss modernist graphic design.\nFlat geometric shapes combined with subtly detailed architectural illustration.\nStrong visual hierarchy.\nSophisticated colour blocking.\nClean lines and carefully balanced negative space.\nSubtle paper grain and premium matte print texture.\nModern, artistic and culturally distinctive.\n\n7. Final presentation\n\nVertical 2:3 collectible travel-art poster, sophisticated typography, layered landmark composition, elegant cultural details, visually striking colour combinations and premium international graphic-design aesthetic.\n\nImportant: Preserve the architectural identity of actual landmarks. Use genuine destination-specific symbols and correctly spelled names. Every new destination should have its own visual personality while maintaining the same overall editorial design language. Avoid generic tourist imagery, photorealism, excessive decoration and unnecessary text.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9VoRIa4AA2ENx.jpg",
+          "w": 907,
+          "h": 1200,
+          "media_key": "3_2116504500169269248",
+          "file": "2116504517797937513_0.jpg",
+          "thumb": "2116504517797937513_0.jpg",
+          "tw": 362,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9VoRPaQAArMvJ.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116504500198588416",
+          "file": "2116504517797937513_1.jpg",
+          "thumb": "2116504517797937513_1.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9VoRIbsAATs6G.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116504500169322496",
+          "file": "2116504517797937513_2.jpg",
+          "thumb": "2116504517797937513_2.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9VoRQacAA9Ckt.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116504500202795008",
+          "file": "2116504517797937513_3.jpg",
+          "thumb": "2116504517797937513_3.jpg",
+          "tw": 320,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2107682063591915638",
       "url": "https://x.com/Just_Anika_Here/status/2107682063591915638",
       "author": "Just_Anika_Here",
@@ -9181,6 +9505,55 @@
           "file": "2115754147853000972_1.jpg",
           "thumb": "2115754147853000972_1.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116494758977962372",
+      "url": "https://x.com/xiaoxiaodong/status/2116494758977962372",
+      "author": "xiaoxiaodong",
+      "author_name": "小小东",
+      "avatar": "https://pbs.twimg.com/profile_images/2046072820095176704/QBve47KI_normal.jpg",
+      "created_at_utc": "2026-10-31T11:37:27.000Z",
+      "created_at_sh": "2026-10-31 19:37",
+      "likes": 37,
+      "reposts": 2,
+      "bookmarks": 24,
+      "lang": "",
+      "text": "GPT2 x  Opus5.5 x 文化 x 海报 x 美学提示词\n\n给博物馆或者文化行业的朋友\n\n精炼了几千组提示词\n\n感觉真有点点东西\n也期待GPT-image2.5后续能更加在字体和排版上\n能让我有更多“轻松实现”的可能性\n\n今天一直在敲敲打打Opus5.5\n感觉电子榨菜都不够用了：\n从以前的武林外传、红楼梦...",
+      "prompt": "给博物馆或者文化行业的朋友\n\n精炼了几千组提示词\n\n感觉真有点点东西\n也期待GPT-image2.5后续能更加在字体和排版上\n能让我有更多“轻松实现”的可能性\n\n今天一直在敲敲打打Opus5.5\n感觉电子榨菜都不够用了：\n从以前的武林外传、红楼梦...",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9MPDbboAAbyY2.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116494171389534208",
+          "file": "2116494758977962372_0.jpg",
+          "thumb": "2116494758977962372_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9MPEObsAAHrM6.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116494171603447808",
+          "file": "2116494758977962372_1.jpg",
+          "thumb": "2116494758977962372_1.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9MPwXaoAArN1x.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116494183452286976",
+          "file": "2116494758977962372_2.jpg",
+          "thumb": "2116494758977962372_2.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -11414,6 +11787,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2116501008255992104",
+      "url": "https://x.com/Ziha_ai/status/2116501008255992104",
+      "author": "Ziha_ai",
+      "author_name": "Ziha",
+      "avatar": "https://pbs.twimg.com/profile_images/2111845511917633536/ChbiaDiF_normal.jpg",
+      "created_at_utc": "2026-10-31T12:02:17.000Z",
+      "created_at_sh": "2026-10-31 20:02",
+      "likes": 26,
+      "reposts": 2,
+      "bookmarks": 14,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nCreate a highly photorealistic, cinematic 3-panel editorial portrait collage featuring the same young woman from the reference image, with short, tousled, wavy light brown hair, delicate facial features, subtle freckles, small hoop earrings, and a confident, slightly playful expression.\n\nComposition: A vertical 3:4 canvas divided into two sections. The upper half features a large cinematic waist-up portrait of the woman looking over her shoulder toward the camera. The lower half is divided into two equal vertical photographs. In the bottom-left image, she stands casually in a narrow old urban alley with one hand in her pocket. In the bottom-right image, she smiles softly while holding a vintage film camera near her face.\n\nOutfit: An oversized white button-up shirt with fine black vertical pinstripes, loosely worn with a black necktie, black high-waisted trousers, and small silver hoop earrings. Natural fabric folds and realistic textures.\n\nEnvironment: A charming, narrow old Japanese-style urban alley with traditional wooden doors, weathered buildings, overhead structures, and a textured stone pavement. Soft sunlight streams through the alley, creating beautiful warm highlights and atmospheric depth.\n\nLighting: Golden-hour backlighting, glowing rim light around her hair, soft sunlight illuminating her face, subtle lens bloom, natural shadows, and creamy cinematic bokeh.\n\nPhotography style: Professional fashion editorial photography, shot on a full-frame camera with an 85mm portrait lens, shallow depth of field, realistic skin texture, natural facial proportions, muted cinematic colors, subtle film grain, soft contrast, and a dreamy nostalgic atmosphere.\n\nMaintain consistent facial features, hairstyle, outfit, and lighting across all three panels. Clean panel divisions, no borders, no text, no watermark. Ultra-realistic, high-resolution photography.",
+      "prompt": "Create a highly photorealistic, cinematic 3-panel editorial portrait collage featuring the same young woman from the reference image, with short, tousled, wavy light brown hair, delicate facial features, subtle freckles, small hoop earrings, and a confident, slightly playful expression.\n\nComposition: A vertical 3:4 canvas divided into two sections. The upper half features a large cinematic waist-up portrait of the woman looking over her shoulder toward the camera. The lower half is divided into two equal vertical photographs. In the bottom-left image, she stands casually in a narrow old urban alley with one hand in her pocket. In the bottom-right image, she smiles softly while holding a vintage film camera near her face.\n\nOutfit: An oversized white button-up shirt with fine black vertical pinstripes, loosely worn with a black necktie, black high-waisted trousers, and small silver hoop earrings. Natural fabric folds and realistic textures.\n\nEnvironment: A charming, narrow old Japanese-style urban alley with traditional wooden doors, weathered buildings, overhead structures, and a textured stone pavement. Soft sunlight streams through the alley, creating beautiful warm highlights and atmospheric depth.\n\nLighting: Golden-hour backlighting, glowing rim light around her hair, soft sunlight illuminating her face, subtle lens bloom, natural shadows, and creamy cinematic bokeh.\n\nPhotography style: Professional fashion editorial photography, shot on a full-frame camera with an 85mm portrait lens, shallow depth of field, realistic skin texture, natural facial proportions, muted cinematic colors, subtle film grain, soft contrast, and a dreamy nostalgic atmosphere.\n\nMaintain consistent facial features, hairstyle, outfit, and lighting across all three panels. Clean panel divisions, no borders, no text, no watermark. Ultra-realistic, high-resolution photography.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9ScA-acAEsd2Q.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116500991139016705",
+          "file": "2116501008255992104_0.jpg",
+          "thumb": "2116501008255992104_0.jpg",
+          "tw": 320,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9ScgWbEAARJw9.jpg",
+          "w": 672,
+          "h": 1200,
+          "media_key": "3_2116500999561220096",
+          "file": "2116501008255992104_1.jpg",
+          "thumb": "2116501008255992104_1.jpg",
+          "tw": 268,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108650680684839381",
       "url": "https://x.com/imGopalTiwari/status/2108650680684839381",
       "author": "imGopalTiwari",
@@ -11642,6 +12054,45 @@
           "file": "2114267817340264470_1.jpg",
           "thumb": "2114267817340264470_1.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116484288816570546",
+      "url": "https://x.com/Goodmanprotocol/status/2116484288816570546",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-31T10:55:51.000Z",
+      "created_at_sh": "2026-10-31 18:55",
+      "likes": 25,
+      "reposts": 3,
+      "bookmarks": 16,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nUNIVERSAL PROMPT - CINEMATIC RADIAL TRAVEL PORTRAIT COLLAGE | 9:16\n\nCreate an 8K ultra-realistic cinematic travel poster using the uploaded photograph of the person as the exact identity reference. Preserve the person's facial features, identity, natural appearance, and distinctive characteristics with maximum accuracy.\n\n1. MAIN COMPOSITION — RADIAL TRAVEL COLLAGE\n\nCreate an elegant radial collage composed of multiple cinematic travel portraits arranged in diagonal, fan-shaped panels. Each panel should showcase a breathtaking travel destination or atmospheric landscape, forming a visually striking and harmonious radial composition.\n\nInclude a beautiful variety of travel scenes featuring:\n\n- Majestic snow-covered mountains beneath dramatic skies.\n- Magical star-filled night skies with an enchanting atmosphere.\n- Glowing golden sunsets illuminating breathtaking landscapes.\n- Colorful hot-air balloons floating gracefully above scenic destinations.\n\nEach panel should have its own distinctive photographic atmosphere, lighting, and visual character while maintaining a cohesive cinematic aesthetic.\n\n2. MAIN SUBJECT — CINEMATIC BACK VIEW\n\nAt the bottom of the poster, prominently feature the person from behind, wearing a distinctive red-and-white jacket and looking through a pair of binoculars towards the breathtaking landscapes.\n\nMaintain realistic body proportions, natural posture, authentic clothing textures, and convincing environmental integration.\n\nThe person should serve as the visual anchor of the entire composition, creating the feeling of discovering and exploring extraordinary destinations around the world.\n\n3. DESIGN & BACKGROUND\n\n- Clean white textured background with a refined premium editorial aesthetic.\n- Distinct, precise separators between individual diagonal collage panels.\n- Beautifully balanced fan-shaped radial arrangement.\n- Seamless visual flow between the different travel scenes.\n- Vibrant yet sophisticated cinematic color grading.\n- Rich contrast, realistic lighting, atmospheric depth, and exceptional photographic detail.\n- Elegant negative space surrounding the composition for a clean, uncluttered appearance.\n\n4. TYPOGRAPHY & TRAVEL TAGLINE\n\nAdd the phrase \"THE WORLD IS YOURS TO EXPLORE\" at the bottom-right corner of the poster.\n\nUse elegant, refined uppercase typography with subtle warm-orange accents. Keep the tagline small, sophisticated, perfectly legible, and naturally integrated into the white textured background.\n\nAvoid signatures, watermarks, logos, or unnecessary decorative text.\n\n5. FINAL OUTPUT & QUALITY\n\nPremium cinematic travel photography aesthetic, breathtaking landscapes, hyperrealistic details, sophisticated editorial poster design, professional photographic composition, crisp textures, realistic depth, beautiful atmospheric lighting, and exceptional 8K visual quality.\n\nAspect Ratio: 9:16 — Vertical Portrait Format.",
+      "prompt": "UNIVERSAL PROMPT - CINEMATIC RADIAL TRAVEL PORTRAIT COLLAGE | 9:16\n\nCreate an 8K ultra-realistic cinematic travel poster using the uploaded photograph of the person as the exact identity reference. Preserve the person's facial features, identity, natural appearance, and distinctive characteristics with maximum accuracy.\n\n1. MAIN COMPOSITION — RADIAL TRAVEL COLLAGE\n\nCreate an elegant radial collage composed of multiple cinematic travel portraits arranged in diagonal, fan-shaped panels. Each panel should showcase a breathtaking travel destination or atmospheric landscape, forming a visually striking and harmonious radial composition.\n\nInclude a beautiful variety of travel scenes featuring:\n\n- Majestic snow-covered mountains beneath dramatic skies.\n- Magical star-filled night skies with an enchanting atmosphere.\n- Glowing golden sunsets illuminating breathtaking landscapes.\n- Colorful hot-air balloons floating gracefully above scenic destinations.\n\nEach panel should have its own distinctive photographic atmosphere, lighting, and visual character while maintaining a cohesive cinematic aesthetic.\n\n2. MAIN SUBJECT — CINEMATIC BACK VIEW\n\nAt the bottom of the poster, prominently feature the person from behind, wearing a distinctive red-and-white jacket and looking through a pair of binoculars towards the breathtaking landscapes.\n\nMaintain realistic body proportions, natural posture, authentic clothing textures, and convincing environmental integration.\n\nThe person should serve as the visual anchor of the entire composition, creating the feeling of discovering and exploring extraordinary destinations around the world.\n\n3. DESIGN & BACKGROUND\n\n- Clean white textured background with a refined premium editorial aesthetic.\n- Distinct, precise separators between individual diagonal collage panels.\n- Beautifully balanced fan-shaped radial arrangement.\n- Seamless visual flow between the different travel scenes.\n- Vibrant yet sophisticated cinematic color grading.\n- Rich contrast, realistic lighting, atmospheric depth, and exceptional photographic detail.\n- Elegant negative space surrounding the composition for a clean, uncluttered appearance.\n\n4. TYPOGRAPHY & TRAVEL TAGLINE\n\nAdd the phrase \"THE WORLD IS YOURS TO EXPLORE\" at the bottom-right corner of the poster.\n\nUse elegant, refined uppercase typography with subtle warm-orange accents. Keep the tagline small, sophisticated, perfectly legible, and naturally integrated into the white textured background.\n\nAvoid signatures, watermarks, logos, or unnecessary decorative text.\n\n5. FINAL OUTPUT & QUALITY\n\nPremium cinematic travel photography aesthetic, breathtaking landscapes, hyperrealistic details, sophisticated editorial poster design, professional photographic composition, crisp textures, realistic depth, beautiful atmospheric lighting, and exceptional 8K visual quality.\n\nAspect Ratio: 9:16 — Vertical Portrait Format.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9DOSGasAAW8SW.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116484262543405056",
+          "file": "2116484288816570546_0.jpg",
+          "thumb": "2116484288816570546_0.jpg",
+          "tw": 270,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9DPGEaIAAmBRZ.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116484276493623296",
+          "file": "2116484288816570546_1.jpg",
+          "thumb": "2116484288816570546_1.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -13177,6 +13628,74 @@
       "nsfw_flag": false
     },
     {
+      "id": "2116479428805202389",
+      "url": "https://x.com/TomaAIbijo/status/2116479428805202389",
+      "author": "TomaAIbijo",
+      "author_name": "トーマ＠Grok愛好家",
+      "avatar": "https://pbs.twimg.com/profile_images/1902359961763819520/SE-eTONH_normal.jpg",
+      "created_at_utc": "2026-10-31T10:36:32.000Z",
+      "created_at_sh": "2026-10-31 18:36",
+      "likes": 19,
+      "reposts": 1,
+      "bookmarks": 4,
+      "lang": "ja",
+      "text": "同じプロンプト\n←左：GPT-image 2.0\n　　　　　→右：GPT-image 2.5\n2.5は確かに綺麗なんだけど、AI顔が強すぎる😂\n\n何枚作っても、みんな同じような顔になってしまう。\nいわゆるチャピ顔\n\nその点、2.0の方が表情や雰囲気にバラエティがあった気がする。\n綺麗さだけじゃなくて、個性や自然な可愛さも大事。\n\nみなさんは気になってない？",
+      "prompt": "←左：GPT-image 2.0\n　　　　　→右：GPT-image 2.5\n2.5は確かに綺麗なんだけど、AI顔が強すぎる😂\n\n何枚作っても、みんな同じような顔になってしまう。\nいわゆるチャピ顔\n\nその点、2.0の方が表情や雰囲気にバラエティがあった気がする。\n綺麗さだけじゃなくて、個性や自然な可愛さも大事。\n\nみなさんは気になってない？",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8-MdMaIAACuqd.jpg",
+          "w": 680,
+          "h": 1200,
+          "media_key": "3_2116478733603446784",
+          "file": "2116479428805202389_0.jpg",
+          "thumb": "2116479428805202389_0.jpg",
+          "tw": 272,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8-Md2bwAAKDaw.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116478733779714048",
+          "file": "2116479428805202389_1.jpg",
+          "thumb": "2116479428805202389_1.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116429037883281920",
+      "url": "https://x.com/liyue_ai/status/2116429037883281920",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-31T07:16:18.000Z",
+      "created_at_sh": "2026-10-31 15:16",
+      "likes": 19,
+      "reposts": 1,
+      "bookmarks": 7,
+      "lang": "zh",
+      "text": "GPT Image 2.5生成写实生活照。\n\n提示词：\n风格方向： 清晨整理房间情绪\n场景方向： 明亮卧室 / 木质床架 / 刚换的白色床单 / 半开的窗帘\n服装方向： 浅冰蓝色修身短款针织背心 + 柔雾灰色低腰柔软家居短裤\n气质标签： 松弛、清醒未满、安静、柔和、生活化\n五官方向： 真实温柔自然脸，面颊轻微饱满，清亮杏眼，五官秀气耐看\n发型方向： 慵懒高丸子头，少量碎发自然垂落\n身形方向： 纤细柔美曲线，胸部自然饱满，腰线清楚\n线条强调： 强\n镜头方向： 女生站在床侧，一只手拉平床单边缘，另一只手扶在床垫上，身体轻微前倾，双腿自然分开约一个脚掌宽度，膝盖略微放松，低头认真整理床单。\n光线氛围： 早晨高亮中性自然窗光，白色床品反射柔和补光。\n画幅比例： 9:16\n曲线重点： 自然俯身时衣服贴合上半身，胸腰比例明显，腰臀轮廓连续，避免刻意挺胸、塌腰或翘臀。",
+      "prompt": "风格方向： 清晨整理房间情绪\n场景方向： 明亮卧室 / 木质床架 / 刚换的白色床单 / 半开的窗帘\n服装方向： 浅冰蓝色修身短款针织背心 + 柔雾灰色低腰柔软家居短裤\n气质标签： 松弛、清醒未满、安静、柔和、生活化\n五官方向： 真实温柔自然脸，面颊轻微饱满，清亮杏眼，五官秀气耐看\n发型方向： 慵懒高丸子头，少量碎发自然垂落\n身形方向： 纤细柔美曲线，胸部自然饱满，腰线清楚\n线条强调： 强\n镜头方向： 女生站在床侧，一只手拉平床单边缘，另一只手扶在床垫上，身体轻微前倾，双腿自然分开约一个脚掌宽度，膝盖略微放松，低头认真整理床单。\n光线氛围： 早晨高亮中性自然窗光，白色床品反射柔和补光。\n画幅比例： 9:16\n曲线重点： 自然俯身时衣服贴合上半身，胸腰比例明显，腰臀轮廓连续，避免刻意挺胸、塌腰或翘臀。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8Q-xSbwAAzVDK.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116429020456009728",
+          "file": "2116429037883281920_0.jpg",
+          "thumb": "2116429037883281920_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2108792895138349057",
       "url": "https://x.com/imGopalTiwari/status/2108792895138349057",
       "author": "imGopalTiwari",
@@ -13637,6 +14156,35 @@
           "file": "2114729852725256201_1.jpg",
           "thumb": "2114729852725256201_1.jpg",
           "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116424522106892797",
+      "url": "https://x.com/liyue_ai/status/2116424522106892797",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-31T06:58:21.000Z",
+      "created_at_sh": "2026-10-31 14:58",
+      "likes": 17,
+      "reposts": 0,
+      "bookmarks": 8,
+      "lang": "zh",
+      "text": "GPT Image 2.5生成东方美学海报：花影长安。\n\n提示词：\n主题方向：东方禅意极简爆款封面\n风格分支：女性审美精致抓眼型\n主体内容：一位古风女子上半身近景，微微回眸，耳饰和侧脸线条清晰可见\n情绪母题：明艳、柔美、精致吸引力\n场景与意象：珊瑚红背景圆形色块、浅金耳饰高光、象牙白背景、女子\n构图与空间：9:16竖版构图，人物靠近中部偏一侧，圆形色块位于人物后方形成主视觉支撑，顶部与另一侧保留整洁留白\n色彩控制：象牙白作为整体基底，珊瑚红用于背景圆形色块和少量局部点睛，浅金用于耳饰与小面积高光，人物服装建议珍珠白；避免整图泛红\n光线与质感：明亮柔光，肤色通透，耳饰与轮廓边缘清晰，现代东方人像封面质感\n画幅比例：9:16\n补充要求：人物脸部必须漂亮、柔和、有记忆点，整体封面感强，适合女性向高传播首图，画面留白处配上合适的文字",
+      "prompt": "主题方向：东方禅意极简爆款封面\n风格分支：女性审美精致抓眼型\n主体内容：一位古风女子上半身近景，微微回眸，耳饰和侧脸线条清晰可见\n情绪母题：明艳、柔美、精致吸引力\n场景与意象：珊瑚红背景圆形色块、浅金耳饰高光、象牙白背景、女子\n构图与空间：9:16竖版构图，人物靠近中部偏一侧，圆形色块位于人物后方形成主视觉支撑，顶部与另一侧保留整洁留白\n色彩控制：象牙白作为整体基底，珊瑚红用于背景圆形色块和少量局部点睛，浅金用于耳饰与小面积高光，人物服装建议珍珠白；避免整图泛红\n光线与质感：明亮柔光，肤色通透，耳饰与轮廓边缘清晰，现代东方人像封面质感\n画幅比例：9:16\n补充要求：人物脸部必须漂亮、柔和、有记忆点，整体封面感强，适合女性向高传播首图，画面留白处配上合适的文字",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8MvRkbkAAcnbg.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116424356197011456",
+          "file": "2116424522106892797_0.jpg",
+          "thumb": "2116424522106892797_0.jpg",
+          "tw": 270,
           "th": 480
         }
       ],
@@ -14371,6 +14919,84 @@
           "file": "2115652859513757874_3.jpg",
           "thumb": "2115652859513757874_3.jpg",
           "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116462055825801260",
+      "url": "https://x.com/liyue_ai/status/2116462055825801260",
+      "author": "liyue_ai",
+      "author_name": "李岳",
+      "avatar": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+      "created_at_utc": "2026-10-31T09:27:30.000Z",
+      "created_at_sh": "2026-10-31 17:27",
+      "likes": 15,
+      "reposts": 0,
+      "bookmarks": 4,
+      "lang": "zh",
+      "text": "GPT Image 2.5生成古风服装：星环月华。\n\n提示词：\n9:16竖版，高精度风格化3D东方幻想女性人物原型，high-end stylized 3D oriental fantasy character design，电影级动画角色CG渲染，融合中国古代星象美学与幻想高级时装设计。\n\n一位视觉年龄25–27岁的成年东方幻想女性，精致原创的东方动漫电影式美型五官，小巧心形鹅蛋脸，清亮微挑的细长杏眼，秀挺小巧的鼻梁，柔润自然的唇形，面颊柔和饱满，肌肤细腻通透，神情冷静、聪慧、神秘。人物颈部异常修长，肩膀纤窄，躯干细长，腰线极细，四肢修长，头部相对较小，整体呈现超现实却协调的纵向美感。\n\n发型雕塑： 浓密乌黑长发在头顶与脑后盘绕成巨大的交错环轨式发髻。三组大小不同的椭圆弧形发束从头顶向左右及后方交叉延伸，犹如古代浑天仪的环轨结构，但全部由真实细密的发束编织塑形，环轨之间保留清晰的镂空空间。局部嵌入细小金色星点与蓝色琉璃珠，耳侧垂落两缕极细长发。\n\n服装设计： 身穿深靛蓝与亮群青组合的东方幻想星象礼服。上身采用修长贴体的交叠斜领结构，肩部向两侧延伸出两道宽阔的半透明弧形披帛，如缓缓运行的星轨。纤细腰部由精密金线束带收束，裙身狭长，外层多条极细的丝绸长带沿不同弧线向下延伸，形成流星尾迹般的层次。局部织有抽象星宿连线与细密云气纹。\n\n整体轮廓： 头部巨大环轨结构形成横向空间张力，中段身体极度纤细，下方长裙与弧线披帛向地面延伸，具有空灵、精密、神圣的雕塑美感。\n\n深靛蓝用于主裙，亮群青用于部分丝缎与披帛，香槟金用于发饰和刺绣，月白用于少量透明内纱。颜色分别落实于不同材质，避免整图蓝紫色罩染。\n\n真实发丝结构，高精度丝绸PBR材质，半透明轻纱，细密织金，电影级柔和影棚照明，中性浅灰背景，正面略微侧转，全身完整展示，发型与裙摆不得裁切。\n\n避免人偶感、手办感、塑料皮肤、普通古装、真实天文仪器直接戴在头上、过度发光、结构混乱、文字水印。",
+      "prompt": "9:16竖版，高精度风格化3D东方幻想女性人物原型，high-end stylized 3D oriental fantasy character design，电影级动画角色CG渲染，融合中国古代星象美学与幻想高级时装设计。\n\n一位视觉年龄25–27岁的成年东方幻想女性，精致原创的东方动漫电影式美型五官，小巧心形鹅蛋脸，清亮微挑的细长杏眼，秀挺小巧的鼻梁，柔润自然的唇形，面颊柔和饱满，肌肤细腻通透，神情冷静、聪慧、神秘。人物颈部异常修长，肩膀纤窄，躯干细长，腰线极细，四肢修长，头部相对较小，整体呈现超现实却协调的纵向美感。\n\n发型雕塑： 浓密乌黑长发在头顶与脑后盘绕成巨大的交错环轨式发髻。三组大小不同的椭圆弧形发束从头顶向左右及后方交叉延伸，犹如古代浑天仪的环轨结构，但全部由真实细密的发束编织塑形，环轨之间保留清晰的镂空空间。局部嵌入细小金色星点与蓝色琉璃珠，耳侧垂落两缕极细长发。\n\n服装设计： 身穿深靛蓝与亮群青组合的东方幻想星象礼服。上身采用修长贴体的交叠斜领结构，肩部向两侧延伸出两道宽阔的半透明弧形披帛，如缓缓运行的星轨。纤细腰部由精密金线束带收束，裙身狭长，外层多条极细的丝绸长带沿不同弧线向下延伸，形成流星尾迹般的层次。局部织有抽象星宿连线与细密云气纹。\n\n整体轮廓： 头部巨大环轨结构形成横向空间张力，中段身体极度纤细，下方长裙与弧线披帛向地面延伸，具有空灵、精密、神圣的雕塑美感。\n\n深靛蓝用于主裙，亮群青用于部分丝缎与披帛，香槟金用于发饰和刺绣，月白用于少量透明内纱。颜色分别落实于不同材质，避免整图蓝紫色罩染。\n\n真实发丝结构，高精度丝绸PBR材质，半透明轻纱，细密织金，电影级柔和影棚照明，中性浅灰背景，正面略微侧转，全身完整展示，发型与裙摆不得裁切。\n\n避免人偶感、手办感、塑料皮肤、普通古装、真实天文仪器直接戴在头上、过度发光、结构混乱、文字水印。",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8uqn4aQAATw3x.jpg",
+          "w": 675,
+          "h": 1200,
+          "media_key": "3_2116461659682390016",
+          "file": "2116462055825801260_0.jpg",
+          "thumb": "2116462055825801260_0.jpg",
+          "tw": 270,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116458133031882922",
+      "url": "https://x.com/MrDasCreates/status/2116458133031882922",
+      "author": "MrDasCreates",
+      "author_name": "Mr Das",
+      "avatar": "https://pbs.twimg.com/profile_images/2099489608006582272/UunROOIJ_normal.jpg",
+      "created_at_utc": "2026-10-31T09:11:55.000Z",
+      "created_at_sh": "2026-10-31 17:11",
+      "likes": 15,
+      "reposts": 1,
+      "bookmarks": 2,
+      "lang": "en",
+      "text": "Hyper Realistic Big Head Miniature Portrait using GPT Image 2.5\n\nPrompt:\nStrictly edit the uploaded photo. Only change head-to-body proportions — keep the original face, identity, expression, pose, clothing, accessories, background, lighting, and framing completely unchanged.\n•Enlarge the head so it is 2.5–3× wider than the shoulders.\n•Make shoulders very narrow with a short neck.\n•Shrink the body, arms, hands, legs, and feet dramatically (body roughly the same height as the head or smaller; limbs 25–35% of normal size).\n•Scale clothing naturally to fit the tiny body without changing its design.\n•Keep everything photorealistic with seamless blending and natural textures. No cartoon, anime, or doll style.",
+      "prompt": "Strictly edit the uploaded photo. Only change head-to-body proportions — keep the original face, identity, expression, pose, clothing, accessories, background, lighting, and framing completely unchanged.\n•Enlarge the head so it is 2.5–3× wider than the shoulders.\n•Make shoulders very narrow with a short neck.\n•Shrink the body, arms, hands, legs, and feet dramatically (body roughly the same height as the head or smaller; limbs 25–35% of normal size).\n•Scale clothing naturally to fit the tiny body without changing its design.\n•Keep everything photorealistic with seamless blending and natural textures. No cartoon, anime, or doll style.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8rcdebIAARIz2.jpg",
+          "w": 1200,
+          "h": 1200,
+          "media_key": "3_2116458117835988992",
+          "file": "2116458133031882922_0.jpg",
+          "thumb": "2116458133031882922_0.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8rcdibsAAJi-L.jpg",
+          "w": 849,
+          "h": 1200,
+          "media_key": "3_2116458117852803072",
+          "file": "2116458133031882922_1.jpg",
+          "thumb": "2116458133031882922_1.jpg",
+          "tw": 339,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8rcdmaEAAOrLc.jpg",
+          "w": 800,
+          "h": 1200,
+          "media_key": "3_2116458117869473792",
+          "file": "2116458133031882922_2.jpg",
+          "thumb": "2116458133031882922_2.jpg",
+          "tw": 320,
           "th": 480
         }
       ],
@@ -17368,6 +17994,45 @@
       "nsfw_flag": false
     },
     {
+      "id": "2116542650321187278",
+      "url": "https://x.com/Goodmanprotocol/status/2116542650321187278",
+      "author": "Goodmanprotocol",
+      "author_name": "Saul Goodman",
+      "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_normal.jpg",
+      "created_at_utc": "2026-10-31T14:47:45.000Z",
+      "created_at_sh": "2026-10-31 22:47",
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 6,
+      "lang": "en",
+      "text": "GPT Image 2.5\n\nPrompt:\nULTRA-REALISTIC 3D MINIATURE CITY FRIDGE MAGNET\n\nCreate an ultra-photorealistic product photograph of a premium 3D miniature cityscape refrigerator magnet featuring LONDON. Generate everything entirely from the text description, without requiring any reference image.\n\nThe main subject is a compact, thick, rectangular refrigerator magnet with softly rounded edges, featuring an intricately sculpted miniature London city built directly into its surface. Include Big Ben, the Palace of Westminster, Tower Bridge, the London Eye, St Paul's Cathedral, The Shard, the River Thames, historic buildings, tiny streets, bridges, trees and landscaped gardens. Arrange the landmarks together in a dense, beautifully layered architectural composition, preserving their recognizable real-world designs and proportions.\n\nThe miniature should have extraordinary physical depth, realistic architectural textures, tiny windows, detailed rooftops, stone facades and elegant antique bronze and golden metallic accents. Add a small engraved metal nameplate reading \"London\" along the front edge.\n\nA realistic human hand gently holds the magnet close to the camera, showcasing its intricate miniature craftsmanship. In the background, show the actual Big Ben and Westminster architecture, softly blurred but recognizable, creating a beautiful contrast between the real city and its miniature recreation.\n\nProfessional travel souvenir photography, natural daylight, realistic shadows, macro-level detail, shallow depth of field, authentic materials, cinematic composition, DSLR photography and exceptional photorealism.\n\nThe final result must look like a real, physically manufactured miniature city refrigerator magnet, not an illustration, poster or digitally floating city.\n\nAspect ratio: 3:4, vertical composition.",
+      "prompt": "ULTRA-REALISTIC 3D MINIATURE CITY FRIDGE MAGNET\n\nCreate an ultra-photorealistic product photograph of a premium 3D miniature cityscape refrigerator magnet featuring LONDON. Generate everything entirely from the text description, without requiring any reference image.\n\nThe main subject is a compact, thick, rectangular refrigerator magnet with softly rounded edges, featuring an intricately sculpted miniature London city built directly into its surface. Include Big Ben, the Palace of Westminster, Tower Bridge, the London Eye, St Paul's Cathedral, The Shard, the River Thames, historic buildings, tiny streets, bridges, trees and landscaped gardens. Arrange the landmarks together in a dense, beautifully layered architectural composition, preserving their recognizable real-world designs and proportions.\n\nThe miniature should have extraordinary physical depth, realistic architectural textures, tiny windows, detailed rooftops, stone facades and elegant antique bronze and golden metallic accents. Add a small engraved metal nameplate reading \"London\" along the front edge.\n\nA realistic human hand gently holds the magnet close to the camera, showcasing its intricate miniature craftsmanship. In the background, show the actual Big Ben and Westminster architecture, softly blurred but recognizable, creating a beautiful contrast between the real city and its miniature recreation.\n\nProfessional travel souvenir photography, natural daylight, realistic shadows, macro-level detail, shallow depth of field, authentic materials, cinematic composition, DSLR photography and exceptional photorealism.\n\nThe final result must look like a real, physically manufactured miniature city refrigerator magnet, not an illustration, poster or digitally floating city.\n\nAspect ratio: 3:4, vertical composition.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV94TWabwAADPzP.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116542623716720640",
+          "file": "2116542650321187278_0.jpg",
+          "thumb": "2116542650321187278_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV94UJ7aoAEeADL.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116542637545267201",
+          "file": "2116542650321187278_1.jpg",
+          "thumb": "2116542650321187278_1.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
       "id": "2097720524113580184",
       "url": "https://x.com/shirawiggles/status/2097720524113580184",
       "author": "shirawiggles",
@@ -18503,6 +19168,35 @@
           "thumb": "2116136832270504220_0.jpg",
           "tw": 480,
           "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116415022947581979",
+      "url": "https://x.com/KOF97AI/status/2116415022947581979",
+      "author": "KOF97AI",
+      "author_name": "Nathan AI Lab（互fo, CD后马上回）",
+      "avatar": "https://pbs.twimg.com/profile_images/2112751656815452160/SlnFGmG-_normal.jpg",
+      "created_at_utc": "2026-10-31T06:20:37.000Z",
+      "created_at_sh": "2026-10-31 14:20",
+      "likes": 5,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "用 ChatGPT 里的 GPT Image 2.5 跑真实自拍九宫格，出来的质感真的惊艳到我了。这次直接把场景设定成了 iPhone 相册的网格界面，不仅带顶部 Recents 和底部分组标签，里面的每张亚洲女生自拍都有不同的表情和角度：眨眼、嘟嘴、微甜浅笑、侧颜抓拍全都有，搭配黑色吊带和红色棒球帽，韩系胶原蛋白妆容与自然窗光的细节拉得极满。完整提示词自取：Prompt: Ultra-realistic selfie photo collage displayed inside a modern smartphone gallery interface, showing multiple portrait shots of a beautiful young Asian woman with soft feminine visuals and natural Korean-inspired beauty aesthetics. She has long straight jet-black hair with silky smooth texture, wispy see-through bangs framing her face, glowing fair skin with dewy makeup finish, soft peach-pink blush, glossy nude pink lips, subtle eyeliner, long lashes, and sharp yet delicate facial features.She is wearing a fitted black sleeveless tank top that exposes her shoulders and collarbone naturally, combined with minimalist gold hoop earrings. In several frames she also wears a vibrant red baseball cap with curved brim, giving a sporty street-style aesthetic.The collage consists of various selfie poses and expressions: playful wink, pouty duck-face kiss expression, soft smile, confident neutral stare, side-profile angle, upward gaze, and candid cute expressions. Every frame captures slightly different angles and emotions, creating a lively and expressive  is soft natural daylight entering from a nearby window, producing realistic highlights on the skin, smooth shadows, and subtle reflections on the cheeks and lips. Background is a clean minimal white room interior with soft modern aesthetic, slightly blurred to keep focus on the  style resembles high-end iPhone front camera photography with ultra-sharp facial details, natural skin texture, realistic pores, cinematic exposure, shallow depth of field, crisp focus on eyes and lips, balanced contrast, realistic shadows, and premium social-media influencer aesthetic.Composition displayed as an iPhone photo gallery screenshot interface with black UI theme, grid layout of portrait photos, visible “Recents” title at the top, and bottom navigation tabs like Library, Months, Days, and All Photos.Mood and vibe: cute, playful, stylish, sporty, feminine, trendy Gen-Z selfie aesthetic, casual indoor lifestyle photography, soft clean beauty editorial, realistic social media content creator vibe.",
+      "prompt": "Ultra-realistic selfie photo collage displayed inside a modern smartphone gallery interface, showing multiple portrait shots of a beautiful young Asian woman with soft feminine visuals and natural Korean-inspired beauty aesthetics. She has long straight jet-black hair with silky smooth texture, wispy see-through bangs framing her face, glowing fair skin with dewy makeup finish, soft peach-pink blush, glossy nude pink lips, subtle eyeliner, long lashes, and sharp yet delicate facial features.She is wearing a fitted black sleeveless tank top that exposes her shoulders and collarbone naturally, combined with minimalist gold hoop earrings. In several frames she also wears a vibrant red baseball cap with curved brim, giving a sporty street-style aesthetic.The collage consists of various selfie poses and expressions: playful wink, pouty duck-face kiss expression, soft smile, confident neutral stare, side-profile angle, upward gaze, and candid cute expressions. Every frame captures slightly different angles and emotions, creating a lively and expressive  is soft natural daylight entering from a nearby window, producing realistic highlights on the skin, smooth shadows, and subtle reflections on the cheeks and lips. Background is a clean minimal white room interior with soft modern aesthetic, slightly blurred to keep focus on the  style resembles high-end iPhone front camera photography with ultra-sharp facial details, natural skin texture, realistic pores, cinematic exposure, shallow depth of field, crisp focus on eyes and lips, balanced contrast, realistic shadows, and premium social-media influencer aesthetic.Composition displayed as an iPhone photo gallery screenshot interface with black UI theme, grid layout of portrait photos, visible “Recents” title at the top, and bottom navigation tabs like Library, Months, Days, and All Photos.Mood and vibe: cute, playful, stylish, sporty, feminine, trendy Gen-Z selfie aesthetic, casual indoor lifestyle photography, soft clean beauty editorial, realistic social media content creator vibe.",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8EPTsakAAd8rz.jpg",
+          "w": 674,
+          "h": 1200,
+          "media_key": "3_2116415010918535168",
+          "file": "2116415022947581979_0.jpg",
+          "thumb": "2116415022947581979_0.jpg",
+          "tw": 269,
+          "th": 480
         }
       ],
       "nsfw_flag": false
@@ -27997,6 +28691,349 @@
           "file": "2116077684312674572_0.jpg",
           "thumb": "2116077684312674572_0.jpg",
           "tw": 384,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116576531564687779",
+      "url": "https://x.com/aikiwi_com/status/2116576531564687779",
+      "author": "aikiwi_com",
+      "author_name": "Aikiwi",
+      "avatar": "https://pbs.twimg.com/profile_images/2113228229595025408/esQGjO8M_normal.jpg",
+      "created_at_utc": "2026-10-31T17:02:23.000Z",
+      "created_at_sh": "2026-11-01 01:02",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "fr",
+      "text": "🎃 Même prompt, 3 modèles d'image : une maison hantée, la nuit d'Halloween.\n\nSeedream 5.0 Pro, Nano Banana 2.1 ou GPT Image 2.5 Sunburst : lequel fait le plus peur ? 👇\n\nPremière image proposée, sans retouche.",
+      "prompt": "Au classement Elo des modèles d'image d'Aikiwi : GPT Image 2.5 Sunburst n°1 (1 425), Nano Banana 2.1 n°6 (1 328), Seedream 5.0 Pro n°9 (1 255).\n\nLes 27 modèles 👉\n\n———\n\nLe prompt, mot pour mot :\n\n« Une maison hantée en haut d'une colline, la nuit d'Halloween, pleine lune, citrouilles allumées sur le perron, brume au sol. Photo réaliste, format portrait. Aucune personne, aucune silhouette, aucun fantôme. »",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV-XI5wWQAE0xWH.jpg",
+          "w": 1200,
+          "h": 675,
+          "media_key": "3_2116576529085775873",
+          "file": "2116576531564687779_0.jpg",
+          "thumb": "2116576531564687779_0.jpg",
+          "tw": 480,
+          "th": 270
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116531744400679242",
+      "url": "https://x.com/static_stare/status/2116531744400679242",
+      "author": "static_stare",
+      "author_name": "mo Ki",
+      "avatar": "https://pbs.twimg.com/profile_images/2007912925219225600/rNTIMBbj_normal.jpg",
+      "created_at_utc": "2026-10-31T14:04:25.000Z",
+      "created_at_sh": "2026-10-31 22:04",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT2 x 蓝色夜景 x 厚涂油画 x 提示词\n\n晚上十点了，发几张安静点的。整张画几乎全是蓝的，只留一扇窗或者一道门亮着橙色的灯，颜料堆得很厚，能看到刮刀一道一道抹过去的痕迹。\n\n四张是雪夜山里的小木屋、街角还没关门的小书店、湖边栈道尽头的小屋、乡下没人的小火车站。第一次出图蓝色太暗，墙也画成了米色，后来在提示词里把蓝调亮、把墙也写成蓝的，才是刚入夜那种感觉。\n\n提示词分两段。上面「Visual system」管颜色比例、灯光只能有一两处、刀刮的笔触，别动它。下面「New subject」写你想画的地方和哪扇窗亮着，改这一段就行。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一幅竖幅 3:4 的蓝色夜景厚涂油画，用调色刀堆出来的完成态手绘油画。接近人眼高度的平视远景，主体建筑体量偏在画面一侧，占约一半宽度、可以局部出框，另一侧留出大片低细节的夜空和开阔地面或水面做负空间；地平线或水平线压在画面下三分之一附近，前景是粗粝的地面，中景是主体，远景高度概括。整体明度中等偏亮，是刚入夜的蓝调时刻那种饱和的青蓝、蔚蓝，天空像一整片明亮的钴青色颜料，不要暗沉的藏青、午夜深蓝或接近黑色的大面积暗部；冷青蓝的环境光柔和地罩住全画，天上不出现月亮、星星或强逆光；全画只有一到两处暖光：主体的一扇窗或一扇门透出橙黄灯光，在门口近处地面或水面投下一小片短而破碎的金橙反光，暖光不扩散、不照亮整片环境，不要路灯串、霓虹或多扇亮窗。颜色秩序：明亮饱和的青蓝到湖蓝铺满天空和开阔处，约五成五；钴蓝、群青和深海蓝塑造建筑、地面和阴影，约四成，建筑的墙面、屋顶、树和地面也都画成蓝色调，不要米色、棕色、灰色的墙或木头本色；琥珀橙到金黄只有约百分之四，集中在那一两处亮窗和它的反光里；最深处是深靛蓝不是中性黑，蓝色内部靠明度和冷暖差拉开远近，不要被处理成一层统一的蓝色滤镜。颜料很厚：刀脊、压痕、横向拖抹、刮痕和断续露底清楚可见，天空用宽而交叠的刮面，水面和地面用横向短刮痕，墙面有粗拙的块面，建筑轮廓略带手工的歪斜，形体高度概括成几个大色块，不画砖缝、木纹、瓦片、书脊和石板这类细节，远景只是一两道蓝色块面，暖光区域也保留厚涂痕迹，不要光滑的数字渐变、照片质感或均匀的浮雕滤镜。人物如果出现只是很小的深色背影，不画五官。整体安静、孤独，像深夜里只剩这一盏灯还醒着。画面里不要任何文字、招牌字、签名或水印。\n\nNew subject:\n雪夜的山间小屋：画面右侧一座斜顶小木屋，屋顶压着厚厚的蓝白积雪，只有一扇小方窗亮着橙黄灯光，窗下雪地上映出一小块暖色；屋后是两三棵概括成深蓝块面的杉树，左侧是大片缓缓起伏的蓝色雪坡和远山，天空还在飘细小的雪片，雪地上一串浅浅的脚印通向门口。\n\n模型：GPT Image 2.5\n\n另外三张的提示词，评论区打 2 / 3 / 4 我发你。",
+      "prompt": "晚上十点了，发几张安静点的。整张画几乎全是蓝的，只留一扇窗或者一道门亮着橙色的灯，颜料堆得很厚，能看到刮刀一道一道抹过去的痕迹。\n\n四张是雪夜山里的小木屋、街角还没关门的小书店、湖边栈道尽头的小屋、乡下没人的小火车站。第一次出图蓝色太暗，墙也画成了米色，后来在提示词里把蓝调亮、把墙也写成蓝的，才是刚入夜那种感觉。\n\n提示词分两段。上面「Visual system」管颜色比例、灯光只能有一两处、刀刮的笔触，别动它。下面「New subject」写你想画的地方和哪扇窗亮着，改这一段就行。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一幅竖幅 3:4 的蓝色夜景厚涂油画，用调色刀堆出来的完成态手绘油画。接近人眼高度的平视远景，主体建筑体量偏在画面一侧，占约一半宽度、可以局部出框，另一侧留出大片低细节的夜空和开阔地面或水面做负空间；地平线或水平线压在画面下三分之一附近，前景是粗粝的地面，中景是主体，远景高度概括。整体明度中等偏亮，是刚入夜的蓝调时刻那种饱和的青蓝、蔚蓝，天空像一整片明亮的钴青色颜料，不要暗沉的藏青、午夜深蓝或接近黑色的大面积暗部；冷青蓝的环境光柔和地罩住全画，天上不出现月亮、星星或强逆光；全画只有一到两处暖光：主体的一扇窗或一扇门透出橙黄灯光，在门口近处地面或水面投下一小片短而破碎的金橙反光，暖光不扩散、不照亮整片环境，不要路灯串、霓虹或多扇亮窗。颜色秩序：明亮饱和的青蓝到湖蓝铺满天空和开阔处，约五成五；钴蓝、群青和深海蓝塑造建筑、地面和阴影，约四成，建筑的墙面、屋顶、树和地面也都画成蓝色调，不要米色、棕色、灰色的墙或木头本色；琥珀橙到金黄只有约百分之四，集中在那一两处亮窗和它的反光里；最深处是深靛蓝不是中性黑，蓝色内部靠明度和冷暖差拉开远近，不要被处理成一层统一的蓝色滤镜。颜料很厚：刀脊、压痕、横向拖抹、刮痕和断续露底清楚可见，天空用宽而交叠的刮面，水面和地面用横向短刮痕，墙面有粗拙的块面，建筑轮廓略带手工的歪斜，形体高度概括成几个大色块，不画砖缝、木纹、瓦片、书脊和石板这类细节，远景只是一两道蓝色块面，暖光区域也保留厚涂痕迹，不要光滑的数字渐变、照片质感或均匀的浮雕滤镜。人物如果出现只是很小的深色背影，不画五官。整体安静、孤独，像深夜里只剩这一盏灯还醒着。画面里不要任何文字、招牌字、签名或水印。\n\nNew subject:\n雪夜的山间小屋：画面右侧一座斜顶小木屋，屋顶压着厚厚的蓝白积雪，只有一扇小方窗亮着橙黄灯光，窗下雪地上映出一小块暖色；屋后是两三棵概括成深蓝块面的杉树，左侧是大片缓缓起伏的蓝色雪坡和远山，天空还在飘细小的雪片，雪地上一串浅浅的脚印通向门口。\n\n模型：GPT Image 2.5",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9uXH9WwAA9Nbh.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116531693439860736",
+          "file": "2116531744400679242_0.jpg",
+          "thumb": "2116531744400679242_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9uXIpWEAEfWNc.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116531693624365057",
+          "file": "2116531744400679242_1.jpg",
+          "thumb": "2116531744400679242_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9uXIzX0AALz1d.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116531693666422784",
+          "file": "2116531744400679242_2.jpg",
+          "thumb": "2116531744400679242_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9uXIqWAAA5WaP.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116531693628555264",
+          "file": "2116531744400679242_3.jpg",
+          "thumb": "2116531744400679242_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116530712014643567",
+      "url": "https://x.com/molyin_com/status/2116530712014643567",
+      "author": "molyin_com",
+      "author_name": "Molyin",
+      "avatar": "https://pbs.twimg.com/profile_images/2078692181280444416/ilGVs23G_normal.jpg",
+      "created_at_utc": "2026-10-31T14:00:19.000Z",
+      "created_at_sh": "2026-10-31 22:00",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Realistic Instagram UI, 3D depth layering, and seamless product integration. 📱✨\n\nTransform static product shots into engaging social media ads. From the verification badge to the hand overlapping the interface, every pixel is designed to stop the scroll and boost engagement.\n\nMade with GPT Image 2.5 on Molyin.\n\nGet the prompt 👇",
+      "prompt": "Cinematic Advertisement with Centered Instagram Post  Act as a professional advertising art director and create a high-quality, photorealistic commercial advertisement using the provided reference image as inspiration.  Main Scene: Preserve the main product, brand identity, people, clothing, colors, environment, and overall concept from the reference image. Enhance the scene with cinematic lighting, realistic textures, natural facial expressions, detailed product presentation, and professional commercial photography.  Instagram Interface Placement: Place a large, realistic Instagram-style post card horizontally across the middle of the entire composition, dividing the image into upper and lower visual sections. The card should feature a clean white background, circular brand profile picture, brand username, blue verification badge where appropriate, timestamp, three-dot menu, engagement icons, like count, caption text, and comment information.  Layering and Composition: The main subject should appear prominently in the upper section, while complementary characters, product details, or a continuation of the scene occupy the lower section. Allow selected elements, such as a hand, product, food item, or packaging, to extend naturally in front of or behind the central Instagram card, creating a realistic 3D depth effect. Keep the interface readable and ensure it does not unnecessarily obscure the main subject.  Branding and Text: Retain the original brand name, recognizable logo, and product identity when appropriate. Use a short, engaging promotional caption relevant to the product. Keep all text clean, legible, correctly spelled, and professionally aligned.  Visual Style: Premium commercial campaign, photorealistic rendering, cinematic lighting, realistic shadows, rich but balanced colors, shallow depth of field where appropriate, sharp product details, polished art direction, realistic perspective, and seamless compositing.  Output Requirements: Vertical 4:5 aspect ratio, high resolution, carefully balanced composition, Instagram interface centered horizontally and vertically around the middle of the image, realistic foreground-background separation, no unnecessary interface elements, no distorted hands, no duplicated objects, and no garbled text.  Originality: Create a fresh composition inspired by the reference rather than an exact reproduction of an existing advertisement. Preserve the general creative concept while using original layouts, supporting details, and promotional copy.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9sbQLXgAA2adZ.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2116529565342334976",
+          "file": "2116530712014643567_0.jpg",
+          "thumb": "2116530712014643567_0.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9sbQWWYAAmyZ0.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2116529565388398592",
+          "file": "2116530712014643567_1.jpg",
+          "thumb": "2116530712014643567_1.jpg",
+          "tw": 480,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9sbQUWoAEBfDp.jpg",
+          "w": 1024,
+          "h": 1024,
+          "media_key": "3_2116529565380026369",
+          "file": "2116530712014643567_2.jpg",
+          "thumb": "2116530712014643567_2.jpg",
+          "tw": 480,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116503372408684632",
+      "url": "https://x.com/static_stare/status/2116503372408684632",
+      "author": "static_stare",
+      "author_name": "mo Ki",
+      "avatar": "https://pbs.twimg.com/profile_images/2007912925219225600/rNTIMBbj_normal.jpg",
+      "created_at_utc": "2026-10-31T12:11:41.000Z",
+      "created_at_sh": "2026-10-31 20:11",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT2 x 彩色玻璃窗 x 东方纹样 x 提示词\n\n小时候在老教堂外面看过一扇彩色玻璃窗，太阳一照，地上落了一块一块的颜色，一直记得。这次让模型拼了几扇这样的窗，只是把里面的图案换成咱们自己熟的东西。\n\n四张是锦鲤绕莲、喜鹊登梅、一朵大牡丹、月亮里的玉兔。每张中间都是一个大圆，金色集中在圆里，下面一层层青绿的浪和卷云往上托着。铅条特意写成深褐色，不用纯黑，整扇窗看着会透一点。\n\n提示词分两段。上面「Visual system」管窗框、大圆、铅条、玻璃纹理和配色，别动它。下面「New subject」写圆里放什么、下面的卷纹换成什么，改这一段就行。换成家里的猫、你的生肖也都能拼。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一扇完整入画的竖幅 3:4 铅条镶嵌彩色玻璃窗板，正面平视、四边平行、没有透视倾斜，细窄的古铜色窗框围住整幅画面，窗外和室内环境都不出现。画面核心是一个大型圆形徽章，居中偏上，直径约占窗板宽度的七成，主体就放在这个圆里，圆内有一圈放射状的细分割线和浅色透光底；圆外上方是疏朗的浅奶油色和浅水绿几何玻璃片，两个上角各有一小团螺旋卷云呼应；下半部是一层层大尺度的卷曲波浪和卷云向上托住圆盘，越往下越密，前景的大涡卷互相遮挡形成层次。光从窗板背后均匀透进来，是温暖的日光色温，浅色玻璃柔亮、厚色玻璃透出浓郁色泽，没有投影，没有镜面高光，亮部也保留纹理不过曝。颜色秩序：暖琥珀金和蜂蜜黄集中在圆形徽章和主体上，约两成五，是全画最亮的视觉中心；青绿、湖蓝、浅水绿集中在下半部卷浪和角落，约三成五；暖象牙白和浅香槟米色做背景拼片和留白，约三成；低饱和贝壳粉只在少数卷云里做冷暖过渡，不超过一成，不要平均混铺。深褐色细铅线连续勾出每一块玻璃，主结构线略粗，边缘带一点柔和的古金色反光，铅线不要纯黑也不要太粗。每块玻璃各有不同的手工肌理：水波纹、细气泡、颗粒斑驳、冰裂纹，局部嵌乳白透光小颗粒，相邻玻璃片纹理交替变化，不要整幅一种噪点滤镜。主体本身也用铅条和分片玻璃拼出来，造型概括成平面装饰图案，曲线流畅，带新艺术风格的有机卷曲，不要写实刻画、不要立体浮雕感。整体明朗、安静、有流动感，像一扇老教堂侧窗被午后的光照透。画面里不要任何文字、字母、签名、水印。\n\nNew subject:\n圆形徽章里是两尾锦鲤首尾相接绕成一个圆，围着中间一朵盛开的莲花游动，锦鲤用琥珀金和浅橙色玻璃拼出，鳞片是一片片小弧形玻璃，莲花是浅奶油白带一点贝壳粉的花瓣，圆底是浅金透光的水纹玻璃；圆外下半部的卷浪换成层叠的青绿莲叶和湖蓝水波涡卷，两个上角是小螺旋卷云。\n\n模型：GPT Image 2.5\n\n另外三张的提示词，评论区打 2 / 3 / 4 我发你。",
+      "prompt": "小时候在老教堂外面看过一扇彩色玻璃窗，太阳一照，地上落了一块一块的颜色，一直记得。这次让模型拼了几扇这样的窗，只是把里面的图案换成咱们自己熟的东西。\n\n四张是锦鲤绕莲、喜鹊登梅、一朵大牡丹、月亮里的玉兔。每张中间都是一个大圆，金色集中在圆里，下面一层层青绿的浪和卷云往上托着。铅条特意写成深褐色，不用纯黑，整扇窗看着会透一点。\n\n提示词分两段。上面「Visual system」管窗框、大圆、铅条、玻璃纹理和配色，别动它。下面「New subject」写圆里放什么、下面的卷纹换成什么，改这一段就行。换成家里的猫、你的生肖也都能拼。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一扇完整入画的竖幅 3:4 铅条镶嵌彩色玻璃窗板，正面平视、四边平行、没有透视倾斜，细窄的古铜色窗框围住整幅画面，窗外和室内环境都不出现。画面核心是一个大型圆形徽章，居中偏上，直径约占窗板宽度的七成，主体就放在这个圆里，圆内有一圈放射状的细分割线和浅色透光底；圆外上方是疏朗的浅奶油色和浅水绿几何玻璃片，两个上角各有一小团螺旋卷云呼应；下半部是一层层大尺度的卷曲波浪和卷云向上托住圆盘，越往下越密，前景的大涡卷互相遮挡形成层次。光从窗板背后均匀透进来，是温暖的日光色温，浅色玻璃柔亮、厚色玻璃透出浓郁色泽，没有投影，没有镜面高光，亮部也保留纹理不过曝。颜色秩序：暖琥珀金和蜂蜜黄集中在圆形徽章和主体上，约两成五，是全画最亮的视觉中心；青绿、湖蓝、浅水绿集中在下半部卷浪和角落，约三成五；暖象牙白和浅香槟米色做背景拼片和留白，约三成；低饱和贝壳粉只在少数卷云里做冷暖过渡，不超过一成，不要平均混铺。深褐色细铅线连续勾出每一块玻璃，主结构线略粗，边缘带一点柔和的古金色反光，铅线不要纯黑也不要太粗。每块玻璃各有不同的手工肌理：水波纹、细气泡、颗粒斑驳、冰裂纹，局部嵌乳白透光小颗粒，相邻玻璃片纹理交替变化，不要整幅一种噪点滤镜。主体本身也用铅条和分片玻璃拼出来，造型概括成平面装饰图案，曲线流畅，带新艺术风格的有机卷曲，不要写实刻画、不要立体浮雕感。整体明朗、安静、有流动感，像一扇老教堂侧窗被午后的光照透。画面里不要任何文字、字母、签名、水印。\n\nNew subject:\n圆形徽章里是两尾锦鲤首尾相接绕成一个圆，围着中间一朵盛开的莲花游动，锦鲤用琥珀金和浅橙色玻璃拼出，鳞片是一片片小弧形玻璃，莲花是浅奶油白带一点贝壳粉的花瓣，圆底是浅金透光的水纹玻璃；圆外下半部的卷浪换成层叠的青绿莲叶和湖蓝水波涡卷，两个上角是小螺旋卷云。\n\n模型：GPT Image 2.5",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV9UK_RWUAAlZX8.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116502897647046656",
+          "file": "2116503372408684632_0.jpg",
+          "thumb": "2116503372408684632_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9UK_MX0AAbVIE.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116502897626173440",
+          "file": "2116503372408684632_1.jpg",
+          "thumb": "2116503372408684632_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9UK-YXIAAJTRp.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116502897408024576",
+          "file": "2116503372408684632_2.jpg",
+          "thumb": "2116503372408684632_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV9UK_eWEAAProM.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116502897701556224",
+          "file": "2116503372408684632_3.jpg",
+          "thumb": "2116503372408684632_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116465453929312560",
+      "url": "https://x.com/static_stare/status/2116465453929312560",
+      "author": "static_stare",
+      "author_name": "mo Ki",
+      "avatar": "https://pbs.twimg.com/profile_images/2007912925219225600/rNTIMBbj_normal.jpg",
+      "created_at_utc": "2026-10-31T09:41:00.000Z",
+      "created_at_sh": "2026-10-31 17:41",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT2 x 极简排版海报 x 杂志感 x 提示词\n\n周末在家做了一套能直接拿去用的活动海报。版式很简单：一块低饱和的色块里放一张照片，左边竖着一行大字标题，底下一行小字，剩下的地方都空着。\n\n四张是咖啡新品、读书会、摄影展、周末市集，色块换了四个颜色：燕麦咖、灰绿、雾蓝、陶土粉。字我只留了两处，标题三四个字，小字一行，字少出图就基本不会错。\n\n提示词分两段。上面「Visual system」是画面风格，管版式、留白、字体和纸感，别动。下面「New subject」是主体，改成你的主题、色块颜色、照片里放什么、标题和那行小字写什么，换成招聘、开业、课程通知也都能套。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一张完整独立的竖幅 3:4 极简编辑设计海报，铺满整个画布，正面平视、无透视变形，像一张印好平放的杂志感海报原稿，不是模板拼贴，不是展示墙，不出现海报外的场景、相框或样机。底色是暖灰白哑光纸面，大面积留白。一块低饱和主色的大矩形占据画面中部偏右约四成面积，边缘被画面裁切，局部配一段裁切的圆弧；主色块里放一张同色调、低饱和、安静的主体照片，照片被色块完整裁成矩形，和色块融为一体。左侧是一个近黑色的超大中文主标题，纵向竖排，字少而大，粗壮的黑体，字形端正、笔画完整；画面底部左侧一行很小的横排说明文字，和竖排标题形成方向对照。版式用清晰的非对称网格，两三条极细的近黑分隔线和一两根短横线放在边缘和底部，所有元素精确对齐。画面中的文字只有主标题和底部那一行小字两处，逐字准确，不要任何其他文字、伪文字、乱码小字段落、页码、英文品牌名、商标或标识。颜色秩序：暖灰白纸底约一半，主色块约三成半到四成，浅雾灰辅助分区约一成，近黑只用于文字和细线约百分之六，不额外引入鲜艳强调色。光线是中性略暖的均匀漫射光，只在左上角有极轻的明度变化，没有投影、浮雕或立体效果。细微纸纤维、平整哑光油墨、锐利字缘，克制、安静、理性，有出版物的秩序感，不要做旧噪点。\n\nNew subject:\n主题是咖啡新品海报。主色块是低饱和的燕麦奶咖色。色块里的照片是俯拍的一杯燕麦拿铁，白色陶瓷杯，奶泡上一个简单的拉花，旁边一小撮燕麦粒。竖排主标题为四个字「燕麦拿铁」，底部小字为「新品 11.01 上市」。\n\n模型：GPT Image 2.5\n\n另外三张的提示词，评论区打 2 / 3 / 4 我发你。",
+      "prompt": "周末在家做了一套能直接拿去用的活动海报。版式很简单：一块低饱和的色块里放一张照片，左边竖着一行大字标题，底下一行小字，剩下的地方都空着。\n\n四张是咖啡新品、读书会、摄影展、周末市集，色块换了四个颜色：燕麦咖、灰绿、雾蓝、陶土粉。字我只留了两处，标题三四个字，小字一行，字少出图就基本不会错。\n\n提示词分两段。上面「Visual system」是画面风格，管版式、留白、字体和纸感，别动。下面「New subject」是主体，改成你的主题、色块颜色、照片里放什么、标题和那行小字写什么，换成招聘、开业、课程通知也都能套。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一张完整独立的竖幅 3:4 极简编辑设计海报，铺满整个画布，正面平视、无透视变形，像一张印好平放的杂志感海报原稿，不是模板拼贴，不是展示墙，不出现海报外的场景、相框或样机。底色是暖灰白哑光纸面，大面积留白。一块低饱和主色的大矩形占据画面中部偏右约四成面积，边缘被画面裁切，局部配一段裁切的圆弧；主色块里放一张同色调、低饱和、安静的主体照片，照片被色块完整裁成矩形，和色块融为一体。左侧是一个近黑色的超大中文主标题，纵向竖排，字少而大，粗壮的黑体，字形端正、笔画完整；画面底部左侧一行很小的横排说明文字，和竖排标题形成方向对照。版式用清晰的非对称网格，两三条极细的近黑分隔线和一两根短横线放在边缘和底部，所有元素精确对齐。画面中的文字只有主标题和底部那一行小字两处，逐字准确，不要任何其他文字、伪文字、乱码小字段落、页码、英文品牌名、商标或标识。颜色秩序：暖灰白纸底约一半，主色块约三成半到四成，浅雾灰辅助分区约一成，近黑只用于文字和细线约百分之六，不额外引入鲜艳强调色。光线是中性略暖的均匀漫射光，只在左上角有极轻的明度变化，没有投影、浮雕或立体效果。细微纸纤维、平整哑光油墨、锐利字缘，克制、安静、理性，有出版物的秩序感，不要做旧噪点。\n\nNew subject:\n主题是咖啡新品海报。主色块是低饱和的燕麦奶咖色。色块里的照片是俯拍的一杯燕麦拿铁，白色陶瓷杯，奶泡上一个简单的拉花，旁边一小撮燕麦粒。竖排主标题为四个字「燕麦拿铁」，底部小字为「新品 11.01 上市」。\n\n模型：GPT Image 2.5",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8xvqrWQAA0oEl.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116465044867137536",
+          "file": "2116465453929312560_0.jpg",
+          "thumb": "2116465453929312560_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8xvqpXUAAZULn.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116465044858818560",
+          "file": "2116465453929312560_1.jpg",
+          "thumb": "2116465453929312560_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8xvqqWsAAnS-v.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116465044862971904",
+          "file": "2116465453929312560_2.jpg",
+          "thumb": "2116465453929312560_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8xvqoWYAAByjI.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116465044854562816",
+          "file": "2116465453929312560_3.jpg",
+          "thumb": "2116465453929312560_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116435108580261968",
+      "url": "https://x.com/static_stare/status/2116435108580261968",
+      "author": "static_stare",
+      "author_name": "mo Ki",
+      "avatar": "https://pbs.twimg.com/profile_images/2007912925219225600/rNTIMBbj_normal.jpg",
+      "created_at_utc": "2026-10-31T07:40:26.000Z",
+      "created_at_sh": "2026-10-31 15:40",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "zh",
+      "text": "GPT2 x 城市旅行海报 x 日系平涂 x 提示词\n\n下午有点犯困，想出门又走不开，干脆把几个想去的地方做成了旅行海报。上面一大片蓝天，顶上一行白色大字写地名，街景就压在最底下一小条，光看着就挺舒服。\n\n四张是厦门鼓浪屿、青岛老城、大理洱海、杭州西湖。每张只留了地名和省份那一行小字，店招、门牌、路牌都让它别画，画面干净很多，也不容易冒出错字。\n\n提示词分两段。上面「Visual system」管天空占多少、大字放哪、光从哪边来、用什么颜色，别动它。下面「New subject」改成你老家或者想去的地方，地名拼写写清楚，再写两三样当地街边的东西就能出。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一张竖幅 3:4 的日系复古旅行海报，日式平涂插画加干净的动画背景绘景。清澈的蓝天占画面上方约三分之二，是一大块连续留白，最多只有地平线附近几朵低矮的小积云，电线只在下部少量横穿。画面最顶部是一行超大的白色无衬线全大写英文地名，横贯画面宽度，字距舒展，四周留出安全边距；地名下方左侧紧贴一行很小的白色英文小字。画面中只有这两处文字，拼写必须完全准确，不要其他任何文字、汉字、日文、店招、招牌字、门牌、品牌、商标、徽章、路牌文字或坐标数字。下方约三分之一是当地的街景：街对面平视、略广角的远景机位，地平线压到画面下方四分之一附近，前景是带浅色标线的灰褐路面，中景偏右是当地有特色的低层建筑，左侧开阔，远景露出一窄条水面和低矮的山或岸线，建筑和远景形成不对称平衡；一两件生活细节（车、自行车、树、船）给画面一点人气，不让任何一个物件压倒画面。夏末下午暖白的阳光从左上方照进来，受光面明亮柔和，向右下投出清晰但不生硬的影子，暗部带灰青色环境光。颜色秩序：略灰的天蓝约六成半，铺满天空和水面；米白、浅暖灰约两成半，给标题、建筑亮面和道路；深橄榄绿、灰青绿约百分之八，给树和局部暗面；赭黄和低饱和砖红只占约百分之二点缀街道细节。平涂色块、克制的渐变、简洁透视，轮廓干净，细节适度概括，覆一层极细的纸纹和轻微褪色印刷感，不要厚重做旧，不要写实照片感，不要粗黑描边。整体安静、晴朗、慢，像一个没什么安排的夏天下午。\n\nNew subject:\n顶部大字地名为 XIAMEN，下方小字为 Fujian, China。街景是鼓浪屿的一条安静坡道：右侧是两三栋红砖拱廊老洋楼，带白色廊柱和百叶窗，墙头垂下一大丛玫红色三角梅，坡道左侧开阔，远处是一窄条海面和一艘小小的白色渡轮，对岸是低矮的城市天际线，路边一棵大榕树。\n\n模型：GPT Image 2.5\n\n另外三张的提示词，评论区打 2 / 3 / 4 我发你。",
+      "prompt": "下午有点犯困，想出门又走不开，干脆把几个想去的地方做成了旅行海报。上面一大片蓝天，顶上一行白色大字写地名，街景就压在最底下一小条，光看着就挺舒服。\n\n四张是厦门鼓浪屿、青岛老城、大理洱海、杭州西湖。每张只留了地名和省份那一行小字，店招、门牌、路牌都让它别画，画面干净很多，也不容易冒出错字。\n\n提示词分两段。上面「Visual system」管天空占多少、大字放哪、光从哪边来、用什么颜色，别动它。下面「New subject」改成你老家或者想去的地方，地名拼写写清楚，再写两三样当地街边的东西就能出。\n\n图1 提示词，直接复制：\n\nCreate an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n一张竖幅 3:4 的日系复古旅行海报，日式平涂插画加干净的动画背景绘景。清澈的蓝天占画面上方约三分之二，是一大块连续留白，最多只有地平线附近几朵低矮的小积云，电线只在下部少量横穿。画面最顶部是一行超大的白色无衬线全大写英文地名，横贯画面宽度，字距舒展，四周留出安全边距；地名下方左侧紧贴一行很小的白色英文小字。画面中只有这两处文字，拼写必须完全准确，不要其他任何文字、汉字、日文、店招、招牌字、门牌、品牌、商标、徽章、路牌文字或坐标数字。下方约三分之一是当地的街景：街对面平视、略广角的远景机位，地平线压到画面下方四分之一附近，前景是带浅色标线的灰褐路面，中景偏右是当地有特色的低层建筑，左侧开阔，远景露出一窄条水面和低矮的山或岸线，建筑和远景形成不对称平衡；一两件生活细节（车、自行车、树、船）给画面一点人气，不让任何一个物件压倒画面。夏末下午暖白的阳光从左上方照进来，受光面明亮柔和，向右下投出清晰但不生硬的影子，暗部带灰青色环境光。颜色秩序：略灰的天蓝约六成半，铺满天空和水面；米白、浅暖灰约两成半，给标题、建筑亮面和道路；深橄榄绿、灰青绿约百分之八，给树和局部暗面；赭黄和低饱和砖红只占约百分之二点缀街道细节。平涂色块、克制的渐变、简洁透视，轮廓干净，细节适度概括，覆一层极细的纸纹和轻微褪色印刷感，不要厚重做旧，不要写实照片感，不要粗黑描边。整体安静、晴朗、慢，像一个没什么安排的夏天下午。\n\nNew subject:\n顶部大字地名为 XIAMEN，下方小字为 Fujian, China。街景是鼓浪屿的一条安静坡道：右侧是两三栋红砖拱廊老洋楼，带白色廊柱和百叶窗，墙头垂下一大丛玫红色三角梅，坡道左侧开阔，远处是一窄条海面和一艘小小的白色渡轮，对岸是低矮的城市天际线，路边一棵大榕树。\n\n模型：GPT Image 2.5",
+      "prompt_source": "post",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV8WPPnXkAAcV-e.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116434801032925184",
+          "file": "2116435108580261968_0.jpg",
+          "thumb": "2116435108580261968_0.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8WPP3XgAAfdR0.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116434801100029952",
+          "file": "2116435108580261968_1.jpg",
+          "thumb": "2116435108580261968_1.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8WPO6WoAA1UzJ.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116434800844120064",
+          "file": "2116435108580261968_2.jpg",
+          "thumb": "2116435108580261968_2.jpg",
+          "tw": 360,
+          "th": 480
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV8WPPsWwAA03Zl.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116434801053843456",
+          "file": "2116435108580261968_3.jpg",
+          "thumb": "2116435108580261968_3.jpg",
+          "tw": 360,
+          "th": 480
+        }
+      ],
+      "nsfw_flag": false
+    },
+    {
+      "id": "2116397604988702926",
+      "url": "https://x.com/hello0cig/status/2116397604988702926",
+      "author": "hello0cig",
+      "author_name": "Olivia Brooks Ai",
+      "avatar": "https://pbs.twimg.com/profile_images/2111636914474455041/06ecR2MT_normal.jpg",
+      "created_at_utc": "2026-10-31T05:11:24.000Z",
+      "created_at_sh": "2026-10-31 13:11",
+      "likes": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "lang": "en",
+      "text": "Turn any selfie into a miniature world in 6 steps:\n\n1. Upload your photo\n2. Open GPT Image 2.5\n3. Paste the prompt\n4. Generate\n5. Prompt ⤵️\n\nNew scenes waiting below 👇Part 18",
+      "prompt": "A realistic street-style portrait of a woman in a black cap, gray striped hoodie, white top and black shorts, posing on outdoor stairs.",
+      "prompt_source": "reply",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV70TZiWYAAWZ46.jpg",
+          "w": 900,
+          "h": 1200,
+          "media_key": "3_2116397489020362752",
+          "file": "2116397604988702926_0.jpg",
+          "thumb": "2116397604988702926_0.jpg",
+          "tw": 360,
           "th": 480
         }
       ],

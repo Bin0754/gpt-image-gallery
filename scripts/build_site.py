@@ -34,6 +34,11 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2116445874884677706",  # DeepBlueX0: suggestive cosplay selfies (2026-11-01 review)
+    "2116355257886224796",  # DeepBlueX0: suggestive silhouette poses (2026-11-01 review)
+    "2116416368966807778",  # johnAGI168: suggestive leggy glamour pose (2026-11-01 review)
+    "2116518040573538521",  # johnAGI168: suggestive leggy glamour pose (2026-11-01 review)
+    "2116467745424638072",  # MissDelulu9: tight mini-dress glamour, unsure so hidden (2026-11-01 review)
     "2115797066438045789",  # RTJLDR: price comparison text, not a prompt; suggestive images (2026-10-30 review)
     "2115856638716379214",  # DrSadek_: model comparison commentary, not a prompt (2026-10-30 review)
     "2115842097890660748",  # FlyAIgh: process notes, not a prompt (2026-10-30 review)
@@ -175,6 +180,9 @@ HIDE_IDS = {
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+    '2116450848347652254',  # Tomdotdev: suggestive close-up in shorts (2026-11-01 review)
+    '2116635769729323171',  # YourAlphaMom: model comparison question poster (2026-11-01 review)
+    '2116533722723864694',  # voyzai: ad with truncated prompt fragment, not a real prompt (2026-11-01 review)
     '2115788980969185474',  # oliver031972: cleavage sports-bra vlog, suggestive (2026-10-30 review)
     '2115874033803862236',  # Sjaano81: speed/cost comparison, not a prompt (2026-10-30 review)
     '2115734110715236487',  # wootjie18: product ad, not a prompt (2026-10-30 review)
