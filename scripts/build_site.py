@@ -34,6 +34,10 @@ EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
+    "2117106809907695738",  # frametheory058: nude keyword in prompt (2026-11-07 review)
+    "2118013272712724535",  # DeepBlueX0: 性感私密自拍 series, suggestive (2026-11-07 review)
+    "2117503576348192848",  # johnAGI168: bed-level intimate night still, unsure so hidden (2026-11-07 review)
+    "2117826273388941719",  # johnAGI168: bed-level intimate morning still, unsure so hidden (2026-11-07 review)
     "2116445874884677706",  # DeepBlueX0: suggestive cosplay selfies (2026-11-01 review)
     "2116355257886224796",  # DeepBlueX0: suggestive silhouette poses (2026-11-01 review)
     "2116416368966807778",  # johnAGI168: suggestive leggy glamour pose (2026-11-01 review)
@@ -179,7 +183,9 @@ HIDE_IDS = {
     '2116191790504046669',  # @johnAGI168 crop-top couple on sofa (uncertain → hide)
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
-VHIDE_IDS = {   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
+VHIDE_IDS = {
+    "2118923904890613803",  # MeenakshiYACS: Sexy keyword in prompt (2026-11-07 review)
+    "2118773221520793984",  # Mavern_0x: erotic office prompt (2026-11-07 review)   # video posts kept in video_data.json but not published (reviewed on the poster contact sheet)
     '2116450848347652254',  # Tomdotdev: suggestive close-up in shorts (2026-11-01 review)
     '2116635769729323171',  # YourAlphaMom: model comparison question poster (2026-11-01 review)
     '2116533722723864694',  # voyzai: ad with truncated prompt fragment, not a real prompt (2026-11-01 review)
