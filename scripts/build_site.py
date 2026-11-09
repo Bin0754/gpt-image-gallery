@@ -181,6 +181,29 @@ HIDE_IDS = {
     '2116013902563586137',  # @johnAGI168 black crop top + stockings armchair pose (suggestive)
     '2116161404923220295',  # @liyue_ai low-cut top lounging (uncertain → hide)
     '2116191790504046669',  # @johnAGI168 crop-top couple on sofa (uncertain → hide)
+
+    # 2026-11-10 one-off 200-scan catch-up review
+    '2119019430751715469',  # @DeepBlueX0 swimsuit / water-reveal fashion, suggestive
+    '2117108677178228747',  # @alanblogsooooo intimate sunset/bed-adjacent pose, suggestive
+    '2117479339046707302',  # @alanblogsooooo rooftop JK crouching pose, suggestive
+    '2116796180273508422',  # @alanblogsooooo sushi-bar toast with cleavage focus, suggestive
+    '2119837427720491199',  # @lnxinshng252654 bedroom phone look-up, suggestive (unsure → hide)
+    '2116765563552936380',  # @alanblogsooooo night flash body-focused selfie, suggestive
+    '2116833186785411419',  # @alanblogsooooo GPT-vs-豆包 generation comparison, not a prompt
+    '2117544923608306005',  # @liyue_ai nsfw_flag from scrape
+    '2117181395873456151',  # @liyue_ai nsfw_flag from scrape
+    '2117187479556227389',  # @liyue_ai nsfw_flag from scrape
+    '2117534750432727370',  # @CandyTravelight nsfw_flag from scrape
+    '2118440862996709872',  # @AIModelRace race-card graphic, not a prompt
+    '2117791137809174843',  # @AIModelRace race-card graphic, not a prompt
+    '2117269269926834552',  # @AIModelRace race-card graphic, not a prompt
+    '2116989526937677838',  # @AIModelRace race-card graphic, not a prompt
+    '2118801475753148461',  # @AIModelRace race-card graphic, not a prompt
+    '2116968741254635607',  # @Jack_tech_edu LMArena leaderboard preview, not a prompt
+    '2119927195980194011',  # @DumbEinstein Seedream radial comparison chart, not a prompt
+    '2117460352849834253',  # @VisuraCode loose-vs-template comparison, not a prompt
+    '2117180694728475085',  # @kanakanaAIArt short caption, not a real prompt
+    '2116911610212270096',  # @alanblogsooo too-short prompt fragment
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {
@@ -309,6 +332,18 @@ VHIDE_IDS = {
     '2116111120566247680',  # @dreamydigiarts skin-tight bodysuit selfie (suggestive)
     '2116197269636595940',  # @Niaoshubaba process commentary, no actual prompt
     '2116029909667827737',  # @ayzalnooor24521 character/outfit reference-sheet image prompt, not a Seedance video prompt
+
+    # 2026-11-10 one-off 200-scan catch-up review
+    '2118246827778875740',  # @MeenakshiYACS Sexy keyword in prompt
+    '2118476249056067682',  # @YourAlphaMom nsfw_flag + process-style camcorder prompt
+    '2119132023130636322',  # @Mavern_0x nsfw_flag
+    '2117633599872614540',  # @ZentrixHQ recreate-@Video1 process instruction, not a Seedance prompt
+    '2116934648857346272',  # @Nabilidosoo process/pose description referencing @ video
+    '2117112373878395194',  # @AIwithWania too-short prompt fragment
+    '2118605889074807152',  # @ankit_jhaa_ turnaround-sheet duplicate/process
+    '2118223256314585274',  # @dreamina_muha settings/hashtags only, not a prompt
+    '2118223242746040410',  # @dreamina_prei settings/hashtags only, not a prompt
+    '2118223238820196536',  # @dreamina_brys settings/hashtags only, not a prompt
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page
