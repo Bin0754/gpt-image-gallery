@@ -18,10 +18,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Prepare slim Pages tree
+        env:
+          GITHUB_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          mkdir -p _pages
+          # Full-size images/ (~440MB) stay in the git repo but are NOT uploaded to Pages.
+          # Lightbox loads them from free jsDelivr (same public repo). Thumbs/posters stay local.
+          for item in *; do
+            case "$item" in
+              images|_pages|.git|.github) ;;
+              *) cp -a "$item" _pages/ ;;
+            esac
+          done
+          python3 - <<'PY'
+          import os, pathlib
+          sha = os.environ["GITHUB_SHA"]
+          base = f"https://cdn.jsdelivr.net/gh/Bin0754/gpt-image-gallery@{sha}/images/"
+          p = pathlib.Path("_pages/index.html")
+          text = p.read_text(encoding="utf-8")
+          new = text.replace('"images/', f'"{base}')
+          n = new.count(base)
+          if n < 100:
+              raise SystemExit(f"rewrite failed: only {n} CDN urls")
+          p.write_text(new, encoding="utf-8")
+          print(f"rewrote {n} full image URLs -> jsDelivr @{sha[:7]}")
+          PY
+          echo "Slim Pages tree size:"
+          du -sh _pages
+          du -sh _pages/* 2>/dev/null | sort -hr | head -15
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
