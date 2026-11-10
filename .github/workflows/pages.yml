@@ -24,30 +24,40 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p _pages
-          # Full-size images/ (~440MB) stay in the git repo but are NOT uploaded to Pages.
-          # Lightbox loads them from free jsDelivr (same public repo). Thumbs/posters stay local.
+          # Media stays in git; Pages only gets HTML/JSON/CSV/docs (few files).
+          # Free jsDelivr serves images/thumbs/posters from this same public repo.
           for item in *; do
             case "$item" in
-              images|_pages|.git|.github) ;;
+              images|thumbs|posters|_pages|.git|.github) ;;
               *) cp -a "$item" _pages/ ;;
             esac
           done
+          # Drop bulky downloadables that are also in the git repo (optional for browsing).
+          # Keep prompts.json (small) for the UI / download links; drop large CSV duplicates? keep them — still tiny vs media.
           python3 - <<'PY'
           import os, pathlib
           sha = os.environ["GITHUB_SHA"]
-          base = f"https://cdn.jsdelivr.net/gh/Bin0754/gpt-image-gallery@{sha}/images/"
-          p = pathlib.Path("_pages/index.html")
-          text = p.read_text(encoding="utf-8")
-          new = text.replace('"images/', f'"{base}')
-          n = new.count(base)
-          if n < 100:
-              raise SystemExit(f"rewrite failed: only {n} CDN urls")
-          p.write_text(new, encoding="utf-8")
-          print(f"rewrote {n} full image URLs -> jsDelivr @{sha[:7]}")
+          cdn = f"https://cdn.jsdelivr.net/gh/Bin0754/gpt-image-gallery@{sha}/"
+          def rewrite(path, *pairs):
+              p = pathlib.Path(path)
+              text = p.read_text(encoding="utf-8")
+              new = text
+              for old, folder in pairs:
+                  base = cdn + folder + "/"
+                  new = new.replace(old, f'"{base}')
+                  n = new.count(base)
+                  print(f"{path}: {n} x {folder}/")
+                  if n < 50:
+                      raise SystemExit(f"rewrite failed for {folder} in {path}: {n}")
+              p.write_text(new, encoding="utf-8")
+          rewrite("_pages/index.html", ('"images/', "images"), ('"thumbs/', "thumbs"))
+          rewrite("_pages/videos.html", ('"posters/', "posters"))
+          print("CDN base", cdn)
           PY
           echo "Slim Pages tree size:"
           du -sh _pages
-          du -sh _pages/* 2>/dev/null | sort -hr | head -15
+          find _pages -type f | wc -l
+          du -sh _pages/* 2>/dev/null | sort -hr | head -20
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
