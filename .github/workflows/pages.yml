@@ -4,36 +4,31 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 concurrency:
   group: pages
   cancel-in-progress: true
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Prepare slim Pages tree
+      - name: Publish slim tree to gh-pages
         env:
           GITHUB_SHA: ${{ github.sha }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
+          # Pages is legacy / gh-pages. Media stays on main; free jsDelivr serves it.
+          # workflow deploy-pages was timing out on sync even for ~12MB artifacts.
           mkdir -p _pages
-          # Media stays in git; Pages only gets HTML/JSON/CSV/docs (few files).
-          # Free jsDelivr serves images/thumbs/posters from this same public repo.
           for item in *; do
             case "$item" in
               images|thumbs|posters|_pages|.git|.github) ;;
               *) cp -a "$item" _pages/ ;;
             esac
           done
-          # Drop bulky downloadables that are also in the git repo (optional for browsing).
-          # Keep prompts.json (small) for the UI / download links; drop large CSV duplicates? keep them — still tiny vs media.
+          touch _pages/.nojekyll
           python3 - <<'PY'
           import os, pathlib
           sha = os.environ["GITHUB_SHA"]
@@ -54,16 +49,18 @@ jobs:
           rewrite("_pages/videos.html", ('"posters/', "posters"))
           print("CDN base", cdn)
           PY
-          echo "Slim Pages tree size:"
           du -sh _pages
-          find _pages -type f | wc -l
-          du -sh _pages/* 2>/dev/null | sort -hr | head -20
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _pages
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-        with:
-          timeout: 1800000
+          cd _pages
+          git init -q -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          COUNT=$(python3 -c "import json;print(json.load(open('prompts.json'))['count'])")
+          git commit -q -m "pages: ${COUNT} posts @${GITHUB_SHA:0:7} (media via jsDelivr)"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/Bin0754/gpt-image-gallery.git"
+          git push -f origin gh-pages
+          echo "Pushed gh-pages for ${COUNT} posts"
