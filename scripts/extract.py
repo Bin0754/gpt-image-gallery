@@ -4,7 +4,7 @@ from datetime import datetime, timezone, timedelta
 
 GPT25 = re.compile(r'gpt[\s\-_]?image[\s\-_]?2\.?5|gptimage\s?2\.?5|gptimage25|chatgpt images? 2\.5|gpt[\s-]?2\.5', re.I)
 MARK = re.compile(r'(?:prompt|提示词|プロンプト|咒语)(?:\s*here)?\s*(?:[\(（][^)）\n]{0,30}[\)）])?\s*(?:[👇⤵⬇\ufe0f\U0001F3FB-\U0001F3FF]+\s*)?(?:[:：;]|-\s|\n(?=\S))\s*', re.I)
-NSFW = re.compile(r'nsfw|breast|nipple|lustify|上围|巨乳|bikini|👙|lingerie', re.I)
+NSFW = re.compile(r'nsfw|\bbreasts?\b|nipple|lustify|上围|巨乳|bikini|👙|lingerie', re.I)
 CTA = re.compile(r'see for yourself|try it|which one|which do you|评论|👇|⤵|comment|follow me|save this|下面是之前|続きます|目前，@|感谢 @', re.I)
 EXCLUDE_IDS = {'2097483045221917131','2102350916435288244','2101391707702964652','2105601628078543292'}
 # inline 'prompt' that is really a how-to step list / pointer ("3️⃣ Paste the prompt 4️⃣ Generate", "Prompt below 👇")
