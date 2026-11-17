@@ -2,15 +2,17 @@
 
 # GPT Image 2.5 提示词图库
 
-**精选 X 上的 GPT Image 2.5 真实作品，每张图都附完整提示词——搜索、筛选、一键复制。**
+**精选 X 上头部 AI 模型的真实作品，每条都附完整提示词——按模型筛选、搜索、一键复制。**
+
+图片：GPT Image 2.5 · GPT Image 2.6 · Nano Banana 2.1 · Grok Image 2 · 即梦 5.5 · 即梦 5.0 Pro　|　视频：Seedance 2.5 · Seedance 2.5 Flash · MiniMax H3 · Wan 3.0
 
 [**🌐 在线浏览**](https://bin0754.github.io/gpt-image-gallery/) · [⬇ 下载数据](#-下载数据) · [🔁 刷新数据](#-刷新--复现数据) · [English](README.en.md)
 
-![作品](https://img.shields.io/badge/作品-1055_组-7c9cff) ![图片](https://img.shields.io/badge/图片-2298_张-b18cff) ![License](https://img.shields.io/badge/code-MIT-blue)
+![作品](https://img.shields.io/badge/作品-1526_组-7c9cff) ![图片](https://img.shields.io/badge/图片-3224_张-b18cff) ![License](https://img.shields.io/badge/code-MIT-blue)
 
 </div>
 
-> 非官方社区整理项目，与 OpenAI 无任何关联。图片与提示词版权归各原作者所有，每条内容都链接回 X 原帖。
+> 非官方社区整理项目，与 OpenAI、Google、xAI、字节跳动、MiniMax、阿里等模型厂商无任何关联。图片与提示词版权归各原作者所有，每条内容都链接回 X 原帖。
 
 ## 📸 截图
 
@@ -31,12 +33,12 @@
 
 | 项目 | 数值 |
 | --- | --- |
-| 作品（帖子） | **1055** 组，来自 259 位作者 |
-| 图片 | **2298** 张（最长边 1200px JPEG + 480px 缩略图） |
-| 发布时间范围 | 2026-09-09 至 2026-11-16（北京时间，GPT Image 2.5 于 2026-09-08 前后发布） |
-| 提示词语言 | English 726，中文 286，日本語 37，其他 6 |
-| 提示词来源 | 帖子正文 804 · 作者本人回复 177 · 图片 ALT 文本 74 |
-| 最近更新 | 2026-11-16 22:19（北京时间） |
+| 作品（帖子） | **1526** 组，来自 366 位作者 |
+| 图片 | **3224** 张（最长边 1200px JPEG + 480px 缩略图） |
+| 发布时间范围 | 2026-08-18 至 2026-11-17（北京时间，GPT Image 2.5 于 2026-09-08 前后发布） |
+| 提示词语言 | English 1056，中文 369，日本語 91，其他 10 |
+| 提示词来源 | 帖子正文 1216 · 作者本人回复 188 · 图片 ALT 文本 122 |
+| 最近更新 | 2026-11-17 09:52（北京时间） |
 
 收录规则：帖子须带图片、明确提到 GPT Image 2.5，并且能拿到**作者本人公开给出的提示词**（帖子正文 / 作者在同一会话中的自回复 / 图片 ALT 文本）。提示词“只在图片里”或“在评论区/链接里”的帖子不收录；同一作者的重复提示词去重；NSFW 及过于性感的内容不在公开页面展示。
 
@@ -48,8 +50,8 @@
 
 | 项目 | 数值 |
 | --- | --- |
-| 视频帖子 | **2269** 条（其中标注 Seedance 2.5 的 2267 条） |
-| 发布时间范围 | 2026-08-01 至 2026-11-16（北京时间） |
+| 视频帖子 | **2380** 条（其中标注 Seedance 2.5 的 2299 条） |
+| 发布时间范围 | 2026-08-01 至 2026-11-17（北京时间） |
 | 数据下载 | [`video_prompts.json`](https://bin0754.github.io/gpt-image-gallery/video_prompts.json) · [`video_prompts.csv`](https://bin0754.github.io/gpt-image-gallery/video_prompts.csv)（UTF-8 带 BOM）：`id, date, model, author, post_url, likes, language, prompt_source, prompt, mp4, duration_s` |
 
 收录规则同上（须有视频 + 作者本人给出的提示词，去重，过滤性感/NSFW 内容）。仓库只保存封面图（`posters/`，最长边 480px）；视频本身不入库，点开卡片直接播放 X 的原始 mp4（`video.twimg.com`），播放失败时可点「在 X 上观看」。模型标签只按帖子原文标注，其他 Seedance 版本若收录会单独放在「其他 Seedance」筛选里。

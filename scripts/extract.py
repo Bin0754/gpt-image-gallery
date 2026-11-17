@@ -21,6 +21,51 @@ SEEDANCE = re.compile(r'seedance|即梦|jimeng|dreamina', re.I)
 SEED_VER = re.compile(r'seedance[\s\-_]?(\d(?:\.\d)?)(?:[\s\-_]?(pro|lite|fast|mini))?', re.I)
 VIDEO_ONLY = re.compile(r'^\W*(\d\W*)?(video prompt|sedance|seedance|video prompt（grok）)', re.I)
 TCO = re.compile(r'https://t\.co/\S+')
+# --- multi-model tagging (2026-11-17) -------------------------------------------------------
+# Only these "top" models are collected. A post is tagged only when its text (or image ALT)
+# clearly names exactly one of them; posts naming several (comparisons) or none are skipped.
+# Posts already published before the expansion keep their frozen tag (scripts/legacy_models.json).
+IMAGE_MODELS = [
+    ('GPT Image 2.6', re.compile(r'gpt[\s\-_]?image[\s\-_]?2\.6|gptimage[\s\-_]?2\.?6(?!\d)|chatgpt[\s\-_]?images?[\s\-_]?2\.6|gpt[\s\-_]?img[\s\-_]?2\.6', re.I)),
+    ('GPT Image 2.5', GPT25),
+    ('Nano Banana 2.1', re.compile(r'nano[\s\-_]?banana[\s\-_]?2\.1|nanobanana[\s\-_]?2\.?1(?!\d)', re.I)),
+    ('Grok Image 2', re.compile(r'grok[\s\-_]?image[\s\-_]?2(?:\.0)?(?![\.\d])|grokimage[\s\-_]?2(?:\.0)?(?![\.\d])|grok[\s\-_]?imagine[\s\-_]?image[\s\-_]?2(?:\.0)?(?![\.\d])', re.I)),
+    # 即梦 / Jimeng / Dreamina image models are ByteDance Seedream; "Seedream 5.5" is the same model under its API name
+    ('即梦 5.5', re.compile(r'(?:即梦|jimeng|dreamina|seedream)[\s\-_]*(?:ai)?[\s\-_]*(?:图片|image|图像)?[\s\-_]*(?:v)?5\.5(?!\d)', re.I)),
+    ('即梦 5.0 Pro', re.compile(r'(?:即梦|jimeng|dreamina|seedream)[\s\-_]*(?:ai)?[\s\-_]*(?:图片|image|图像)?[\s\-_]*(?:v)?5\.0[\s\-_]*pro', re.I)),
+]
+VIDEO_MODELS = [
+    ('Seedance 2.5 Flash', re.compile(r'seedance[\s\-_]?2\.?5[\s\-_]?flash', re.I)),
+    ('Seedance 2.5', re.compile(r'seedance[\s\-_]?2\.?5(?!\d)(?![\s\-_]?flash)', re.I)),
+    ('MiniMax H3', re.compile(r'(?:minimax|hailuo|海螺)[\s\-_]*(?:ai)?[\s\-_]*h[\s\-_]?3(?![\.\d])', re.I)),
+    ('Wan 3.0', re.compile(r'(?<![a-z])wan[\s\-_]?3\.0(?!\d)|万相[\s\-_]*3\.0(?!\d)', re.I)),
+]
+VIDEO_ANY = re.compile(r'seedance|即梦|jimeng|dreamina|minimax|hailuo|海螺|wan[\s\-_]?3\.0|万相', re.I)
+IMAGE_MODEL_ORDER = [m for m, _ in IMAGE_MODELS]
+VIDEO_MODEL_ORDER = ['Seedance 2.5', 'Seedance 2.5 Flash', 'MiniMax H3', 'Wan 3.0']
+def _legacy():
+    import os
+    f = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'legacy_models.json')
+    try: return json.load(open(f, encoding='utf-8'))
+    except Exception: return {'image': {}, 'video': {}}
+LEGACY = _legacy()
+
+def image_model(text):
+    found = [name for name, rx in IMAGE_MODELS if rx.search(text)]
+    return found[0] if len(found) == 1 else ''
+
+def video_model(text):
+    found = [name for name, rx in VIDEO_MODELS if rx.search(text)]
+    if len(found) != 1: return ''
+    if found[0] == 'Seedance 2.5' and re.search(r'seedance[\s\-_]?2\.?5[\s\-_]?pro', text, re.I): return 'Seedance 2.5 Pro'
+    return found[0]
+
+def model_family(model):
+    """Filter group shown on the site: 'Seedance 2.5 Pro' -> 'Seedance 2.5'; older Seedance -> '其他 Seedance'."""
+    if model.startswith('Seedance 2.5 Flash'): return 'Seedance 2.5 Flash'
+    if model.startswith('Seedance 2.5'): return 'Seedance 2.5'
+    if model.startswith('Seedance') or not model: return '其他 Seedance'
+    return model
 SH = timezone(timedelta(hours=8))
 LAST_MISSING = []   # (username, conversation_id) of root posts with photos but no prompt yet -> fetch_x.py asks for self-replies
 
@@ -133,9 +178,16 @@ def build_posts(raw_glob='raw/*.txt', kind='photo'):
             photos = [media[k] for k in mks if k in media and media[k].get('type') == 'photo' and media[k].get('url')]
         if not photos or pid in EXCLUDE_IDS or EXCLUDE_TEXT.search(t): continue
         alts = [m.get('alt_text', '') for m in photos if m.get('alt_text') and not ALT_NOT_PROMPT.search(m['alt_text'])]
-        if kind == 'video':
-            if not (SEEDANCE.search(t) or any(SEEDANCE.search(a) for a in alts)): continue
-        elif not (GPT25.search(t) or any(GPT25.search(a) for a in alts)): continue
+        legacy = LEGACY.get('video' if kind == 'video' else 'image', {}).get(pid)
+        tagtext = t + '\n' + '\n'.join(alts)
+        if legacy is not None:      # published before 2026-11-17: same inclusion rule as before, frozen tag
+            if kind == 'video':
+                if not (SEEDANCE.search(t) or any(SEEDANCE.search(a) for a in alts)): continue
+            elif not (GPT25.search(t) or any(GPT25.search(a) for a in alts)): continue
+            model = legacy
+        else:
+            model = video_model(tagtext) if kind == 'video' else image_model(tagtext)
+            if not model: continue
         prompt, source = '', ''
         for m in MARK.finditer(t):
             ws = t.rfind(' ', 0, m.start()); nl = t.rfind('\n', 0, m.start())
@@ -207,7 +259,8 @@ def build_posts(raw_glob='raw/*.txt', kind='photo'):
             'text': TCO.sub('', t).strip(),
             'prompt': prompt, 'prompt_source': source,
             'images': [{'url': m['url'], 'w': m.get('width'), 'h': m.get('height'), 'media_key': m['media_key']} for m in photos] if kind != 'video' else [],
-            **({'model': seedance_model(t + ' ' + prompt),
+            'model': model, 'model_family': model_family(model) if kind == 'video' else model,
+            **({
                 'videos': [{'poster_url': m['preview_image_url'], 'w': m.get('width'), 'h': m.get('height'),
                             'duration_ms': m.get('duration_ms'), 'views': (m.get('public_metrics') or {}).get('view_count'),
                             'mp4': best_mp4(m)[0], 'mp4_low': best_mp4(m)[1], 'media_key': m['media_key']} for m in photos]}

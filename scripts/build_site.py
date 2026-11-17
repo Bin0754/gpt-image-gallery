@@ -19,8 +19,10 @@ from PIL import Image
 
 SCRIPTS = Path(__file__).resolve().parent
 ROOT = SCRIPTS.parent
-TPL = (SCRIPTS / 'template.html').read_text(encoding='utf-8')
-TPL_V = (SCRIPTS / 'template_video.html').read_text(encoding='utf-8')
+TPL_APP = (SCRIPTS / 'template_app.html').read_text(encoding='utf-8')   # one template for index.html + videos.html
+import hashlib, re, sys
+sys.path.insert(0, str(SCRIPTS))
+from extract import IMAGE_MODEL_ORDER, VIDEO_MODEL_ORDER, model_family
 
 REPO = 'Bin0754/gpt-image-gallery'
 REPO_URL = f'https://github.com/{REPO}'
@@ -31,6 +33,12 @@ REMOVAL_URL = f'{REPO_URL}/issues/new?template=removal-request.yml'
 SUBMIT_URL = f'{REPO_URL}/issues/new?template=submit-prompt.yml'
 
 EMBED_SIDE, EMBED_Q = 560, 68          # gallery.html embedded image size / JPEG quality
+THUMB_W, THUMB_MAXH, THUMB_Q = 440, 1100, 70   # grid thumbnails: WebP, 440px wide (2x for ~220px mobile columns)
+POSTER_W, POSTER_Q = 440, 68                     # video poster frames: WebP
+CHUNK0, CHUNK = 60, 500                         # first data chunk (top posts by likes) renders the first screen
+MODEL_COLORS = {'GPT Image 2.5': '#7c9cff', 'GPT Image 2.6': '#2dd4bf', 'Nano Banana 2.1': '#facc15', 'Grok Image 2': '#e5e7eb',
+                '即梦 5.5': '#fb7185', '即梦 5.0 Pro': '#c084fc', 'Seedance 2.5': '#7c9cff', 'Seedance 2.5 Flash': '#38bdf8',
+                'MiniMax H3': '#fb923c', 'Wan 3.0': '#a3e635', '其他 Seedance': '#8b91a1'}
 INCLUDE_NSFW = False
 # Not caught by the NSFW keyword filter but too suggestive for a public page (manual review).
 HIDE_IDS = {
@@ -204,6 +212,126 @@ HIDE_IDS = {
     '2117460352849834253',  # @VisuraCode loose-vs-template comparison, not a prompt
     '2117180694728475085',  # @kanakanaAIArt short caption, not a real prompt
     '2116911610212270096',  # @alanblogsooo too-short prompt fragment
+    # --- 2026-11-17 multi-model review ---
+    '2121728716309180634',  # @onoken1025sub suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121803816316076110',  # @johnAGI168 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118901753923965090',  # @sdjn_wgc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118357727009276159',  # @sdjn_wgc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121201759297339607',  # @LoveAiko2003 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119611294345236615',  # @LoveAiko2003 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2110036716954472471',  # @tealdog2 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2110009680642896306',  # @aisima2046 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121417649288802315',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2110903619285647693',  # @aisima2046 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119437281690014011',  # @AJCreatesAI suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2117998185604161762',  # @LoveAiko2003 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2110710510463098955',  # @favprompt suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120060311445164318',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119088855341310206',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121110720301384072',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121907812473373169',  # @DeepBlueX0 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120863920932196657',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121563275498508774',  # @AJCreatesAI suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121975813759521132',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121960695646568923',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120557431109620027',  # @DeepBlueX0 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122186757726957960',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122198025959510171',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121081775963386054',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120885067438497997',  # @alanblogsooo suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121934412518695318',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120392940787003766',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120156034904018948',  # @allinGoabroad suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119803891818873147',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119776316027445535',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122380409665376327',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121253331758985680',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121122513879290167',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122163308958818733',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120136395813732615',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119451606140006740',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2109535859435532795',  # @ai_lady_ready suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122172628198920380',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122229509047112010',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122230018428580073',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122250459549209069',  # @AJCreatesAI suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122215119962931621',  # @sumistudio_ai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122383662302081142',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122377667102355641',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122373684086423942',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121255457658478890',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120768740308738501',  # @cyazierpen suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122263956358398318',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122164761660141910',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122139950905004226',  # @LvZongru9204 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121978368518422956',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121918227047698873',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121765049245004137',  # @ZabojcaKomarow suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121537889637147049',  # @wu_jinchan12113 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120542070435975403',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120058743014699342',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119958092490457165',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118921498237034634',  # @DeepBlueX0 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118906367369155018',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118517866417082659',  # @akiba_tokyo_jp suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118359110123229470',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118333443272835388',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2116909496798998716',  # @ModelPurposeAI suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2116544790997484013',  # @ModelPurposeAI suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2110711519696576982',  # @favprompt suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122494038880493730',  # @AcornerVJ suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122380651433209874',  # @FuguiChen1314 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121450709715660928',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121444288198561799',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121441900238663696',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121439238554280299',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121292004806045852',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121280614867632248',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121224662357270872',  # @wanzhousu1 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121179194994659364',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121105365244809259',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121083158338977889',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120949066536570985',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120935903292186836',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120884014638862525',  # @youci290897 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120882901759963401',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120872789523787907',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120862450132406560',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120823578417365319',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120816034378821753',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120806584297418899',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120799057350123839',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121910580848242814',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121902728767267098',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121803366229815590',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121802236645019836',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121799366931611880',  # @libn498262 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121764299828015297',  # @nicknickai suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120547991404826986',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120531483215462794',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120458825476219104',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120449076621947197',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120394446563119183',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120391085415637366',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120308619199799423',  # @ChanJunor23588 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120176297641160943',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120152655238447222',  # @AJCreatesAI suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120101020923748757',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120028801090687014',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119996745275027706',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119823549510951014',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119805960839664094',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119795323120058436',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2119729888865419525',  # @taoartc suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118899973450608660',  # @akiba_tokyo_jp suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122005978845683940',  # @Vici_001 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2122004890411217010',  # @Vici_001 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2114911076873843133',  # @tealdog2 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2120533471244505183',  # @Mxfo888 suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2118305330048512449',  # @knoxtwts UI screenshot, not artwork (2026-11-17 review)
+    '2121156670868844655',  # @jhl880617 benchmark chart, not artwork (2026-11-17 review)
+    '2120359868096024877',  # @yyyole UI screenshot, not artwork (2026-11-17 review)
+    '2121896705679638593',  # @MengTo UI screenshot, not artwork (2026-11-17 review)
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {
@@ -377,6 +505,8 @@ VHIDE_IDS = {
     '2118223256314585274',  # @dreamina_muha settings/hashtags only, not a prompt
     '2118223242746040410',  # @dreamina_prei settings/hashtags only, not a prompt
     '2118223238820196536',  # @dreamina_brys settings/hashtags only, not a prompt
+    # --- 2026-11-17 multi-model review ---
+    '2122385276462883315',  # @devgetsit suggestive/revealing (2026-11-17 review, when unsure hide)
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page
@@ -415,21 +545,129 @@ def stats(d, posts):
     }
 
 
-def render(d, posts, st):
-    payload = {k: v for k, v in d.items() if k not in ('posts', 'queries')}
-    payload.update(posts=posts, count=len(posts), images=st['images'], first=st['first'], last=st['last'],
-                   updated=st['updated'], repo_url=REPO_URL, zip_url=ZIP_URL, removal_url=REMOVAL_URL, submit_url=SUBMIT_URL)
-    js = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
-    top = max(posts, key=lambda p: p['likes'])
-    og = SITE_URL + 'thumbs/' + top['images'][0]['thumb']
-    desc = (f"收录 {st['count']} 组 X 上公开分享的 GPT Image 2.5 作品与完整提示词：支持中/英/日搜索、按点赞或时间排序、"
-            f"一键复制，并可下载 JSON/CSV 数据。开源项目，内容版权归原作者。")
-    rep = {'__DESC__': desc, '__SITE_URL__': SITE_URL, '__OG_IMAGE__': og, '__REPO_URL__': REPO_URL,
-           '__ZIP_URL__': ZIP_URL, '__REMOVAL_URL__': REMOVAL_URL, '__SUBMIT_URL__': SUBMIT_URL,
-           '__COUNT__': str(st['count']), '__VCOUNT__': str(VCOUNT), '__UPDATED__': st['updated']}
-    html = TPL
+# ------------------------------------------------------------------ fast app pages (index.html / videos.html)
+def webp_thumb(src: Path, dst: Path, w: int, q: int, maxh=None):
+    """Small WebP derivative for the grid (cached: only built once per file)."""
+    if dst.exists():
+        with Image.open(dst) as im: return im.width, im.height
+    im = Image.open(src).convert('RGB')
+    sc = min(1.0, w / im.width)
+    if maxh: sc = min(sc, maxh / im.height)
+    if sc < 1: im = im.resize((max(1, round(im.width * sc)), max(1, round(im.height * sc))), Image.Resampling.LANCZOS)
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    im.save(dst, 'WEBP', quality=q, method=5)
+    return im.width, im.height
+
+
+def prepare_media(posts, videos):
+    """Point every card at a WebP thumbnail / poster (built from the 1200px image / 480px poster)."""
+    import concurrent.futures as cf
+    jobs = [(im, ROOT / 'images' / im['file'], ROOT / 'thumbs' / (Path(im['file']).stem + '.webp'), THUMB_W, THUMB_Q, THUMB_MAXH)
+            for p in posts for im in p['images']]
+    jobs += [(v, ROOT / 'posters' / v['poster'], ROOT / 'posters' / (Path(v['poster']).stem + '.webp'), POSTER_W, POSTER_Q, None)
+             for p in videos for v in p['videos']]
+    def work(j):
+        obj, src, dst, w, q, mh = j
+        return obj, dst.name, webp_thumb(src, dst, w, q, mh)
+    with cf.ThreadPoolExecutor(8) as ex:
+        for obj, name, (w, h) in ex.map(work, jobs):
+            if 'file' in obj: obj['thumb'], obj['tw'], obj['th'] = name, w, h
+            else: obj['poster'], obj['pw'], obj['ph'] = name, w, h
+
+
+def img_record(p):
+    r = {'i': p['id'], 'a': p['author'], 'n': p.get('author_name', ''), 'av': short_av(p.get('avatar', '')), 'd': p['created_at_sh'],
+         'l': p['likes'], 'r': p.get('reposts', 0), 'g': p['language'], 'm': p.get('model') or 'GPT Image 2.5',
+         's': p['prompt_source'], 'p': p['prompt'],
+         'im': [[im.get('thumb_src') or 'thumbs/' + im['thumb'], im['tw'], im['th'], im.get('full_src') or 'images/' + im['file'], im['w'], im['h']] for im in p['images']]}
+    add_text(r, p)
+    return r
+
+
+def short_av(u):   # lean JSON: the template re-adds these well-known prefixes
+    return u[len('https://pbs.twimg.com/profile_images/'):] if u.startswith('https://pbs.twimg.com/profile_images/') else u
+
+
+def short_vt(u):
+    u = u or ''
+    return u[len('https://video.twimg.com/'):] if u.startswith('https://video.twimg.com/') else u
+
+
+def add_text(r, p):
+    """Original post text is only kept when it adds context (prompt from a reply / ALT); capped for lean chunks."""
+    x = (p.get('text') or '').strip()
+    if x and p['prompt_source'] != 'post' and x != p['prompt'].strip(): r['x'] = x[:600]
+
+
+def vid_record(p):
+    r = {'i': p['id'], 'a': p['author'], 'n': p.get('author_name', ''), 'av': short_av(p.get('avatar', '')), 'd': p['created_at_sh'],
+         'l': p['likes'], 'g': p['language'], 'm': p['model'], 'f': model_family(p['model']), 's': p['prompt_source'], 'p': p['prompt'],
+         'v': [['posters/' + v['poster'], v['pw'], v['ph'], v.get('duration_ms') or 0, short_vt(v.get('mp4')),
+                1 if v.get('mp4_low') == v.get('mp4') else short_vt(v.get('mp4_low')), v.get('views') or 0] for v in p['videos']]}
+    add_text(r, p)
+    return r
+
+
+PAGE = {
+    'image': dict(file='index.html', title='GPT Image 2.5 提示词图库 · GPT Image / Nano Banana / Grok / 即梦 作品与完整提示词',
+                  tagline='X 上头部 AI 生图模型的真实作品，每张图都附完整提示词，一键复制',
+                  placeholder='搜索提示词或作者，例如：海报、像素、travel、cinematic',
+                  foot='图片与提示词版权归各原作者所有，每条内容均附 X 原帖链接；本站仅做整理与索引，与 OpenAI / Google / xAI / 字节跳动无任何关联。'),
+    'video': dict(file='videos.html', title='GPT Image 2.5 提示词图库 · AI 视频提示词（Seedance / MiniMax H3 / Wan 3.0）',
+                  tagline='X 上头部 AI 视频模型的作品，每条都附完整提示词，点开即可播放',
+                  placeholder='搜索视频提示词或作者，例如：cinematic、打戏、アニメ、vlog',
+                  foot='视频与提示词版权归各原作者所有，视频直接从 X（video.twimg.com）播放，本站不存储视频文件；本站仅做整理与索引，与各模型厂商无任何关联。'),
+}
+
+
+def write_app(kind, dest: Path, recs, st, vcount, icount, inline=False):
+    """Write dest/index.html or dest/videos.html (small shell + inline manifest) and dest/data/<kind>-N-<hash>.json chunks."""
+    cfg = PAGE[kind]
+    recs = sorted(recs, key=lambda r: -r['l'])
+    fam = (lambda r: r['f']) if kind == 'video' else (lambda r: r['m'])
+    counts = Counter(fam(r) for r in recs)
+    order = (VIDEO_MODEL_ORDER + ['其他 Seedance']) if kind == 'video' else IMAGE_MODEL_ORDER
+    models = [m for m in order if counts.get(m)] + [m for m in counts if m not in order]
+    names = []
+    if not inline:
+        ddir = dest / 'data'; ddir.mkdir(parents=True, exist_ok=True)
+        for f in ddir.glob(f'{kind}-*.json'): f.unlink()
+        chunks = [recs[:CHUNK0]] + [recs[i:i + CHUNK] for i in range(CHUNK0, len(recs), CHUNK)]
+        for k, c in enumerate(chunks):
+            b = json.dumps(c, ensure_ascii=False, separators=(',', ':')).encode()
+            name = f'data/{kind}-{k}-{hashlib.sha1(b).hexdigest()[:10]}.json'
+            (dest / name).write_bytes(b); names.append(name)
+    dates = sorted(r['d'] for r in recs) or ['']
+    man = {'kind': kind, 'count': len(recs), 'media': sum(len(r.get('im') or r.get('v')) for r in recs),
+           'first': dates[0][:10], 'last': dates[-1][:10], 'models': models, 'counts': dict(counts),
+           'colors': {m: MODEL_COLORS.get(m, '#8b91a1') for m in models}, 'chunks': names}
+    if inline: man['inline'] = recs
+    mlist = '、'.join(f'{m} {counts[m]}' for m in models)
+    if kind == 'image':
+        intro = (f'<b>这是什么？</b>收录 <b>{len(recs)}</b> 组 X（Twitter）用户公开分享的 AI 生图作品（共 {man["media"]} 张图），'
+                 f'覆盖头部模型：{mlist}。每组都附作者给出的<b>完整提示词</b>和原帖链接；点上方模型标签即可分类浏览。')
+    else:
+        intro = (f'<b>视频专区：</b>收录 <b>{len(recs)}</b> 条 X 用户公开分享的 AI 视频：{mlist}。每条都附<b>完整提示词</b>；'
+                 '视频在点开（或桌面端悬停）后才从 X 加载，列表只加载压缩封面。')
+    top = recs[0] if recs else None
+    cdn = f'https://cdn.jsdelivr.net/gh/{REPO}@main/'
+    og = (cdn + (top['im'][0][3] if kind == 'image' else top['v'][0][0])) if top and not inline else ''
+    desc = (f"收录 {len(recs)} {'组' if kind == 'image' else '条'} X 上公开分享的 AI {'图片' if kind == 'image' else '视频'}与完整提示词（{mlist}）："
+            "按模型分类、中/英/日搜索、按点赞或时间排序、一键复制，并可下载 JSON/CSV。内容版权归原作者。")
+    rep = {'__TITLE__': cfg['title'], '__DESC__': desc, '__PAGE_URL__': SITE_URL + ('' if kind == 'image' else 'videos.html'),
+           '__OG_IMAGE__': og, '__REFERRER__': '<meta name="referrer" content="no-referrer">',
+           '__TAGLINE__': cfg['tagline'], '__PLACEHOLDER__': cfg['placeholder'], '__FOOT1__': cfg['foot'], '__INTRO__': intro,
+           '__TAB_IMG__': 'class="on" aria-current="page"' if kind == 'image' else '',
+           '__TAB_VID__': 'class="on" aria-current="page"' if kind == 'video' else '',
+           '__COUNT__': str(icount), '__VCOUNT__': str(vcount), '__UPDATED__': st['updated'],
+           '__REPO_URL__': REPO_URL, '__ZIP_URL__': ZIP_URL, '__REMOVAL_URL__': REMOVAL_URL, '__SUBMIT_URL__': SUBMIT_URL}
+    html = TPL_APP
+    if inline or not names: html = re.sub(r'<link rel="preload" href="__CHUNK0__"[^>]*>\n', '', html)
+    else: html = html.replace('__CHUNK0__', names[0])
     for k, v in rep.items(): html = html.replace(k, v)
-    return html.replace('__DATA__', js)
+    html = html.replace('__MANIFEST__', json.dumps(man, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/'))
+    (dest / cfg['file']).write_text(html, encoding='utf-8')
+    return html
 
 
 def prompt_records(posts):
@@ -437,7 +675,7 @@ def prompt_records(posts):
     for p in sorted(posts, key=lambda p: -p['likes']):
         dt = datetime.strptime(p['created_at_utc'], '%Y-%m-%dT%H:%M:%S.%fZ').replace(tzinfo=timezone.utc).astimezone(SH)
         out.append({
-            'id': p['id'], 'prompt': p['prompt'], 'author': p['author'],
+            'id': p['id'], 'model': p.get('model') or 'GPT Image 2.5', 'prompt': p['prompt'], 'author': p['author'],
             'author_url': f"https://x.com/{p['author']}", 'post_url': p['url'],
             'date': dt.isoformat(timespec='seconds'), 'likes': p['likes'], 'language': p['language'],
             'images': ['images/' + im['file'] for im in p['images']], 'prompt_source': p['prompt_source'],
@@ -449,10 +687,11 @@ def write_downloads(dest: Path, d, posts, st):
     recs = prompt_records(posts)
     meta = {
         'name': 'GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery',
+        'models': dict(Counter(p.get('model') or 'GPT Image 2.5' for p in posts)),
         'homepage': SITE_URL, 'repository': REPO_URL, 'generated_at': datetime.fromisoformat(d['generated_at']).astimezone(SH).isoformat(timespec='seconds'),
         'count': len(recs),
         'license': 'Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.',
-        'fields': {'id': 'X post id', 'prompt': 'full prompt text as shared by the author', 'author': 'X username',
+        'fields': {'id': 'X post id', 'model': 'AI image model named in the post (GPT Image 2.5 / GPT Image 2.6 / Nano Banana 2.1 / Grok Image 2 / 即梦 5.5 / 即梦 5.0 Pro)', 'prompt': 'full prompt text as shared by the author', 'author': 'X username',
                    'author_url': 'X profile', 'post_url': 'original post', 'date': 'post time, ISO 8601, UTC+8',
                    'likes': 'like count at collection time', 'language': 'zh | ja | en | other',
                    'images': 'image paths relative to the site root (max 1200px JPEG)',
@@ -460,7 +699,7 @@ def write_downloads(dest: Path, d, posts, st):
         'prompts': recs,
     }
     (dest / 'prompts.json').write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding='utf-8')
-    cols = ['id', 'date', 'author', 'author_url', 'post_url', 'likes', 'language', 'prompt_source', 'prompt', 'images']
+    cols = ['id', 'date', 'model', 'author', 'author_url', 'post_url', 'likes', 'language', 'prompt_source', 'prompt', 'images']
     with open(dest / 'prompts.csv', 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
@@ -504,7 +743,7 @@ def fill(text, st):
 def export_site(d, posts, st):
     """Mirror the public site into site/ (git checkout published by publish.sh)."""
     SITE_DIR.mkdir(exist_ok=True)
-    (SITE_DIR / 'index.html').write_text(render(d, site_posts(posts), st), encoding='utf-8')
+    write_app('image', SITE_DIR, [img_record(p) for p in posts], st, VCOUNT, st['count'])
     pub = {k: v for k, v in d.items() if k != 'posts'}
     pub.update(posts=[{k: v for k, v in p.items() if k != 'language'} for p in posts], count=len(posts))
     (SITE_DIR / 'data.json').write_text(json.dumps(pub, ensure_ascii=False, indent=2), encoding='utf-8')
@@ -561,43 +800,29 @@ def site_videos(posts):
     return out
 
 
-def render_videos(d, posts, vst, st):
-    payload = {'posts': site_videos(posts), 'count': len(posts), 'n25': vst['n25'], 'first': vst['first'],
-               'last': vst['last'], 'updated': vst['updated']}
-    js = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
-    top = max(posts, key=lambda p: p['likes']) if posts else None
-    og = SITE_URL + 'posters/' + top['videos'][0]['poster'] if top else ''
-    desc = (f"收录 {vst['count']} 条 X 上公开分享的 Seedance AI 视频（其中 Seedance 2.5 {vst['n25']} 条）与完整提示词："
-            f"在线播放、搜索、一键复制，并可下载 JSON/CSV。内容版权归原作者。")
-    rep = {'__VDESC__': desc, '__SITE_URL__': SITE_URL, '__VOG_IMAGE__': og, '__REPO_URL__': REPO_URL,
-           '__ZIP_URL__': ZIP_URL, '__REMOVAL_URL__': REMOVAL_URL, '__SUBMIT_URL__': SUBMIT_URL,
-           '__COUNT__': str(st['count']), '__VCOUNT__': str(vst['count']), '__UPDATED__': vst['updated']}
-    html = TPL_V
-    for k, v in rep.items(): html = html.replace(k, v)
-    return html.replace('__DATA__', js)
-
-
 def write_video_downloads(dest: Path, d, posts):
     recs = []
     for p in sorted(posts, key=lambda p: -p['likes']):
         dt = datetime.strptime(p['created_at_utc'], '%Y-%m-%dT%H:%M:%S.%fZ').replace(tzinfo=timezone.utc).astimezone(SH)
-        recs.append({'id': p['id'], 'model': p['model'], 'prompt': p['prompt'], 'author': p['author'],
+        recs.append({'id': p['id'], 'model': p['model'], 'model_family': model_family(p['model']), 'prompt': p['prompt'], 'author': p['author'],
                      'author_url': f"https://x.com/{p['author']}", 'post_url': p['url'],
                      'date': dt.isoformat(timespec='seconds'), 'likes': p['likes'], 'language': p['language'],
                      'prompt_source': p['prompt_source'],
                      'videos': [{'mp4': v['mp4'], 'duration_s': round((v.get('duration_ms') or 0) / 1000, 1),
                                  'poster': 'posters/' + v['poster'], 'width': v.get('w'), 'height': v.get('h')} for v in p['videos']]})
-    meta = {'name': 'Seedance 视频提示词 / Seedance video prompts (GPT Image 2.5 提示词图库)',
+    meta = {'name': 'AI 视频提示词 / AI video prompts (GPT Image 2.5 提示词图库)',
             'homepage': SITE_URL + 'videos.html', 'repository': REPO_URL,
             'generated_at': datetime.fromisoformat(d['generated_at']).astimezone(SH).isoformat(timespec='seconds'),
             'count': len(recs),
             'license': 'Code: MIT. Videos and prompts belong to their original authors on X; mp4 links point to X (video.twimg.com) and may expire.',
-            'fields': {'model': 'Seedance version named in the post (Seedance 2.5 / Seedance 2.0 / ...)',
+            'models': dict(Counter(p['model'] for p in posts)),
+            'fields': {'model': 'video model named in the post (Seedance 2.5 / Seedance 2.5 Pro / Seedance 2.5 Flash / MiniMax H3 / Wan 3.0; older Seedance versions as named)',
+                       'model_family': 'filter group used on the site (Seedance 2.5 Pro counts as Seedance 2.5)',
                        'videos': 'mp4 = X-hosted file (not mirrored), duration_s, poster = local poster frame',
                        'prompt_source': 'post = post text, reply = author\'s own reply, alt = media ALT text'},
             'prompts': recs}
     (dest / 'video_prompts.json').write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding='utf-8')
-    cols = ['id', 'date', 'model', 'author', 'author_url', 'post_url', 'likes', 'language', 'prompt_source', 'prompt', 'mp4', 'duration_s']
+    cols = ['id', 'date', 'model', 'model_family', 'author', 'author_url', 'post_url', 'likes', 'language', 'prompt_source', 'prompt', 'mp4', 'duration_s']
     with open(dest / 'video_prompts.csv', 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader()
         for r in recs:
@@ -606,7 +831,7 @@ def write_video_downloads(dest: Path, d, posts):
 
 
 def export_videos(vd, vposts, vst, st):
-    (SITE_DIR / 'videos.html').write_text(render_videos(vd, vposts, vst, st), encoding='utf-8')
+    write_app('video', SITE_DIR, [vid_record(p) for p in vposts], vst, vst['count'], st['count'])
     write_video_downloads(SITE_DIR, vd, vposts)
     want = {v['poster'] for p in vposts for v in p['videos']}
     (SITE_DIR / 'posters').mkdir(exist_ok=True)
@@ -643,13 +868,14 @@ def main():
     vst = vstats(vd, vposts) if vd else None
     VCOUNT = vst['count'] if vst else 0
     VSTATS.update(vst or {})
+    prepare_media(posts, vposts)
     if vd:
-        (ROOT / 'videos.html').write_text(render_videos(vd, vposts, vst, st), encoding='utf-8')
+        write_app('video', ROOT, [vid_record(p) for p in vposts], vst, VCOUNT, st['count'])
         write_video_downloads(ROOT, vd, vposts)
-        print(f"videos.html + video_prompts.json/csv: {vst['count']} video posts ({vst['n25']} Seedance 2.5)")
-    (ROOT / 'index.html').write_text(render(d, site_posts(posts), st), encoding='utf-8')
+        print(f"videos.html + video_prompts.json/csv: {vst['count']} video posts {dict(vst['models'])}")
+    write_app('image', ROOT, [img_record(p) for p in posts], st, VCOUNT, st['count'])
     write_downloads(ROOT, d, posts, st)
-    print(f"index.html + prompts.json/csv: {st['count']} posts, {st['images']} images")
+    print(f"index.html + prompts.json/csv: {st['count']} posts, {st['images']} images {dict(Counter(p.get('model') for p in posts))}")
     if not a.no_gallery:
         single = []
         for p in posts:
@@ -657,9 +883,10 @@ def main():
             for im in p['images']:
                 src, w, h = b64img(ROOT / 'images' / im['file'], EMBED_SIDE, EMBED_Q)
                 im['thumb_src'] = im['full_src'] = src; im['tw'], im['th'] = w, h
-            single.append(p)
-        html = render(d, single, st)
-        (ROOT / 'gallery.html').write_text(html, encoding='utf-8')
+            single.append(img_record(p))
+        tmp = ROOT / '.gallery_build'; tmp.mkdir(exist_ok=True)
+        html = write_app('image', tmp, single, st, VCOUNT, st['count'], inline=True)
+        shutil.move(str(tmp / 'index.html'), str(ROOT / 'gallery.html')); shutil.rmtree(tmp, ignore_errors=True)
         print('gallery.html', round(len(html.encode()) / 1e6, 1), 'MB')
     if a.export or SITE_DIR.exists():
         export_site(d, posts, st)

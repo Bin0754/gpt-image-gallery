@@ -68,4 +68,10 @@ echo "live count: $LIVE (expected $SHOWN)"
 VLIVE=$(curl -fsS "https://bin0754.github.io/gpt-image-gallery/video_prompts.json?t=$(date +%s)" | python3 -c "import json,sys;print(json.load(sys.stdin)['count'])") || { echo "live video_prompts.json not reachable"; exit 5; }
 echo "live video count: $VLIVE (expected $VSHOWN)"
 [ "$VLIVE" = "$VSHOWN" ] || { echo "WARNING: live video count differs (CDN cache?)"; exit 6; }
+# chunked data: the pages fetch data/<kind>-N-<hash>.json listed in their inline manifest
+for PAGE in index videos; do
+  CH=$(curl -fsS "https://bin0754.github.io/gpt-image-gallery/$PAGE.html?t=$(date +%s)" | grep -o 'data/[a-z]*-0-[0-9a-f]*\.json' | head -1)
+  [ -n "$CH" ] && curl -fsS -o /dev/null "https://bin0754.github.io/gpt-image-gallery/$CH" || { echo "live $PAGE.html data chunk missing ($CH)"; exit 5; }
+  echo "live $PAGE.html first chunk ok: $CH"
+done
 echo "== refresh ok $(date '+%F %T') UTC+8"

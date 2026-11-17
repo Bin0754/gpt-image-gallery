@@ -33,21 +33,15 @@ jobs:
           import os, pathlib
           sha = os.environ["GITHUB_SHA"]
           cdn = f"https://cdn.jsdelivr.net/gh/Bin0754/gpt-image-gallery@{sha}/"
-          def rewrite(path, *pairs):
-              p = pathlib.Path(path)
+          # pages load their data from data/*.json; media (images/, thumbs/, posters/) is prefixed with
+          # <html data-media="..."> so it is served by jsDelivr from this exact commit
+          for page in ("_pages/index.html", "_pages/videos.html"):
+              p = pathlib.Path(page)
               text = p.read_text(encoding="utf-8")
-              new = text
-              for old, folder in pairs:
-                  base = cdn + folder + "/"
-                  new = new.replace(old, f'"{base}')
-                  n = new.count(base)
-                  print(f"{path}: {n} x {folder}/")
-                  if n < 50:
-                      raise SystemExit(f"rewrite failed for {folder} in {path}: {n}")
-              p.write_text(new, encoding="utf-8")
-          rewrite("_pages/index.html", ('"images/', "images"), ('"thumbs/', "thumbs"))
-          rewrite("_pages/videos.html", ('"posters/', "posters"))
-          print("CDN base", cdn)
+              if text.count('data-media=""') != 1:
+                  raise SystemExit(f"data-media placeholder missing in {page}")
+              p.write_text(text.replace('data-media=""', f'data-media="{cdn}"', 1), encoding="utf-8")
+              print(page, "media base", cdn)
           PY
           du -sh _pages
           cd _pages
