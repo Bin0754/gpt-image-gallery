@@ -56,8 +56,10 @@ echo "video posts: $VBEFORE -> $VAFTER (shown on site: $VSHOWN)"
 timeout 600 scripts/publish.sh
 SHA=$(git -C site rev-parse HEAD)
 for i in $(seq 1 40); do
-  ST=$(gh api repos/Bin0754/gpt-image-gallery/pages/builds/latest --jq '.status+" "+.commit' 2>/dev/null || true)
-  [ "$ST" = "built $SHA" ] && break
+  # Pages is served from gh-pages (built by the "Deploy GitHub Pages" workflow), so wait for that run on $SHA
+  ST=$(gh run list -R Bin0754/gpt-image-gallery --commit "$SHA" -w "Deploy GitHub Pages" -L 1 --json status,conclusion --jq '.[0].status+" "+.[0].conclusion' 2>/dev/null || true)
+  [ "$ST" = "completed success" ] && { sleep 45; break; }
+  [ "$ST" = "completed failure" ] && { echo "Pages workflow failed"; exit 4; }
   [ "${ST%% *}" = "errored" ] && { echo "Pages build errored: $ST"; exit 4; }
   sleep 15
 done

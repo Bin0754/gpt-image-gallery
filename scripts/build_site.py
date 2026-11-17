@@ -634,11 +634,11 @@ def vid_record(p):
 
 
 PAGE = {
-    'image': dict(file='index.html', title='GPT Image 2.5 提示词图库 · GPT Image / Nano Banana / Grok / 即梦 作品与完整提示词',
+    'image': dict(file='index.html', title='AI 提示词图库 · GPT Image / Nano Banana / Grok / 即梦 作品与完整提示词',
                   tagline='X 上头部 AI 生图模型的真实作品，每张图都附完整提示词，一键复制',
                   placeholder='搜索提示词或作者，例如：海报、像素、travel、cinematic',
                   foot='图片与提示词版权归各原作者所有，每条内容均附 X 原帖链接；本站仅做整理与索引，与 OpenAI / Google / xAI / 字节跳动无任何关联。'),
-    'video': dict(file='videos.html', title='GPT Image 2.5 提示词图库 · AI 视频提示词（Seedance / MiniMax H3 / Wan 3.0）',
+    'video': dict(file='videos.html', title='AI 提示词图库 · AI 视频提示词（Seedance / MiniMax H3 / Wan 3.0）',
                   tagline='X 上头部 AI 视频模型的作品，每条都附完整提示词，点开即可播放',
                   placeholder='搜索视频提示词或作者，例如：cinematic、打戏、アニメ、vlog',
                   foot='视频与提示词版权归各原作者所有，视频直接从 X（video.twimg.com）播放，本站不存储视频文件；本站仅做整理与索引，与各模型厂商无任何关联。'),
@@ -711,7 +711,7 @@ def prompt_records(posts):
 def write_downloads(dest: Path, d, posts, st):
     recs = prompt_records(posts)
     meta = {
-        'name': 'GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery',
+        'name': 'AI 提示词图库 / AI Prompt Gallery',
         'models': dict(Counter(p.get('model') or 'GPT Image 2.5' for p in posts)),
         'homepage': SITE_URL, 'repository': REPO_URL, 'generated_at': datetime.fromisoformat(d['generated_at']).astimezone(SH).isoformat(timespec='seconds'),
         'count': len(recs),
@@ -835,7 +835,7 @@ def write_video_downloads(dest: Path, d, posts):
                      'prompt_source': p['prompt_source'],
                      'videos': [{'mp4': v['mp4'], 'duration_s': round((v.get('duration_ms') or 0) / 1000, 1),
                                  'poster': 'posters/' + v['poster'], 'width': v.get('w'), 'height': v.get('h')} for v in p['videos']]})
-    meta = {'name': 'AI 视频提示词 / AI video prompts (GPT Image 2.5 提示词图库)',
+    meta = {'name': 'AI 视频提示词 / AI video prompts (AI 提示词图库)',
             'homepage': SITE_URL + 'videos.html', 'repository': REPO_URL,
             'generated_at': datetime.fromisoformat(d['generated_at']).astimezone(SH).isoformat(timespec='seconds'),
             'count': len(recs),
