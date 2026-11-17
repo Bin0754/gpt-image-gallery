@@ -2,14 +2,14 @@
   "name": "AI 视频提示词 / AI video prompts (GPT Image 2.5 提示词图库)",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/videos.html",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-11-17T10:09:18+08:00",
-  "count": 2379,
+  "generated_at": "2026-11-17T10:21:08+08:00",
+  "count": 2393,
   "license": "Code: MIT. Videos and prompts belong to their original authors on X; mp4 links point to X (video.twimg.com) and may expire.",
   "models": {
     "Seedance 2.5": 2175,
     "Seedance 2.5 Pro": 118,
-    "Wan 3.0": 48,
-    "MiniMax H3": 30,
+    "Wan 3.0": 60,
+    "MiniMax H3": 32,
     "Seedance": 1,
     "Seedance 2.5 Flash": 6,
     "Seedance 2.0": 1
@@ -5613,6 +5613,28 @@
           "poster": "posters/2121877166350885164_0.webp",
           "width": 1280,
           "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2120011460541632964",
+      "model": "MiniMax H3",
+      "model_family": "MiniMax H3",
+      "prompt": "Cinematic action scene on a multi lane city highway surrounded by skyscrapers A sleek aerodynamic",
+      "author": "laviniavelle",
+      "author_url": "https://x.com/laviniavelle",
+      "post_url": "https://x.com/laviniavelle/status/2120011460541632964",
+      "date": "2026-11-10T12:31:34+08:00",
+      "likes": 216,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2120011386147274752/vid/avc1/1260x720/aa2V7JMlYBHZXJxt.mp4",
+          "duration_s": 15.1,
+          "poster": "posters/2120011460541632964_0.webp",
+          "width": 1344,
+          "height": 768
         }
       ]
     },
@@ -15238,6 +15260,28 @@
       ]
     },
     {
+      "id": "2115305595352047823",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Create an ultra-realistic, photorealistic beverage advertisement with professional 4K cinematic quality. Use natural lighting, realistic liquid physics, highly detailed textures, accurate reflections, transparent ice cubes, fresh strawberries, creamy milk, and vibrant green matcha. Maintain natural colors, realistic materials, smooth camera movements, shallow depth of field, and premium commercial cinematography. Ensure consistent object shapes, flawless details, lifelike textures, and natural lighting. No artificial-looking visuals, distortions, flickering, or visual artifacts. Professional advertising quality, 16:9 widescreen format.",
+      "author": "laviniavelle",
+      "author_url": "https://x.com/laviniavelle",
+      "post_url": "https://x.com/laviniavelle/status/2115305595352047823",
+      "date": "2026-10-28T12:52:09+08:00",
+      "likes": 108,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115305391890518016/vid/avc1/1280x720/K66ouo7fKyrGr4UN.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2115305595352047823_0.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2109129769686380912",
       "model": "Seedance 2.5",
       "model_family": "Seedance 2.5",
@@ -17324,6 +17368,28 @@
           "poster": "posters/2121613731138260997_0.webp",
           "width": 848,
           "height": 478
+        }
+      ]
+    },
+    {
+      "id": "2115079397137059976",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "20 seconds | 9:16 | 4K Ultra HD | 30 FPS | Ultra-realistic cinematic beauty unboxing video\n\nCreate a realistic 20-second makeup unboxing video using the uploaded storyboard as the exact visual reference. Use the uploaded female reference image to preserve her exact facial identity, facial features, skin tone, long dark hair, and appearance throughout every scene. Maintain consistent identity, outfit, hairstyle, and natural skin texture.\n\n0–2 seconds: The girl sits at her cozy vanity, smiling softly with her chin resting on her hand beside a cardboard makeup package decorated with a small heart. Warm vanity lights, soft background bokeh, and a natural beauty-vlog atmosphere.\n\n2–4 seconds: She writes or traces a small heart on the package, then opens the box with natural hand movements and a curious, excited expression.\n\n4–6 seconds: She gently opens the pink tissue paper, revealing a beautiful collection of makeup products arranged neatly inside the box. Show realistic packaging and detailed product textures.\n\n6–8 seconds: She picks up an eyeshadow palette, smiles at the camera, and points to its shades with excitement.\n\n8–10 seconds: Close-up of her carefully applying eyeshadow with a makeup brush. Keep her face consistent, her movements realistic, and her eye makeup natural.\n\n10–12 seconds: She applies pink lip gloss using a wand, making a subtle pout and looking naturally into the camera.\n\n12–14 seconds: She applies soft pink blush with a fluffy brush, creating a fresh, glowing makeup look.\n\n14–16 seconds: She gently applies mascara or eyeliner, followed by a quick beauty close-up showing her finished eye makeup.\n\n16–18 seconds: She closes her eyes and sprays a fine mist of setting spray over her face, smiling softly as the mist catches the warm vanity lighting.\n\n18–20 seconds: She happily picks up several makeup products from the box, holds them close to her chest, and gives the camera a cute, confident smile. End with a beautiful, polished beauty-vlog shot.\n\nDialogue and Audio: Include short, natural English beauty-vlogger dialogue, such as “Let's see what's inside!”, “These shades are so pretty!”, and “I love this little haul!” Match each line to the appropriate scene with accurate lip-sync. Use soft packaging sounds, gentle makeup brush sounds, subtle product-handling sounds, and light upbeat beauty-vlog background music. Keep dialogue natural and avoid overcrowding the short timeline.\n\nVisual Style: Ultra-realistic skin texture, natural facial expressions, realistic hands, detailed makeup products, warm ambient lighting, soft cinematic depth of field, smooth transitions, natural camera movements, and authentic beauty-influencer aesthetics.\n\nConsistency Rules: Follow the uploaded storyboard in the correct sequence. Preserve the same girl's exact identity in every frame. Keep the same room, vanity setup, lighting style, and outfit. Makeup application must look physically realistic. Maintain continuity between shots and avoid sudden appearance changes.\n\nNegative Prompt: No face changes, different people, distorted hands, extra fingers, floating products, unrealistic makeup application, artificial skin, exaggerated expressions, robotic dialogue, incorrect lip-sync, flickering, blurry products, random text, subtitles, watermarks, abrupt transitions, or inconsistent backgrounds.",
+      "author": "AIwithWania",
+      "author_url": "https://x.com/AIwithWania",
+      "post_url": "https://x.com/AIwithWania/status/2115079397137059976",
+      "date": "2026-10-27T21:53:19+08:00",
+      "likes": 93,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115079295441793024/vid/avc1/720x1280/yADT6FlOx-L8LqER.mp4",
+          "duration_s": 18.8,
+          "poster": "posters/2115079397137059976_0.webp",
+          "width": 720,
+          "height": 1280
         }
       ]
     },
@@ -21618,6 +21684,28 @@
       ]
     },
     {
+      "id": "2113963725514211771",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Claude Opus 5.5 \n映像生成：Wan 3.0（Higgsfield）\n楽曲：suno\n\n▶ プロローグはYouTubeで公開中",
+      "author": "Project_RionaAI",
+      "author_url": "https://x.com/Project_RionaAI",
+      "post_url": "https://x.com/Project_RionaAI/status/2113963725514211771",
+      "date": "2026-10-24T20:00:02+08:00",
+      "likes": 69,
+      "language": "ja",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2113753117087113216/vid/avc1/1280x720/DWkDrsbKed7DbL2D.mp4",
+          "duration_s": 142.1,
+          "poster": "posters/2113963725514211771_0.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2122336393984979299",
       "model": "Seedance 2.5",
       "model_family": "Seedance 2.5",
@@ -25570,6 +25658,28 @@
       ]
     },
     {
+      "id": "2114715811411640398",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Ultra-realistic beauty influencer video, landscape 16:9 format, A beautiful young woman with",
+      "author": "LettyVesper",
+      "author_url": "https://x.com/LettyVesper",
+      "post_url": "https://x.com/LettyVesper/status/2114715811411640398",
+      "date": "2026-10-26T21:48:33+08:00",
+      "likes": 51,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2114715770387054592/vid/avc1/854x480/VTiE9MHTxjOoZQSZ.mp4",
+          "duration_s": 15.0,
+          "poster": "posters/2114715811411640398_0.webp",
+          "width": 854,
+          "height": 480
+        }
+      ]
+    },
+    {
       "id": "2109228770662252715",
       "model": "Seedance 2.5",
       "model_family": "Seedance 2.5",
@@ -27194,6 +27304,28 @@
           "poster": "posters/2114314825782235408_0.webp",
           "width": 1268,
           "height": 718
+        }
+      ]
+    },
+    {
+      "id": "2114831988548911395",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "One continuous shot, no cuts. 0-2s: hold the start frame as the woman crouches, breathing, eyes on the lens. 2-4s: the sun shifts impossibly fast: the bright rectangles of window light slide across the dusty floor toward her, dust motes",
+      "author": "ai_artworkgen",
+      "author_url": "https://x.com/ai_artworkgen",
+      "post_url": "https://x.com/ai_artworkgen/status/2114831988548911395",
+      "date": "2026-10-27T05:30:12+08:00",
+      "likes": 43,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2114831929786638336/vid/avc1/1280x720/1Eaz5TA17R0s93_R.mp4",
+          "duration_s": 5.0,
+          "poster": "posters/2114831988548911395_0.webp",
+          "width": 1920,
+          "height": 1080
         }
       ]
     },
@@ -29544,6 +29676,28 @@
       ]
     },
     {
+      "id": "2114911815964770480",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "10-second high-fashion luxury jewelry advertisement",
+      "author": "itsSaira_1",
+      "author_url": "https://x.com/itsSaira_1",
+      "post_url": "https://x.com/itsSaira_1/status/2114911815964770480",
+      "date": "2026-10-27T10:47:24+08:00",
+      "likes": 35,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2114911377014075392/vid/avc1/1280x720/0jBd4HsqLUDkEZPZ.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2114911815964770480_0.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2122372115538321534",
       "model": "Seedance 2.5",
       "model_family": "Seedance 2.5",
@@ -29962,6 +30116,28 @@
       ]
     },
     {
+      "id": "2114741694902182149",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Create a 10-second ultra-realistic luxury skincare commercial using the provided reference image.",
+      "author": "laviniavelle",
+      "author_url": "https://x.com/laviniavelle",
+      "post_url": "https://x.com/laviniavelle/status/2114741694902182149",
+      "date": "2026-10-26T23:31:24+08:00",
+      "likes": 34,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2114741215392579584/vid/avc1/1280x720/QJUg0UuoFTTQmpTl.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2114741694902182149_0.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2110212993732710642",
       "model": "Seedance 2.5 Pro",
       "model_family": "Seedance 2.5",
@@ -30354,6 +30530,28 @@
           "poster": "posters/2122284629931814980_0.webp",
           "width": 854,
           "height": 480
+        }
+      ]
+    },
+    {
+      "id": "2115118619042676875",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "16:9 aspect ratio, 10 second cinematic commercial video, photorealistic, high-end advertising quality, static wide shot, slightly low angle.\n\nUse the provided reference image for the woman's face, hair, and overall appearance. She must look exactly like the reference image (long black hair, unique East Asian features, gold sequin top). Do not use or resemble any other model.\n\nScene by scene:\n\n0-2 seconds: Piccadilly Circus, London, sunny day, blue sky with soft clouds. Large curved digital billboard on historic building. The woman from the reference image appears on the billboard, holding a luxury crystal perfume bottle close to her face with her right hand. She looks slightly to the side with a calm expression. Foreground is stone-paved plaza with long shadows. Red double-decker bus, pedestrians, cyclist, classic London shops and architecture in background.\n\n2-4 seconds: She slowly turns her gaze toward the camera and gives a gentle, confident smile. She still holds the perfume bottle near her face. All background elements remain consistent.\n\n4-6 seconds: She raises her right arm, lifting the perfume bottle higher while smiling. Her expression becomes warmer.\n\n6-8 seconds: She tosses the perfume bottle upward into the air with a smooth motion. Her hand opens with palm facing forward as she waves. The bottle is clearly seen flying up and leaving the billboard.\n\n8-10 seconds: The perfume bottle lands perfectly in a real human hand in the extreme foreground. The hand holds the bottle up toward the camera, showing the golden liquid and crystal design. On the billboard in the background, the same woman continues waving with an open palm and smiling. Text overlay appears at the top center in a black rounded rectangle: \"Your product launch here!\"\n\nSmooth natural motion, perfect consistency, realistic lighting, sharp details, commercial quality, no morphing, no artifacts.\n\nNegative prompt: different face, wrong facial features, original video girl, celebrity face, morphing, face change, distorted hands, extra fingers, blurry, low quality, artifacts, inconsistent character, different hair, different clothing, text errors, watermark, logo, cartoon, anime, deformed, ugly, bad anatomy, oversaturated, jitter, camera shake, black screen, missing bottle, bottle disappearing, wrong background, night time, rain.",
+      "author": "juliaevee",
+      "author_url": "https://x.com/juliaevee",
+      "post_url": "https://x.com/juliaevee/status/2115118619042676875",
+      "date": "2026-10-28T00:29:10+08:00",
+      "likes": 33,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115118567691837440/vid/avc1/1280x720/ubnvf_VzEOt4kKCM.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2115118619042676875_0.webp",
+          "width": 1280,
+          "height": 720
         }
       ]
     },
@@ -33401,6 +33599,28 @@
       ]
     },
     {
+      "id": "2115053158942781500",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Cinematic luxury cocktail videography, 16:9, 10 seconds. Elegant close-up shots of premium colorful",
+      "author": "juliaevee",
+      "author_url": "https://x.com/juliaevee",
+      "post_url": "https://x.com/juliaevee/status/2115053158942781500",
+      "date": "2026-10-27T20:09:03+08:00",
+      "likes": 24,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115053099966423040/vid/avc1/1280x720/BNqfd73Vr0XmQ0o_.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2115053158942781500_0.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
       "id": "2118683004923212233",
       "model": "Wan 3.0",
       "model_family": "Wan 3.0",
@@ -36378,6 +36598,50 @@
       ]
     },
     {
+      "id": "2115156191181762860",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Create a 10-second ultra-photorealistic cinematic video in 16:9 widescreen, closely matching the reference video's shots, timing, camera angles, lighting, and VFX. Replace only the original girl with a beautiful young woman with a new face and hairstyle.\n\n0–1s: A young woman in a historical European outfit (navy jacket, cream ruffled blouse, brown corset, long brown skirt) sits beneath a large tree in a sunny meadow. A shiny red apple falls from a branch and hits the TOP OF HER HEAD, recreating Newton's famous apple incident.\n\n1–3s: The apple bounces off her head and lands on the grass. She flinches, touches her head, notices the apple, and picks it up with a curious expression.\n\n3–5s: She examines the apple near her face. Glowing golden mathematical equations, physics formulas, and geometric diagrams appear around her as the atmosphere shifts into a dramatic amber scientific fantasy.\n\n5–6s: A vintage pencil-sketch illustration of her holding the apple transforms into a luminous golden holographic outline.\n\n6–7s: Extreme close-up of her face as her eyes glow white-gold and scientific formulas swirl around her.\n\n7–9s: The apple levitates above her open hand, while two additional red apples float near the tree branches. She looks up in amazement.\n\n9–10s: Extreme close-up of her widened eyes and slightly open mouth, showing complete astonishment.\n\nVisual style: Premium cinematic realism, natural skin texture, realistic hair and clothing, soft sunlight, shallow depth of field, smooth transitions, realistic apple physics, and sophisticated golden VFX.\n\nStrict requirements: The apple MUST hit the TOP OF HER HEAD, never her lap, then fall onto the grass before she picks it up. Maintain consistent facial features, hairstyle, outfit, tree, and environment. No extra characters, dialogue, subtitles, logos, or watermarks. Exactly 10 seconds, 16:9 ratio.",
+      "author": "itsSaira_1",
+      "author_url": "https://x.com/itsSaira_1",
+      "post_url": "https://x.com/itsSaira_1/status/2115156191181762860",
+      "date": "2026-10-28T02:58:28+08:00",
+      "likes": 17,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115155845973671936/vid/avc1/1280x720/cEAR1oJVJmB8r7SL.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2115156191181762860_0.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
+      "id": "2115107954550808772",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "Create a 10-second ultra-realistic luxury jewelry commercial, vertical 9:16, 1080×1920, 24fps. Use the uploaded reference image to maintain the same beautiful 25-year-old woman, face, long dark hair, pink tweed jacket, and white outfit.\n\n0–1.5s: She walks through an elegant luxury boutique carrying pastel pink and ivory jewelry boxes.\n\n1.5–3s: The boxes slip from her hands as a pendant emerges and launches into the air. Nothing touches the floor yet.\n\n3–6s: Cinematic slow motion. The camera focuses on the spinning pendant while all boxes remain suspended and tumble around it. The woman reaches to catch it.\n\n6–8s: She successfully catches the pendant, loses balance, and falls onto the marble floor. Exactly as she falls, all jewelry boxes land around her. The pendant stays in her hand.\n\n8–9s: She gathers the fallen boxes while holding the pendant.\n\n9–10s: Transition to a clean white background with a centered gold luxury brand logo.\n\nPendant consistency: Large round, pale icy-blue crystal gemstone, clear facets, halo of small sparkling diamonds, polished silver/white-gold setting, tapered silver bail, and fine silver chain. Keep its exact color, shape, and design consistent throughout.\n\nStrict rules: Boxes and pendant launch together; all boxes stay airborne during slow motion and land only when the woman falls. Consistent character, outfit, pendant, and box colors. Realistic physics, premium cinematic lighting, smooth camera movements, no extra characters, distorted hands, duplicate objects, subtitles, or watermark.",
+      "author": "itsSaira_1",
+      "author_url": "https://x.com/itsSaira_1",
+      "post_url": "https://x.com/itsSaira_1/status/2115107954550808772",
+      "date": "2026-10-27T23:46:47+08:00",
+      "likes": 17,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115107908669284352/vid/avc1/720x1280/yUQdD1wBlS7wWvhF.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2115107954550808772_0.webp",
+          "width": 720,
+          "height": 1280
+        }
+      ]
+    },
+    {
       "id": "2122380936901701709",
       "model": "Seedance 2.5",
       "model_family": "Seedance 2.5",
@@ -38207,6 +38471,28 @@
           "poster": "posters/2122230200494673941_0.webp",
           "width": 480,
           "height": 854
+        }
+      ]
+    },
+    {
+      "id": "2119800719310012636",
+      "model": "MiniMax H3",
+      "model_family": "MiniMax H3",
+      "prompt": "\"only softens and melts in place\"\n\nDuration: 15s. Camera: locked, front, slightly above. Rendered locally in ComfyUI, then Topaz to 4K.\n\nThe scoop starts on top and only has to go down. No spoon, so nothing",
+      "author": "GlennHasABeard",
+      "author_url": "https://x.com/GlennHasABeard",
+      "post_url": "https://x.com/GlennHasABeard/status/2119800719310012636",
+      "date": "2026-11-09T22:34:10+08:00",
+      "likes": 13,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2119800688939073537/vid/avc1/1296x720/9OZWxFinju0yIhm5.mp4",
+          "duration_s": 15.1,
+          "poster": "posters/2119800719310012636_0.webp",
+          "width": 3456,
+          "height": 1920
         }
       ]
     },
@@ -52313,6 +52599,28 @@
           "poster": "posters/2117618846689595863_1.webp",
           "width": 1080,
           "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "2115112529483665473",
+      "model": "Wan 3.0",
+      "model_family": "Wan 3.0",
+      "prompt": "SCENE 1  Wide Establishing Shot\nCinematic wide shot of a glossy red Ferrari sports car parked on a stone-paved driveway in front of a luxurious beige Italian villa with arched porticos and balconies, tall dark cypress trees, manicured green lawn, soft golden hour lighting, photorealistic, high detail, vertical 9:16\n\nSCENE 2  Getting Out of the Car \nCinematic shot of a beautiful young woman with dark hair wearing black sunglasses and a black-red Ferrari F1 team jacket with Puma, Shell, Ferrari SF shield, red “Ferrari” bars and F-1 sleeve patch, black pants and sneakers, stepping out of the red Ferrari with the door open, holding the door, luxurious villa and cypress trees in background, soft golden hour light, photorealistic, vertical 9:16\n\nSCENE 3  Jacket Close-up \nExtreme close-up cinematic shot of the black and red Ferrari racing jacket, showing detailed embroidery of the yellow Ferrari prancing horse SF shield, red horizontal bar with “Ferrari” text, Puma and Shell logos, realistic fabric texture, soft natural lighting, photorealistic\n\nSCENE 4 Collar Adjustment\nClose-up cinematic shot of a young woman adjusting the zipper of her black and red Ferrari jacket, red “Ferrari” embroidery visible on the collar, detailed logos on the chest, soft golden hour lighting, photorealistic skin and fabric texture, vertical 9:16\n\nSCENE 5 Sleeve Detail \nClose-up of the jacket sleeve showing the red “F-1” patch and Ferrari shield logo, black fabric with white piping, cinematic lighting, high detail, photorealistic\n\nSCENE 6  Back View \nCinematic back view of the young woman wearing the Ferrari jacket, large red “Ferrari” text across the back with white borders, Puma logo above, standing near the red Ferrari, villa and cypress trees in background, golden hour light, photorealistic, vertical 9:16\n\nSCENE 7  Full Body Pose\nFull body cinematic shot of the young woman in the Ferrari team jacket and sunglasses standing confidently next to the red Ferrari on the stone driveway, luxurious Italian villa with arches and tall cypress trees behind, soft golden hour lighting, photorealistic, same composition as original video, vertical 9:16\n\nSCENE 8  Medium Hero Shot\nMedium cinematic portrait of the young woman in black sunglasses and Ferrari jacket standing in front of the red Ferrari, luxurious villa and cypress trees softly blurred in the background, golden hour lighting, high detail, film-like look, photorealistic, vertical 9:16\n\nNEGATIVE PROMPT  \nblurry, low quality, distorted face, deformed hands, extra fingers, extra limbs, bad anatomy, ugly, watermark, text error, cartoon, anime, painting, sketch, oversaturated, overexposed, underexposed, night time, rainy, snow, modern building, city, crowd, multiple people, wrong car color, yellow car, blue car, male, man, beard, wrong jacket colors, missing logos, wrong logos, plastic skin, ai artifacts, low resolution, grainy, motion blur, out of focus",
+      "author": "Zyrellix",
+      "author_url": "https://x.com/Zyrellix",
+      "post_url": "https://x.com/Zyrellix/status/2115112529483665473",
+      "date": "2026-10-28T00:04:58+08:00",
+      "likes": 0,
+      "language": "en",
+      "prompt_source": "post",
+      "videos": [
+        {
+          "mp4": "https://video.twimg.com/amplify_video/2115112450463019008/vid/avc1/720x960/zss5gXgNYU5fTai_.mp4",
+          "duration_s": 10.0,
+          "poster": "posters/2115112529483665473_0.webp",
+          "width": 1080,
+          "height": 1440
         }
       ]
     },

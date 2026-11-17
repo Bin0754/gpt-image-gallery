@@ -354,6 +354,8 @@ HIDE_IDS = {
     '2118613074546720998',  # @akiba_tokyo_jp caption only (2026-11-17 review)
     '2121011145528213983',  # @asakouhinomu caption only, no prompt (2026-11-17 review)
     '2119324038992482477',  # @CandyTravelight truncated prompt header only (2026-11-17 review)
+    '2108112665818406964',  # @dreamydigiarts suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2108475052437983290',  # @dreamydigiarts suggestive/revealing (2026-11-17 review, when unsure hide)
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {

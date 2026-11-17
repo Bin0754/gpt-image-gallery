@@ -2,7 +2,7 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "models": {
     "GPT Image 2.5": 1056,
-    "Nano Banana 2.1": 223,
+    "Nano Banana 2.1": 235,
     "GPT Image 2.6": 183,
     "即梦 5.5": 22,
     "即梦 5.0 Pro": 7,
@@ -10,8 +10,8 @@
   },
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-11-17T10:09:15+08:00",
-  "count": 1504,
+  "generated_at": "2026-11-17T10:21:06+08:00",
+  "count": 1516,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -5542,6 +5542,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108472030836244621",
+      "model": "Nano Banana 2.1",
+      "prompt": "A man dressed in a sharp black suit and crisp white shirt sits positioned center-left in a strict profile view, leaning slightly forward with comfortably relaxed shoulders. His candid, serious face remains stoic with a closed, neutral mouth and relaxed eyebrows, his eyes entirely concealed behind dark sunglasses. His relaxed left hand rests naturally on the table, where his thumb and fingers lightly and organically grasp the base of a smooth white coffee cup resting on a saucer. In the immediate foreground, the worn yet smooth surface of the dominant round table offers subtle reflections, flanked on the bottom left and right by worn cafe chairs featuring distinctly woven checkered backrest patterns. Beyond this intimate foreground interaction, the spatial depth plunges into a deep, beautifully blurred outdoor cafe setting, where an out-of-focus dark gray street, a weathered gray matte building exterior, and indistinct background trees seamlessly melt away, topped by pristine string lights whose round bulbs glow softly as out-of-focus bokeh. A calm, sophisticated urban morning mood envelops the composition in a striking, high-contrast monochromatic palette dominated by rich black clothing and deep shadows, dark gray midtones, and stark white accents. Moderately directional, soft diffused natural ambient light cascades from above and slightly in front, casting short, soft-edged gray shadows beneath his chin and softly behind his back, while immaculate preserved highlights gleam precisely across his cheekbone, nose, crisp shirt collar, and the coffee cup. Executed in the clean, realistic aesthetic of classic cinematic street photography mimicking an 85mm lens at f/1.8, the digital portrait maintains tack-sharp focus on the subject against a shallow depth of field, enhanced by a black and white conversion that introduces increased contrast and a subtle, tactile film grain, all beautifully framed in a 4:5 aspect ratio.",
+      "author": "pictsbyai",
+      "author_url": "https://x.com/pictsbyai",
+      "post_url": "https://x.com/pictsbyai/status/2108472030836244621",
+      "date": "2026-10-09T16:18:00+08:00",
+      "likes": 50,
+      "language": "en",
+      "images": [
+        "images/2108472030836244621_0.jpg",
+        "images/2108472030836244621_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2114563480355561938",
       "model": "GPT Image 2.5",
       "prompt": "Create a premium, photorealistic 3D mockup of a beautifully designed hardcover travel book about [COUNTRY / CITY / DESTINATION], styled like a real, finished book ready to be picked up and opened.\n\n1. Physical book presentation\n\nShow the book standing",
@@ -10366,6 +10382,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108132040474280332",
+      "model": "Nano Banana 2.1",
+      "prompt": "Do this for Scream <instructions> I want you to act as a world class painting expert and visual artist. I want you to analyze the input by the user (painting name or artist), it style, subject, character, and come up with 4 paintings by artists past or present, no matter what country, who are less known but have a similar in style. \n\nFor each painting: Analyze: The brushstroke technique, the 3D depth implied, and the hidden symbols. Goal: A \"Paint Tube Squeeze.\" A giant, realistic oil paint tube sitting on a palette. Rules: Action: The tube is being squeezed, and the paint coming out is not just a blob, but it forms the 3D landscape of the painting. The main feature is emerging in 3D relief from the 2D smear of paint. Texture: Viscous, thick oil paint texture (impasto). Props: Paintbrushes, a dirty rag, a palette knife, plus culture appropriate tools and environment and tiny 3D printed version of the painter on the desk drawing it on a tiny easel and a newspaper headline covering the inspiration behind it. Lighting: North-light studio lighting, true color representation.  artistic process\" aesthetic. \nOutput: 2x2 grid, each grid with a different painting\n</instruction>",
+      "author": "Gdgtify",
+      "author_url": "https://x.com/Gdgtify",
+      "post_url": "https://x.com/Gdgtify/status/2108132040474280332",
+      "date": "2026-10-08T17:47:00+08:00",
+      "likes": 18,
+      "language": "en",
+      "images": [
+        "images/2108132040474280332_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2108833915360481778",
       "model": "GPT Image 2.5",
       "prompt": "Create an experimental streetwear campaign poster viewed through a fictional thermal-imaging camera, vertical 4:5 aspect ratio. Four young adult models pose on uneven stone steps inside a dark rocky passage. One stands in the left foreground with hands near his pockets; another crouches behind him at center-left; a third stands upright in the middle background; the fourth stands closest to the camera on the right, with one hand behind his head. All wear oversized graphic T-shirts, loose baggy trousers with outlined star patches, and chunky sneakers.\nRender the entire scene in a striking thermal palette: cold surroundings in near-black, midnight blue, and deep indigo; bodies and clothing glowing red-orange, bright yellow, and near-white at the hottest points. Preserve recognizable faces, fabric folds, shirt graphics, and rough rock textures beneath the thermal treatment. Subtle sensor noise, luminous edges, and a gritty fashion editorial atmosphere.\nOverlay a precise white camera interface using small monospaced typography, thin tracking brackets around each face, corner framing marks, a central crosshair, a compass scale along the bottom, and a vertical temperature legend at the lower-right. Keep the interface organized and readable without covering the models.\nUse these exact text elements:\nUpper-left brand label:\n“BMX THERMAL”\nTechnical information beneath it:\n“SCAN: 004”\n“MODE: HEAT VISION”\n“SOURCE: HUMAN”\n“SIGNAL: LIVE”\nTop-center boxed label:\n“CREATIVE ENERGY”\n“DETECTED”\nUpper-right:\n“REC ●”\n“SESSION 01”\n“AFTER DARK”\nSmall readings beside the four faces:\n“36.7°C”\n“36.4°C”\n“36.9°C”\n“36.5°C”\nLower-left:\n“ORIGINALITY: HIGH”\n“FILTER: NONE”\n“VISION: UNLIMITED”\nBottom-center campaign line:\n“YOU CAN FEEL THE DIFFERENCE.”\nTemperature legend label:\n“ENERGY LEVEL”\nMaintain the appearance of a captured thermal-camera frame, with strong depth, distinct silhouettes, and believable infrared color transitions. No natural skin colors, original reference branding, additional people, or watermarks.",
@@ -11066,6 +11097,21 @@
       "prompt_source": "alt"
     },
     {
+      "id": "2108420943857029552",
+      "model": "Nano Banana 2.1",
+      "prompt": "Cinematic film still, a Korean woman in a luxury hotel suite, head tilted back, mouth open wide in a tense scream or ecstatic expression, dark hair flying. She is spinning violently, creating a heavy motion blur effect throughout the frame. Shot from a low angle with a Dutch tilt, left-heavy composition. Shot on ARRI Alexa Mini with Zeiss Master Anamorphic lenses, wide angle, 2.39:1 aspect ratio, 2.8K ARRIRAW. Warm saturated color palette, dominating orange and yellow tones. Nighttime interior, artificial soft lighting. Glowing, elongated streaks of light trail across the ceiling and frame due to the spinning motion. Crime thriller and action genre aesthetic, gritty, photorealistic, high detail, cinematic lighting, 8k resolution",
+      "author": "bmx_ai13",
+      "author_url": "https://x.com/bmx_ai13",
+      "post_url": "https://x.com/bmx_ai13/status/2108420943857029552",
+      "date": "2026-10-09T12:55:00+08:00",
+      "likes": 15,
+      "language": "en",
+      "images": [
+        "images/2108420943857029552_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2098309691877241146",
       "model": "GPT Image 2.5",
       "prompt": "创作一幅受【北京】启发的精致极简艺术海报。使用【北京】的标志性历史建筑作为中心视觉元素，但将其转化为优雅的当代编辑艺术作品，而非传统的地图，背景带有现代城市建筑的剪影轮廓。\n\n动线周围开满了盛放的月季花，细节丰富细腻，灵感源自迪奥（Dior）花卉系列与 Pietro Ruffo 的艺术风格，手绘细腻的花卉在纯白背景板上梦幻般地自然交织缠绕。\n\n画面采用手绘线条，红金相间，红色花瓣搭配金色勾边轮廓，建筑主体使用金色线条勾勒，线条简约纯粹，无杂乱繁复感。纯白色背景，顶部留出大面积空白，远景上方现代建筑若隐若现，虚实结合。色彩富有层次感而不显扁平，无杂乱、无照片级真实感、无过多文字、无国旗、无泛泛的旅游拼贴、无厚重边框。\n\n垂直海报构图，9:16 纵横比，高细节但视觉极简。",
@@ -11410,6 +11456,21 @@
         "images/2119243868881469877_3.jpg"
       ],
       "prompt_source": "alt"
+    },
+    {
+      "id": "2108464481034817845",
+      "model": "Nano Banana 2.1",
+      "prompt": "2x2 grid, 16:9, do this for 4 famous manga: Isometric 3D diorama where the word \"[$WORD]\" IS the landscape: each giant 3D letter is transformed into a miniature building, habitat, or scene built from the world of [$SUBJECT] (the model infers per-letter details). Tiny inhabitants and props from the subject live on and inside the letters. Reads as a word from afar, as a bustling micro-city up close. A motto on a plinth beneath. Tilt-shift, soft light, seamless white background, ultra-detailed, legible text",
+      "author": "Gdgtify",
+      "author_url": "https://x.com/Gdgtify",
+      "post_url": "https://x.com/Gdgtify/status/2108464481034817845",
+      "date": "2026-10-09T15:48:00+08:00",
+      "likes": 13,
+      "language": "en",
+      "images": [
+        "images/2108464481034817845_0.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2107818993813950746",
@@ -11923,6 +11984,21 @@
       "language": "en",
       "images": [
         "images/2112968409235292580_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2108231697171169618",
+      "model": "Nano Banana 2.1",
+      "prompt": "2x2 grid, 16:9 Anchor: AI picks topics (e.g., human eye / sunflower / vinyl record / cat's face) \n\nSUBJECT            ::= infer_most_iconic_visual_form(TOPIC)\nSILHOUETTE         ::= extract_primary_shape(SUBJECT)\nFEATURES           ::= infer_recognition_critical_features(SUBJECT)\nFIELD_TYPE         ::= choose(radial | concentric | wave | vortex | contour | hybrid)\nLINE_DENSITY       ::= high\nCOLOR              ::= black_on_white\nSTYLE              ::= op_art + moiré + engraved contour illusion\n\nBASE_FIELD ::=\ngenerate_parallel_or_concentric_lines(\n    spacing = uniform,\n    thickness = constant_or_slightly_variable\n)\n\nDEFORMATION_FIELD(x,y) ::=\nΣ influence(\n    FEATURES,\n    silhouette_boundary,\n    depth_estimate,\n    focal_points\n)\n\nFINAL_LINES :=\nwarp(\n    BASE_FIELD,\n    vector_field = DEFORMATION_FIELD\n)\n\nRULES ::=\n- SUBJECT must emerge only through deformation of continuous black lines\n- avoid conventional outlines wherever possible\n- contours bend, compress, expand, spiral, or redirect to reveal form\n- preserve uninterrupted optical rhythm across figure and background\n- high-information regions receive denser curvature changes\n- low-information regions remain smoother\n- negative space may define eyes, highlights, holes, or focal voids\n- all lines remain crisp monochrome vector-like marks\n- no shading except line-frequency shading\n- no gray fills\n- no hardcoded subject\n\nOBJECTIVE :=\nmaximize(\n    topic_recognition\n    × optical_illusion_strength\n    × line_continuity\n    × moire_energy\n    × black_white_balance\n)",
+      "author": "Gdgtify",
+      "author_url": "https://x.com/Gdgtify",
+      "post_url": "https://x.com/Gdgtify/status/2108231697171169618",
+      "date": "2026-10-09T00:23:00+08:00",
+      "likes": 11,
+      "language": "en",
+      "images": [
+        "images/2108231697171169618_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -15556,6 +15632,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108210959504265596",
+      "model": "Nano Banana 2.1",
+      "prompt": "\"Photorealistic ultra-detailed portrait of an adult raccoon perched upright on a thick horizontal tree branch in a dense, dark forest. \nMatch this composition precisely: the raccoon occupies most of the vertical frame, centered slightly left, with the entire head, neck, chest, shoulders and substantial upper torso visible, extending almost to the bottom edge. The camera is positioned directly in front of the raccoon at approximately eye level, with a natural portrait perspective.\nThe raccoon faces almost directly toward the camera, with only a very subtle three-quarter orientation. Its head is near the upper third of the image. Both ears are fully visible. The expression is calm, gentle and inquisitive, with large dark eyes looking directly toward the camera. The animal is upright and stationary, not leaning sideways.\nA thick dark tree branch crosses the lower-left foreground and supports the raccoon. A large tree trunk is visible along the left edge. The forest behind it falls into deep, soft, warm-brown darkness with strong background blur. The composition must NOT be a headshot: show the raccoon's substantial torso and chest down toward the bottom edge, as in a wildlife portrait. Do not crop at the shoulders or elbows.\nDo not place the raccoon beside a tree root. The raccoon's paws/hands should remain naturally out of prominent view.\nLong-telephoto wildlife photography look, approximately 300–400mm equivalent, compressed perspective, shallow depth of field, sharp focus concentrated on the eyes, nose and facial fur, with progressively softer fur toward the lower body and background. Soft warm rim light from behind and subtle warm frontal fill reveal individual guard hairs, whiskers and facial structure.\nExtremely realistic fur with visible individual hairs and soft underfur, natural whisker curvature, detailed wet nose, realistic eyes with small sharp catchlights, subtle skin texture around the muzzle, natural color and contrast, gentle highlight roll-off, restrained sharpening, cinematic low-key exposure, smooth creamy bokeh. High-end wildlife photography, authentic optical rendering.\"",
+      "author": "asheem01",
+      "author_url": "https://x.com/asheem01",
+      "post_url": "https://x.com/asheem01/status/2108210959504265596",
+      "date": "2026-10-08T23:00:36+08:00",
+      "likes": 3,
+      "language": "en",
+      "images": [
+        "images/2108210959504265596_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2119566806641996047",
       "model": "Nano Banana 2.1",
       "prompt": "An epic minimalist poster for a walkman product called Explo, all in matte white style colors, thin font, the product has a slight neon glow around it, dark blank background.",
@@ -16449,6 +16540,22 @@
       "prompt_source": "post"
     },
     {
+      "id": "2119866063081111581",
+      "model": "Nano Banana 2.1",
+      "prompt": "Distribución interior de una residencia de lujo vista desde arriba; plano arquitectónico hiperdetallado, dormitorios amueblados, baño de diseño, vestidores, escalera de madera, plazas de aparcamiento con coches, iluminación con luz natural, texturas realistas, renderizado en ultra alta definición (Ultra HD).\n\nSi te gustó deja un like para más! 👍",
+      "author": "AJMorales73",
+      "author_url": "https://x.com/AJMorales73",
+      "post_url": "https://x.com/AJMorales73/status/2119866063081111581",
+      "date": "2026-11-10T02:53:49+08:00",
+      "likes": 2,
+      "language": "other",
+      "images": [
+        "images/2119866063081111581_0.jpg",
+        "images/2119866063081111581_1.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2117149363453538308",
       "model": "Nano Banana 2.1",
       "prompt": "Extremely realistic unedited smartphone photography of an unidentified living organism, captured spontaneously with a modern flagship smartphone rear camera. Authentic 24mm equivalent wide-angle lens perspective, realistic computational photography characteristics, natural automatic white balance, believable smartphone HDR processing, slightly imperfect highlight recovery, realistic sensor noise in shadow areas, subtle edge softness, moderate digital sharpening typical of smartphone cameras, natural environmental colors, accurate daylight exposure, realistic depth of field without artificial portrait-mode blur, physically correct contact shadows and reflections, convincing environmental interaction, highly believable biological anatomy and organic surface textures. Casual handheld framing, slightly imperfect composition, ordinary real-world lighting, no professional studio illumination, no cinematic color grading, no dramatic fantasy atmosphere. The image must look like a genuine unedited smartphone photograph rather than an AI-generated image. No CGI, no 3D rendering, no digital painting, no illustration, no exaggerated fantasy effects, no artificial glowing elements, no humans, no human silhouettes, no additional creatures, no text, no watermark.",
@@ -16617,18 +16724,32 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119866063081111581",
+      "id": "2108332864999661910",
       "model": "Nano Banana 2.1",
-      "prompt": "Distribución interior de una residencia de lujo vista desde arriba; plano arquitectónico hiperdetallado, dormitorios amueblados, baño de diseño, vestidores, escalera de madera, plazas de aparcamiento con coches, iluminación con luz natural, texturas realistas, renderizado en ultra alta definición (Ultra HD).\n\nSi te gustó deja un like para más! 👍",
-      "author": "AJMorales73",
-      "author_url": "https://x.com/AJMorales73",
-      "post_url": "https://x.com/AJMorales73/status/2119866063081111581",
-      "date": "2026-11-10T02:53:49+08:00",
+      "prompt": "\"style\": \"authentic candid street-style photograph, early-2000s inspired fashion aesthetic, realistic smartphone photography, slightly grainy film-like texture\",\n    \"subject\": {\n      \"gender\": \"young woman\",\n      \"appearance\": \"young South Asian woman with warm medium skin tone, long dark brown wavy hair parted near the center, naturally full eyebrows, soft facial features\",\n      \"expression\": \"calm, confident, slightly serious expression while looking directly toward the camera\",\n      \"pose\": \"standing on a pedestrian crossing, photographed from a high overhead angle, looking upward toward the camera, both hands casually placed near the front pockets of her jeans\"\n    },\n    \"outfit\": {\n      \"top\": \"fitted white asymmetrical one-shoulder crop top with subtle ruched fabric\",\n      \"bottom\": \"loose-fitting low-rise washed blue denim jeans with a relaxed baggy silhouette\",\n      \"footwear\": \"white sneakers, partially visible\",\n      \"accessories\": [\n        \"small rectangular black sunglasses\",\n        \"short pearl necklace\",\n        \"multiple chunky silver bangles on both wrists\",\n        \"silver rings\",\n        \"layered silver chain belt hanging loosely around the waist\"\n      ]\n    },\n    \"hair\": {\n      \"style\": \"long, voluminous naturally wavy dark brown hair flowing over both shoulders\",\n      \"texture\": \"slightly tousled with individual strands visible\",\n      \"movement\": \"subtle natural movement from outdoor breeze\"\n    },\n    \"environment\": {\n      \"location\": \"urban street intersection\",\n      \"ground\": \"dark textured asphalt with broad white pedestrian crossing stripes\",\n      \"background\": \"only the street surface and crosswalk visible due to the steep overhead camera angle\",\n      \"lighting\": \"strong warm late-afternoon golden sunlight creating defined shadows across the asphalt\",\n      \"shadows\": \"long diagonal architectural or environmental shadows crossing the pedestrian stripes\"\n    },\n    \"composition\": {\n      \"camera_angle\": \"high-angle overhead shot looking downward at approximately 60–70 degrees\",\n      \"framing\": \"vertical portrait composition, subject centered in the frame from head to below the knees\",\n      \"perspective\": \"slightly wide smartphone lens perspective\",\n      \"orientation\": \"vertical 4:5\",\n      \"subject_position\": \"woman positioned slightly toward the center-left while looking directly upward into the lens\"\n    },\n    \"photographic_quality\": {\n      \"camera\": \"modern smartphone camera\",\n      \"look\": \"authentic Instagram street-fashion photograph\",\n      \"color\": \"warm golden-hour tones with slightly muted blacks and natural skin tones\",\n      \"texture\": \"visible fine film grain and realistic asphalt texture\",\n      \"dynamic_range\": \"natural contrast with slightly blown warm highlights\",\n      \"retouching\": \"minimal, natural skin texture preserved\",\n      \"depth\": \"sharp subject with realistic environmental detail\"\n    },\n    \"negative_prompt\": [\n      \"studio photography\",\n      \"artificial posing\",\n      \"heavy makeup\",\n      \"beauty filter\",\n      \"plastic skin\",\n      \"excessive skin smoothing\",\n      \"unrealistic body proportions\",\n      \"extra fingers\",\n      \"deformed hands\",\n      \"extra limbs\",\n      \"distorted sunglasses\",\n      \"duplicate jewelry\",\n      \"blurred face\",\n      \"oversaturated colors\",\n      \"extreme HDR\",\n      \"cinematic bokeh\",\n      \"text\",\n      \"watermark\",\n      \"logo\"\n    ]\n  }\n}",
+      "author": "hardik_lut83675",
+      "author_url": "https://x.com/hardik_lut83675",
+      "post_url": "https://x.com/hardik_lut83675/status/2108332864999661910",
+      "date": "2026-10-09T07:05:00+08:00",
       "likes": 2,
-      "language": "other",
+      "language": "en",
       "images": [
-        "images/2119866063081111581_0.jpg",
-        "images/2119866063081111581_1.jpg"
+        "images/2108332864999661910_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2108154036046463129",
+      "model": "Nano Banana 2.1",
+      "prompt": "素人がスマホで撮影した日常感ある写真。\n焼肉屋の店内にて、一人焼き用テーブル。そのテーブルにクローズアップ。タンと、カルビの皿が置かれている。",
+      "author": "onoken1025",
+      "author_url": "https://x.com/onoken1025",
+      "post_url": "https://x.com/onoken1025/status/2108154036046463129",
+      "date": "2026-10-08T19:14:24+08:00",
+      "likes": 2,
+      "language": "ja",
+      "images": [
+        "images/2108154036046463129_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -16743,6 +16864,22 @@
         "images/2108204125439881380_0.jpg"
       ],
       "prompt_source": "reply"
+    },
+    {
+      "id": "2108198584231358468",
+      "model": "GPT Image 2.5",
+      "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
+      "author": "BernieCheuinbf",
+      "author_url": "https://x.com/BernieCheuinbf",
+      "post_url": "https://x.com/BernieCheuinbf/status/2108198584231358468",
+      "date": "2026-10-08T22:11:25+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2108198584231358468_0.jpg",
+        "images/2108198584231358468_1.jpg"
+      ],
+      "prompt_source": "post"
     },
     {
       "id": "2108091361656262791",
@@ -18816,6 +18953,38 @@
       "prompt_source": "post"
     },
     {
+      "id": "2108204518668189796",
+      "model": "Nano Banana 2.1",
+      "prompt": "BearCosVer.1.15\n\n↓ prompt ↓\nmasterpiece, best quality, ultra-detailed, highly detailed, 1girl, solo, wearing an ultra-cute oversized polar bear kigurumi onesie, fluffy white fur texture, cute polar bear hood with round ears, long sleeves covering hands slightly, wearing matching ultra-cute fluffy polar bear slippers, full body shot, standing posture, looking at viewer, soft lighting, pastel color palette, clean lines, vibrant colors, flawless anatomy, perfectly rendered feet, no extra limbs,\nworst quality, low quality, bad anatomy, deformed feet, extra feet, extra toes, mutated, extra limbs, missing limbs, fused legs, distorted slippers, blurry, bad proportions, bad hands, extra fingers, brown bear,",
+      "author": "walroma_Celia",
+      "author_url": "https://x.com/walroma_Celia",
+      "post_url": "https://x.com/walroma_Celia/status/2108204518668189796",
+      "date": "2026-10-08T22:35:00+08:00",
+      "likes": 1,
+      "language": "ja",
+      "images": [
+        "images/2108204518668189796_0.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
+      "id": "2108154881689485592",
+      "model": "Nano Banana 2.1",
+      "prompt": "Nano Banana 2.1 portrait realism test 🔍\n\nI used my own photo as a reference and tested studio portraits, prism lighting and an underwater look. These are some of my results.\n\nWhat caught my attention? Fine brow hairs, visible skin texture, the shine on the lips—and the ripples of light across my face underwater.\n\nSwipe through the close-ups. Realism and getting my face exactly right are two separate tests. I’m still refining the likeness, but these were worth a closer look.",
+      "author": "nb28511",
+      "author_url": "https://x.com/nb28511",
+      "post_url": "https://x.com/nb28511/status/2108154881689485592",
+      "date": "2026-10-08T19:17:46+08:00",
+      "likes": 1,
+      "language": "en",
+      "images": [
+        "images/2108154881689485592_0.jpg",
+        "images/2108154881689485592_1.jpg",
+        "images/2108154881689485592_2.jpg"
+      ],
+      "prompt_source": "alt"
+    },
+    {
       "id": "2119414639880745379",
       "model": "Nano Banana 2.1",
       "prompt": "A vintage-style, hand-colored etching depicting a rural scene with a Victorian-era farmer sitting on the ground in shock, his hat flying off, as a classic metallic flying saucer hovers above him, casting a beam of light downward. Beside the man stands a wide-eyed cow, and a sheep is nearby. The background features a pastoral landscape with a small cottage, a church steeple, and bare trees. The image has a weathered, aged paper texture with a decorative border and the text \"A WONDROUS & OUTLANDISH APPARITION!\" at the bottom. The art style is reminiscent of 19th-century satirical woodcut illustrations.",
@@ -19015,22 +19184,6 @@
         "images/2108278688357945726_1.jpg"
       ],
       "prompt_source": "alt"
-    },
-    {
-      "id": "2108198584231358468",
-      "model": "GPT Image 2.5",
-      "prompt": "Ultra-realistic cinematic portrait: an elderly Asian ceramic artist sitting in a cluttered studio, hands covered in wet clay, shaping a slender-necked vase on a potter's wheel; afternoon sunlight streams through a dusty window, creating Tyndall rays; wooden shelves filled with unglazed pottery, an old apron hanging on the wall; shallow depth of field, 85mm lens, visible skin pores and clay texture, warm tones, natural light, highly detailed.",
-      "author": "BernieCheuinbf",
-      "author_url": "https://x.com/BernieCheuinbf",
-      "post_url": "https://x.com/BernieCheuinbf/status/2108198584231358468",
-      "date": "2026-10-08T22:11:25+08:00",
-      "likes": 0,
-      "language": "en",
-      "images": [
-        "images/2108198584231358468_0.jpg",
-        "images/2108198584231358468_1.jpg"
-      ],
-      "prompt_source": "post"
     },
     {
       "id": "2108193785947795930",
@@ -23441,6 +23594,21 @@
       "prompt_source": "post"
     },
     {
+      "id": "2119882305955147987",
+      "model": "Nano Banana 2.1",
+      "prompt": "Photorealistic product photo of a single handmade bar of oat-and-honey soap with a rough hand-cut edge, resting on a wet dark slate tile, a few rolled oats and a small honey dipper beside it. Hard late-afternoon window light from the left, crisp shadow, visible water droplets on the slate, shallow depth of field, warm amber and charcoal palette, no text, no logo, no hands.\n\nTo reuse it, swap the soap, oats and dipper for your product and its props. Keep the light, slate and palette lines.",
+      "author": "lookmybio_app",
+      "author_url": "https://x.com/lookmybio_app",
+      "post_url": "https://x.com/lookmybio_app/status/2119882305955147987",
+      "date": "2026-11-10T03:58:21+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2119882305955147987_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
       "id": "2121995045255405598",
       "model": "Nano Banana 2.1",
       "prompt": "4 ultra-photorealistic horror prompts exploring impossible anomalies hidden within ordinary reality. Disturbing biological mutations, haunted everyday objects, unnatural wildlife and mysterious architectural phenomena. Authentic documentary photography, realistic textures, harsh flash lighting and unsettling visual details create terrifying images that feel completely real.",
@@ -23803,17 +23971,32 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119882305955147987",
+      "id": "2108502184824332578",
       "model": "Nano Banana 2.1",
-      "prompt": "Photorealistic product photo of a single handmade bar of oat-and-honey soap with a rough hand-cut edge, resting on a wet dark slate tile, a few rolled oats and a small honey dipper beside it. Hard late-afternoon window light from the left, crisp shadow, visible water droplets on the slate, shallow depth of field, warm amber and charcoal palette, no text, no logo, no hands.\n\nTo reuse it, swap the soap, oats and dipper for your product and its props. Keep the light, slate and palette lines.",
-      "author": "lookmybio_app",
-      "author_url": "https://x.com/lookmybio_app",
-      "post_url": "https://x.com/lookmybio_app/status/2119882305955147987",
-      "date": "2026-11-10T03:58:21+08:00",
+      "prompt": "A close-up, eye-level shot features a gingerbread owl cookie with intricate white icing details, perched on a snow-dusted branch adorned with bright red berries in a stop-motion clay style. The owl has large, expressive yellow eyes with white outlines and a small brown beak. It wears a festive red scarf with white polka dots and scalloped edges. The branch extends from the left and right sides of the frame, with clusters of red berries and a few green leaves, all lightly dusted with snow. The background is a clean, plain white, emphasizing the subject.",
+      "author": "heathergreen",
+      "author_url": "https://x.com/heathergreen",
+      "post_url": "https://x.com/heathergreen/status/2108502184824332578",
+      "date": "2026-10-09T18:17:49+08:00",
       "likes": 0,
       "language": "en",
       "images": [
-        "images/2119882305955147987_0.jpg"
+        "images/2108502184824332578_0.jpg"
+      ],
+      "prompt_source": "post"
+    },
+    {
+      "id": "2108336814293447052",
+      "model": "Nano Banana 2.1",
+      "prompt": "🎬 Higgsfield Seedance 2.5: character sheet + voice + reference ad for camera rhythm\n🔧 Claude fixed the distorted audio: swapped in the clean voice & retimed the footage to the speech\n✨ Claude animated the end card in code (clean Arabic text)\n🖼️ Cover: Nano Banana 2.1, generated straight from Claude via the Higgsfield MCP\n🎙️ Voice: @elevenlabsio\n🎵 Music: @SunoMusic\n\nAI can make anything. Let's use it for things that matter 🎀",
+      "author": "MaAyyoub",
+      "author_url": "https://x.com/MaAyyoub",
+      "post_url": "https://x.com/MaAyyoub/status/2108336814293447052",
+      "date": "2026-10-09T07:20:42+08:00",
+      "likes": 0,
+      "language": "en",
+      "images": [
+        "images/2108336814293447052_0.jpg"
       ],
       "prompt_source": "post"
     },

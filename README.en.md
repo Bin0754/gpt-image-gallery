@@ -26,18 +26,18 @@ Images: GPT Image 2.5 · GPT Image 2.6 · Nano Banana 2.1 · Grok Image 2 · Jim
 
 | | |
 | --- | --- |
-| Posts | **1504** from 361 authors |
-| Images | **3178** (JPEG, max 1200px, plus 480px thumbnails) |
+| Posts | **1516** from 364 authors |
+| Images | **3193** (JPEG, max 1200px, plus 480px thumbnails) |
 | Date range | 2026-08-18 to 2026-11-17 (UTC+8); GPT Image 2.5 launched around 2026-09-08 |
-| Prompt language | English 1050, Chinese 363, Japanese 81, other 10 |
-| Prompt source | post text 1196, author's own reply 187, image ALT text 121 |
-| Last updated | 2026-11-17 10:09 (UTC+8) |
+| Prompt language | English 1060, Chinese 363, Japanese 83, other 10 |
+| Prompt source | post text 1206, author's own reply 187, image ALT text 123 |
+| Last updated | 2026-11-17 10:21 (UTC+8) |
 
 Inclusion rules: the post has images, mentions GPT Image 2.5, and the **author publicly shared the prompt** (in the post, in their own reply in the same thread, or in the image ALT text). Prompts that only exist inside an image or behind a link are skipped. Duplicates are removed, and NSFW or overly suggestive posts are not shown. Some posts compare several models, so not every image is from GPT Image 2.5. Some prompts are templates with placeholders.
 
 ### AI video prompts (Seedance 2.5)
 
-The [video page](https://bin0754.github.io/gpt-image-gallery/videos.html) (the 🎬 视频 tab in the header) collects **Seedance 2.5** AI videos from X (ByteDance's video model, written as "Seedance 2.5", "Seedance2.5", "Dreamina Seedance 2.5" or "Seedance 2.5 Pro"), each with the author's full prompt: **2379** posts (2299 tagged Seedance 2.5), 2026-08-01 to 2026-11-17 (UTC+8). Downloads: [`video_prompts.json`](https://bin0754.github.io/gpt-image-gallery/video_prompts.json) and [`video_prompts.csv`](https://bin0754.github.io/gpt-image-gallery/video_prompts.csv) (UTF-8 BOM). Same inclusion rules as above. Only small poster images are stored in the repo (`posters/`). Videos are not stored; they play straight from X (`video.twimg.com`), with an "open on X" fallback. Model tags follow the post text; any other Seedance version would appear under a separate filter.
+The [video page](https://bin0754.github.io/gpt-image-gallery/videos.html) (the 🎬 视频 tab in the header) collects **Seedance 2.5** AI videos from X (ByteDance's video model, written as "Seedance 2.5", "Seedance2.5", "Dreamina Seedance 2.5" or "Seedance 2.5 Pro"), each with the author's full prompt: **2393** posts (2299 tagged Seedance 2.5), 2026-08-01 to 2026-11-17 (UTC+8). Downloads: [`video_prompts.json`](https://bin0754.github.io/gpt-image-gallery/video_prompts.json) and [`video_prompts.csv`](https://bin0754.github.io/gpt-image-gallery/video_prompts.csv) (UTF-8 BOM). Same inclusion rules as above. Only small poster images are stored in the repo (`posters/`). Videos are not stored; they play straight from X (`video.twimg.com`), with an "open on X" fallback. Model tags follow the post text; any other Seedance version would appear under a separate filter.
 
 ## Download
 
