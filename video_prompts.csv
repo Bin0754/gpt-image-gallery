@@ -480,31 +480,6 @@ MAIN CHARACTER 1 — SHORT STOCKY MALE WITH MASSIVELY OVERSIZED FOREARMS: Use up
 MAIN CHARACTER 2 — AWKWARD MALE IN BROWN TWEED JACKET WITH RED TIE: Use uploaded character sheet. Completely calm. Never scared. Never knows he's in a fight. Every item pulled out mid attack.
 0:00–0:02 — Wide from above. Main character 1 stomping aggressively toward main character 2, fists clenched, passersby scattering. Low angle — main character 1 closing fast forearms swinging. 0:02–0:04 — Medium from the side. Main character 2 pulling out large raw fish. Main character 1 reaching him at full charge. Wide from the side — fish connecting directly with main character 1's face. Loud SLAP. Head snapping sideways. Fish scales everywhere. 0:04–0:06 — Close up on main character 1's face. Fish scale stuck to cheek. Toothpick bent. Main character 2 putting fish back unbothered. Main character 1 shaking head furiously stomping forward. 0:06–0:08 — Low angle from pavement. Main character 1 charging. Main character 2 pulling out giant rubber mallet. Wide from the side — mallet connecting perfectly with main character 1's face. Enormous CLANG. 0:08–0:10 — Close up on main character 1's face completely flat cartoon style. Slowly popping back to normal. Eyes spinning. Main character 2 visible in background looking at mallet satisfied. 0:10–0:13 — Main character 1 pulling out hot sauce chugging entire thing. Face bright red. Steam from ears. Forearms tripling. Main character 2 watching calmly pulling out his own hot sauce chugging it without hesitation. 0:13–0:15 — Close up on main character 2's face turning bright red. Steam blasting from ears. Eyes wide with bafflement. Low angle — arms growing enormous jacket sleeves ripping. Main character 1 staring in disbelief. 0:15–0:16 — Main character 1 charging one final time. Main character 2 confused by his own arms — enormous hands closing around a parked car, gripping it, lifting it completely off the ground. 0:16–0:17 — Wide from the side. Main character 2 swinging the car releasing it — car flying clearly through the air directly at main character 1 mid charge. 0:17–0:18 — Low angle from pavement. Car closing in on main character 1 getting bigger and bigger in frame. 0:18–0:20 — Wide from the side. Car connecting directly with main character 1 at full force — launching off the ground flying backwards down the street. Car landing on top of him. Done. Ends on impact.
 Cel-shaded 3D anime, Unreal Engine quality, narrow London street midday bright clear sunshine throughout, bold flat color blocking, hard edge shadows, thick black outlines, vibrant saturated colors, film grain, intense orchestral score switching between action and comedy every impact hard every item silly sound effect building to car throw finale, camera switching every timestamp never same angle twice — wide from above, medium side shots, low angles, close ups on faces and items — main character 1 always uploaded sheet toothpick massive forearms always charging stomping enormous reactions, main character 2 always uploaded sheet completely calm never scared every item mid attack baffled by own arms after hot sauce, car throw three separate timestamps gripping lifting then flying then connecting directly never driving always hitting main character 1, ends on impact no empty room.""",https://video.twimg.com/amplify_video/2109966626510491648/vid/avc1/720x720/_ZQBgcrgTvGL1ctq.mp4,21.9
-2121863238501753062,2026-11-15T15:09:53+08:00,MiniMax H3,MiniMax H3,boniusex,https://x.com/boniusex,https://x.com/boniusex/status/2121863238501753062,874,zh,reply,"方案二：轻量级工具一键部署（适合低配电脑 / 零基础新手）
-
-如果本地硬件跑不动 ComfyUI，或不想折腾节点与环境配置，可直接采用客户端工具部署：
-
-1.下载安装：前往工具官网（视频中演示的 Locmodel / LMdeploy 类轻量客户端，支持 Windows / macOS / Linux），确保安装或升级至最新 V3.1 版本。
-
-打开软件顶部的 模型（Models） 选项卡（需保持网络通畅以访问开源模型库）。
-
-搜索关键词 minimax 或 H3，选择下载量最高的开源视频模型。
-
-根据电脑显存与内存大小选择对应的量化版本（提供 Q2 到 Q6 多种规格，显存越小选数字越小的版本，常规推荐 Q4 或 Q5）。
-
-3.生成竖屏短剧视频：
-
-下载完成后，切换至顶部的 视频（Video） 生成中心，选中刚下载的模型。
-
-将画面比例调整为 竖屏，上传参考图片（如首帧图或角色图），设置视频时长（如 8 秒）。
-
-输入剧情或换装提示词，点击生成即可在本地无限次离线渲染。
-
-4.实操避坑提示
-
-刷新节点：每次拖入新工作流后，若出现红框或缺失提示，先按键盘 R 键 刷新定义，确认无误后再检查 diffusion_models 文件夹是否漏放对应的模型文件。
-
-中文配音效果：本地模型已支持直接生成中文角色对话，但部分复杂语气的音色自然度仍有波动，实际制作短剧时可结合后期配音工具进一步优化台词表现。",https://video.twimg.com/amplify_video/2121862373757886465/vid/avc1/1280x720/Tz-kG-JtoitiK84b.mp4,742.5
 2111388958496014697,2026-10-17T17:28:50+08:00,Seedance 2.5 Pro,Seedance 2.5,Soaima_Ai,https://x.com/Soaima_Ai,https://x.com/Soaima_Ai/status/2111388958496014697,823,en,reply,"A fast-paced, ultra-realistic cinematic FPV drone shot flying swiftly through a crowded, bustling modern urban city street at dusk. The camera moves forward at high speed with smooth, dynamic motion, weaving effortlessly between pedestrians, narrowly passing moving public buses, colorful cars, motorcycles, bicycles, and street performers. The drone dives low toward the wet asphalt, glides past busy storefronts, then rises smoothly above the crowd before banking sharply around a street corner.
 
 Vibrant neon signs, glowing billboards, illuminated shop windows, colorful traffic lights, and reflections on the slightly wet road create a visually stunning cinematic atmosphere. Pedestrians walk naturally, vendors serve customers, street musicians perform, and vehicles move through the busy intersection. The camera passes extremely close to the surrounding objects, creating an intense sense of speed, depth, and immersion while maintaining realistic distances and avoiding collisions.

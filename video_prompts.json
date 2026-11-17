@@ -2,14 +2,14 @@
   "name": "AI 视频提示词 / AI video prompts (GPT Image 2.5 提示词图库)",
   "homepage": "https://bin0754.github.io/gpt-image-gallery/videos.html",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-11-17T09:52:30+08:00",
-  "count": 2380,
+  "generated_at": "2026-11-17T10:09:18+08:00",
+  "count": 2379,
   "license": "Code: MIT. Videos and prompts belong to their original authors on X; mp4 links point to X (video.twimg.com) and may expire.",
   "models": {
     "Seedance 2.5": 2175,
     "Seedance 2.5 Pro": 118,
     "Wan 3.0": 48,
-    "MiniMax H3": 31,
+    "MiniMax H3": 30,
     "Seedance": 1,
     "Seedance 2.5 Flash": 6,
     "Seedance 2.0": 1
@@ -501,28 +501,6 @@
           "duration_s": 21.9,
           "poster": "posters/2109966668474519799_0.webp",
           "width": 1080,
-          "height": 1080
-        }
-      ]
-    },
-    {
-      "id": "2121863238501753062",
-      "model": "MiniMax H3",
-      "model_family": "MiniMax H3",
-      "prompt": "方案二：轻量级工具一键部署（适合低配电脑 / 零基础新手）\n\n如果本地硬件跑不动 ComfyUI，或不想折腾节点与环境配置，可直接采用客户端工具部署：\n\n1.下载安装：前往工具官网（视频中演示的 Locmodel / LMdeploy 类轻量客户端，支持 Windows / macOS / Linux），确保安装或升级至最新 V3.1 版本。\n\n打开软件顶部的 模型（Models） 选项卡（需保持网络通畅以访问开源模型库）。\n\n搜索关键词 minimax 或 H3，选择下载量最高的开源视频模型。\n\n根据电脑显存与内存大小选择对应的量化版本（提供 Q2 到 Q6 多种规格，显存越小选数字越小的版本，常规推荐 Q4 或 Q5）。\n\n3.生成竖屏短剧视频：\n\n下载完成后，切换至顶部的 视频（Video） 生成中心，选中刚下载的模型。\n\n将画面比例调整为 竖屏，上传参考图片（如首帧图或角色图），设置视频时长（如 8 秒）。\n\n输入剧情或换装提示词，点击生成即可在本地无限次离线渲染。\n\n4.实操避坑提示\n\n刷新节点：每次拖入新工作流后，若出现红框或缺失提示，先按键盘 R 键 刷新定义，确认无误后再检查 diffusion_models 文件夹是否漏放对应的模型文件。\n\n中文配音效果：本地模型已支持直接生成中文角色对话，但部分复杂语气的音色自然度仍有波动，实际制作短剧时可结合后期配音工具进一步优化台词表现。",
-      "author": "boniusex",
-      "author_url": "https://x.com/boniusex",
-      "post_url": "https://x.com/boniusex/status/2121863238501753062",
-      "date": "2026-11-15T15:09:53+08:00",
-      "likes": 874,
-      "language": "zh",
-      "prompt_source": "reply",
-      "videos": [
-        {
-          "mp4": "https://video.twimg.com/amplify_video/2121862373757886465/vid/avc1/1280x720/Tz-kG-JtoitiK84b.mp4",
-          "duration_s": 742.5,
-          "poster": "posters/2121863238501753062_0.webp",
-          "width": 1920,
           "height": 1080
         }
       ]

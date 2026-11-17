@@ -332,6 +332,28 @@ HIDE_IDS = {
     '2121156670868844655',  # @jhl880617 benchmark chart, not artwork (2026-11-17 review)
     '2120359868096024877',  # @yyyole UI screenshot, not artwork (2026-11-17 review)
     '2121896705679638593',  # @MengTo UI screenshot, not artwork (2026-11-17 review)
+    '2121850353436315870',  # @asakouhinomu caption only (参照画像/生成画像), no prompt (2026-11-17 review)
+    '2121548897764139507',  # @RTJLDR model name only, no prompt (2026-11-17 review)
+    '2119779478654312642',  # @SethCritchley credit line only, no prompt (2026-11-17 review)
+    '2120524136342753725',  # @FromSummerF comparison note, not a prompt (2026-11-17 review)
+    '2121010883770101863',  # @asakouhinomu caption only, no prompt (2026-11-17 review)
+    '2120341703718781355',  # @LvZongru9204 truncated prompt fragment (2026-11-17 review)
+    '2121343792133366180',  # @greghunkins "Seedream 5.5 on" fragment, no prompt (2026-11-17 review)
+    '2116199841873436785',  # @asakouhinomu caption only, no prompt (2026-11-17 review)
+    '2119607888591438246',  # @youci290897 truncated prompt header only (2026-11-17 review)
+    '2118850710200783272',  # @akiba_tokyo_jp prompt is only in the image, text is a caption (2026-11-17 review)
+    '2111744107248771443',  # @heathergreen prompt fragment (2026-11-17 review)
+    '2117702991667249456',  # @Brothershade caption, no prompt (2026-11-17 review)
+    '2119237205357150550',  # @akiba_tokyo_jp caption only (2026-11-17 review)
+    '2118958115534344703',  # @akiba_tokyo_jp caption only (2026-11-17 review)
+    '2121011713680302207',  # @asakouhinomu caption only, no prompt (2026-11-17 review)
+    '2119256206019899672',  # @einsburnz model ranking list, not a prompt (2026-11-17 review)
+    '2120782624348090824',  # @ft4ht0 reference-id instruction only (2026-11-17 review)
+    '2120706042413842697',  # @ft4ht0 reference-id instruction only (2026-11-17 review)
+    '2119645628829708456',  # @akiba_tokyo_jp caption only (2026-11-17 review)
+    '2118613074546720998',  # @akiba_tokyo_jp caption only (2026-11-17 review)
+    '2121011145528213983',  # @asakouhinomu caption only, no prompt (2026-11-17 review)
+    '2119324038992482477',  # @CandyTravelight truncated prompt header only (2026-11-17 review)
 }
 # Video posts (video_data.json) hidden after manual review of the poster contact sheet.
 VHIDE_IDS = {
@@ -507,6 +529,7 @@ VHIDE_IDS = {
     '2118223238820196536',  # @dreamina_brys settings/hashtags only, not a prompt
     # --- 2026-11-17 multi-model review ---
     '2122385276462883315',  # @devgetsit suggestive/revealing (2026-11-17 review, when unsure hide)
+    '2121863238501753062',  # @boniusex deployment tutorial text, not a prompt (2026-11-17 review)
 }
 VSTATS = {}
 VCOUNT = 0          # number of public video posts; shown in the 图片/视频 tab of every page

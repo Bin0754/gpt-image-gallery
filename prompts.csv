@@ -1,6 +1,5 @@
 ﻿id,date,model,author,author_url,post_url,likes,language,prompt_source,prompt,images
 2099481521983995971,2026-09-14T20:52:55+08:00,GPT Image 2.5,DeepBlueX0,https://x.com/DeepBlueX0,https://x.com/DeepBlueX0/status/2099481521983995971,2646,zh,post,竖版3×3失败照片× ｛角色｝,images/2099481521983995971_0.jpg | images/2099481521983995971_1.jpg | images/2099481521983995971_2.jpg
-2121850353436315870,2026-11-15T14:18:40+08:00,Nano Banana 2.1,asakouhinomu,https://x.com/asakouhinomu,https://x.com/asakouhinomu/status/2121850353436315870,2379,ja,post,←参照画像　　　　　生成画像→,images/2121850353436315870_0.jpg | images/2121850353436315870_1.jpg
 2097539942985728162,2026-09-09T12:17:47+08:00,GPT Image 2.5,Mayz1169,https://x.com/Mayz1169,https://x.com/Mayz1169/status/2097539942985728162,1559,en,reply,"Here's my prompt:
 
 Using the character reference image I upload, create a pixel-art battle animation. Deliver a transparent animated GIF and a 4×4 sprite sheet containing 16 sequential frames.
@@ -293,7 +292,6 @@ No changes to the original photograph's natural color relationships.
 FINAL GOAL:
 
 Create a sophisticated, visually balanced editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.",images/2110581440085987751_0.jpg | images/2110581440085987751_1.jpg
-2121548897764139507,2026-11-14T18:20:48+08:00,即梦 5.0 Pro,RTJLDR,https://x.com/RTJLDR,https://x.com/RTJLDR/status/2121548897764139507,414,zh,post,模型SeeDream 5.0 Pro,images/2121548897764139507_0.jpg
 2122186361193341356,2026-11-16T12:33:51+08:00,GPT Image 2.6,oggii_0,https://x.com/oggii_0,https://x.com/oggii_0/status/2122186361193341356,406,en,post,"Turn my photo into a cute 3D animated portrait. Preserve recognizable features and hairstyle. Add a big round head, huge googly eyes, tiny pupils, round glasses, a button nose and tiny “o” mouth. Slightly surprised expression. Oversized black turtleneck, soft matte 3D, sage-green background, chest-up, 3:4.",images/2122186361193341356_0.jpg | images/2122186361193341356_1.jpg | images/2122186361193341356_2.jpg
 2103139749540339890,2026-09-24T23:09:25+08:00,GPT Image 2.5,Mayz1169,https://x.com/Mayz1169,https://x.com/Mayz1169/status/2103139749540339890,373,en,reply,"Here's my prompt:
 
@@ -10143,7 +10141,6 @@ VISUAL STYLE & FINISH
 Use strong visual hierarchy, asymmetrical layouts, layered elements, crisp cutout photography, bold contrast, playful graphic details, and sophisticated editorial art direction. Combine modern streetwear culture with experimental Swiss-inspired graphic design.
 
 The final result should look like an authentic, professionally art-directed fashion campaign: energetic, youthful, visually rich, highly detailed, and instantly eye-catching. Vertical 4:5 composition, ultra-sharp, premium commercial poster quality.",images/2121957609263739112_0.jpg | images/2121957609263739112_1.jpg
-2119779478654312642,2026-11-09T21:09:45+08:00,GPT Image 2.6,SethCritchley,https://x.com/SethCritchley,https://x.com/SethCritchley/status/2119779478654312642,41,en,alt,GPT Image 2.6 (@AIMemeCreator),images/2119779478654312642_0.jpg | images/2119779478654312642_1.jpg | images/2119779478654312642_2.jpg | images/2119779478654312642_3.jpg
 2109582485147517056,2026-10-12T17:50:33+08:00,GPT Image 2.5,TheVirtualMuse,https://x.com/TheVirtualMuse,https://x.com/TheVirtualMuse/status/2109582485147517056,40,en,post,"Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads ""1 Photo
 Selected"" with an ""Options >"" pill below it, a round X close button top right, then a horizontal carousel of three",images/2109582485147517056_0.jpg
 2114360743131041959,2026-10-25T22:17:38+08:00,GPT Image 2.5,Ziha_ai,https://x.com/Ziha_ai,https://x.com/Ziha_ai/status/2114360743131041959,40,en,post,"Create an ultra-realistic, cute editorial portrait of a stylish young woman sitting on a smooth light gray studio floor, playfully posing with a large hand-drawn cartoon character behind her.
@@ -16263,9 +16260,6 @@ Negative Prompt: blurry face, distorted facial features, artificial skin, cartoo
 加！入！小小东提示词会员！
 
 貌似最近还可以：协助配置Claude环境。",images/2119454093156704547_0.jpg | images/2119454093156704547_1.jpg | images/2119454093156704547_2.jpg | images/2119454093156704547_3.jpg
-2120524136342753725,2026-11-11T22:28:46+08:00,GPT Image 2.6,FromSummerF,https://x.com/FromSummerF,https://x.com/FromSummerF/status/2120524136342753725,8,zh,post,"右图：明确广角仰拍，让脸更清晰、叠影留在边缘，并写清回眸和空手入镜
-
-喜欢哪种风格呢😁",images/2120524136342753725_0.jpg | images/2120524136342753725_1.jpg
 2122363062246130160,2026-11-17T00:16:00+08:00,Nano Banana 2.1,Gdgtify,https://x.com/Gdgtify,https://x.com/Gdgtify/status/2122363062246130160,8,en,post,"2x2 grid, 16:9, do this for shinigami mangas:{
   ""Aesthetic"": ""Modern Bauhaus Vector, Luxury Editorial Minimalism"",
   ""Subject"": ""[SUBJECT]"",
@@ -16626,9 +16620,6 @@ n=10，9:16 竖版，每轮生成 1 张，连续完成 10 张独立单图，不�
 
 9:16 直幅，每張為獨立單圖。
 n=6",images/2119715529044996181_0.jpg | images/2119715529044996181_1.jpg | images/2119715529044996181_2.jpg | images/2119715529044996181_3.jpg
-2121010883770101863,2026-11-13T06:42:55+08:00,Nano Banana 2.1,asakouhinomu,https://x.com/asakouhinomu,https://x.com/asakouhinomu/status/2121010883770101863,7,ja,post,"失敗例：中の雪が多すぎるパターン
-
-←参照画像　　　　　生成画像→",images/2121010883770101863_0.jpg | images/2121010883770101863_1.jpg
 2112695107900313980,2026-10-21T07:59:00+08:00,Nano Banana 2.1,Gdgtify,https://x.com/Gdgtify,https://x.com/Gdgtify/status/2112695107900313980,7,en,post,"2x2 grid, 16:9, do this for underrated manga  that most people don't know about: SELECT * FROM Macro_PopUp_Comics
 WHERE franchise = '[COMIC_SERIES]'
 AND publication_era = '[YEAR]'",images/2112695107900313980_0.jpg
@@ -16969,7 +16960,6 @@ Photo Refference",images/2116214148287668532_0.jpg | images/2116214148287668532_
 左下簽名：深藍色實心圓點在前，白色手寫體 DeepBlue 在後
 
 n=10",images/2121461700683821209_0.jpg | images/2121461700683821209_1.jpg | images/2121461700683821209_2.jpg | images/2121461700683821209_3.jpg | images/2121461700683821209_4.jpg | images/2121461700683821209_5.jpg | images/2121461700683821209_6.jpg | images/2121461700683821209_7.jpg | images/2121461700683821209_8.jpg | images/2121461700683821209_9.jpg | images/2121461700683821209_10.jpg | images/2121461700683821209_11.jpg
-2120341703718781355,2026-11-11T10:23:50+08:00,GPT Image 2.6,LvZongru9204,https://x.com/LvZongru9204,https://x.com/LvZongru9204/status/2120341703718781355,6,en,post,"Ultra-photorealistic RAW photography,",images/2120341703718781355_0.jpg
 2119364402650747079,2026-11-08T17:40:24+08:00,GPT Image 2.6,DeepBlueX0,https://x.com/DeepBlueX0,https://x.com/DeepBlueX0/status/2119364402650747079,6,zh,post,"經典動漫遊戲成年女性角色 × 《鐵甲小寶》中野美樹經典女警制服 × 真人COS × iPhone真實抓拍 × 角色身份反差。
 
 【角色真人化】
@@ -17073,7 +17063,6 @@ visible LED · rainbow wash · glass sparkle · empty rooms · motion blur · fl
 2121785508523319654,2026-11-15T10:01:00+08:00,即梦 5.5,ZhuJianMind,https://x.com/ZhuJianMind,https://x.com/ZhuJianMind/status/2121785508523319654,6,zh,post,"左边GPT-Image，右边seedream5.5
 
 体感上来说，豆包进度神速，生图已经超越了 GPT",images/2121785508523319654_0.jpg | images/2121785508523319654_1.jpg
-2121343792133366180,2026-11-14T04:45:47+08:00,即梦 5.5,greghunkins,https://x.com/greghunkins,https://x.com/greghunkins/status/2121343792133366180,6,en,post,Seedream 5.5 on,images/2121343792133366180_0.jpg | images/2121343792133366180_1.jpg
 2108507207851745590,2026-10-09T18:37:47+08:00,GPT Image 2.5,MahnoorAi12,https://x.com/MahnoorAi12,https://x.com/MahnoorAi12/status/2108507207851745590,5,en,post,"Character reference sheet on a plain neutral beige background, photorealistic, soft even cinematic lighting. One young woman (early 20s), fair skin, soft expressive face, light eyes, dark brown hair in a loose low bun with a few loose strands. Medieval",images/2108507207851745590_0.jpg
 2108953705462563190,2026-10-11T00:12:00+08:00,GPT Image 2.5,johnAGI168,https://x.com/johnAGI168,https://x.com/johnAGI168/status/2108953705462563190,5,zh,post,"""type"": ""16:9 横版集体站位定妆照，12 人三角阵型，全员正面面向镜头站立，用作视频生成的人物与站位参考图"",
   ""style"": ""documentary 35mm film photograph，低饱和冷青色调，lifted",images/2108953705462563190_0.jpg
@@ -18658,8 +18647,6 @@ n=10",images/2119559589679309229_0.jpg | images/2119559589679309229_1.jpg | imag
 ファンタジーとか、ゆるゆるなマンガ向けの絵柄です
 
 描き方のプロンプトは以下で",images/2118880672438001739_0.jpg | images/2118880672438001739_1.jpg | images/2118880672438001739_2.jpg
-2116199841873436785,2026-10-31T00:05:34+08:00,Nano Banana 2.1,asakouhinomu,https://x.com/asakouhinomu,https://x.com/asakouhinomu/status/2116199841873436785,3,ja,post,"←参照画像　　　　　生成画像→
-※お借りしました↓",images/2116199841873436785_0.jpg | images/2116199841873436785_1.jpg
 2115247182060380565,2026-10-28T09:00:02+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2115247182060380565,3,en,post,"A richly layered autumn flat-lay arrangement viewed directly from above, featuring miniature orange pumpkins, golden-yellow flowers, burnt-orange chrysanthemums, deep burgundy maple leaves, rusty red foliage,",images/2115247182060380565_0.jpg
 2114886547958804844,2026-10-27T09:07:00+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2114886547958804844,3,en,post,"A cozy, modern still-life illustration of a hand holding a dark rust-colored ceramic mug filled with a warm seasonal drink, garnished with two bright orange slices, cinnamon sticks, and fresh evergreen",images/2114886547958804844_0.jpg
 2114114713890230723,2026-10-25T06:00:00+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2114114713890230723,3,en,post,"A cozy autumn afternoon, viewed from behind a woman sitting on the floor beside a tall window, quietly enjoying a warm drink while her cat sits beside her, both gazing out at the fall scenery. The woman has shoulder-length auburn hair, wears a soft cream oversized sweater, rust-colored leggings, and warm tan socks. A brown tabby-and-white cat sits close beside her, its tail curled comfortably around its paws.
@@ -20403,13 +20390,6 @@ n=10",images/2120482441869885606_0.jpg | images/2120482441869885606_1.jpg | imag
 プロンプトに描いてますが、手作りの素朴で温かな空気感が出ます
 
 描き方のプロンプトは以下で",images/2120347209535553582_0.jpg | images/2120347209535553582_1.jpg | images/2120347209535553582_2.jpg
-2119607888591438246,2026-11-09T09:47:55+08:00,GPT Image 2.6,youci290897,https://x.com/youci290897,https://x.com/youci290897/status/2119607888591438246,2,zh,post,"【基础设定】
-
-风格：高精度半写实动漫角色设计 +",images/2119607888591438246_0.jpg
-2118850710200783272,2026-11-07T07:39:10+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2118850710200783272,2,ja,post,"『新聞まんが風の簡潔な線』
-わざと簡素にした感じ
-
-描き方のプロンプトは以下で",images/2118850710200783272_0.jpg | images/2118850710200783272_1.jpg
 2118629204241850406,2026-11-06T16:58:59+08:00,GPT Image 2.6,DataEyesAI,https://x.com/DataEyesAI,https://x.com/DataEyesAI/status/2118629204241850406,2,en,post,"📐 Direct SVG vector export
 🎯 Sharp, consistent multi-turn edits
 
@@ -20432,7 +20412,6 @@ If a complex object renders wrong when it transfers from your blockout, fix one 
 2116576589735477728,2026-11-01T01:02:37+08:00,Nano Banana 2.1,airina_xyz,https://x.com/airina_xyz,https://x.com/airina_xyz/status/2116576589735477728,2,en,post,"Create a magnificent architectural cross-section illustration of a gigantic medieval monastery library carved into the vertical face of a Transylvanian mountain. The entire cliff has been sliced open to reveal dozens of physically interconnected rooms, galleries, workshops, towers, staircases, and secret passages. At the summit is a small stone observatory overlooking distant Carpathian peaks. Below it are vaulted libraries with towering bookshelves, a candlelit scriptorium filled with scribes, a botanical laboratory, narrow staircases inside the mountain, and an immense underground chamber containing an ancient astronomical clock. Small human figures perform ordinary activities in every section, establishing a convincing sense of scale. All spaces are connected by a logically organized system of stairways and corridors. Render as a sumptuous 19th-century architectural watercolor combined with meticulous ink engraving, delicate shadows, parchment-colored stone, muted emerald roofs, warm golden windows, and blue-grey misty mountains. Three-quarter cutaway perspective, astonishing structural complexity but highly readable organization. The visual richness of a monumental illustrated historical atlas. No legends or text.",images/2116576589735477728_0.jpg
 2115971958558933199,2026-10-30T09:00:02+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2115971958558933199,2,en,post,"A cozy autumn scene viewed from a first-person, top-down perspective, looking down at a person sitting on wide, weathered stone steps. One hand holds a takeaway coffee cup with a black lid, filled with a",images/2115971958558933199_0.jpg
 2113435240056185335,2026-10-23T09:00:01+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2113435240056185335,2,en,post,"A retro-inspired illustration in a palette of pink, purple, yellow, orange, and warm off-white, featuring a whimsical skull with flowers blooming from its eye sockets, mushrooms sprouting from the top of its head, and tiny furry creatures climbing over it. Centered, balanced composition with bold hand-drawn outlines, playful vintage poster styling, subtle print texture and gentle grain, rich decorative details, and a warm, nostalgic mood.",images/2113435240056185335_0.jpg
-2111744107248771443,2026-10-18T17:00:04+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2111744107248771443,2,en,post,"the text ""Two Four Six Eight Time To",images/2111744107248771443_0.jpg
 2111623304293269696,2026-10-18T09:00:02+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2111623304293269696,2,en,post,Create an original 1950s vintage comic-book illustration of a smug black cat that has taken over its witch's job.,images/2111623304293269696_0.jpg
 2111260907577991486,2026-10-17T09:00:00+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2111260907577991486,2,en,post,"Create a funny vintage comic-book illustration of a turkey attempting to escape Thanksgiving dinner by disguising itself as a suspicious detective. The turkey wears an oversized trench coat, dark sunglasses, and an absurdly obvious fake mustache that barely covers its beak. It nervously looks over its shoulder while clutching a tiny suitcase stuffed with feathers. Give the character an expressive, panicked face and an exaggerated sneaky pose. Style it like a 1950s newspaper comic crossed with a vintage novelty greeting card: thick hand-inked outlines, bold shapes, retro halftone dots, slightly distressed print texture, and a limited palette of burnt orange, mustard, dark brown, teal, and warm cream. Make the character readable at sticker size, with a compact centered silhouette and uncluttered background. No mockup, no watermark, no lettering.",images/2111260907577991486_0.jpg
 2110475917080601014,2026-10-15T05:00:44+08:00,Nano Banana 2.1,AI_swwww,https://x.com/AI_swwww,https://x.com/AI_swwww/status/2110475917080601014,2,ja,post,"■8bit（9-01）
@@ -20493,8 +20472,6 @@ Semi-realistic anime style, anime-like features with realistic proportions, ligh
 2119866063081111581,2026-11-10T02:53:49+08:00,Nano Banana 2.1,AJMorales73,https://x.com/AJMorales73,https://x.com/AJMorales73/status/2119866063081111581,2,other,post,"Distribución interior de una residencia de lujo vista desde arriba; plano arquitectónico hiperdetallado, dormitorios amueblados, baño de diseño, vestidores, escalera de madera, plazas de aparcamiento con coches, iluminación con luz natural, texturas realistas, renderizado en ultra alta definición (Ultra HD).
 
 Si te gustó deja un like para más! 👍",images/2119866063081111581_0.jpg | images/2119866063081111581_1.jpg
-2117702991667249456,2026-11-04T03:38:32+08:00,Nano Banana 2.1,Brothershade,https://x.com/Brothershade,https://x.com/Brothershade/status/2117702991667249456,2,en,post,"Surprise
-Selfie w/Nano Banana 2.1",images/2117702991667249456_0.jpg
 2117493223300182149,2026-11-03T13:45:00+08:00,Nano Banana 2.1,walroma_Celia,https://x.com/walroma_Celia,https://x.com/walroma_Celia/status/2117493223300182149,2,ja,alt,"【CuteFluffyPenguinCosVer.1.22】
 
 【着ぐるみprompt ↓】
@@ -22030,18 +22007,11 @@ MiniMax H3 这价格，多试几版也不心疼了。
 
 注册就能领，拿自己的任务试一轮，效果最有说服力 👀",images/2121832900392026177_0.jpg
 2120588794550534513,2026-11-12T02:45:41+08:00,GPT Image 2.6,DavidLi36143625,https://x.com/DavidLi36143625,https://x.com/DavidLi36143625/status/2120588794550534513,1,en,post,"A close-up photograph of a large saltwater crocodile resting at the edge of a muddy riverbank. The crocodile's head and shoulders fill the frame, its scaly skin textured with wet,",images/2120588794550534513_0.jpg
-2119237205357150550,2026-11-08T09:14:57+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2119237205357150550,1,ja,post,"『余白の多い静かな絵』
-こちらも可愛い絵柄
-
-描き方のプロンプトは以下で",images/2119237205357150550_0.jpg | images/2119237205357150550_1.jpg | images/2119237205357150550_2.jpg | images/2119237205357150550_3.jpg
 2119229683023970737,2026-11-08T08:45:04+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2119229683023970737,1,ja,post,"『ラフな線の軽やかな絵』
 3コマカラーにしちゃうくらいに、私好み
 
 白黒の描き方のプロンプトは以下で",images/2119229683023970737_0.jpg | images/2119229683023970737_1.jpg | images/2119229683023970737_2.jpg | images/2119229683023970737_3.jpg
 2119008121196884364,2026-11-07T18:04:40+08:00,GPT Image 2.6,sada_ai,https://x.com/sada_ai,https://x.com/sada_ai/status/2119008121196884364,1,en,post,"Edit the uploaded photo into a warm, photorealistic December balloon-letter studio portrait. Keep the face identical. Retain the uploaded person’s exact hairstyle, hair color, headwear if present, clothing, garment colors, accessories, and natural proportions. Do not add a holiday costume, hat, bag, or new jewelry. Change only the pose, setting, lighting, and surrounding props. Create a tall tower of eight oversized glossy inflatable capital letters on the left, spelling DECEMBER vertically from top to bottom: D / E / C / E / M / B / E / R. Use soft pink, baby blue, mint green, butter yellow, lavender, peach orange, pale turquoise, and dusty rose in that order. Each letter is thick, rounded, softly inflated, and physically three-dimensional, with subtle seams and curved highlights. Stack the letters closely, with the bottom R firmly touching the floor. Place the person on the right, with their shoulder and the side of their head resting gently against the tower. Their eyes are softly closed, with a subtle contented smile. Keep the neck angle comfortable, arms relaxed, and posture natural. Ensure the letters support the pose convincingly without intersecting the person’s body. Warm peach studio cyclorama, matching floor, soft diffused key light, gentle shadows, realistic skin texture, detailed original clothing. Vertical 9:16 composition showing the complete person and the entire word, with space above the D and beneath the feet. No cropped or misspelled letters, no additional text, logos, or watermarks.",images/2119008121196884364_0.jpg
-2118958115534344703,2026-11-07T14:45:57+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2118958115534344703,1,ja,post,"『ラフで勢いのある線』
-
-描き方のプロンプトは以下で",images/2118958115534344703_0.jpg | images/2118958115534344703_1.jpg | images/2118958115534344703_2.jpg | images/2118958115534344703_3.jpg
 2118931015490314403,2026-11-07T12:58:16+08:00,GPT Image 2.6,youci290897,https://x.com/youci290897,https://x.com/youci290897/status/2118931015490314403,1,zh,post,"生成一张16:9横向高清二次元动漫人物三视图设定板（Anime Character Reference Sheet）。
 
 【人物外貌】
@@ -22190,9 +22160,6 @@ Generate an editorial dossier poster for SUBJECT — a fashion magazine cover, p
 
 Explore AI. Create Value.",images/2121371290133270532_0.jpg
 2102777368272322758,2026-09-23T23:09:26+08:00,Grok Image 2,LewisLinstuvxw,https://x.com/LewisLinstuvxw,https://x.com/LewisLinstuvxw/status/2102777368272322758,1,en,alt,你是一条流浪狗。你不小心进入了医院公共洗手间。美女护士，超短裙，保洁，高跟，长腿圆润的臀腿曲线，垃圾桶等各种。避免敏感内容，你自己不要出现在画面中。4言格（9：16）你看到的画面。,images/2102777368272322758_0.jpg
-2121011713680302207,2026-11-13T06:46:13+08:00,Nano Banana 2.1,asakouhinomu,https://x.com/asakouhinomu,https://x.com/asakouhinomu/status/2121011713680302207,1,ja,post,"成功例：中の雪が沈殿して服着てないパターン
-
-←参照画像　　　　　生成画像→",images/2121011713680302207_0.jpg | images/2121011713680302207_1.jpg
 2120289288097239106,2026-11-11T06:55:34+08:00,Nano Banana 2.1,app_grove,https://x.com/app_grove,https://x.com/app_grove/status/2120289288097239106,1,ja,alt,"AppGroveの新ロゴ。ベクターで描かれた並木のイラスト下部に「AppGrove -アプリの並木-」の文字列。
 
 ———
@@ -24485,9 +24452,6 @@ John",images/2122211200599793843_0.jpg
 2118750256448045428,2026-11-07T01:00:00+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2118750256448045428,0,en,post,"A cinematic, stop-motion animation style or puppet-style scene viewed through a window pane. In the foreground, a grotesque, wide-eyed turkey with a panicked expression peers through the glass from the outside. Inside, a family of four claymation-style figures—a father, mother, young girl, and young boy—are seated around a dining table set for Thanksgiving dinner, complete with a roasted turkey and side dishes. A ""Happy Thanksgiving"" banner hangs on the wallpapered wall in the background, illuminated by warm indoor lighting, contrasting with the darker, exterior perspective of the turkey. The overall aesthetic is reminiscent of dark, whimsical puppet animation.",images/2118750256448045428_0.jpg
 2118836835455504765,2026-11-07T06:44:02+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2118836835455504765,0,en,post,"Extreme close-up, macro photography of a handcrafted wooden sculpture eye. The eye is constructed from layered, weathered wood fragments with a rough, organic texture. The iris is composed of concentric wooden circles in shades of tan and brown, featuring a dark, circular pupil with a small, reflective white highlight. The eyelids are formed from jagged, splintered pieces of bark and wood, creating a rugged, textured appearance. The surrounding skin is made of overlapping, distressed wooden panels with visible grain and earthy tones. Shallow depth of field with soft, natural lighting highlighting the intricate textures and craftsmanship of the wood.",images/2118836835455504765_0.jpg
 2119052246990356779,2026-11-07T21:00:00+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2119052246990356779,0,en,post,"Overhead aerial view of a small group of ducks gliding across a vivid blue pond, arranged in a balanced, graphic composition with delicate ripples and simple reflections. Cut-paper style illustration with layered matte paper shapes, crisp edges, subtle texture, a limited palette.",images/2119052246990356779_0.jpg
-2119256206019899672,2026-11-08T10:30:28+08:00,Nano Banana 2.1,einsburnz,https://x.com/einsburnz,https://x.com/einsburnz/status/2119256206019899672,0,en,reply,"5. qwen 3.0
-6. seedream 5.0pro
-7. chatgpt",images/2119256206019899672_0.jpg | images/2119256206019899672_1.jpg | images/2119256206019899672_2.jpg | images/2119256206019899672_3.jpg
 2120518730417688800,2026-11-11T22:07:17+08:00,Nano Banana 2.1,chuwujiuyue,https://x.com/chuwujiuyue,https://x.com/chuwujiuyue/status/2120518730417688800,0,en,post,"Photorealistic fashion editorial with the atmosphere of a winter morning in early 1990s northern China, inside an old state-run work-unit residential compound. A beautiful young Chinese woman with delicate East Asian facial features stands beside the open folding doors of an aged cream-and-red Chinese domestic city bus (a typical early-1990s Chinese urban transit bus). She holds a small bouquet of dried wildflowers wrapped in vintage brown kraft paper, gently gripping it with both hands in front of her thighs.
 
 She wears an oversized charcoal wool coat, a soft ivory knitted scarf, a dark burgundy ribbed sweater, straight dark trousers and black leather winter boots. Loose straight black hair falls naturally around her face, a few strands lifted by the freezing wind. Flushed cheeks from the cold, minimal makeup, a thoughtful expression, her gaze drifting slightly past the camera, shoulders gently raised against the chill.
@@ -24592,10 +24556,8 @@ Routes: GPT via the OpenAI API (1024x1536). Seedream 5.0 Pro via SpicyAPI, $0.03
 低めの頭身って言葉が上書きして3.5頭身くらいになります...
 
 描き方のプロンプトは以下で",images/2120793974298619980_0.jpg | images/2120793974298619980_1.jpg | images/2120793974298619980_2.jpg
-2120782624348090824,2026-11-12T15:35:54+08:00,GPT Image 2.6,ft4ht0,https://x.com/ft4ht0,https://x.com/ft4ht0/status/2120782624348090824,0,zh,post,使用已配置的身份参考 ref-10a-v1,images/2120782624348090824_0.jpg
 2120765908125876695,2026-11-12T14:29:29+08:00,GPT Image 2.6,taoartc,https://x.com/taoartc,https://x.com/taoartc/status/2120765908125876695,0,en,post,"An elaborate full-body anime fantasy illustration of an adult woman in a three-quarter side pose, her head turned left and her gaze lowered. She has pale skin, red eyes, and exceptionally",images/2120765908125876695_0.jpg
 2120751607310618768,2026-11-12T13:32:39+08:00,GPT Image 2.6,ChanJunor23588,https://x.com/ChanJunor23588,https://x.com/ChanJunor23588/status/2120751607310618768,0,en,post,"Masterful wide cinematic fashion photography, a single unbroken horizontal 16:9 image, NOT a triptych, no panel splits, no dividing lines. All three women stand and sit together in the SAME spacious modern",images/2120751607310618768_0.jpg
-2120706042413842697,2026-11-12T10:31:35+08:00,GPT Image 2.6,ft4ht0,https://x.com/ft4ht0,https://x.com/ft4ht0/status/2120706042413842697,0,zh,post,使用已配置的人像参考 ref-10a-v1,images/2120706042413842697_0.jpg
 2121953917038961111,2026-11-15T21:10:12+08:00,GPT Image 2.6,LvZongru9204,https://x.com/LvZongru9204,https://x.com/LvZongru9204/status/2121953917038961111,0,en,post,"Subject:
 An adult East Asian woman in her early twenties sits on the edge of a bed in a densely decorated bedroom, captured in warm afternoon sunlight. Her body is angled slightly toward the left of the frame, while her head turns up and to the right toward a window.
 
@@ -24792,9 +24754,6 @@ n=9",images/2120534168060989916_0.jpg | images/2120534168060989916_1.jpg | image
 それが何故か、ゾンビから逃げる絵にしてしまいました...
 
 描き方のプロンプトは以下で",images/2119672320918954075_0.jpg | images/2119672320918954075_1.jpg | images/2119672320918954075_2.jpg
-2119645628829708456,2026-11-09T12:17:53+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2119645628829708456,0,ja,post,"『心理ホラー調？』
-
-描き方のプロンプトは以下で",images/2119645628829708456_0.jpg | images/2119645628829708456_1.jpg | images/2119645628829708456_2.jpg
 2119294621348241919,2026-11-08T13:03:06+08:00,GPT Image 2.6,sada_ai,https://x.com/sada_ai,https://x.com/sada_ai/status/2119294621348241919,0,en,post,"Ensure a perfect visual match to the reference image—covering appearance, including eyes, nose, mouth, face shape, expression, attire, and physique. Retain my original facial features and natural look—from bone",images/2119294621348241919_0.jpg
 2119242732715872386,2026-11-08T09:36:55+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2119242732715872386,0,ja,post,"『表情豊かなコミカル調』
 ちょっとしたギャグマンガや4コマ向きな絵柄ですね
@@ -24813,10 +24772,6 @@ Chat GPT大丈夫？
 服装も整えず　⇒　○
 
 描き方のプロンプトは以下で",images/2118621814234779849_0.jpg | images/2118621814234779849_1.jpg
-2118613074546720998,2026-11-06T15:54:53+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2118613074546720998,0,ja,post,"『カケアミの手描き陰影』
-少し昔風の画風です
-
-描き方のプロンプトは以下で",images/2118613074546720998_0.jpg | images/2118613074546720998_1.jpg
 2118610434559451555,2026-11-06T15:44:24+08:00,GPT Image 2.6,akiba_tokyo_jp,https://x.com/akiba_tokyo_jp,https://x.com/akiba_tokyo_jp/status/2118610434559451555,0,ja,post,"『ラフで勢いのある線』
 ヤンキーとか、バトルものとか勢いのあるマンガ向きです
 
@@ -24916,9 +24871,6 @@ Which one do you think is better?",images/2118147596891901957_0.jpg | images/211
 2121995045255405598,2026-11-15T23:53:38+08:00,Nano Banana 2.1,92digitalartArt,https://x.com/92digitalartArt,https://x.com/92digitalartArt/status/2121995045255405598,0,en,post,"4 ultra-photorealistic horror prompts exploring impossible anomalies hidden within ordinary reality. Disturbing biological mutations, haunted everyday objects, unnatural wildlife and mysterious architectural phenomena. Authentic documentary photography, realistic textures, harsh flash lighting and unsettling visual details create terrifying images that feel completely real.",images/2121995045255405598_0.jpg
 2121050801691148699,2026-11-13T09:21:32+08:00,Nano Banana 2.1,anlan2020,https://x.com/anlan2020,https://x.com/anlan2020/status/2121050801691148699,0,en,post,"Cinematic 35mm film photograph of a cool East Asian female motorcyclist in her mid-20s with wavy shoulder-length black hair, wearing a fitted vintage distressed black leather biker jacket over a white ribbed tank top and dark denim jeans, leaning against a matte black and gold cafe racer motorcycle on a rainy Hong Kong rooftop parking deck at dusk. Warm amber streetlamp on the left and glowing red-cyan neon billboard bokeh in the distance. Eye-level medium-full front shot (50mm lens, 0-degree azimuth, 0-degree elevation), authentic skin texture, wet asphalt reflections, Wong Kar-wai Kodak Vision3 500T film grain aesthetic --ar 3:2",images/2121050801691148699_0.jpg | images/2121050801691148699_1.jpg | images/2121050801691148699_2.jpg | images/2121050801691148699_3.jpg
 2121030532276670705,2026-11-13T08:01:00+08:00,Nano Banana 2.1,heathergreen,https://x.com/heathergreen,https://x.com/heathergreen/status/2121030532276670705,0,en,post,"A vintage-style, two-tone illustration featuring a fluffy black cat sitting at a table against a soft warm cream background. The cat is depicted in a whimsical, anthropomorphic pose, holding a wine glass aloft with one paw while its mouth is open in a joyful, laughing expression. The artwork uses a grainy, stippled texture typical of old lithographs or woodcut prints, with bold black ink lines defining the cat's fur and features. The composition is centered, capturing a lighthearted, celebratory mood.",images/2121030532276670705_0.jpg
-2121011145528213983,2026-11-13T06:43:58+08:00,Nano Banana 2.1,asakouhinomu,https://x.com/asakouhinomu,https://x.com/asakouhinomu/status/2121011145528213983,0,ja,post,"失敗例：服を着ちゃうパターン
-
-←参照画像　　　　　生成画像→",images/2121011145528213983_0.jpg | images/2121011145528213983_1.jpg
 2120977419435667630,2026-11-13T04:29:57+08:00,Nano Banana 2.1,zencreator_io,https://x.com/zencreator_io,https://x.com/zencreator_io/status/2120977419435667630,0,en,alt,"A-frame cabin with lit windows in a snowy landscape surrounded by pine trees at twilight.
 
 ———
@@ -25069,7 +25021,6 @@ ChatGPT(今回初めて)
 GPTは何を描いてるのか分からない
 Grokは龍神様ではあるけど、彫像っぽいのと
 相変わらず描きこみ過ぎて分かりづらい",images/2119414615981572350_0.jpg | images/2119414615981572350_1.jpg | images/2119414615981572350_2.jpg
-2119324038992482477,2026-11-08T15:00:00+08:00,Nano Banana 2.1,CandyTravelight,https://x.com/CandyTravelight,https://x.com/CandyTravelight/status/2119324038992482477,0,zh,post,【主题】：立冬街角的烤红薯,images/2119324038992482477_0.jpg | images/2119324038992482477_1.jpg
 2118265629031735665,2026-11-05T16:54:16+08:00,Nano Banana 2.1,ArahitoYamada,https://x.com/ArahitoYamada,https://x.com/ArahitoYamada/status/2118265629031735665,0,en,alt,"Inside a Japanese low-floor coastal route bus driving along the sea in bright summer. A clean-cut, handsome Japanese businessman during his business trip, in his early 30s, unmarried, wearing glasses, a short-sleeved white shirt, and dark navy summer suit trousers sits awkwardly among a group of trendy 20-something Japanese gyaru girls who are at least 5 individuals. The lively girls surround him, leaning in and asking him inquisitive questions with playful expressions, while he shows a bewildered expression. His black trolley case rests on the floor around his feet. Beach rings and tote bags rest on the floor. Clear blue ocean and sunlight visible through large windows. Shot on a digital camera, crisp details, natural lighting, summer vibes.",images/2118265629031735665_0.jpg | images/2118265629031735665_1.jpg | images/2118265629031735665_2.jpg | images/2118265629031735665_3.jpg
 2117442119099158969,2026-11-03T10:21:56+08:00,Nano Banana 2.1,anlan2020,https://x.com/anlan2020,https://x.com/anlan2020/status/2117442119099158969,0,en,post,"Documentary 35mm film photography of a hardware engineer inspecting an exposed experimental edge-AI satellite sensor array inside a high-altitude desert observatory workshop. Natural harsh desert sunlight cutting through vertical slatted windows, dust",images/2117442119099158969_0.jpg
 2121986343249293536,2026-11-15T23:19:03+08:00,即梦 5.5,muzivisual,https://x.com/muzivisual,https://x.com/muzivisual/status/2121986343249293536,0,en,post,"A candid snapshot of everyday life, mimicking the optical characteristics of Fujifilm Natura 1600 ultra-high-sensitivity negative film without flash. It captures the unique coarse-grained film texture in low light, along with nostalgic, warm lighting with a",images/2121986343249293536_0.jpg | images/2121986343249293536_1.jpg | images/2121986343249293536_2.jpg | images/2121986343249293536_3.jpg

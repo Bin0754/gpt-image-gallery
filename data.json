@@ -1,7 +1,7 @@
 {
   "title": "GPT Image 2.5 提示词图库",
-  "generated_at": "2026-11-17T09:52:27+08:00",
-  "count": 1526,
+  "generated_at": "2026-11-17T10:09:15+08:00",
+  "count": 1504,
   "queries": [
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet",
     "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet",
@@ -69,47 +69,6 @@
       ],
       "model": "GPT Image 2.5",
       "model_family": "GPT Image 2.5",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2121850353436315870",
-      "url": "https://x.com/asakouhinomu/status/2121850353436315870",
-      "author": "asakouhinomu",
-      "author_name": "朝コーヒー",
-      "avatar": "https://pbs.twimg.com/profile_images/2040637837947944960/BxW-G_3g_normal.jpg",
-      "created_at_utc": "2026-11-15T06:18:40.000Z",
-      "created_at_sh": "2026-11-15 14:18",
-      "likes": 2379,
-      "reposts": 68,
-      "bookmarks": 2934,
-      "lang": "ja",
-      "text": "Nanobanana 2.1\n果汁たっぷりみかんプロンプト\n\n←参照画像　　　　　生成画像→",
-      "prompt": "←参照画像　　　　　生成画像→",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HXJTplMaAAEh-1j.jpg",
-          "w": 1024,
-          "h": 1024,
-          "media_key": "3_2121850348268814337",
-          "file": "2121850353436315870_0.jpg",
-          "thumb": "2121850353436315870_0.webp",
-          "tw": 440,
-          "th": 440
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HXJTplMaQAAHUk2.jpg",
-          "w": 1200,
-          "h": 896,
-          "media_key": "3_2121850348268830720",
-          "file": "2121850353436315870_1.jpg",
-          "thumb": "2121850353436315870_1.webp",
-          "tw": 440,
-          "th": 329
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
       "nsfw_flag": false
     },
     {
@@ -418,37 +377,6 @@
       ],
       "model": "Nano Banana 2.1",
       "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2121548897764139507",
-      "url": "https://x.com/RTJLDR/status/2121548897764139507",
-      "author": "RTJLDR",
-      "author_name": "TJ",
-      "avatar": "https://pbs.twimg.com/profile_images/2111246782491668480/UgYO8G0C_normal.jpg",
-      "created_at_utc": "2026-11-14T10:20:48.000Z",
-      "created_at_sh": "2026-11-14 18:20",
-      "likes": 414,
-      "reposts": 27,
-      "bookmarks": 168,
-      "lang": "",
-      "text": "提示词：\n\n模型SeeDream 5.0 Pro",
-      "prompt": "模型SeeDream 5.0 Pro",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HXFBdg_bYAA3RJ3.jpg",
-          "w": 675,
-          "h": 1200,
-          "media_key": "3_2121548874796195840",
-          "file": "2121548897764139507_0.jpg",
-          "thumb": "2121548897764139507_0.webp",
-          "tw": 440,
-          "th": 782
-        }
-      ],
-      "model": "即梦 5.0 Pro",
-      "model_family": "即梦 5.0 Pro",
       "nsfw_flag": false
     },
     {
@@ -17553,67 +17481,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2119779478654312642",
-      "url": "https://x.com/SethCritchley/status/2119779478654312642",
-      "author": "SethCritchley",
-      "author_name": "Super Producer Seth",
-      "avatar": "https://pbs.twimg.com/profile_images/2063093484651991041/BEV3V158_normal.jpg",
-      "created_at_utc": "2026-11-09T13:09:45.000Z",
-      "created_at_sh": "2026-11-09 21:09",
-      "likes": 41,
-      "reposts": 14,
-      "bookmarks": 4,
-      "lang": "",
-      "text": "Good Monday X fam!! 👋🏻 \n\nToday's Pop Culture Stand-In Daily Prompt Share Series Theme: Carl Sagan Day ✨️🔭\n\nModified Prompt Share based off of a recent prompt by @azed_ai you can find her original post here: \n\n➕️ Plus model comparison in the ALTs \n\nWHAT",
-      "prompt": "GPT Image 2.6 (@AIMemeCreator)",
-      "prompt_source": "alt",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWr4LS8bUAENXeh.jpg",
-          "w": 801,
-          "h": 1200,
-          "media_key": "3_2119779447578775553",
-          "file": "2119779478654312642_0.jpg",
-          "thumb": "2119779478654312642_0.webp",
-          "tw": 440,
-          "th": 659
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWr4L6SbcAAC2ZS.jpg",
-          "w": 799,
-          "h": 1200,
-          "media_key": "3_2119779458140041216",
-          "file": "2119779478654312642_1.jpg",
-          "thumb": "2119779478654312642_1.webp",
-          "tw": 440,
-          "th": 661
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWr4MWpaIAAQrTI.jpg",
-          "w": 799,
-          "h": 1200,
-          "media_key": "3_2119779465752616960",
-          "file": "2119779478654312642_2.jpg",
-          "thumb": "2119779478654312642_2.webp",
-          "tw": 440,
-          "th": 661
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWr4MwfbgAEUt76.jpg",
-          "w": 800,
-          "h": 1200,
-          "media_key": "3_2119779472690085889",
-          "file": "2119779478654312642_3.jpg",
-          "thumb": "2119779478654312642_3.webp",
-          "tw": 440,
-          "th": 660
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2109582485147517056",
       "url": "https://x.com/TheVirtualMuse/status/2109582485147517056",
       "author": "TheVirtualMuse",
@@ -33878,47 +33745,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2120524136342753725",
-      "url": "https://x.com/FromSummerF/status/2120524136342753725",
-      "author": "FromSummerF",
-      "author_name": "Eli Ha",
-      "avatar": "https://pbs.twimg.com/profile_images/2063625610933784576/epgdWAS0_normal.jpg",
-      "created_at_utc": "2026-11-11T14:28:46.000Z",
-      "created_at_sh": "2026-11-11 22:28",
-      "likes": 8,
-      "reposts": 0,
-      "bookmarks": 1,
-      "lang": "zh",
-      "text": "GPT Image 2.6\n\n左图：原提示词\n右图：明确广角仰拍，让脸更清晰、叠影留在边缘，并写清回眸和空手入镜\n\n喜欢哪种风格呢😁",
-      "prompt": "右图：明确广角仰拍，让脸更清晰、叠影留在边缘，并写清回眸和空手入镜\n\n喜欢哪种风格呢😁",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HW2cFA-a8AAViMJ.jpg",
-          "w": 803,
-          "h": 1200,
-          "media_key": "3_2120522609536462848",
-          "file": "2120524136342753725_0.jpg",
-          "thumb": "2120524136342753725_0.webp",
-          "tw": 440,
-          "th": 658
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HW2cyNJaQAEevia.jpg",
-          "w": 799,
-          "h": 1200,
-          "media_key": "3_2120523385897893889",
-          "file": "2120524136342753725_1.jpg",
-          "thumb": "2120524136342753725_1.webp",
-          "tw": 440,
-          "th": 661
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2122363062246130160",
       "url": "https://x.com/Gdgtify/status/2122363062246130160",
       "author": "Gdgtify",
@@ -35026,47 +34852,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2121010883770101863",
-      "url": "https://x.com/asakouhinomu/status/2121010883770101863",
-      "author": "asakouhinomu",
-      "author_name": "朝コーヒー",
-      "avatar": "https://pbs.twimg.com/profile_images/2040637837947944960/BxW-G_3g_normal.jpg",
-      "created_at_utc": "2026-11-12T22:42:55.000Z",
-      "created_at_sh": "2026-11-13 06:42",
-      "likes": 7,
-      "reposts": 0,
-      "bookmarks": 8,
-      "lang": "ja",
-      "text": "Nanobanana 2.1\n逆さスノーグローブマンプロンプト\n\n失敗例：中の雪が多すぎるパターン\n\n←参照画像　　　　　生成画像→",
-      "prompt": "失敗例：中の雪が多すぎるパターン\n\n←参照画像　　　　　生成画像→",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HW9YKCwbgAEjvek.jpg",
-          "w": 1024,
-          "h": 1024,
-          "media_key": "3_2121010879076728833",
-          "file": "2121010883770101863_0.jpg",
-          "thumb": "2121010883770101863_0.webp",
-          "tw": 440,
-          "th": 440
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HW9YKC6b0AEz3s0.jpg",
-          "w": 1200,
-          "h": 896,
-          "media_key": "3_2121010879118692353",
-          "file": "2121010883770101863_1.jpg",
-          "thumb": "2121010883770101863_1.webp",
-          "tw": 440,
-          "th": 329
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
       "id": "2112695107900313980",
       "url": "https://x.com/Gdgtify/status/2112695107900313980",
       "author": "Gdgtify",
@@ -35999,37 +35784,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2120341703718781355",
-      "url": "https://x.com/LvZongru9204/status/2120341703718781355",
-      "author": "LvZongru9204",
-      "author_name": "宏雷HyLan",
-      "avatar": "https://pbs.twimg.com/profile_images/2112461332075417600/lk2kmwRi_normal.jpg",
-      "created_at_utc": "2026-11-11T02:23:50.000Z",
-      "created_at_sh": "2026-11-11 10:23",
-      "likes": 6,
-      "reposts": 2,
-      "bookmarks": 1,
-      "lang": "",
-      "text": "Create here → \n✨ Let inspiration run free 🎨 Canvas Agent\n🖼️ DeepSeek × GPT Image 2.6 image gen \n🚀 Start creating free\n\nExtreme low angle, hard flash, gothic maid cosplay in a narrow dark room.\n\n👉 Prompt \nUltra-photorealistic RAW photography,",
-      "prompt": "Ultra-photorealistic RAW photography,",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWz3cr1aIAAiXl7.jpg",
-          "w": 800,
-          "h": 1200,
-          "media_key": "3_2120341596759793664",
-          "file": "2120341703718781355_0.jpg",
-          "thumb": "2120341703718781355_0.webp",
-          "tw": 440,
-          "th": 660
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2119364402650747079",
       "url": "https://x.com/DeepBlueX0/status/2119364402650747079",
       "author": "DeepBlueX0",
@@ -36431,47 +36185,6 @@
           "thumb": "2121785508523319654_1.webp",
           "tw": 440,
           "th": 329
-        }
-      ],
-      "model": "即梦 5.5",
-      "model_family": "即梦 5.5",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2121343792133366180",
-      "url": "https://x.com/greghunkins/status/2121343792133366180",
-      "author": "greghunkins",
-      "author_name": "Greg Hunkins",
-      "avatar": "https://pbs.twimg.com/profile_images/2097355093980983296/P9SMqssV_normal.jpg",
-      "created_at_utc": "2026-11-13T20:45:47.000Z",
-      "created_at_sh": "2026-11-14 04:45",
-      "likes": 6,
-      "reposts": 3,
-      "bookmarks": 2,
-      "lang": "en",
-      "text": "Fix your prompt\n\nSeedream 5.5 on",
-      "prompt": "Seedream 5.5 on",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HXCGqcWWAAAwEOI.jpg",
-          "w": 820,
-          "h": 1200,
-          "media_key": "3_2121343488214040576",
-          "file": "2121343792133366180_0.jpg",
-          "thumb": "2121343792133366180_0.webp",
-          "tw": 440,
-          "th": 644
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HXCGsspX0AADe4w.jpg",
-          "w": 820,
-          "h": 1200,
-          "media_key": "3_2121343526948556800",
-          "file": "2121343792133366180_1.jpg",
-          "thumb": "2121343792133366180_1.webp",
-          "tw": 440,
-          "th": 644
         }
       ],
       "model": "即梦 5.5",
@@ -40981,47 +40694,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2116199841873436785",
-      "url": "https://x.com/asakouhinomu/status/2116199841873436785",
-      "author": "asakouhinomu",
-      "author_name": "朝コーヒー",
-      "avatar": "https://pbs.twimg.com/profile_images/2040637837947944960/BxW-G_3g_normal.jpg",
-      "created_at_utc": "2026-10-30T16:05:34.000Z",
-      "created_at_sh": "2026-10-31 00:05",
-      "likes": 3,
-      "reposts": 0,
-      "bookmarks": 3,
-      "lang": "",
-      "text": "Nanobanana 2.1\n蓄光魔女プロンプト\n\n←参照画像　　　　　生成画像→\n※お借りしました↓",
-      "prompt": "←参照画像　　　　　生成画像→\n※お借りしました↓",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HV5AikwboAA2ym8.jpg",
-          "w": 675,
-          "h": 1200,
-          "media_key": "3_2116199837637255168",
-          "file": "2116199841873436785_0.jpg",
-          "thumb": "2116199841873436785_0.webp",
-          "tw": 440,
-          "th": 782
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HV5Aik6a0AAPWqp.jpg",
-          "w": 1200,
-          "h": 896,
-          "media_key": "3_2116199837679144960",
-          "file": "2116199841873436785_1.jpg",
-          "thumb": "2116199841873436785_1.webp",
-          "tw": 440,
-          "th": 329
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
       "id": "2115247182060380565",
       "url": "https://x.com/heathergreen/status/2115247182060380565",
       "author": "heathergreen",
@@ -43552,78 +43224,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2119607888591438246",
-      "url": "https://x.com/youci290897/status/2119607888591438246",
-      "author": "youci290897",
-      "author_name": "鱼酥",
-      "avatar": "https://pbs.twimg.com/profile_images/2121196117769736193/OmV0t_Pk_normal.jpg",
-      "created_at_utc": "2026-11-09T01:47:55.000Z",
-      "created_at_sh": "2026-11-09 09:47",
-      "likes": 2,
-      "reposts": 0,
-      "bookmarks": 5,
-      "lang": "",
-      "text": "提示词来源：\n\n\n🎁 **新用户注册即送：**\n- ✅ 5 次 GPT Image 2.6 图片生成 / 编辑体验\n- ✅ DeepSeek V4.1 Flash 免费体验金\n\n提示词：\n【基础设定】\n\n风格：高精度半写实动漫角色设计 +",
-      "prompt": "【基础设定】\n\n风格：高精度半写实动漫角色设计 +",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWpb2qjaYAATITi.jpg",
-          "w": 1200,
-          "h": 675,
-          "media_key": "3_2119607569325121536",
-          "file": "2119607888591438246_0.jpg",
-          "thumb": "2119607888591438246_0.webp",
-          "tw": 440,
-          "th": 247
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2118850710200783272",
-      "url": "https://x.com/akiba_tokyo_jp/status/2118850710200783272",
-      "author": "akiba_tokyo_jp",
-      "author_name": "Hakuei",
-      "avatar": "https://pbs.twimg.com/profile_images/2089160313484787712/ORfBRQOX_normal.jpg",
-      "created_at_utc": "2026-11-06T23:39:10.000Z",
-      "created_at_sh": "2026-11-07 07:39",
-      "likes": 2,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "ja",
-      "text": "Chat GPT Image 2.6でのAI漫画プロンプト\n\n『新聞まんが風の簡潔な線』\nわざと簡素にした感じ\n\n描き方のプロンプトは以下で",
-      "prompt": "『新聞まんが風の簡潔な線』\nわざと簡素にした感じ\n\n描き方のプロンプトは以下で",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWerfU1boAAtqt7.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2118850704358219776",
-          "file": "2118850710200783272_0.jpg",
-          "thumb": "2118850710200783272_0.webp",
-          "tw": 440,
-          "th": 293
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWerfU3asAAec3O.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2118850704366546944",
-          "file": "2118850710200783272_1.jpg",
-          "thumb": "2118850710200783272_1.webp",
-          "tw": 440,
-          "th": 293
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2118629204241850406",
       "url": "https://x.com/DataEyesAI/status/2118629204241850406",
       "author": "DataEyesAI",
@@ -43912,37 +43512,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2111744107248771443",
-      "url": "https://x.com/heathergreen/status/2111744107248771443",
-      "author": "heathergreen",
-      "author_name": "Heather Green",
-      "avatar": "https://pbs.twimg.com/profile_images/2032462845577687040/U752VnI__normal.jpg",
-      "created_at_utc": "2026-10-18T09:00:04.000Z",
-      "created_at_sh": "2026-10-18 17:00",
-      "likes": 2,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "",
-      "text": "🧠🍅 ADHDers, gather 'round.\nThe brain has 47 tabs open, three are playing music, and nobody knows where it's coming from.\nIt's time to disassociate. 😂🥣\nPrompt below! 👇\n#promptshare with Nano Banana 2.1 and generated with @magnific \nPROMPT: the text \"Two Four Six Eight Time To",
-      "prompt": "the text \"Two Four Six Eight Time To",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HUqvz1SXAAEhW4I.jpg",
-          "w": 966,
-          "h": 1200,
-          "media_key": "3_2110692680388771841",
-          "file": "2111744107248771443_0.jpg",
-          "thumb": "2111744107248771443_0.webp",
-          "tw": 440,
-          "th": 547
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
       "id": "2111623304293269696",
       "url": "https://x.com/heathergreen/status/2111623304293269696",
       "author": "heathergreen",
@@ -44163,37 +43732,6 @@
           "thumb": "2119866063081111581_1.webp",
           "tw": 440,
           "th": 463
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2117702991667249456",
-      "url": "https://x.com/Brothershade/status/2117702991667249456",
-      "author": "Brothershade",
-      "author_name": "Paul Bosen",
-      "avatar": "https://pbs.twimg.com/profile_images/1872678399627448322/waA2bi3p_normal.jpg",
-      "created_at_utc": "2026-11-03T19:38:32.000Z",
-      "created_at_sh": "2026-11-04 03:38",
-      "likes": 2,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "",
-      "text": "@AllaAisling One Word Prompt: Surprise\nSelfie w/Nano Banana 2.1",
-      "prompt": "Surprise\nSelfie w/Nano Banana 2.1",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWOXThiWAAEAfJp.jpg",
-          "w": 1200,
-          "h": 896,
-          "media_key": "3_2117702611469991937",
-          "file": "2117702991667249456_0.jpg",
-          "thumb": "2117702991667249456_0.webp",
-          "tw": 440,
-          "th": 329
         }
       ],
       "model": "Nano Banana 2.1",
@@ -48865,67 +48403,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2119237205357150550",
-      "url": "https://x.com/akiba_tokyo_jp/status/2119237205357150550",
-      "author": "akiba_tokyo_jp",
-      "author_name": "Hakuei",
-      "avatar": "https://pbs.twimg.com/profile_images/2089160313484787712/ORfBRQOX_normal.jpg",
-      "created_at_utc": "2026-11-08T01:14:57.000Z",
-      "created_at_sh": "2026-11-08 09:14",
-      "likes": 1,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "",
-      "text": "Chat GPT Image 2.6でのAI漫画プロンプト\n\n『余白の多い静かな絵』\nこちらも可愛い絵柄\n\n描き方のプロンプトは以下で",
-      "prompt": "『余白の多い静かな絵』\nこちらも可愛い絵柄\n\n描き方のプロンプトは以下で",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWkLAVIbsAAH_8P.jpg",
-          "w": 800,
-          "h": 1200,
-          "media_key": "3_2119237199954948096",
-          "file": "2119237205357150550_0.jpg",
-          "thumb": "2119237205357150550_0.webp",
-          "tw": 440,
-          "th": 660
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWkLAVXacAAq76V.jpg",
-          "w": 800,
-          "h": 1200,
-          "media_key": "3_2119237200017780736",
-          "file": "2119237205357150550_1.jpg",
-          "thumb": "2119237205357150550_1.webp",
-          "tw": 440,
-          "th": 660
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWkLAVGaAAA5Vm1.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2119237199946448896",
-          "file": "2119237205357150550_2.jpg",
-          "thumb": "2119237205357150550_2.webp",
-          "tw": 440,
-          "th": 293
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWkLAVIawAAFFFm.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2119237199954886656",
-          "file": "2119237205357150550_3.jpg",
-          "thumb": "2119237205357150550_3.webp",
-          "tw": 440,
-          "th": 293
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2119229683023970737",
       "url": "https://x.com/akiba_tokyo_jp/status/2119229683023970737",
       "author": "akiba_tokyo_jp",
@@ -49011,67 +48488,6 @@
           "thumb": "2119008121196884364_0.webp",
           "tw": 440,
           "th": 782
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2118958115534344703",
-      "url": "https://x.com/akiba_tokyo_jp/status/2118958115534344703",
-      "author": "akiba_tokyo_jp",
-      "author_name": "Hakuei",
-      "avatar": "https://pbs.twimg.com/profile_images/2089160313484787712/ORfBRQOX_normal.jpg",
-      "created_at_utc": "2026-11-07T06:45:57.000Z",
-      "created_at_sh": "2026-11-07 14:45",
-      "likes": 1,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "ja",
-      "text": "Chat GPT Image 2.6でのAI漫画プロンプト\n\n『ラフで勢いのある線』\n\n描き方のプロンプトは以下で",
-      "prompt": "『ラフで勢いのある線』\n\n描き方のプロンプトは以下で",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWgMgysaIAAcHjo.jpg",
-          "w": 847,
-          "h": 1200,
-          "media_key": "3_2118957382181199872",
-          "file": "2118958115534344703_0.jpg",
-          "thumb": "2118958115534344703_0.webp",
-          "tw": 440,
-          "th": 623
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWgMieFa4AAfXT4.jpg",
-          "w": 1096,
-          "h": 1200,
-          "media_key": "3_2118957411008700416",
-          "file": "2118958115534344703_1.jpg",
-          "thumb": "2118958115534344703_1.webp",
-          "tw": 440,
-          "th": 482
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWgMieTbEAAXlA2.jpg",
-          "w": 900,
-          "h": 1200,
-          "media_key": "3_2118957411067432960",
-          "file": "2118958115534344703_2.jpg",
-          "thumb": "2118958115534344703_2.webp",
-          "tw": 440,
-          "th": 587
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWgMieSbYAAUvsI.jpg",
-          "w": 900,
-          "h": 1200,
-          "media_key": "3_2118957411063259136",
-          "file": "2118958115534344703_3.jpg",
-          "thumb": "2118958115534344703_3.webp",
-          "tw": 440,
-          "th": 587
         }
       ],
       "model": "GPT Image 2.6",
@@ -49364,47 +48780,6 @@
       ],
       "model": "Grok Image 2",
       "model_family": "Grok Image 2",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2121011713680302207",
-      "url": "https://x.com/asakouhinomu/status/2121011713680302207",
-      "author": "asakouhinomu",
-      "author_name": "朝コーヒー",
-      "avatar": "https://pbs.twimg.com/profile_images/2040637837947944960/BxW-G_3g_normal.jpg",
-      "created_at_utc": "2026-11-12T22:46:13.000Z",
-      "created_at_sh": "2026-11-13 06:46",
-      "likes": 1,
-      "reposts": 0,
-      "bookmarks": 2,
-      "lang": "ja",
-      "text": "Nanobanana 2.1\n逆さスノーグローブマンプロンプト\n\n成功例：中の雪が沈殿して服着てないパターン\n\n←参照画像　　　　　生成画像→",
-      "prompt": "成功例：中の雪が沈殿して服着てないパターン\n\n←参照画像　　　　　生成画像→",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HW9Y6XXa0AA3UEU.jpg",
-          "w": 1024,
-          "h": 1024,
-          "media_key": "3_2121011709242691584",
-          "file": "2121011713680302207_0.jpg",
-          "thumb": "2121011713680302207_0.webp",
-          "tw": 440,
-          "th": 440
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HW9Y6XPbwAAw_V1.jpg",
-          "w": 1200,
-          "h": 896,
-          "media_key": "3_2121011709209198592",
-          "file": "2121011713680302207_1.jpg",
-          "thumb": "2121011713680302207_1.webp",
-          "tw": 440,
-          "th": 329
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
       "nsfw_flag": false
     },
     {
@@ -60099,67 +59474,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2119256206019899672",
-      "url": "https://x.com/einsburnz/status/2119256206019899672",
-      "author": "einsburnz",
-      "author_name": "S10 AI Studio",
-      "avatar": "https://pbs.twimg.com/profile_images/2109989364482883585/Xb-Vtr87_normal.jpg",
-      "created_at_utc": "2026-11-08T02:30:28.000Z",
-      "created_at_sh": "2026-11-08 10:30",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "en",
-      "text": "Try the same prompt with different AI image generator.\n1. nano banana2.1\n2. grok imagine\n3. agnes 2.5\n4. wan2.7pro\n\nA 23-year-old Japanese woman wearing a well-fitting white strapless home dress. She was raising her hands to tie her hair into a ponytail, making her chest lines straighten naturally and stretching her waist slightly. The bright sun shines in from the side in the morning, full of a lazy feeling of life and does not expose sensitive parts. --ar 3:4",
-      "prompt": "5. qwen 3.0\n6. seedream 5.0pro\n7. chatgpt",
-      "prompt_source": "reply",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWkcQt3b0AAkpuV.jpg",
-          "w": 896,
-          "h": 1200,
-          "media_key": "3_2119256173170118656",
-          "file": "2119256206019899672_0.jpg",
-          "thumb": "2119256206019899672_0.webp",
-          "tw": 440,
-          "th": 589
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWkcRQWbMAA3Pga.jpg",
-          "w": 720,
-          "h": 1080,
-          "media_key": "3_2119256182426906624",
-          "file": "2119256206019899672_1.jpg",
-          "thumb": "2119256206019899672_1.webp",
-          "tw": 440,
-          "th": 660
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWkcRsEbEAAJaZF.jpg",
-          "w": 809,
-          "h": 1080,
-          "media_key": "3_2119256189867593728",
-          "file": "2119256206019899672_2.jpg",
-          "thumb": "2119256206019899672_2.webp",
-          "tw": 440,
-          "th": 587
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWkcSJDakAAwXG8.jpg",
-          "w": 500,
-          "h": 667,
-          "media_key": "3_2119256197647994880",
-          "file": "2119256206019899672_3.jpg",
-          "thumb": "2119256206019899672_3.webp",
-          "tw": 440,
-          "th": 587
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
       "id": "2120518730417688800",
       "url": "https://x.com/chuwujiuyue/status/2120518730417688800",
       "author": "chuwujiuyue",
@@ -60458,37 +59772,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2120782624348090824",
-      "url": "https://x.com/ft4ht0/status/2120782624348090824",
-      "author": "ft4ht0",
-      "author_name": "达华",
-      "avatar": "https://pbs.twimg.com/profile_images/2117501594279477248/FzqhOjMg_normal.jpg",
-      "created_at_utc": "2026-11-12T07:35:54.000Z",
-      "created_at_sh": "2026-11-12 15:35",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "",
-      "text": "提示词来源：\n\n🎁 **新用户注册即送：**\n- ✅ 5 次 GPT Image 2.6 图片生成 / 编辑体验\n- ✅ DeepSeek V4.1 Flash 免费体验金\n\n提示词：\n使用已配置的身份参考 ref-10a-v1",
-      "prompt": "使用已配置的身份参考 ref-10a-v1",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HW6IhMsaoAAsz_k.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2120782578462662656",
-          "file": "2120782624348090824_0.jpg",
-          "thumb": "2120782624348090824_0.webp",
-          "tw": 440,
-          "th": 293
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2120765908125876695",
       "url": "https://x.com/taoartc/status/2120765908125876695",
       "author": "taoartc",
@@ -60544,37 +59827,6 @@
           "thumb": "2120751607310618768_0.webp",
           "tw": 440,
           "th": 293
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2120706042413842697",
-      "url": "https://x.com/ft4ht0/status/2120706042413842697",
-      "author": "ft4ht0",
-      "author_name": "达华",
-      "avatar": "https://pbs.twimg.com/profile_images/2117501594279477248/FzqhOjMg_normal.jpg",
-      "created_at_utc": "2026-11-12T02:31:35.000Z",
-      "created_at_sh": "2026-11-12 10:31",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "",
-      "text": "提示词来源：\n\n🎁 **新用户注册即送：**\n- ✅ 5 次 GPT Image 2.6 图片生成 / 编辑体验\n- ✅ DeepSeek V4.1 Flash 免费体验金\n\n提示词：\n使用已配置的人像参考 ref-10a-v1",
-      "prompt": "使用已配置的人像参考 ref-10a-v1",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HW5C5apaUAAmiax.jpg",
-          "w": 1200,
-          "h": 1096,
-          "media_key": "3_2120706028711071744",
-          "file": "2120706042413842697_0.jpg",
-          "thumb": "2120706042413842697_0.webp",
-          "tw": 440,
-          "th": 402
         }
       ],
       "model": "GPT Image 2.6",
@@ -61260,57 +60512,6 @@
       "nsfw_flag": false
     },
     {
-      "id": "2119645628829708456",
-      "url": "https://x.com/akiba_tokyo_jp/status/2119645628829708456",
-      "author": "akiba_tokyo_jp",
-      "author_name": "Hakuei",
-      "avatar": "https://pbs.twimg.com/profile_images/2089160313484787712/ORfBRQOX_normal.jpg",
-      "created_at_utc": "2026-11-09T04:17:53.000Z",
-      "created_at_sh": "2026-11-09 12:17",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "",
-      "text": "Chat GPT Image 2.6でのAI漫画プロンプト\n\n『心理ホラー調？』\n\n描き方のプロンプトは以下で",
-      "prompt": "『心理ホラー調？』\n\n描き方のプロンプトは以下で",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWp9TgXagAAq4SH.jpg",
-          "w": 800,
-          "h": 1200,
-          "media_key": "3_2119644348690366464",
-          "file": "2119645628829708456_0.jpg",
-          "thumb": "2119645628829708456_0.webp",
-          "tw": 440,
-          "th": 660
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWp9YpZacAEV1Sv.jpg",
-          "w": 960,
-          "h": 1200,
-          "media_key": "3_2119644437014016001",
-          "file": "2119645628829708456_1.jpg",
-          "thumb": "2119645628829708456_1.webp",
-          "tw": 440,
-          "th": 550
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWp9YpoagAA-5B3.jpg",
-          "w": 960,
-          "h": 1200,
-          "media_key": "3_2119644437076934656",
-          "file": "2119645628829708456_2.jpg",
-          "thumb": "2119645628829708456_2.webp",
-          "tw": 440,
-          "th": 550
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
       "id": "2119294621348241919",
       "url": "https://x.com/sada_ai/status/2119294621348241919",
       "author": "sada_ai",
@@ -61509,47 +60710,6 @@
           "thumb": "2118621814234779849_1.webp",
           "tw": 440,
           "th": 660
-        }
-      ],
-      "model": "GPT Image 2.6",
-      "model_family": "GPT Image 2.6",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2118613074546720998",
-      "url": "https://x.com/akiba_tokyo_jp/status/2118613074546720998",
-      "author": "akiba_tokyo_jp",
-      "author_name": "Hakuei",
-      "avatar": "https://pbs.twimg.com/profile_images/2089160313484787712/ORfBRQOX_normal.jpg",
-      "created_at_utc": "2026-11-06T07:54:53.000Z",
-      "created_at_sh": "2026-11-06 15:54",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "ja",
-      "text": "Chat GPT Image 2.6でのAI漫画プロンプト\n\n『カケアミの手描き陰影』\n少し昔風の画風です\n\n描き方のプロンプトは以下で",
-      "prompt": "『カケアミの手描き陰影』\n少し昔風の画風です\n\n描き方のプロンプトは以下で",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWbS2VzaIAA9PR8.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2118612505731932160",
-          "file": "2118613074546720998_0.jpg",
-          "thumb": "2118613074546720998_0.webp",
-          "tw": 440,
-          "th": 293
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWbS2V0bMAEfINN.jpg",
-          "w": 1200,
-          "h": 800,
-          "media_key": "3_2118612505736196097",
-          "file": "2118613074546720998_1.jpg",
-          "thumb": "2118613074546720998_1.webp",
-          "tw": 440,
-          "th": 293
         }
       ],
       "model": "GPT Image 2.6",
@@ -62319,47 +61479,6 @@
           "thumb": "2121030532276670705_0.webp",
           "tw": 440,
           "th": 547
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2121011145528213983",
-      "url": "https://x.com/asakouhinomu/status/2121011145528213983",
-      "author": "asakouhinomu",
-      "author_name": "朝コーヒー",
-      "avatar": "https://pbs.twimg.com/profile_images/2040637837947944960/BxW-G_3g_normal.jpg",
-      "created_at_utc": "2026-11-12T22:43:58.000Z",
-      "created_at_sh": "2026-11-13 06:43",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 0,
-      "lang": "ja",
-      "text": "Nanobanana 2.1\n逆さスノーグローブマンプロンプト\n\n失敗例：服を着ちゃうパターン\n\n←参照画像　　　　　生成画像→",
-      "prompt": "失敗例：服を着ちゃうパターン\n\n←参照画像　　　　　生成画像→",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HW9YZSkasAAXUvN.jpg",
-          "w": 800,
-          "h": 1200,
-          "media_key": "3_2121011141019348992",
-          "file": "2121011145528213983_0.jpg",
-          "thumb": "2121011145528213983_0.webp",
-          "tw": 440,
-          "th": 660
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HW9YZSZbYAAs_ob.jpg",
-          "w": 1200,
-          "h": 896,
-          "media_key": "3_2121011140973256704",
-          "file": "2121011145528213983_1.jpg",
-          "thumb": "2121011145528213983_1.webp",
-          "tw": 440,
-          "th": 329
         }
       ],
       "model": "Nano Banana 2.1",
@@ -63274,47 +62393,6 @@
           "thumb": "2119414615981572350_2.webp",
           "tw": 440,
           "th": 587
-        }
-      ],
-      "model": "Nano Banana 2.1",
-      "model_family": "Nano Banana 2.1",
-      "nsfw_flag": false
-    },
-    {
-      "id": "2119324038992482477",
-      "url": "https://x.com/CandyTravelight/status/2119324038992482477",
-      "author": "CandyTravelight",
-      "author_name": "Candy",
-      "avatar": "https://pbs.twimg.com/profile_images/2094401041538428928/7c-AxbUE_normal.jpg",
-      "created_at_utc": "2026-11-08T07:00:00.000Z",
-      "created_at_sh": "2026-11-08 15:00",
-      "likes": 0,
-      "reposts": 0,
-      "bookmarks": 1,
-      "lang": "",
-      "text": "送你一套能直接复制的「手绘人物×现实物体」虚实结合海报模板，只改前6行就能出图。\n同一段提示词，左边GPT，右边Gemini（Nano Banana 2.1），立冬街角的一颗烤红薯成了小孩掌心前的一小团太阳。\n你选左还是右？\n\n提示词：\n【主题】：立冬街角的烤红薯",
-      "prompt": "【主题】：立冬街角的烤红薯",
-      "prompt_source": "post",
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/media/HWlOpXJXoAESKHB.jpg",
-          "w": 675,
-          "h": 1199,
-          "media_key": "3_2119311572149444609",
-          "file": "2119324038992482477_0.jpg",
-          "thumb": "2119324038992482477_0.webp",
-          "tw": 440,
-          "th": 782
-        },
-        {
-          "url": "https://pbs.twimg.com/media/HWlOdAkWoAE9FHe.jpg",
-          "w": 669,
-          "h": 1200,
-          "media_key": "3_2119311359930179585",
-          "file": "2119324038992482477_1.jpg",
-          "thumb": "2119324038992482477_1.webp",
-          "tw": 440,
-          "th": 789
         }
       ],
       "model": "Nano Banana 2.1",

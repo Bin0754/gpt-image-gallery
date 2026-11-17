@@ -2,16 +2,16 @@
   "name": "GPT Image 2.5 提示词图库 / GPT Image 2.5 Prompt Gallery",
   "models": {
     "GPT Image 2.5": 1056,
-    "Nano Banana 2.1": 232,
-    "即梦 5.0 Pro": 8,
-    "GPT Image 2.6": 194,
-    "即梦 5.5": 23,
+    "Nano Banana 2.1": 223,
+    "GPT Image 2.6": 183,
+    "即梦 5.5": 22,
+    "即梦 5.0 Pro": 7,
     "Grok Image 2": 13
   },
   "homepage": "https://bin0754.github.io/gpt-image-gallery/",
   "repository": "https://github.com/Bin0754/gpt-image-gallery",
-  "generated_at": "2026-11-17T09:52:27+08:00",
-  "count": 1526,
+  "generated_at": "2026-11-17T10:09:15+08:00",
+  "count": 1504,
   "license": "Code: MIT. Images and prompts belong to their original authors on X; each record links to the original post.",
   "fields": {
     "id": "X post id",
@@ -41,22 +41,6 @@
         "images/2099481521983995971_0.jpg",
         "images/2099481521983995971_1.jpg",
         "images/2099481521983995971_2.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2121850353436315870",
-      "model": "Nano Banana 2.1",
-      "prompt": "←参照画像　　　　　生成画像→",
-      "author": "asakouhinomu",
-      "author_url": "https://x.com/asakouhinomu",
-      "post_url": "https://x.com/asakouhinomu/status/2121850353436315870",
-      "date": "2026-11-15T14:18:40+08:00",
-      "likes": 2379,
-      "language": "ja",
-      "images": [
-        "images/2121850353436315870_0.jpg",
-        "images/2121850353436315870_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -183,21 +167,6 @@
       "images": [
         "images/2110581440085987751_0.jpg",
         "images/2110581440085987751_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2121548897764139507",
-      "model": "即梦 5.0 Pro",
-      "prompt": "模型SeeDream 5.0 Pro",
-      "author": "RTJLDR",
-      "author_url": "https://x.com/RTJLDR",
-      "post_url": "https://x.com/RTJLDR/status/2121548897764139507",
-      "date": "2026-11-14T18:20:48+08:00",
-      "likes": 414,
-      "language": "zh",
-      "images": [
-        "images/2121548897764139507_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -6565,24 +6534,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119779478654312642",
-      "model": "GPT Image 2.6",
-      "prompt": "GPT Image 2.6 (@AIMemeCreator)",
-      "author": "SethCritchley",
-      "author_url": "https://x.com/SethCritchley",
-      "post_url": "https://x.com/SethCritchley/status/2119779478654312642",
-      "date": "2026-11-09T21:09:45+08:00",
-      "likes": 41,
-      "language": "en",
-      "images": [
-        "images/2119779478654312642_0.jpg",
-        "images/2119779478654312642_1.jpg",
-        "images/2119779478654312642_2.jpg",
-        "images/2119779478654312642_3.jpg"
-      ],
-      "prompt_source": "alt"
-    },
-    {
       "id": "2109582485147517056",
       "model": "GPT Image 2.5",
       "prompt": "Use my uploaded photo as the face reference. 3:4 vertical. An iOS share sheet on a light grey background: top left reads \"1 Photo\nSelected\" with an \"Options >\" pill below it, a round X close button top right, then a horizontal carousel of three",
@@ -12898,22 +12849,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2120524136342753725",
-      "model": "GPT Image 2.6",
-      "prompt": "右图：明确广角仰拍，让脸更清晰、叠影留在边缘，并写清回眸和空手入镜\n\n喜欢哪种风格呢😁",
-      "author": "FromSummerF",
-      "author_url": "https://x.com/FromSummerF",
-      "post_url": "https://x.com/FromSummerF/status/2120524136342753725",
-      "date": "2026-11-11T22:28:46+08:00",
-      "likes": 8,
-      "language": "zh",
-      "images": [
-        "images/2120524136342753725_0.jpg",
-        "images/2120524136342753725_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2122363062246130160",
       "model": "Nano Banana 2.1",
       "prompt": "2x2 grid, 16:9, do this for shinigami mangas:{\n  \"Aesthetic\": \"Modern Bauhaus Vector, Luxury Editorial Minimalism\",\n  \"Subject\": \"[SUBJECT]\",\n  \"Color_Theme\": \"[PALETTE]\",\n  \"AI_Semantic_Inference\": {\n    \"Abstraction_Level\": \"High. Reduce [Subject] to <15 geometric shapes.\",\n    \"Facial_Detail\": \"None. Suggest head/pose solely through negative space and hair/hat silhouettes.\",\n    \"Pattern_Accents\": \"Minimalist geometric dots or radiating dashes confined strictly to one or two shapes.\"\n  },\n  \"Constraints\": [\n    \"No drop shadows\",\n    \"No sketchy textures\",\n    \"Silky-smooth vector gradients juxtaposed with solid black/white fills\"\n  ]\n}",
@@ -13346,22 +13281,6 @@
       "prompt_source": "alt"
     },
     {
-      "id": "2121010883770101863",
-      "model": "Nano Banana 2.1",
-      "prompt": "失敗例：中の雪が多すぎるパターン\n\n←参照画像　　　　　生成画像→",
-      "author": "asakouhinomu",
-      "author_url": "https://x.com/asakouhinomu",
-      "post_url": "https://x.com/asakouhinomu/status/2121010883770101863",
-      "date": "2026-11-13T06:42:55+08:00",
-      "likes": 7,
-      "language": "ja",
-      "images": [
-        "images/2121010883770101863_0.jpg",
-        "images/2121010883770101863_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2112695107900313980",
       "model": "Nano Banana 2.1",
       "prompt": "2x2 grid, 16:9, do this for underrated manga  that most people don't know about: SELECT * FROM Macro_PopUp_Comics\nWHERE franchise = '[COMIC_SERIES]'\nAND publication_era = '[YEAR]'",
@@ -13717,21 +13636,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2120341703718781355",
-      "model": "GPT Image 2.6",
-      "prompt": "Ultra-photorealistic RAW photography,",
-      "author": "LvZongru9204",
-      "author_url": "https://x.com/LvZongru9204",
-      "post_url": "https://x.com/LvZongru9204/status/2120341703718781355",
-      "date": "2026-11-11T10:23:50+08:00",
-      "likes": 6,
-      "language": "en",
-      "images": [
-        "images/2120341703718781355_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2119364402650747079",
       "model": "GPT Image 2.6",
       "prompt": "經典動漫遊戲成年女性角色 × 《鐵甲小寶》中野美樹經典女警制服 × 真人COS × iPhone真實抓拍 × 角色身份反差。\n\n【角色真人化】\n\n每張獨立選擇一位具有鮮明辨識度的經典動漫或遊戲成年女性角色，轉譯為二十多歲的成年真人COSER。",
@@ -13864,22 +13768,6 @@
       "images": [
         "images/2121785508523319654_0.jpg",
         "images/2121785508523319654_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2121343792133366180",
-      "model": "即梦 5.5",
-      "prompt": "Seedream 5.5 on",
-      "author": "greghunkins",
-      "author_url": "https://x.com/greghunkins",
-      "post_url": "https://x.com/greghunkins/status/2121343792133366180",
-      "date": "2026-11-14T04:45:47+08:00",
-      "likes": 6,
-      "language": "en",
-      "images": [
-        "images/2121343792133366180_0.jpg",
-        "images/2121343792133366180_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -15548,22 +15436,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2116199841873436785",
-      "model": "Nano Banana 2.1",
-      "prompt": "←参照画像　　　　　生成画像→\n※お借りしました↓",
-      "author": "asakouhinomu",
-      "author_url": "https://x.com/asakouhinomu",
-      "post_url": "https://x.com/asakouhinomu/status/2116199841873436785",
-      "date": "2026-10-31T00:05:34+08:00",
-      "likes": 3,
-      "language": "ja",
-      "images": [
-        "images/2116199841873436785_0.jpg",
-        "images/2116199841873436785_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2115247182060380565",
       "model": "Nano Banana 2.1",
       "prompt": "A richly layered autumn flat-lay arrangement viewed directly from above, featuring miniature orange pumpkins, golden-yellow flowers, burnt-orange chrysanthemums, deep burgundy maple leaves, rusty red foliage,",
@@ -16531,37 +16403,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119607888591438246",
-      "model": "GPT Image 2.6",
-      "prompt": "【基础设定】\n\n风格：高精度半写实动漫角色设计 +",
-      "author": "youci290897",
-      "author_url": "https://x.com/youci290897",
-      "post_url": "https://x.com/youci290897/status/2119607888591438246",
-      "date": "2026-11-09T09:47:55+08:00",
-      "likes": 2,
-      "language": "zh",
-      "images": [
-        "images/2119607888591438246_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2118850710200783272",
-      "model": "GPT Image 2.6",
-      "prompt": "『新聞まんが風の簡潔な線』\nわざと簡素にした感じ\n\n描き方のプロンプトは以下で",
-      "author": "akiba_tokyo_jp",
-      "author_url": "https://x.com/akiba_tokyo_jp",
-      "post_url": "https://x.com/akiba_tokyo_jp/status/2118850710200783272",
-      "date": "2026-11-07T07:39:10+08:00",
-      "likes": 2,
-      "language": "ja",
-      "images": [
-        "images/2118850710200783272_0.jpg",
-        "images/2118850710200783272_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2118629204241850406",
       "model": "GPT Image 2.6",
       "prompt": "📐 Direct SVG vector export\n🎯 Sharp, consistent multi-turn edits\n\nStart free：",
@@ -16686,21 +16527,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2111744107248771443",
-      "model": "Nano Banana 2.1",
-      "prompt": "the text \"Two Four Six Eight Time To",
-      "author": "heathergreen",
-      "author_url": "https://x.com/heathergreen",
-      "post_url": "https://x.com/heathergreen/status/2111744107248771443",
-      "date": "2026-10-18T17:00:04+08:00",
-      "likes": 2,
-      "language": "en",
-      "images": [
-        "images/2111744107248771443_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2111623304293269696",
       "model": "Nano Banana 2.1",
       "prompt": "Create an original 1950s vintage comic-book illustration of a smug black cat that has taken over its witch's job.",
@@ -16803,21 +16629,6 @@
       "images": [
         "images/2119866063081111581_0.jpg",
         "images/2119866063081111581_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2117702991667249456",
-      "model": "Nano Banana 2.1",
-      "prompt": "Surprise\nSelfie w/Nano Banana 2.1",
-      "author": "Brothershade",
-      "author_url": "https://x.com/Brothershade",
-      "post_url": "https://x.com/Brothershade/status/2117702991667249456",
-      "date": "2026-11-04T03:38:32+08:00",
-      "likes": 2,
-      "language": "en",
-      "images": [
-        "images/2117702991667249456_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -18526,24 +18337,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119237205357150550",
-      "model": "GPT Image 2.6",
-      "prompt": "『余白の多い静かな絵』\nこちらも可愛い絵柄\n\n描き方のプロンプトは以下で",
-      "author": "akiba_tokyo_jp",
-      "author_url": "https://x.com/akiba_tokyo_jp",
-      "post_url": "https://x.com/akiba_tokyo_jp/status/2119237205357150550",
-      "date": "2026-11-08T09:14:57+08:00",
-      "likes": 1,
-      "language": "ja",
-      "images": [
-        "images/2119237205357150550_0.jpg",
-        "images/2119237205357150550_1.jpg",
-        "images/2119237205357150550_2.jpg",
-        "images/2119237205357150550_3.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2119229683023970737",
       "model": "GPT Image 2.6",
       "prompt": "『ラフな線の軽やかな絵』\n3コマカラーにしちゃうくらいに、私好み\n\n白黒の描き方のプロンプトは以下で",
@@ -18573,24 +18366,6 @@
       "language": "en",
       "images": [
         "images/2119008121196884364_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2118958115534344703",
-      "model": "GPT Image 2.6",
-      "prompt": "『ラフで勢いのある線』\n\n描き方のプロンプトは以下で",
-      "author": "akiba_tokyo_jp",
-      "author_url": "https://x.com/akiba_tokyo_jp",
-      "post_url": "https://x.com/akiba_tokyo_jp/status/2118958115534344703",
-      "date": "2026-11-07T14:45:57+08:00",
-      "likes": 1,
-      "language": "ja",
-      "images": [
-        "images/2118958115534344703_0.jpg",
-        "images/2118958115534344703_1.jpg",
-        "images/2118958115534344703_2.jpg",
-        "images/2118958115534344703_3.jpg"
       ],
       "prompt_source": "post"
     },
@@ -18717,22 +18492,6 @@
         "images/2102777368272322758_0.jpg"
       ],
       "prompt_source": "alt"
-    },
-    {
-      "id": "2121011713680302207",
-      "model": "Nano Banana 2.1",
-      "prompt": "成功例：中の雪が沈殿して服着てないパターン\n\n←参照画像　　　　　生成画像→",
-      "author": "asakouhinomu",
-      "author_url": "https://x.com/asakouhinomu",
-      "post_url": "https://x.com/asakouhinomu/status/2121011713680302207",
-      "date": "2026-11-13T06:46:13+08:00",
-      "likes": 1,
-      "language": "ja",
-      "images": [
-        "images/2121011713680302207_0.jpg",
-        "images/2121011713680302207_1.jpg"
-      ],
-      "prompt_source": "post"
     },
     {
       "id": "2120289288097239106",
@@ -22910,24 +22669,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119256206019899672",
-      "model": "Nano Banana 2.1",
-      "prompt": "5. qwen 3.0\n6. seedream 5.0pro\n7. chatgpt",
-      "author": "einsburnz",
-      "author_url": "https://x.com/einsburnz",
-      "post_url": "https://x.com/einsburnz/status/2119256206019899672",
-      "date": "2026-11-08T10:30:28+08:00",
-      "likes": 0,
-      "language": "en",
-      "images": [
-        "images/2119256206019899672_0.jpg",
-        "images/2119256206019899672_1.jpg",
-        "images/2119256206019899672_2.jpg",
-        "images/2119256206019899672_3.jpg"
-      ],
-      "prompt_source": "reply"
-    },
-    {
       "id": "2120518730417688800",
       "model": "Nano Banana 2.1",
       "prompt": "Photorealistic fashion editorial with the atmosphere of a winter morning in early 1990s northern China, inside an old state-run work-unit residential compound. A beautiful young Chinese woman with delicate East Asian facial features stands beside the open folding doors of an aged cream-and-red Chinese domestic city bus (a typical early-1990s Chinese urban transit bus). She holds a small bouquet of dried wildflowers wrapped in vintage brown kraft paper, gently gripping it with both hands in front of her thighs.\n\nShe wears an oversized charcoal wool coat, a soft ivory knitted scarf, a dark burgundy ribbed sweater, straight dark trousers and black leather winter boots. Loose straight black hair falls naturally around her face, a few strands lifted by the freezing wind. Flushed cheeks from the cold, minimal makeup, a thoughtful expression, her gaze drifting slightly past the camera, shoulders gently raised against the chill.\n\nSnow-covered pavement, compacted gray snow beside the bus wheels, frosted windows with condensation, faded red paint, weathered dull metal. In the distance, blurred red-brick socialist-style apartment blocks and a modest rusted bus shelter. Fine snowflakes drifting in the air, visible white breath. The delicate dried flowers add a subtle warm color accent against the muted cold winter surroundings.\n\nThree-quarter portrait framed from the knees up, eye-level camera, woman placed off-center, the bus filling one side of the frame. Cold overcast northern daylight paired with direct on-camera flash, crisp well-lit face, deep darker background, subtle analog film grain, restrained desaturated colors, candid early-1990s Chinese street photography crossed with luxury fashion editorial. Real skin texture, tactile soft wool, believable hands and a believable kraft-paper bouquet, shot on a 50mm lens, vertical 3:4 composition. No modern cars, no smartphones, no logos, no signage, no text, no watermark.",
@@ -23053,21 +22794,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2120782624348090824",
-      "model": "GPT Image 2.6",
-      "prompt": "使用已配置的身份参考 ref-10a-v1",
-      "author": "ft4ht0",
-      "author_url": "https://x.com/ft4ht0",
-      "post_url": "https://x.com/ft4ht0/status/2120782624348090824",
-      "date": "2026-11-12T15:35:54+08:00",
-      "likes": 0,
-      "language": "zh",
-      "images": [
-        "images/2120782624348090824_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2120765908125876695",
       "model": "GPT Image 2.6",
       "prompt": "An elaborate full-body anime fantasy illustration of an adult woman in a three-quarter side pose, her head turned left and her gaze lowered. She has pale skin, red eyes, and exceptionally",
@@ -23094,21 +22820,6 @@
       "language": "en",
       "images": [
         "images/2120751607310618768_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2120706042413842697",
-      "model": "GPT Image 2.6",
-      "prompt": "使用已配置的人像参考 ref-10a-v1",
-      "author": "ft4ht0",
-      "author_url": "https://x.com/ft4ht0",
-      "post_url": "https://x.com/ft4ht0/status/2120706042413842697",
-      "date": "2026-11-12T10:31:35+08:00",
-      "likes": 0,
-      "language": "zh",
-      "images": [
-        "images/2120706042413842697_0.jpg"
       ],
       "prompt_source": "post"
     },
@@ -23395,23 +23106,6 @@
       "prompt_source": "post"
     },
     {
-      "id": "2119645628829708456",
-      "model": "GPT Image 2.6",
-      "prompt": "『心理ホラー調？』\n\n描き方のプロンプトは以下で",
-      "author": "akiba_tokyo_jp",
-      "author_url": "https://x.com/akiba_tokyo_jp",
-      "post_url": "https://x.com/akiba_tokyo_jp/status/2119645628829708456",
-      "date": "2026-11-09T12:17:53+08:00",
-      "likes": 0,
-      "language": "ja",
-      "images": [
-        "images/2119645628829708456_0.jpg",
-        "images/2119645628829708456_1.jpg",
-        "images/2119645628829708456_2.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
       "id": "2119294621348241919",
       "model": "GPT Image 2.6",
       "prompt": "Ensure a perfect visual match to the reference image—covering appearance, including eyes, nose, mouth, face shape, expression, attire, and physique. Retain my original facial features and natural look—from bone",
@@ -23488,22 +23182,6 @@
       "images": [
         "images/2118621814234779849_0.jpg",
         "images/2118621814234779849_1.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2118613074546720998",
-      "model": "GPT Image 2.6",
-      "prompt": "『カケアミの手描き陰影』\n少し昔風の画風です\n\n描き方のプロンプトは以下で",
-      "author": "akiba_tokyo_jp",
-      "author_url": "https://x.com/akiba_tokyo_jp",
-      "post_url": "https://x.com/akiba_tokyo_jp/status/2118613074546720998",
-      "date": "2026-11-06T15:54:53+08:00",
-      "likes": 0,
-      "language": "ja",
-      "images": [
-        "images/2118613074546720998_0.jpg",
-        "images/2118613074546720998_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -23807,22 +23485,6 @@
       "language": "en",
       "images": [
         "images/2121030532276670705_0.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2121011145528213983",
-      "model": "Nano Banana 2.1",
-      "prompt": "失敗例：服を着ちゃうパターン\n\n←参照画像　　　　　生成画像→",
-      "author": "asakouhinomu",
-      "author_url": "https://x.com/asakouhinomu",
-      "post_url": "https://x.com/asakouhinomu/status/2121011145528213983",
-      "date": "2026-11-13T06:43:58+08:00",
-      "likes": 0,
-      "language": "ja",
-      "images": [
-        "images/2121011145528213983_0.jpg",
-        "images/2121011145528213983_1.jpg"
       ],
       "prompt_source": "post"
     },
@@ -24200,22 +23862,6 @@
         "images/2119414615981572350_0.jpg",
         "images/2119414615981572350_1.jpg",
         "images/2119414615981572350_2.jpg"
-      ],
-      "prompt_source": "post"
-    },
-    {
-      "id": "2119324038992482477",
-      "model": "Nano Banana 2.1",
-      "prompt": "【主题】：立冬街角的烤红薯",
-      "author": "CandyTravelight",
-      "author_url": "https://x.com/CandyTravelight",
-      "post_url": "https://x.com/CandyTravelight/status/2119324038992482477",
-      "date": "2026-11-08T15:00:00+08:00",
-      "likes": 0,
-      "language": "zh",
-      "images": [
-        "images/2119324038992482477_0.jpg",
-        "images/2119324038992482477_1.jpg"
       ],
       "prompt_source": "post"
     },
