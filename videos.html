@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-media="https://cdn.jsdelivr.net/gh/Bin0754/gpt-image-gallery@080862fc876b34279ccaeaaa956bd64fa25ac983/">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="referrer" content="no-referrer">
+<title>AI 提示词图库 · AI 视频提示词（Seedance / MiniMax H3 / Wan 3.0）</title>
+<meta name="description" content="收录 2393 条 X 上公开分享的 AI 视频与完整提示词（Seedance 2.5 2293、Seedance 2.5 Flash 6、MiniMax H3 32、Wan 3.0 60、其他 Seedance 2）：按模型分类、中/英/日搜索、按点赞或时间排序、一键复制，并可下载 JSON/CSV。内容版权归原作者。">
+<meta name="theme-color" content="#0b0c10">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preload" href="data/video-0-7a6de492a5.json" as="fetch" crossorigin>
+<meta property="og:type" content="website">
+<meta property="og:title" content="AI 提示词图库 · AI 视频提示词（Seedance / MiniMax H3 / Wan 3.0）">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:description" content="收录 2393 条 X 上公开分享的 AI 视频与完整提示词（Seedance 2.5 2293、Seedance 2.5 Flash 6、MiniMax H3 32、Wan 3.0 60、其他 Seedance 2）：按模型分类、中/英/日搜索、按点赞或时间排序、一键复制，并可下载 JSON/CSV。内容版权归原作者。">
+<meta property="og:url" content="https://bin0754.github.io/gpt-image-gallery/videos.html">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Bin0754/gpt-image-gallery@main/posters/2109242589962445166_0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+:root{--bg:#0b0c10;--panel:#14161c;--panel2:#1b1e26;--line:#262a35;--text:#e8eaf0;--muted:#8b91a1;--accent:#7c9cff;--accent2:#b18cff;--like:#ff6b8b}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Segoe UI,Roboto,sans-serif;-webkit-text-size-adjust:100%}
+a{color:inherit}button{font:inherit}
+header{position:sticky;top:0;z-index:20;background:rgba(11,12,16,.88);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.bar{max-width:1640px;margin:0 auto;padding:12px 24px;display:flex;gap:12px 16px;align-items:center;flex-wrap:wrap}
+.brand{display:flex;flex-direction:column;margin-right:auto;min-width:0}
+.brand h1{margin:0;font-size:20px;letter-spacing:.3px;font-weight:750;white-space:nowrap}
+.brand h1 span{background:linear-gradient(90deg,var(--accent),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.brand small{color:var(--muted);font-size:12px}
+.tabs{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:3px;gap:2px}
+.tabs a{text-decoration:none;color:var(--muted);padding:6px 14px;border-radius:9px;font-size:13.5px;font-weight:650;white-space:nowrap}
+.tabs a i{font-style:normal;font-weight:400;font-size:11.5px;opacity:.75;margin-left:4px}
+.tabs a.on{background:linear-gradient(90deg,rgba(91,124,255,.35),rgba(154,107,255,.35));color:var(--text)}
+.links{display:flex;gap:8px;align-items:center}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:8px 12px;border-radius:12px;font-size:13px;text-decoration:none;cursor:pointer;white-space:nowrap;list-style:none}
+.pill::-webkit-details-marker{display:none}
+.dl{position:relative}
+.dl .menu{position:absolute;right:0;top:calc(100% + 6px);background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:6px;min-width:250px;box-shadow:0 16px 40px rgba(0,0,0,.5);z-index:30}
+.dl .menu a{display:block;padding:9px 12px;border-radius:9px;text-decoration:none;font-size:14px}
+.dl .menu a:hover{background:var(--panel2)}
+.dl .menu small{display:block;color:var(--muted);font-size:11.5px}
+.row2{max-width:1640px;margin:0 auto;padding:0 24px 12px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.search{position:relative;flex:1 1 320px;max-width:560px}
+.search input{width:100%;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:9px 14px 9px 38px;border-radius:12px;font-size:14px;outline:none}
+.search input:focus{border-color:var(--accent)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.55}
+.seg{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:3px}
+.seg button{background:none;border:0;color:var(--muted);padding:6px 11px;border-radius:9px;cursor:pointer;font-size:13px;white-space:nowrap}
+.seg button.on{background:var(--panel2);color:var(--text);box-shadow:0 0 0 1px var(--line) inset}
+.chips{max-width:1640px;margin:0 auto;padding:12px 24px 0;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--panel);color:#cfd3dd;border-radius:999px;padding:6px 13px;font-size:13px;cursor:pointer;white-space:nowrap}
+.chip b{font-weight:500;font-size:11.5px;color:var(--muted);background:var(--panel2);border-radius:999px;padding:0 7px}
+.chip i{width:8px;height:8px;border-radius:50%;display:inline-block}
+.chip.on{border-color:transparent;background:linear-gradient(90deg,#4f6dff,#8f63ff);color:#fff}
+.chip.on b{background:rgba(255,255,255,.2);color:#fff}
+.chip:disabled{opacity:.4;cursor:default}
+.stats{max-width:1640px;margin:0 auto;padding:10px 24px 0;color:var(--muted);font-size:12.5px;min-height:20px}
+main{max-width:1640px;margin:0 auto;padding:14px 24px 40px}
+#grid{display:flex;gap:16px;align-items:flex-start}
+.col{flex:1;display:flex;flex-direction:column;gap:16px;min-width:0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .18s,border-color .18s,box-shadow .18s;content-visibility:auto;contain-intrinsic-size:auto 360px}
+@media (hover:hover){.card:hover{transform:translateY(-2px);border-color:#3a4050;box-shadow:0 10px 30px rgba(0,0,0,.35)}}
+.thumb{position:relative;background:#11131a;overflow:hidden}
+.thumb img,.thumb video{display:block;width:100%;height:auto;aspect-ratio:var(--ar)}
+.thumb video{position:absolute;inset:0;height:100%;object-fit:cover}
+.thumb img{opacity:0;transition:opacity .25s}.thumb img.ld{opacity:1}
+.tag{position:absolute;top:8px;left:8px;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:650;color:#fff;background:rgba(0,0,0,.55);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);display:flex;align-items:center;gap:5px;max-width:calc(100% - 60px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tag i{width:7px;height:7px;border-radius:50%;flex:0 0 auto}
+.badge{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.6);padding:1px 8px;border-radius:999px;font-size:11.5px}
+.dur{position:absolute;bottom:8px;right:8px;background:rgba(0,0,0,.65);padding:0 7px;border-radius:6px;font-size:11.5px}
+.play{position:absolute;left:50%;top:50%;width:46px;height:46px;margin:-23px 0 0 -23px;border-radius:50%;background:rgba(0,0,0,.45);border:1px solid rgba(255,255,255,.35);pointer-events:none}
+.play:after{content:"";position:absolute;left:18px;top:14px;border-style:solid;border-width:9px 0 9px 14px;border-color:transparent transparent transparent #fff}
+.body{padding:11px 13px 12px}
+.prompt{margin:0 0 9px;color:#cfd3dd;font-size:13px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-line;word-break:break-word}
+.meta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px}
+.meta img{width:20px;height:20px;border-radius:50%;background:#222}
+.meta .who{color:var(--text);font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:46%}
+.meta .likes{margin-left:auto;color:var(--like);white-space:nowrap}
+.meta .date{white-space:nowrap}
+mark{background:rgba(124,156,255,.28);color:inherit;border-radius:3px;padding:0 1px}
+#more{height:1px}
+.status{color:var(--muted);text-align:center;padding:26px 0;font-size:13px}
+footer{color:var(--muted);text-align:center;font-size:12px;padding:0 24px 40px}
+footer p{margin:4px 0}footer a{color:#aab8ff}
+#lb{position:fixed;inset:0;z-index:50;background:rgba(5,6,9,.94);display:none}
+#lb.open{display:flex}
+.lb-wrap{display:flex;width:100%;height:100%}
+.lb-img{flex:1 1 auto;display:flex;align-items:center;justify-content:center;position:relative;min-width:0;padding:24px}
+.lb-img img,.lb-img video{max-width:100%;max-height:calc(100vh - 80px);width:auto;height:auto;object-fit:contain;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.6);background:#000}
+.nav{position:absolute;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:#fff;width:42px;height:42px;border-radius:50%;cursor:pointer;font-size:20px;z-index:2}
+.nav.prev{left:18px}.nav.next{right:18px}
+.dots{position:absolute;bottom:22px;left:0;right:0;text-align:center;font-size:12px;color:var(--muted)}
+.vfail{display:none;position:absolute;bottom:60px;left:0;right:0;text-align:center}.vfail a{background:var(--panel2);padding:8px 14px;border-radius:10px;text-decoration:none}
+.lb-side{width:min(460px,40vw);background:var(--panel);border-left:1px solid var(--line);display:flex;flex-direction:column;height:100%}
+.lb-head{padding:16px 20px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center}
+.lb-head img{width:40px;height:40px;border-radius:50%}
+.lb-head .n{font-weight:700}.lb-head .h{color:var(--muted);font-size:12.5px}
+.close{margin-left:auto;background:none;border:0;color:var(--muted);font-size:28px;cursor:pointer;line-height:1}
+.lb-stats{display:flex;gap:8px 14px;padding:10px 20px;color:var(--muted);font-size:12.5px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.lb-stats b{color:var(--text);font-weight:600}
+.lb-prompt{flex:1;overflow:auto;padding:16px 20px}
+.lb-prompt h3{margin:0 0 8px;font-size:13px;color:var(--muted);font-weight:600;display:flex;justify-content:space-between}
+.lb-prompt pre{white-space:pre-wrap;word-break:break-word;margin:0;font:13.5px/1.7 ui-monospace,SFMono-Regular,Menlo,Consolas,"PingFang SC","Microsoft YaHei",monospace;color:#dfe3ec;background:var(--panel2);border:1px solid var(--line);padding:14px;border-radius:12px}
+.lb-prompt details{margin-top:14px;color:var(--muted)}.lb-prompt details p{white-space:pre-wrap;font-size:12.5px}
+.lb-actions{padding:14px 20px;border-top:1px solid var(--line);display:flex;gap:10px}
+.btn{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);color:var(--text);cursor:pointer;text-decoration:none;font-size:14px;font-weight:600}
+.btn.primary{flex:1.4;background:linear-gradient(90deg,#5b7cff,#9a6bff);border:0}
+.intro{max-width:1640px;margin:12px auto 0;padding:0 24px;position:relative}
+.intro p{margin:0;padding:12px 44px 12px 16px;background:linear-gradient(90deg,rgba(124,156,255,.10),rgba(177,140,255,.06));border:1px solid var(--line);border-radius:14px;color:#cfd3dd;font-size:13px}
+.intro b{color:var(--text)}.intro.hide{display:none}
+.intro-x{position:absolute;right:34px;top:6px;background:none;border:0;color:var(--muted);font-size:20px;cursor:pointer}
+.top{position:fixed;right:18px;bottom:22px;z-index:15;width:42px;height:42px;border-radius:50%;border:1px solid var(--line);background:var(--panel2);color:var(--text);font-size:18px;cursor:pointer;display:none}
+@media (max-width:860px){.lb-wrap{flex-direction:column}.lb-side{width:100%;height:56%;border-left:0;border-top:1px solid var(--line)}.lb-img{height:44%;padding:10px 10px 24px}.lb-img img,.lb-img video{max-height:100%}}
+@media (max-width:640px){
+header{position:relative}
+.bar{padding:10px 12px 8px;gap:8px}
+.brand h1{font-size:17px}.brand small{font-size:11px;line-height:1.4}
+.tabs{order:3;width:100%}.tabs a{flex:1;text-align:center;padding:7px 6px}
+.pill{padding:7px 9px;font-size:12.5px}.pill .lbl{display:none}
+.row2{padding:0 12px 10px;gap:8px}
+.search{flex:1 1 100%;max-width:none}.search input{font-size:16px;padding:8px 12px 8px 36px}
+.seg button{padding:5px 8px;font-size:12px}
+.chips{padding:10px 12px 0;gap:6px}.chip{padding:5px 11px;font-size:12.5px}
+.stats{padding:8px 12px 0;font-size:11.5px}
+.intro{padding:0 10px}.intro p{font-size:12px;padding:10px 32px 10px 12px}.intro-x{right:16px}
+main{padding:10px 8px 30px}
+#grid,.col{gap:8px}
+.card{border-radius:12px}
+.body{padding:7px 8px 8px}
+.prompt{font-size:12px;line-height:1.45;-webkit-line-clamp:3;margin-bottom:6px}
+.meta{font-size:11px;gap:5px}.meta img{width:16px;height:16px}.meta .date{display:none}.meta .who{max-width:60%}
+.tag{top:6px;left:6px;font-size:10px;padding:1px 7px}.badge{top:6px;right:6px;font-size:10.5px}
+.play{width:38px;height:38px;margin:-19px 0 0 -19px}.play:after{left:15px;top:11px;border-width:8px 0 8px 12px}
+#lb{height:100dvh}
+.lb-head{padding:10px 14px}.lb-stats{padding:8px 14px;font-size:12px}.lb-prompt{padding:12px 14px}.lb-prompt pre{font-size:12.5px;padding:12px}
+.lb-actions{padding:10px 14px calc(10px + env(safe-area-inset-bottom))}.btn{padding:12px 8px;font-size:13px}
+.nav{width:36px;height:36px}.nav.prev{left:8px}.nav.next{right:8px}.dots{bottom:4px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="brand"><h1><span>AI 提示词图库</span></h1><small>X 上头部 AI 视频模型的作品，每条都附完整提示词，点开即可播放</small></div>
+    <nav class="tabs" aria-label="内容类型"><a href="./" >🖼 图片<i>1516</i></a><a href="videos.html" class="on" aria-current="page">🎬 视频<i>2393</i></a></nav>
+    <div class="links">
+      <details class="dl" id="dl"><summary class="pill">⬇ <span class="lbl">下载数据</span></summary>
+        <div class="menu">
+          <a href="prompts.json" download>图片提示词 JSON<small>prompts.json · 含 model 字段</small></a>
+          <a href="prompts.csv" download>图片提示词 CSV<small>prompts.csv · Excel 可直接打开</small></a>
+          <a href="video_prompts.json" download>视频提示词 JSON<small>video_prompts.json · 含 model 与 mp4 链接</small></a>
+          <a href="video_prompts.csv" download>视频提示词 CSV<small>video_prompts.csv</small></a>
+          <a href="https://github.com/Bin0754/gpt-image-gallery/releases/latest/download/gpt-image-gallery.zip">全部打包 ZIP<small>网页 + 图片 + 数据</small></a>
+        </div></details>
+      <a class="pill" href="https://github.com/Bin0754/gpt-image-gallery" target="_blank" rel="noopener" title="开源项目"><svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span class="lbl">GitHub</span></a>
+    </div>
+  </div>
+  <div class="row2">
+    <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="搜索视频提示词或作者，例如：cinematic、打戏、アニメ、vlog" autocomplete="off" enterkeyhint="search"></label>
+    <div class="seg" id="sort"><button data-v="likes" class="on">最多点赞</button><button data-v="new">最新发布</button></div>
+    <div class="seg" id="lang"><button data-v="all" class="on">全部语言</button><button data-v="zh">中</button><button data-v="ja">日</button><button data-v="en">EN</button></div>
+  </div>
+</header>
+<nav class="chips" id="chips" aria-label="按模型筛选"></nav>
+<section class="intro" id="intro"><button class="intro-x" id="introx" aria-label="收起说明">×</button><p><b>视频专区：</b>收录 <b>2393</b> 条 X 用户公开分享的 AI 视频：Seedance 2.5 2293、Seedance 2.5 Flash 6、MiniMax H3 32、Wan 3.0 60、其他 Seedance 2。每条都附<b>完整提示词</b>；视频在点开（或桌面端悬停）后才从 X 加载，列表只加载压缩封面。</p></section>
+<div class="stats" id="stats"></div>
+<main><div id="grid"></div><div id="more"></div><div class="status" id="status">加载中…</div></main>
+<footer>
+  <p>视频与提示词版权归各原作者所有，视频直接从 X（video.twimg.com）播放，本站不存储视频文件；本站仅做整理与索引，与各模型厂商无任何关联。</p>
+  <p>你是作者、希望移除自己的内容？请 <a href="https://github.com/Bin0754/gpt-image-gallery/issues/new?template=removal-request.yml" target="_blank" rel="noopener">提交移除请求</a> · 发现好作品？欢迎 <a href="https://github.com/Bin0754/gpt-image-gallery/issues/new?template=submit-prompt.yml" target="_blank" rel="noopener">推荐提示词</a></p>
+  <p>代码以 MIT 协议开源 · <a href="https://github.com/Bin0754/gpt-image-gallery" target="_blank" rel="noopener">GitHub 仓库</a> · 数据更新于 2026-11-17 11:10（北京时间）</p>
+</footer>
+<button class="top" id="top" aria-label="回到顶部">↑</button>
+<div id="lb" role="dialog" aria-modal="true">
+  <div class="lb-wrap">
+    <div class="lb-img" id="lbmedia"><button class="nav prev" id="prev">‹</button><img id="lbimg" alt="" decoding="async"><video id="lbvid" controls playsinline preload="none"></video><div class="vfail" id="vfail"><a id="vfaila" target="_blank" rel="noopener">视频无法在此播放 · 在 X 上观看 ↗</a></div><button class="nav next" id="next">›</button><div class="dots" id="dots"></div></div>
+    <aside class="lb-side">
+      <div class="lb-head"><img id="lbav" alt="" width="40" height="40"><div><div class="n" id="lbname"></div><div class="h" id="lbhandle"></div></div><button class="close" id="close" title="关闭 (Esc)">×</button></div>
+      <div class="lb-stats" id="lbstats"></div>
+      <div class="lb-prompt"><h3><span>提示词</span><span id="lbsrc"></span></h3><pre id="lbprompt"></pre><details id="lbtd"><summary>原帖正文</summary><p id="lbtext"></p></details></div>
+      <div class="lb-actions"><button class="btn primary" id="copy">复制提示词</button><a class="btn" id="dlimg" download>下载图片</a><a class="btn" id="orig" target="_blank" rel="noopener">查看原帖 ↗</a></div>
+    </aside>
+  </div>
+</div>
+<script id="manifest" type="application/json">{"kind":"video","count":2393,"media":2412,"first":"2026-08-01","last":"2026-11-17","models":["Seedance 2.5","Seedance 2.5 Flash","MiniMax H3","Wan 3.0","其他 Seedance"],"counts":{"Seedance 2.5":2293,"Wan 3.0":60,"MiniMax H3":32,"其他 Seedance":2,"Seedance 2.5 Flash":6},"colors":{"Seedance 2.5":"#7c9cff","Seedance 2.5 Flash":"#38bdf8","MiniMax H3":"#fb923c","Wan 3.0":"#a3e635","其他 Seedance":"#8b91a1"},"chunks":["data/video-0-7a6de492a5.json","data/video-1-8806d7d4c5.json","data/video-2-72ee76fbe5.json","data/video-3-e08783c159.json","data/video-4-b2c2600257.json","data/video-5-25c58d4f11.json"]}</script>
+<script>
+(()=>{
+const M = JSON.parse(document.getElementById('manifest').textContent);
+const VIDEO = M.kind === 'video';
+const MB = document.documentElement.dataset.media || '';   // jsDelivr base on the live site (set at deploy)
+const media = p => /^(https?:|data:)/.test(p) ? p : MB + p;
+const $ = s => document.querySelector(s);
+const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const SRC = {post:'来源：帖子正文', reply:'来源：作者回复', alt:VIDEO?'来源：ALT 文本':'来源：图片 ALT 文本'};
+const BATCH = 40;
+const COLORS = M.colors || {};
+let ALL = [], loadedAll = false;
+const params = new URLSearchParams(location.search);
+let state = {q: params.get('q')||'', sort: params.get('sort')==='new'?'new':'likes', lang:'all', model: params.get('model')||'all'};
+const fam = p => p.f || p.m;
+const AV = 'https://pbs.twimg.com/profile_images/', VT = 'https://video.twimg.com/';
+function norm(list){ for (const p of list){ if(p.av && !/^https?:/.test(p.av)) p.av = AV + p.av; if(p.v) for (const v of p.v){ if(v[4] && !/^https?:/.test(v[4])) v[4] = VT + v[4]; if(v[5]===1) v[5] = v[4]; else if(v[5] && !/^https?:/.test(v[5])) v[5] = VT + v[5]; } } return list; }
+const LANG = p => p.g==='zh'||p.g==='ja'||p.g==='en' ? p.g : (/[\u3040-\u30ff]/.test(p.p)?'ja':(/[\u4e00-\u9fff]/.test(p.p)?'zh':'en'));
+function hl(text, q){ const t = esc(text); if(!q) return t; const terms=q.split(/\s+/).filter(Boolean).map(x=>esc(x).replace(/[.*+?^${}()|[\]\\]/g,'\\$&')); return terms.length? t.replace(new RegExp('('+terms.join('|')+')','gi'),'<mark>$1</mark>') : t; }
+function matches(p, terms){ if(state.lang!=='all' && LANG(p)!==state.lang) return false; if(!terms.length) return true; const h = (p._h ||= (p.p+' '+p.a+' '+(p.n||'')+' '+p.m).toLowerCase()); return terms.every(t=>h.includes(t)); }
+let current = [], shown = 0, cols = [];
+function chips(base){
+  const cnt = {}; base.forEach(p=>{ cnt[fam(p)] = (cnt[fam(p)]||0)+1; });
+  const useMan = !loadedAll && !state.q && state.lang==='all';
+  const total = useMan ? M.count : base.length;
+  const list = M.models.filter(m => (useMan ? M.counts[m] : cnt[m]) || state.model===m || M.counts[m]);
+  $('#chips').innerHTML = `<button class="chip${state.model==='all'?' on':''}" data-m="all">全部模型 <b>${total}</b></button>` +
+    list.map(m=>{ const n = useMan ? (M.counts[m]||0) : (cnt[m]||0); return `<button class="chip${state.model===m?' on':''}" data-m="${esc(m)}"${n||state.model===m?'':' disabled'}><i style="background:${COLORS[m]||'#888'}"></i>${esc(m)} <b>${n}</b></button>`; }).join('');
+}
+function filtered(){
+  const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+  const base = ALL.filter(p => matches(p, terms));
+  chips(base);
+  let list = state.model==='all' ? base : base.filter(p => fam(p)===state.model);
+  list.sort(state.sort==='likes' ? (a,b)=>b.l-a.l : (a,b)=>b.d.localeCompare(a.d));
+  return list;
+}
+function cardHTML(p, idx){
+  const md = VIDEO ? p.v[0] : p.im[0];
+  const tw = md[1], th = md[2];
+  const c = COLORS[fam(p)]||'#888';
+  return `<article class="card" data-i="${idx}"><div class="thumb" style="--ar:${tw}/${th}">
+    <img loading="lazy" decoding="async" src="${media(md[0])}" width="${tw}" height="${th}" alt="${esc(p.m)} · @${esc(p.a)}" onload="this.classList.add('ld')">
+    <span class="tag"><i style="background:${c}"></i>${esc(p.m)}</span>
+    ${VIDEO ? `<span class="play"></span>${md[3]?`<span class="dur">${dur(md[3])}</span>`:''}` : ''}
+    ${(VIDEO?p.v:p.im).length>1?`<span class="badge">${(VIDEO?p.v:p.im).length}${VIDEO?' 段':' 张'}</span>`:''}</div>
+    <div class="body"><p class="prompt">${hl(p.p.slice(0,420), state.q)}</p>
+    <div class="meta"><img loading="lazy" decoding="async" src="${esc(p.av||'')}" width="20" height="20" alt="" onerror="this.style.visibility='hidden'"><span class="who">@${esc(p.a)}</span><span class="date">${p.d.slice(0,10)}</span><span class="likes">♥ ${p.l.toLocaleString()}</span></div></div></article>`;
+}
+const dur = ms => { const s=Math.round(ms/1000); return Math.floor(s/60)+':'+String(s%60).padStart(2,'0'); };
+function ncols(){ const w = $('#grid').clientWidth || innerWidth; return w < 700 ? 2 : Math.max(2, Math.min(6, Math.floor((w+16)/(290+16)))); }
+function reset(){
+  current = filtered(); shown = 0;
+  const n = ncols(); $('#grid').innerHTML = Array.from({length:n},()=>'<div class="col"></div>').join('');
+  cols = [...$('#grid').children].map(el=>({el,h:0}));
+  more(); stats();
+  const qs = new URLSearchParams(); if(state.q) qs.set('q',state.q); if(state.model!=='all') qs.set('model',state.model); if(state.sort!=='likes') qs.set('sort',state.sort);
+  history.replaceState(null,'', location.pathname + (qs.toString()?'?'+qs:''));
+}
+function stats(){
+  const filt = state.q||state.model!=='all'||state.lang!=='all';
+  $('#stats').textContent = (filt ? (loadedAll ? `找到 ${current.length} ${VIDEO?'条':'组'} · ` : '搜索中… · ') : '') + `共 ${M.count} ${VIDEO?'条视频':'组作品'}${VIDEO?'':' · '+M.media+' 张图'} · 收录 ${M.first} 至 ${M.last}`;
+}
+function status(){
+  $('#status').textContent = current.length===0 ? (loadedAll?'没有找到匹配的内容，换个关键词或模型试试～':'加载中…') : (shown<current.length ? '' : (loadedAll ? `已显示全部 ${current.length} ${VIDEO?'条':'组'}` : '加载更多…'));
+}
+function more(){
+  const end = Math.min(current.length, shown + BATCH);
+  for(let i=shown;i<end;i++){ const p=current[i]; const md = VIDEO?p.v[0]:p.im[0]; const c = cols.reduce((a,b)=>b.h<a.h?b:a);
+    c.el.insertAdjacentHTML('beforeend', cardHTML(p,i)); c.h += md[2]/md[1] + .5; }
+  shown = end; status();
+  if (shown >= current.length && !loadedAll) ensureAll();
+}
+new IntersectionObserver(es=>{ if(es[0].isIntersecting && ALL.length){ if(shown<current.length) more(); else ensureAll(); } }, {rootMargin:'1200px 0px'}).observe($('#more'));
+// lightbox
+let lbPost=null, lbI=0; const vid=$('#lbvid'), img=$('#lbimg');
+function openLB(i){ lbPost=current[i]; lbI=0; const p=lbPost;
+  $('#lbav').src=p.av||''; $('#lbname').textContent=p.n||p.a; $('#lbhandle').textContent='@'+p.a;
+  const v = VIDEO ? p.v[0] : null;
+  $('#lbstats').innerHTML = `<span>🏷 <b>${esc(p.m)}</b></span><span>♥ <b>${p.l.toLocaleString()}</b></span>`+(v&&v[6]?`<span>▶ <b>${v[6].toLocaleString()}</b></span>`:'')+(p.r!=null?`<span>🔁 <b>${p.r}</b></span>`:'')+`<span>🕒 <b>${p.d}</b> (UTC+8)</span>`;
+  $('#lbsrc').textContent=SRC[p.s]||''; $('#lbprompt').textContent=p.p; $('#lbtext').textContent=p.x||p.p; $('#lbtd').style.display=p.x?'':'none';
+  $('#orig').href=$('#vfaila').href='https://x.com/'+p.a+'/status/'+p.i; $('#copy').textContent='复制提示词';
+  $('#dlimg').style.display = VIDEO?'none':''; img.style.display = VIDEO?'none':''; vid.style.display = VIDEO?'':'none';
+  show(); $('#lb').classList.add('open'); document.body.style.overflow='hidden'; }
+function show(){ const arr = VIDEO?lbPost.v:lbPost.im; const m = arr[lbI]; const multi = arr.length>1;
+  if(VIDEO){ $('#vfail').style.display='none'; vid.poster=media(m[0]); vid.dataset.low=m[5]||''; vid.src=m[4]||m[5]||''; if(vid.src) vid.play().catch(()=>{}); else $('#vfail').style.display='block'; }
+  else { img.removeAttribute('src'); img.src=media(m[3]); img.width=m[4]; img.height=m[5]; const dl=$('#dlimg'); dl.href=media(m[3]); dl.setAttribute('download', `${lbPost.a}_${lbPost.i}_${lbI+1}.${m[3].split('.').pop()}`); dl.textContent = multi?`下载 ${lbI+1}/${arr.length}`:'下载图片'; }
+  $('#prev').style.display=$('#next').style.display=multi?'block':'none'; $('#dots').textContent=multi?`${lbI+1} / ${arr.length}`:''; }
+vid.addEventListener('error', ()=>{ if(vid.dataset.low && vid.src!==vid.dataset.low){ vid.src=vid.dataset.low; vid.dataset.low=''; vid.play().catch(()=>{}); return; } if(vid.getAttribute('src')) $('#vfail').style.display='block'; });
+function closeLB(){ vid.pause(); vid.removeAttribute('src'); vid.load(); $('#lb').classList.remove('open'); document.body.style.overflow=''; }
+$('#grid').addEventListener('click', e=>{ const c=e.target.closest('.card'); if(c) openLB(+c.dataset.i); });
+$('#close').onclick=closeLB; $('#lb').addEventListener('click', e=>{ if(e.target.id==='lb'||e.target.id==='lbmedia') closeLB(); });
+const step = d => e => { e.stopPropagation(); const n=(VIDEO?lbPost.v:lbPost.im).length; lbI=(lbI+d+n)%n; show(); };
+$('#prev').onclick=step(-1); $('#next').onclick=step(1);
+document.addEventListener('keydown', e=>{ if(!$('#lb').classList.contains('open')) return; if(e.key==='Escape') closeLB(); if(e.key==='ArrowLeft') $('#prev').click(); if(e.key==='ArrowRight') $('#next').click(); });
+$('#copy').onclick = async ()=>{ const t=lbPost.p; let ok=false; try{ await navigator.clipboard.writeText(t); ok=true; }catch(_){ const ta=document.createElement('textarea'); ta.value=t; ta.style.position='fixed'; ta.style.opacity='0'; document.body.appendChild(ta); ta.select(); try{ok=document.execCommand('copy');}catch(_){} ta.remove(); }
+  $('#copy').textContent = ok?'已复制 ✓':'复制失败，请手动选择'; setTimeout(()=>$('#copy').textContent='复制提示词',1800); };
+// desktop hover preview for videos: the mp4 is only requested after hovering a card for a moment
+if (VIDEO && matchMedia('(hover:hover) and (pointer:fine)').matches){
+  let ht, hv;
+  $('#grid').addEventListener('mouseover', e=>{ const c=e.target.closest('.card'); if(!c || c.contains(hv)) return; clearTimeout(ht);
+    ht = setTimeout(()=>{ const p=current[+c.dataset.i]; const v=p.v[0]; const src=v[5]||v[4]; if(!src) return; hv && hv.remove();
+      hv=document.createElement('video'); hv.muted=true; hv.loop=true; hv.playsInline=true; hv.preload='none'; hv.src=src; c.querySelector('.thumb').appendChild(hv); hv.play().catch(()=>{}); }, 450); });
+  $('#grid').addEventListener('mouseout', e=>{ const c=e.target.closest('.card'); if(c && !c.contains(e.relatedTarget)){ clearTimeout(ht); if(hv && c.contains(hv)){ hv.pause(); hv.removeAttribute('src'); hv.load(); hv.remove(); hv=null; } } });
+}
+// controls
+let tmr; $('#q').value = state.q; $('#q').addEventListener('input', e=>{ clearTimeout(tmr); tmr=setTimeout(()=>{ state.q=e.target.value.trim(); reset(); ensureAll(); },150); });
+for (const id of ['sort','lang']) { const el=$('#'+id); el.querySelectorAll('button').forEach(x=>x.classList.toggle('on', x.dataset.v===state[id])); el.addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; el.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b)); state[id]=b.dataset.v; reset(); ensureAll(); }); }
+$('#chips').addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(!b||b.disabled) return; state.model=b.dataset.m; reset(); ensureAll(); });
+let rt, lastN; addEventListener('resize', ()=>{ clearTimeout(rt); rt=setTimeout(()=>{ if(ncols()!==lastN){ lastN=ncols(); const keep=shown; reset(); while(shown<keep && shown<current.length) more(); } },200); });
+addEventListener('scroll', ()=>{ $('#top').style.display = scrollY>1500?'block':'none'; }, {passive:true});
+$('#top').onclick = ()=>scrollTo({top:0,behavior:'smooth'});
+try{ if(localStorage.getItem(M.kind+'IntroHidden')==='1') $('#intro').classList.add('hide'); }catch(_){}
+$('#introx').onclick=()=>{ $('#intro').classList.add('hide'); try{localStorage.setItem(M.kind+'IntroHidden','1');}catch(_){} };
+document.addEventListener('click', e=>{ const dl=$('#dl'); if(dl.open && !dl.contains(e.target)) dl.open=false; });
+// data: the first chunk (top posts by likes) renders the first screen; the rest is fetched on demand
+// (search / filter / sort / scrolling past it) or a few seconds after load, unless Save-Data is on
+const get = f => fetch(f).then(r=>{ if(!r.ok) throw new Error(f+' '+r.status); return r.json(); }).then(norm);
+let allP = null;
+function ensureAll(){
+  if (loadedAll) return Promise.resolve();
+  if (!allP) allP = Promise.all(M.chunks.slice(1).map(get)).then(rest=>{ rest.forEach(c=>ALL.push(...c)); loadedAll=true; refresh(); })
+    .catch(err=>{ allP=null; $('#status').textContent='部分数据加载失败，请刷新重试（'+err.message+'）'; });
+  return allP;
+}
+function refresh(){ const prev=current.slice(0,shown).map(p=>p.i).join(); const list=filtered();
+  if (shown && list.slice(0,shown).map(p=>p.i).join()===prev){ current=list; stats(); status(); if(shown<current.length && $('#more').getBoundingClientRect().top < innerHeight+1200) more(); } else { const keep=shown; reset(); while(shown<keep && shown<current.length) more(); } }
+async function boot(){
+  lastN = ncols();
+  if (M.inline){ ALL = norm(M.inline); loadedAll = true; reset(); return; }
+  try{ ALL = await get(M.chunks[0]); loadedAll = M.chunks.length===1; reset(); }
+  catch(err){ $('#status').textContent='数据加载失败，请刷新重试（'+err.message+'）'; return; }
+  if (state.q || state.model!=='all' || state.sort!=='likes') ensureAll();
+  const idle = ()=>setTimeout(()=>{ if(!(navigator.connection && navigator.connection.saveData)) ensureAll(); }, 3000);
+  if (document.readyState==='complete') idle(); else addEventListener('load', idle);
+}
+boot();
+})();
+</script>
+</body>
+</html>

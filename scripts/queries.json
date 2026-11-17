@@ -1,0 +1,227 @@
+{
+ "_comment": "X API v2 search queries used to build the dataset. Each entry is run against /2/tweets/search/all (full archive) or /2/tweets/search/recent (--recent). start_time defaults to the GPT Image 2.5 launch (2026-09-08).",
+ "start_time": "2026-09-08T00:00:00Z",
+ "fields": {
+  "expansions": "attachments.media_keys,author_id,referenced_tweets.id",
+  "media.fields": "url,preview_image_url,type,width,height,alt_text",
+  "post.fields": "created_at,public_metrics,note_tweet,entities,lang,conversation_id,referenced_tweets,attachments,in_reply_to_user_id,author_id",
+  "user.fields": "username,name,profile_image_url"
+ },
+ "queries": [
+  {
+   "name": "q01_any_images",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR \"gptimage2.5\" OR \"gpt-image 2.5\") has:images -is:retweet"
+  },
+  {
+   "name": "q02_prompt",
+   "sort_order": "relevancy",
+   "pages": 2,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet"
+  },
+  {
+   "name": "q04_prompt_recent",
+   "sort_order": "recency",
+   "pages": 4,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5 OR gptimage25 OR \"gptimage 2.5\") prompt has:images -is:retweet"
+  },
+  {
+   "name": "q03_multilang",
+   "sort_order": "relevancy",
+   "pages": 2,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (提示词 OR プロンプト OR \"prompt:\" OR \"Prompt 👇\" OR \"prompt below\" OR \"prompt in alt\") has:images -is:retweet"
+  },
+  {
+   "name": "q05_inline",
+   "sort_order": "relevancy",
+   "pages": 3,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (\"prompt:\" OR \"提示词：\") has:images -is:retweet -is:reply"
+  },
+  {
+   "name": "q06_zh",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (提示词 OR prompt OR 咒语) lang:zh has:images -is:retweet"
+  },
+  {
+   "name": "q07_ja",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (プロンプト OR prompt) lang:ja has:images -is:retweet"
+  },
+  {
+   "name": "q09_inline_or_below",
+   "sort_order": "relevancy",
+   "pages": 1,
+   "windows": [
+    [
+     "2026-09-08T00:00:00Z",
+     "2026-09-20T00:00:00Z"
+    ],
+    [
+     "2026-09-20T00:00:00Z",
+     "2026-10-05T00:00:00Z"
+    ]
+   ],
+   "query": "(\"gpt image 2.5\" OR \"gpt-image-2.5\" OR gptimage2.5) (\"prompt:\" OR \"prompt below\" OR \"Prompt 👇\" OR 提示词) has:images -is:retweet -is:reply"
+  },
+  {
+   "name": "q10_name_variants",
+   "sort_order": "recency",
+   "pages": 2,
+   "query": "(gptimage25 OR \"gptimage 2.5\" OR \"chatgpt images 2.5\" OR \"gpt image2.5\") has:images -is:retweet"
+  },
+  {
+   "name": "m_gpt26_p",
+   "model": "GPT Image 2.6",
+   "sort_order": "recency",
+   "pages": 40,
+   "query": "(\"gpt image 2.6\" OR \"gpt-image-2.6\" OR \"gptimage2.6\" OR \"gpt image2.6\") (prompt OR 提示词 OR プロンプト OR 프롬프트) has:images -is:retweet"
+  },
+  {
+   "name": "m_gpt26_any",
+   "model": "GPT Image 2.6",
+   "sort_order": "recency",
+   "pages": 20,
+   "query": "(\"gpt image 2.6\" OR \"gpt-image-2.6\" OR \"gptimage2.6\" OR \"gpt image2.6\") has:images -is:retweet -is:reply"
+  },
+  {
+   "name": "m_nb21_p",
+   "model": "Nano Banana 2.1",
+   "sort_order": "recency",
+   "pages": 40,
+   "query": "(\"nano banana 2.1\" OR \"nanobanana 2.1\" OR \"nano-banana-2.1\" OR \"nanobanana2.1\") (prompt OR 提示词 OR プロンプト OR 프롬프트) has:images -is:retweet"
+  },
+  {
+   "name": "m_nb21_any",
+   "model": "Nano Banana 2.1",
+   "sort_order": "recency",
+   "pages": 10,
+   "query": "(\"nano banana 2.1\" OR \"nanobanana 2.1\" OR \"nano-banana-2.1\" OR \"nanobanana2.1\") has:images -is:retweet -is:reply"
+  },
+  {
+   "name": "m_grok2_any",
+   "model": "Grok Image 2",
+   "sort_order": "recency",
+   "pages": 6,
+   "query": "(\"grok image 2\" OR \"grok-image-2\" OR \"grokimage2\" OR \"grok imagine image 2\") has:images -is:retweet"
+  },
+  {
+   "name": "m_seedream_p",
+   "model": "即梦 5.5 / 即梦 5.0 Pro (Seedream aliases)",
+   "sort_order": "recency",
+   "pages": 15,
+   "query": "(\"seedream 5.5\" OR \"seedream5.5\" OR \"即梦5.5\" OR \"即梦 5.5\" OR \"seedream 5.0 pro\" OR \"即梦5.0 pro\" OR \"即梦 5.0 pro\" OR \"jimeng 5.5\" OR \"dreamina 5.5\") (prompt OR 提示词 OR プロンプト) has:images -is:retweet"
+  }
+ ],
+ "self_reply_query": "((from:{user} (conversation_id:{id} OR ...)) OR ...) is:reply -has:mentions   — grouped, kept under ~1000 characters, for posts whose prompt is in the author's own replies",
+ "video": {
+  "_comment": "Seedance 2.5 AI-video prompt posts (videos.html). Run with: python3 scripts/fetch_x.py --video. Raw files are saved as raw/<date>_video_*.txt; only files whose name contains '_video_' feed the video page. Posts tagged with other Seedance versions would be shown under a separate '其他 Seedance' filter, never as 2.5.",
+  "start_time": "2026-08-01T00:00:00Z",
+  "fields": {
+   "expansions": "attachments.media_keys,author_id,referenced_tweets.id",
+   "media.fields": "url,preview_image_url,type,width,height,alt_text,duration_ms,variants,public_metrics",
+   "post.fields": "created_at,public_metrics,note_tweet,entities,lang,conversation_id,referenced_tweets,attachments,in_reply_to_user_id,author_id",
+   "user.fields": "username,name,profile_image_url"
+  },
+  "queries": [
+   {
+    "name": "video_v01_any",
+    "sort_order": "relevancy",
+    "pages": 2,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") has:videos -is:retweet"
+   },
+   {
+    "name": "video_v02_prompt",
+    "sort_order": "recency",
+    "pages": 4,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") (prompt OR 提示词 OR プロンプト OR 咒语) has:videos -is:retweet"
+   },
+   {
+    "name": "video_v03_prompt_windows",
+    "sort_order": "relevancy",
+    "pages": 2,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") (prompt OR 提示词 OR プロンプト OR 咒语) has:videos -is:retweet",
+    "windows": [
+     [
+      "2026-07-01T00:00:00Z",
+      "2026-08-20T00:00:00Z"
+     ],
+     [
+      "2026-08-20T00:00:00Z",
+      "2026-09-15T00:00:00Z"
+     ],
+     [
+      "2026-09-15T00:00:00Z",
+      "2026-10-04T00:00:00Z"
+     ],
+     [
+      "2026-10-04T00:00:00Z",
+      "2026-10-10T00:00:00Z"
+     ],
+     [
+      "2026-10-10T00:00:00Z",
+      null
+     ]
+    ]
+   },
+   {
+    "name": "video_v04_platforms",
+    "sort_order": "relevancy",
+    "pages": 1,
+    "query": "(即梦 OR jimeng OR dreamina OR 豆包 OR capcut) (\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\" OR \"seedance 2.5 pro\") has:videos -is:retweet"
+   },
+   {
+    "name": "video_v05_prompt_recent_windows",
+    "sort_order": "recency",
+    "pages": 1,
+    "query": "(\"seedance 2.5\" OR seedance2.5 OR \"seedance-2.5\") (prompt OR 提示词 OR プロンプト OR 咒语) has:videos -is:retweet",
+    "windows": [
+     [
+      "2026-08-20T00:00:00Z",
+      "2026-09-25T00:00:00Z"
+     ],
+     [
+      "2026-09-25T00:00:00Z",
+      "2026-10-07T00:00:00Z"
+     ],
+     [
+      "2026-10-07T00:00:00Z",
+      "2026-10-10T00:00:00Z"
+     ]
+    ]
+   },
+   {
+    "name": "m_wan3_p",
+    "model": "Wan 3.0",
+    "sort_order": "recency",
+    "pages": 15,
+    "query": "(\"wan 3.0\" OR \"wan3.0\" OR \"wan-3.0\" OR \"万相3.0\" OR \"万相 3.0\") (prompt OR 提示词 OR プロンプト) has:videos -is:retweet"
+   },
+   {
+    "name": "m_h3_p",
+    "model": "MiniMax H3",
+    "sort_order": "recency",
+    "pages": 12,
+    "query": "(\"minimax h3\" OR \"hailuo h3\" OR \"minimax-h3\" OR \"海螺 h3\" OR \"海螺h3\") (prompt OR 提示词 OR プロンプト) has:videos -is:retweet"
+   },
+   {
+    "name": "m_sdflash_p",
+    "model": "Seedance 2.5 Flash",
+    "sort_order": "recency",
+    "pages": 5,
+    "query": "(\"seedance 2.5 flash\" OR \"seedance2.5 flash\" OR \"seedance-2.5-flash\") (prompt OR 提示词 OR プロンプト) has:videos -is:retweet"
+   },
+   {
+    "name": "m_newvid_any",
+    "model": "Wan 3.0 / MiniMax H3 / Seedance 2.5 Flash",
+    "sort_order": "recency",
+    "pages": 5,
+    "query": "(\"wan 3.0\" OR \"wan3.0\" OR \"wan-3.0\" OR \"万相3.0\" OR \"万相 3.0\" OR \"minimax h3\" OR \"hailuo h3\" OR \"minimax-h3\" OR \"海螺 h3\" OR \"海螺h3\" OR \"seedance 2.5 flash\" OR \"seedance2.5 flash\" OR \"seedance-2.5-flash\") has:videos -is:retweet -is:reply"
+   }
+  ],
+  "self_reply_query": "(from:<author> (conversation_id:<id> OR ...)) is:reply -has:mentions — run for video posts whose text points to the prompt in replies; the author's own replies are hydrated with GET /2/tweets?ids=..."
+ },
+ "_models": "2026-11-17: multi-model expansion. Image models: GPT Image 2.5, GPT Image 2.6, Nano Banana 2.1, Grok Image 2, 即梦 5.5, 即梦 5.0 Pro (Seedream 5.5 / Seedream 5.0 Pro are treated as aliases of 即梦). Video models: Seedance 2.5 (+Pro), Seedance 2.5 Flash, MiniMax H3 (海螺/Hailuo H3), Wan 3.0 (万相3.0). A post is only added when its text/ALT names exactly ONE of these models (scripts/extract.py image_model/video_model); comparisons are skipped. Old GPT Image 2.5 / Seedance 2.5 posts keep their frozen tag from scripts/legacy_models.json. Search returns max 25 posts per call; results that come back without conversation_id/note_tweet must be re-read with GET /2/tweets?ids= (hydration) or long prompts get truncated."
+}
