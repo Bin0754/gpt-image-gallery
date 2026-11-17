@@ -31,7 +31,7 @@ Images: GPT Image 2.5 · GPT Image 2.6 · Nano Banana 2.1 · Grok Image 2 · Jim
 | Date range | 2026-08-18 to 2026-11-17 (UTC+8); GPT Image 2.5 launched around 2026-09-08 |
 | Prompt language | English 1060, Chinese 363, Japanese 83, other 10 |
 | Prompt source | post text 1206, author's own reply 187, image ALT text 123 |
-| Last updated | 2026-11-17 10:21 (UTC+8) |
+| Last updated | 2026-11-17 11:10 (UTC+8) |
 
 Inclusion rules: the post has images, mentions GPT Image 2.5, and the **author publicly shared the prompt** (in the post, in their own reply in the same thread, or in the image ALT text). Prompts that only exist inside an image or behind a link are skipped. Duplicates are removed, and NSFW or overly suggestive posts are not shown. Some posts compare several models, so not every image is from GPT Image 2.5. Some prompts are templates with placeholders.
 

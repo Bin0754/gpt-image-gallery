@@ -89,7 +89,7 @@ footer p{margin:4px 0}footer a{color:#aab8ff}
 #lb.open{display:flex}
 .lb-wrap{display:flex;width:100%;height:100%}
 .lb-img{flex:1 1 auto;display:flex;align-items:center;justify-content:center;position:relative;min-width:0;padding:24px}
-.lb-img img,.lb-img video{max-width:100%;max-height:calc(100vh - 80px);border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.6);background:#000}
+.lb-img img,.lb-img video{max-width:100%;max-height:calc(100vh - 80px);width:auto;height:auto;object-fit:contain;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.6);background:#000}
 .nav{position:absolute;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:#fff;width:42px;height:42px;border-radius:50%;cursor:pointer;font-size:20px;z-index:2}
 .nav.prev{left:18px}.nav.next{right:18px}
 .dots{position:absolute;bottom:22px;left:0;right:0;text-align:center;font-size:12px;color:var(--muted)}
@@ -171,7 +171,7 @@ main{padding:10px 8px 30px}
 <footer>
   <p>视频与提示词版权归各原作者所有，视频直接从 X（video.twimg.com）播放，本站不存储视频文件；本站仅做整理与索引，与各模型厂商无任何关联。</p>
   <p>你是作者、希望移除自己的内容？请 <a href="https://github.com/Bin0754/gpt-image-gallery/issues/new?template=removal-request.yml" target="_blank" rel="noopener">提交移除请求</a> · 发现好作品？欢迎 <a href="https://github.com/Bin0754/gpt-image-gallery/issues/new?template=submit-prompt.yml" target="_blank" rel="noopener">推荐提示词</a></p>
-  <p>代码以 MIT 协议开源 · <a href="https://github.com/Bin0754/gpt-image-gallery" target="_blank" rel="noopener">GitHub 仓库</a> · 数据更新于 2026-11-17 10:21（北京时间）</p>
+  <p>代码以 MIT 协议开源 · <a href="https://github.com/Bin0754/gpt-image-gallery" target="_blank" rel="noopener">GitHub 仓库</a> · 数据更新于 2026-11-17 11:10（北京时间）</p>
 </footer>
 <button class="top" id="top" aria-label="回到顶部">↑</button>
 <div id="lb" role="dialog" aria-modal="true">
@@ -312,7 +312,7 @@ function ensureAll(){
   return allP;
 }
 function refresh(){ const prev=current.slice(0,shown).map(p=>p.i).join(); const list=filtered();
-  if (shown && list.slice(0,shown).map(p=>p.i).join()===prev){ current=list; stats(); status(); } else { const keep=shown; reset(); while(shown<keep && shown<current.length) more(); } }
+  if (shown && list.slice(0,shown).map(p=>p.i).join()===prev){ current=list; stats(); status(); if(shown<current.length && $('#more').getBoundingClientRect().top < innerHeight+1200) more(); } else { const keep=shown; reset(); while(shown<keep && shown<current.length) more(); } }
 async function boot(){
   lastN = ncols();
   if (M.inline){ ALL = norm(M.inline); loadedAll = true; reset(); return; }
